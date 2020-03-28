@@ -1,0 +1,4 @@
+estado	sexo	edad	fecha_inicio_sintomas	id_rt-pcr	procedencia	fecha_llegada_mx	casos_nuevos	pseudo_indice	duplicado
+Jalisco	M	56	2020-03-17	confirmado	Estados Unidos	2020-04-03	False	20200325_240	False
+Jalisco	M	31	2020-03-18	confirmado	Estados Unidos	2020-08-03	False	20200325_302	False
+Jalisco	M	58	2020-03-17	confirmado	Estados Unidos	2020-04-03	False	20200326_240	False

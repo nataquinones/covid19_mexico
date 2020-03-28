@@ -1,0 +1,4 @@
+estado	sexo	edad	fecha_inicio_sintomas	id_rt-pcr	procedencia	fecha_llegada_mx	casos_nuevos	pseudo_indice	duplicado
+Chihuahua	M	30	2020-12-03	confirmado	Alemania	2020-12-03	False	20200319_66	False
+Jalisco	F	73	2020-03-14	confirmado	Contacto		2020-03-19 00:00:00	20200319_149	False
+Chihuahua	M	29	2020-12-03	confirmado	Alemania	2020-12-03	False	20200320_67	False

@@ -1,0 +1,5 @@
+estado	sexo	edad	fecha_inicio_sintomas	id_rt-pcr	procedencia	fecha_llegada_mx	casos_nuevos	pseudo_indice	duplicado
+Ciudad de México	M	71	2020-04-03	confirmado	España	2020-03-14	False	20200322_226	False
+Ciudad de México	F	25	2020-09-03	confirmado	España	2020-03-13	False	20200322_227	False
+Ciudad de México	M	43	2020-08-03	confirmado	España	2020-04-03	False	20200322_228	False
+Ciudad de México	F	31	2020-03-03	confirmado	Alemania	2020-09-03	False	20200322_229	False
