@@ -177,7 +177,6 @@ pseudo_indice	estado	sexo	edad	fecha_inicio_sintomas	id_rt-pcr	procedencia	fecha
 20200320_160	Veracruz	F	63	2020-03-14	confirmado	España	2020-03-13	2020-03-20
 20200320_161	Nuevo León	F	29	2020-03-13	confirmado	España	2020-03-14	2020-03-20
 20200320_162	Morelos	F	54	2020-03-17	confirmado	Estados Unidos	2020-03-17	2020-03-20
-20200320_163	Jalisco	F	73	2020-03-14	confirmado	Contacto		2020-03-20
 20200320_166	Quintana Roo	M	35	2020-03-15	confirmado	Contacto	2020-03-14	2020-03-20
 20200320_167	Quintana Roo	F	30	2020-03-14	confirmado	Estados Unidos	2020-03-14	2020-03-20
 20200320_168	Nuevo León	M	28	2020-03-14	confirmado	Estados Unidos	2020-12-03	2020-03-20
