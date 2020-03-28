@@ -1,717 +1,717 @@
 pseudo_indice	estado	sexo	edad	fecha_inicio_sintomas	id_rt-pcr	procedencia	fecha_llegada_mx	fecha_caso_nuevo
-20200316_0	Ciudad de México	M	35	2020-02-22	confirmado	Italia	2020-02-22	
-20200316_1	Sinaloa	M	41	2020-02-22	confirmado	Italia	2020-02-21	
-20200316_2	Ciudad de México	M	59	2020-02-23	confirmado	Italia	2020-02-22	
-20200316_3	Coahuila	F	20	2020-02-27	confirmado	Italia	2020-02-25	
-20200316_4	Chiapas	F	18	2020-02-25	confirmado	Italia	2020-02-25	
-20200316_5	México	M	71	2020-02-21	confirmado	Italia	2020-02-21	
-20200316_6	Ciudad de México	M	46	2020-02-29	confirmado	Estados Unidos	2020-02-29	
-20200316_7	Queretaro	M	43	2020-09-03	confirmado	España	2020-06-03	
-20200316_8	Ciudad de México	M	41	2020-07-03	confirmado	Estados Unidos	2020-06-03	
-20200316_9	Ciudad de México	F	30	2020-07-03	confirmado	España	2020-06-03	
-20200316_10	México	F	64	2020-02-03	confirmado	Estados Unidos	2020-02-29	
-20200316_11	Nuevo León	M	57	2020-04-03	confirmado	Alemania	2020-03-03	
-20200316_12	México	F	55	2020-09-03	confirmado	España	2020-09-03	
-20200316_13	Durango	M	58	2020-06-03	confirmado	España	2020-02-28	
-20200316_14	Queretaro	F	65	2020-10-03	confirmado	Contacto		
-20200316_15	Queretaro	M	42	2020-05-03	confirmado	Italia	2020-05-03	
-20200316_16	Ciudad de México	M	48	2020-10-03	confirmado	España	2020-09-03	
-20200316_17	Ciudad de México	M	38	2020-10-03	confirmado	España	2020-09-03	
-20200316_18	Queretaro	F	43	2020-11-03	confirmado	Contacto		
-20200316_19	Puebla	M	31	2020-05-03	confirmado	España	2020-09-03	
-20200316_20	Ciudad de México	M	37	2020-11-03	confirmado	Italia	2020-11-03	
-20200316_21	Yucatán	F	57	2020-07-03	confirmado	España	2020-06-03	
-20200316_22	Ciudad de México	M	52	2020-08-03	confirmado	España	2020-08-03	
-20200316_23	Ciudad de México	M	64	2020-10-03	confirmado	Contacto	2020-10-03	
-20200316_24	Ciudad de México	M	68	2020-04-03	confirmado	España	2020-10-03	
-20200316_25	Quintana Roo	F	71	2020-01-03	confirmado	Italia	2020-01-03	
-20200316_26	San Luis Potosí	F	53	2020-11-03	confirmado	España	2020-10-03	
-20200316_27	Nuevo León	M	73	2020-09-03	confirmado	Estados Unidos	2020-10-03	
-20200316_28	Nuevo León	M	30	2020-09-03	confirmado	España	2020-07-03	
-20200316_29	Puebla	M	31	2020-09-03	confirmado	España	2020-08-03	
-20200316_30	Ciudad de México	F	33	2020-10-03	confirmado	Francia	2020-08-03	
-20200316_31	Jalisco	F	54	2020-10-03	confirmado	España	2020-04-03	
-20200316_32	Jalisco	F	64	2020-01-03	confirmado	Alemania	2020-09-03	
-20200316_33	México	M	61	2020-09-03	confirmado	Estados Unidos	2020-03-03	
-20200316_34	Ciudad de México	M	45	2020-07-03	confirmado	España	2020-09-03	
-20200316_35	Ciudad de México	F	62	2020-11-03	confirmado	Estados Unidos	2020-08-03	
-20200316_36	Ciudad de México	M	72	2020-09-03	confirmado	Estados Unidos	2020-07-03	
-20200316_37	Ciudad de México	M	41	2020-10-03	confirmado	España	2020-08-03	
-20200316_38	Puebla	M	30	2020-09-03	confirmado	España	2020-09-03	
-20200316_39	Ciudad de México	M	38	2020-11-03	confirmado	Contacto		
-20200316_40	Oaxaca	F	30	2020-09-03	confirmado	España	2020-09-03	
-20200316_41	Sinaloa	M	25	2020-09-03	confirmado	Estados Unidos	2020-03-13	
-20200316_42	San Luis Potosí	F	23	2020-07-03	confirmado	España	2020-10-03	
-20200316_43	Queretaro	F	54	2020-10-03	confirmado	España	2020-10-03	
-20200316_44	Oaxaca	M	61	2020-10-03	confirmado	Estados Unidos	2020-10-03	
-20200316_45	Queretaro	F	55	2020-10-03	confirmado	España	2020-10-03	
-20200316_46	Nuevo León	M	27	2020-11-03	confirmado	España	2020-03-13	
-20200316_47	Nuevo León	M	46	2020-06-03	confirmado	Estados Unidos	2020-03-03	
-20200316_48	Guerrero	M	32	2020-12-03	confirmado	Contacto		2020-03-16
-20200316_49	Durango	M	32	2020-11-03	confirmado	Alemania	2020-11-03	2020-03-16
-20200316_50	Guerrero	F	22	2020-09-03	confirmado	España	2020-12-03	2020-03-16
-20200316_51	Puebla	F	27	2020-05-03	confirmado	España	2020-09-03	
-20200316_52	Ciudad de México	F	70	2020-07-03	confirmado	Estados Unidos	2020-08-03	
-20200316_53	Ciudad de México	M	32	2020-10-03	confirmado	Contacto		2020-03-16
-20200316_54	Ciudad de México	M	59	2020-07-03	confirmado	España	2020-04-03	2020-03-16
-20200316_55	Ciudad de México	M	70	2020-09-03	confirmado	Estados Unidos	2020-08-03	2020-03-16
-20200316_56	Durango	F	38	2020-09-03	confirmado	España	2020-12-03	2020-03-16
-20200316_57	Aguascalientes	M	25	2020-03-14	confirmado	España	2020-12-03	
-20200316_58	Puebla	F	31	2020-10-03	confirmado	Contacto		
-20200316_59	Queretaro	F	45	2020-03-13	confirmado	España	2020-10-03	2020-03-16
-20200316_60	México	M	27	2020-03-13	confirmado	Contacto		2020-03-16
-20200316_61	México	F	47	2020-05-03	confirmado	Estados Unidos	2020-02-29	2020-03-16
-20200316_62	México	F	59	2020-07-03	confirmado	Francia	2020-08-03	2020-03-16
-20200316_63	Nuevo León	M	72	2020-11-03	confirmado	Estados Unidos	2020-10-03	2020-03-16
-20200316_64	Quintana Roo	F	50	2020-08-03	confirmado	España	2020-11-03	2020-03-16
-20200316_65	Quintana Roo	F	19	2020-03-13	confirmado	España	2020-11-03	2020-03-16
-20200316_66	Quintana Roo	M	44	2020-11-03	confirmado	Contacto		2020-03-16
-20200316_67	México	F	49	2020-03-13	confirmado	España	2020-03-13	2020-03-16
-20200316_68	Puebla	M	32	2020-11-03	confirmado	Estados Unidos	2020-07-03	2020-03-16
-20200316_69	Nuevo León	F	74	2020-09-03	confirmado	España	2020-12-03	2020-03-16
-20200316_70	Nuevo León	F	80	2020-09-03	confirmado	España	2020-12-03	2020-03-16
-20200316_71	Nuevo León	M	71	2020-07-03	confirmado	Estados Unidos	2020-10-03	2020-03-16
-20200316_72	Nuevo León	M	53	2020-09-03	confirmado	España	2020-10-03	2020-03-16
-20200316_73	Nuevo León	M	42	2020-02-03	confirmado	Estados Unidos	2020-02-03	2020-03-16
-20200316_74	México	M	45	2020-11-03	confirmado	Estados Unidos	2020-01-03	2020-03-16
-20200316_75	Nuevo León	M	33	2020-09-03	confirmado	Estados Unidos	2020-12-03	2020-03-16
-20200316_76	Nuevo León	F	27	2020-12-03	confirmado	Estados Unidos	2020-12-03	2020-03-16
-20200316_77	Yucatán	F	31	2020-08-03	confirmado	Francia	2020-10-03	2020-03-16
-20200316_78	Yucatán	M	21	2020-03-13	confirmado	España	2020-03-13	2020-03-16
-20200316_79	Puebla	F	27	2020-09-03	confirmado	España	2020-09-03	2020-03-16
-20200316_80	Puebla	M	31	2020-09-03	confirmado	España	2020-09-03	2020-03-16
-20200316_81	Yucatán	F	54	2020-11-03	confirmado	España	2020-08-03	2020-03-16
-20200317_63	Guanajuato	M	39	2020-12-03	confirmado	Alemania	2020-10-03	2020-03-17
-20200317_65	Chihuahua	M	30	2020-12-03	confirmado	Alemania	2020-12-03	2020-03-17
-20200317_81	Tamaulipas	M	55	2020-03-13	confirmado	Singapur	2020-11-03	2020-03-17
-20200317_85	Sonora	M	72	2020-11-03	confirmado	Estados Unidos	2020-11-03	2020-03-17
-20200317_86	Jalisco	M	49	2020-06-03	confirmado	España	2020-04-03	2020-03-17
-20200317_87	Jalisco	M	41	2020-10-03	confirmado	Estados Unidos	2020-02-29	2020-03-17
-20200317_88	Jalisco	F	56	2020-11-03	confirmado	Contacto		2020-03-17
-20200317_89	Yucatán	M	37	2020-09-03	confirmado	Estados Unidos	2020-06-03	2020-03-17
-20200317_90	Nuevo León	M	19	2020-07-03	confirmado	Contacto	2020-10-03	2020-03-17
-20200317_91	México	M	56	2020-07-03	confirmado	Estados Unidos	2020-05-03	2020-03-17
-20200317_92	Puebla	M	25	2020-10-03	confirmado	España	2020-09-03	2020-03-17
-20200318_91	Nuevo León	M	34	2020-12-03	confirmado	Estados Unidos	2020-07-03	2020-03-18
-20200318_92	Nuevo León	M	41	2020-10-03	confirmado	Estados Unidos	2020-07-03	2020-03-18
-20200318_93	Nuevo León	M	46	2020-11-03	confirmado	Estados Unidos	2020-09-03	2020-03-18
-20200318_94	Nuevo León	M	21	2020-03-14	confirmado	España	2020-03-15	2020-03-18
-20200318_95	Nuevo León	M	21	2020-03-15	confirmado	España	2020-03-13	2020-03-18
-20200318_96	Yucatán	F	21	2020-03-13	confirmado	España	2020-03-13	2020-03-18
-20200318_97	Yucatán	M	25	2020-11-03	confirmado	España	2020-03-15	2020-03-18
-20200318_98	Jalisco	F	36	2020-10-03	confirmado	Contacto		2020-03-18
-20200318_99	Ciudad de México	M	53	2020-09-03	confirmado	España	2020-09-03	2020-03-18
-20200318_100	Ciudad de México	F	53	2020-06-03	confirmado	España	2020-09-03	2020-03-18
-20200318_102	Veracruz	F	21	2020-03-03	confirmado	España	2020-12-03	2020-03-18
-20200318_103	Veracruz	M	24	2020-03-14	confirmado	España	2020-03-14	2020-03-18
-20200318_104	San Luis Potosí	M	32	2020-03-14	confirmado	España	2020-03-14	2020-03-18
-20200318_106	Yucatán	F	26	2020-08-03	confirmado	España	2020-03-14	2020-03-18
-20200318_107	Colima	M	46	2020-03-15	confirmado	Alemania	2020-03-13	2020-03-18
-20200318_108	Baja California	F	54	2020-11-03	confirmado	Estados Unidos	2020-02-03	2020-03-18
-20200318_109	Baja California	F	57	2020-03-13	confirmado	Contacto	2020-03-16	2020-03-18
-20200318_110	Tabasco	F	61	2020-03-14	confirmado	Francia	2020-03-16	2020-03-18
-20200318_111	Ciudad de México	M	28	2020-03-16	confirmado	Contacto		2020-03-18
-20200318_112	Guanajuato	F	18	2020-10-03	confirmado	Estados Unidos	2020-03-13	2020-03-18
-20200318_113	Tamaulipas	F	23	2020-03-16	confirmado	España	2020-12-03	2020-03-18
-20200318_114	Quintana Roo	M	17	2020-09-03	confirmado	Estados Unidos	2020-09-03	2020-03-18
-20200318_115	Quintana Roo	M	39	2020-03-16	confirmado	Italia	2020-01-03	2020-03-18
-20200318_116	Guanajuato	F	27	2020-03-14	confirmado	España	2020-03-14	2020-03-18
-20200318_117	Guanajuato	F	52	2020-12-03	confirmado	España	2020-03-14	2020-03-18
-20200319_91	Ciudad de México	M	41	2020-09-03	confirmado	En investigación		2020-03-19
-20200319_111	Ciudad de México	M	47	2020-12-03	confirmado	Estados Unidos	2020-12-03	2020-03-19
-20200319_112	Ciudad de México	M	43	2020-03-14	confirmado	Estados Unidos	2020-12-03	2020-03-19
-20200319_113	Hidalgo	M	39	2020-07-03	confirmado	Francia	2020-06-03	2020-03-19
-20200319_114	Sonora	M	44	2020-12-03	confirmado	Italia	2020-10-03	2020-03-19
-20200319_116	Puebla	M	64	2020-08-03	confirmado	Estados Unidos	2020-08-03	2020-03-19
-20200319_117	Sinaloa	F	25	2020-03-15	confirmado	Estados Unidos	2020-03-17	2020-03-19
-20200319_118	Hidalgo	M	43	2020-08-03	confirmado	Estados Unidos	2020-10-02	2020-03-19
-20200319_119	San Luis Potosí	M	39	2020-03-16	confirmado	España	2020-03-14	2020-03-19
-20200319_120	San Luis Potosí	M	31	2020-03-15	confirmado	Francia	2020-03-14	2020-03-19
-20200319_121	San Luis Potosí	M	44	2020-03-16	confirmado	España	2020-03-16	2020-03-19
-20200319_122	San Luis Potosí	F	63	2020-03-15	confirmado	España	2020-03-17	2020-03-19
-20200319_124	Puebla	F	24	2020-03-16	confirmado	Contacto		2020-03-19
-20200319_129	Guerrero	M	79	2020-03-15	confirmado	España	2020-03-13	2020-03-19
-20200319_132	Queretaro	M	25	2020-08-03	confirmado	España	2020-03-16	2020-03-19
-20200319_133	Yucatán	F	27	2020-03-13	confirmado	Contacto		2020-03-19
-20200319_134	Yucatán	M	51	2020-03-14	confirmado	Contacto		2020-03-19
-20200319_135	Yucatán	M	32	2020-11-03	confirmado	Estados Unidos		2020-03-19
-20200319_136	Yucatán	M	30	2020-03-16	confirmado	España	2020-11-03	2020-03-19
-20200319_137	Yucatán	M	45	2020-03-13	confirmado	Estados Unidos	2020-03-13	2020-03-19
-20200319_138	Jalisco	M	27	2020-03-13	confirmado	España	2020-03-15	2020-03-19
-20200319_139	Jalisco	F	49	2020-12-03	confirmado	España	2020-09-03	2020-03-19
-20200319_140	Jalisco	M	19	2020-03-16	confirmado	España	2020-03-13	2020-03-19
-20200319_141	Guerrero	F	38	2020-03-13	confirmado	Estados Unidos	2020-01-03	2020-03-19
-20200319_142	Ciudad de México	M	46	2020-12-03	confirmado	Estados Unidos	2020-10-03	2020-03-19
-20200319_143	Ciudad de México	M	35	2020-11-03	confirmado	Estados Unidos	2020-05-03	2020-03-19
-20200319_144	Aguascalientes	M	70	2020-03-15	confirmado	Estados Unidos	2020-03-13	2020-03-19
-20200319_145	Ciudad de México	M	59	2020-03-13	confirmado	Contacto		2020-03-19
-20200319_146	Aguascalientes	M	50	2020-03-16	confirmado	España	2020-03-17	2020-03-19
-20200319_147	Queretaro	M	34	2020-03-15	confirmado	Francia	2020-03-15	2020-03-19
-20200319_148	Jalisco	F	73	2020-03-14	confirmado	Contacto		2020-03-19
-20200319_149	Jalisco	M	52	2020-03-14	confirmado	Estados Unidos	2020-03-14	2020-03-19
-20200319_150	Jalisco	M	50	2020-04-03	confirmado	Estados Unidos	2020-07-03	2020-03-19
-20200319_151	Aguascalientes	M	42	2020-10-03	confirmado	España	2020-11-03	2020-03-19
-20200319_152	Jalisco	F	19	2020-11-03	confirmado	Estados Unidos	2020-07-03	2020-03-19
-20200319_153	Jalisco	F	29	2020-03-14	confirmado	Estados Unidos	2020-07-03	2020-03-19
-20200319_154	Jalisco	M	41	2020-08-03	confirmado	Estados Unidos		2020-03-19
-20200319_155	Jalisco	M	54	2020-07-03	confirmado	Estados Unidos		2020-03-19
-20200319_156	Jalisco	F	62	2020-09-03	confirmado	Estados Unidos		2020-03-19
-20200319_157	Jalisco	M	42	2020-12-03	confirmado	Estados Unidos		2020-03-19
-20200319_158	Jalisco	M	49	2020-03-13	confirmado	Estados Unidos		2020-03-19
-20200319_159	Jalisco	M	29	2020-08-03	confirmado	Estados Unidos		2020-03-19
-20200319_160	Jalisco	M	19	2020-03-14	confirmado	España		2020-03-19
-20200319_161	Jalisco	M	63	2020-03-14	confirmado	Estados Unidos		2020-03-19
-20200319_162	Chiapas	M	47	2020-03-14	confirmado	Alemania		2020-03-19
-20200319_163	Ciudad de México	F	38	2020-03-14	confirmado	Contacto		2020-03-19
-20200320_132	Quintana Roo	M	42	2020-03-14	confirmado	España	2020-03-13	2020-03-20
-20200320_134	México	F	52	2020-10-03	confirmado	España	2020-12-03	2020-03-20
-20200320_137	Baja California	M	72	2020-09-03	confirmado	Estados Unidos	2020-10-03	2020-03-20
-20200320_141	Quintana Roo	M	45	2020-03-15	confirmado	Contacto	2020-03-15	2020-03-20
-20200320_142	Jalisco	M	54	2020-03-13	confirmado	Contacto		2020-03-20
-20200320_144	Quintana Roo	F	22	2020-03-16	confirmado	España	2020-03-16	2020-03-20
-20200320_153	Veracruz	F	64	2020-03-18	confirmado	España	2020-03-15	2020-03-20
-20200320_154	Nuevo León	M	35	2020-09-03	confirmado	Estados Unidos	2020-09-03	2020-03-20
-20200320_155	Nuevo León	M	42	2020-03-16	confirmado	Contacto		2020-03-20
-20200320_156	Durango	M	74	2020-03-15	confirmado	Estados Unidos	2020-03-03	2020-03-20
-20200320_157	Morelos	M	37	2020-03-14	confirmado	Estados Unidos	2020-07-03	2020-03-20
-20200320_159	Veracruz	F	63	2020-03-14	confirmado	España	2020-03-13	2020-03-20
-20200320_160	Nuevo León	F	29	2020-03-13	confirmado	España	2020-03-14	2020-03-20
-20200320_161	Morelos	F	54	2020-03-17	confirmado	Estados Unidos	2020-03-17	2020-03-20
-20200320_162	Jalisco	F	73	2020-03-14	confirmado	Contacto		2020-03-20
-20200320_165	Quintana Roo	M	35	2020-03-15	confirmado	Contacto	2020-03-14	2020-03-20
-20200320_166	Quintana Roo	F	30	2020-03-14	confirmado	Estados Unidos	2020-03-14	2020-03-20
-20200320_167	Nuevo León	M	28	2020-03-14	confirmado	Estados Unidos	2020-12-03	2020-03-20
-20200320_169	Nuevo León	F	48	2020-11-03	confirmado	España	2020-03-13	2020-03-20
-20200320_180	Jalisco	M	44	2020-11-03	confirmado	Italia	2020-11-03	2020-03-20
-20200320_181	Puebla	F	32	2020-03-15	confirmado	España	2020-03-15	2020-03-20
-20200320_183	Queretaro	M	51	2020-03-16	confirmado	Estados Unidos	2020-03-15	2020-03-20
-20200320_184	México	F	33	2020-03-15	confirmado	España	2020-05-03	2020-03-20
-20200320_185	México	M	31	2020-03-03	confirmado	España	2020-01-03	2020-03-20
-20200320_186	Baja California	M	62	2020-03-17	confirmado	Contacto		2020-03-20
-20200320_187	Queretaro	M	34	2020-03-18	confirmado	Francia	2020-03-16	2020-03-20
-20200320_189	México	M	55	2020-11-03	confirmado	Contacto		2020-03-20
-20200320_190	Nuevo León	M	53	2020-03-17	confirmado	Contacto		2020-03-20
-20200320_191	Nuevo León	M	58	2020-03-15	confirmado	España	2020-03-14	2020-03-20
-20200320_192	Nuevo León	M	61	2020-03-15	confirmado	España	2020-03-14	2020-03-20
-20200320_193	Nuevo León	F	59	2020-03-17	confirmado	Contacto		2020-03-20
-20200320_194	Tabasco	M	46	2020-09-03	confirmado	Estados Unidos	2020-11-03	2020-03-20
-20200320_195	Jalisco	F	75	2020-08-03	confirmado	Estados Unidos	2020-03-14	2020-03-20
-20200320_196	Jalisco	M	80	2020-03-14	confirmado	Estados Unidos	2020-03-14	2020-03-20
-20200320_197	Nuevo León	F	31	2020-10-03	confirmado	Contacto	2020-10-03	2020-03-20
-20200320_198	Puebla	M	21	2020-03-17	confirmado	España	2020-03-15	2020-03-20
-20200320_199	Puebla	M	56	2020-03-14	confirmado	Estados Unidos	2020-07-03	2020-03-20
-20200320_200	Chihuahua	F	18	2020-03-15	confirmado	Estados Unidos	2020-03-14	2020-03-20
-20200320_201	Jalisco	M	77	2020-03-13	confirmado	Contacto		2020-03-20
-20200320_202	Jalisco	M	20	2020-03-17	confirmado	Contacto		2020-03-20
-20200321_198	Ciudad de México	M	38	2020-10-03	confirmado	Estados Unidos	2020-07-03	2020-03-21
-20200321_199	Ciudad de México	F	35	2020-09-03	confirmado	Contacto		2020-03-21
-20200321_200	Ciudad de México	M	61	2020-03-16	confirmado	España	2020-11-03	2020-03-21
-20200321_201	Ciudad de México	F	37	2020-03-14	confirmado	Contacto		2020-03-21
-20200321_202	Ciudad de México	M	43	2020-03-13	confirmado	Contacto		2020-03-21
-20200321_203	Baja California	M	26	2020-03-15	confirmado	Francia	2020-03-13	2020-03-21
-20200321_204	Hidalgo	F	57	2020-03-14	confirmado	España	2020-03-16	2020-03-21
-20200321_206	Baja California	F	34	2020-11-03	confirmado	Estados Unidos	2020-08-03	2020-03-21
-20200321_207	Ciudad de México	M	0	2020-03-16	confirmado	Contacto		2020-03-21
-20200321_209	Nayarit	F	48	2020-03-17	confirmado	España	2020-03-17	2020-03-21
-20200321_210	Puebla	M	24	2020-03-14	confirmado	Estados Unidos	2020-07-03	2020-03-21
-20200321_212	Baja California	M	39	2020-03-17	confirmado	Contacto		2020-03-21
-20200321_213	Queretaro	F	29	2020-10-03	confirmado	Estados Unidos	2020-01-03	2020-03-21
-20200321_215	Tabasco	M	33	2020-03-14	confirmado	España	2020-03-18	2020-03-21
-20200321_217	Zacatecas	M	38	2020-08-03	confirmado	Contacto		2020-03-21
-20200321_218	Queretaro	M	29	2020-03-18	confirmado	España	2020-03-16	2020-03-21
-20200321_219	Ciudad de México	M	33	2020-11-03	confirmado	Contacto		2020-03-21
-20200321_220	Nuevo León	M	32	2020-03-15	confirmado	Estados Unidos	2020-03-16	2020-03-21
-20200321_221	Nuevo León	F	27	2020-03-18	confirmado	Estados Unidos	2020-03-14	2020-03-21
-20200321_222	Nuevo León	M	35	2020-03-17	confirmado	Estados Unidos	2020-03-15	2020-03-21
-20200321_223	Puebla	F	30	2020-03-16	confirmado	Estados Unidos	2020-03-15	2020-03-21
-20200321_224	Ciudad de México	M	27	2020-03-15	confirmado	Francia	2020-03-15	2020-03-21
-20200321_225	Veracruz	M	31	2020-03-16	confirmado	España	2020-03-13	2020-03-21
-20200321_226	Queretaro	M	29	2020-03-16	confirmado	Contacto		2020-03-21
-20200321_227	Durango	F	68	2020-03-18	confirmado	Contacto		2020-03-21
-20200321_228	Baja California	F	26	2020-03-13	confirmado	Estados Unidos	2020-03-16	2020-03-21
-20200321_229	San Luis Potosí	F	20	2020-09-03	confirmado	España	2020-03-17	2020-03-21
-20200321_230	Ciudad de México	F	54	2020-03-15	confirmado	Contacto		2020-03-21
-20200321_231	Jalisco	M	56	2020-03-17	confirmado	Estados Unidos	2020-04-03	2020-03-21
-20200321_232	Veracruz	F	35	2020-03-14	confirmado	Estados Unidos	2020-03-13	2020-03-21
-20200321_233	Jalisco	M	53	2020-03-17	confirmado	Contacto		2020-03-21
-20200321_234	Veracruz	M	27	2020-03-17	confirmado	Contacto	2020-03-16	2020-03-21
-20200321_235	Quintana Roo	M	51	2020-11-03	confirmado	España	2020-03-16	2020-03-21
-20200321_236	Tamaulipas	F	33	2020-03-16	confirmado	Francia	2020-07-03	2020-03-21
-20200321_237	San Luis Potosí	M	46	2020-12-03	confirmado	Estados Unidos	2020-12-03	2020-03-21
-20200321_238	Ciudad de México	F	35	2020-03-16	confirmado	Estados Unidos	2020-09-03	2020-03-21
-20200321_239	Tabasco	F	37	2020-10-03	confirmado	Estados Unidos	2020-11-03	2020-03-21
-20200321_240	Jalisco	M	58	2020-03-17	confirmado	Contacto		2020-03-21
-20200321_241	Baja California Sur	M	48	2020-03-16	confirmado	Estados Unidos	2020-03-14	2020-03-21
-20200321_242	Coahuila	F	41	2020-03-18	confirmado	España	2020-03-14	2020-03-21
-20200321_243	Ciudad de México	F	48	2020-03-13	confirmado	Contacto		2020-03-21
-20200321_244	Coahuila	M	29	2020-03-17	confirmado	Estados Unidos	2020-03-15	2020-03-21
-20200321_245	Ciudad de México	M	25	2020-03-13	confirmado	Contacto		2020-03-21
-20200321_246	Ciudad de México	M	37	2020-03-16	confirmado	España	2020-03-16	2020-03-21
-20200321_247	Yucatán	F	40	2020-03-15	confirmado	Contacto		2020-03-21
-20200321_248	Ciudad de México	M	36	2020-03-14	confirmado	Contacto		2020-03-21
-20200321_249	Jalisco	F	38	2020-03-15	confirmado	Estados Unidos	2020-03-16	2020-03-21
-20200321_250	Colima	F	34	2020-12-03	confirmado	Estados Unidos	2020-11-03	2020-03-21
-20200322_236	Baja California	M	35	2020-03-18	confirmado	Estados Unidos	2020-03-16	2020-03-22
-20200322_243	Ciudad de México	M	42	2020-06-03	confirmado	Contacto		2020-03-22
-20200322_245	Jalisco	M	29	2020-03-17	confirmado	Singapur	2020-09-03	2020-03-22
-20200322_247	Ciudad de México	M	47	2020-03-14	confirmado	España	2020-03-16	2020-03-22
-20200322_248	Ciudad de México	M	34	2020-03-14	confirmado	Francia	2020-12-03	2020-03-22
-20200322_249	Jalisco	M	0	2020-09-03	confirmado	España	2020-12-03	2020-03-22
-20200322_250	Ciudad de México	F	40	2020-03-18	confirmado	Contacto		2020-03-22
-20200322_254	Chihuahua	M	47	2020-03-18	confirmado	Estados Unidos	2020-03-13	2020-03-22
-20200322_256	Ciudad de México	M	35	2020-08-03	confirmado	España	2020-08-03	2020-03-22
-20200322_258	Ciudad de México	M	52	2020-11-03	confirmado	Contacto		2020-03-22
-20200322_260	Michoacán	M	36	2020-09-03	confirmado	España	2020-03-15	2020-03-22
-20200322_261	Sinaloa	M	55	2020-03-17	confirmado	Contacto		2020-03-22
-20200322_262	Baja California	M	27	2020-03-13	confirmado	Francia	2020-03-13	2020-03-22
-20200322_263	Chihuahua	F	19	2020-03-13	confirmado	España	2020-03-14	2020-03-22
-20200322_265	Chihuahua	F	21	2020-03-16	confirmado	España	2020-03-14	2020-03-22
-20200322_266	Ciudad de México	M	51	2020-03-17	confirmado	Contacto	2020-08-03	2020-03-22
-20200322_269	Hidalgo	F	55	2020-12-03	confirmado	Contacto		2020-03-22
-20200322_270	San Luis Potosí	F	27	2020-03-17	confirmado	Estados Unidos	2020-03-18	2020-03-22
-20200322_272	San Luis Potosí	M	21	2020-03-19	confirmado	Contacto	2020-03-18	2020-03-22
-20200322_273	San Luis Potosí	M	34	2020-03-18	confirmado	Francia	2020-05-03	2020-03-22
-20200322_274	Campeche	M	52	2020-12-03	confirmado	España	2020-03-18	2020-03-22
-20200322_275	Hidalgo	F	26	2020-03-18	confirmado	Francia	2020-03-17	2020-03-22
-20200322_276	Tabasco	F	71	2020-03-17	confirmado	España	2020-03-17	2020-03-22
-20200322_277	Yucatán	F	17	2020-10-03	confirmado	Estados Unidos	2020-08-03	2020-03-22
-20200322_278	Yucatán	F	19	2020-10-03	confirmado	Estados Unidos	2020-08-03	2020-03-22
-20200322_279	Yucatán	M	39	2020-03-14	confirmado	Estados Unidos	2020-03-14	2020-03-22
-20200322_280	Sonora	M	30	2020-03-18	confirmado	Francia	2020-03-13	2020-03-22
-20200322_281	Michoacán	F	57	2020-03-15	confirmado	Contacto	2020-03-15	2020-03-22
-20200322_282	Michoacán	M	57	2020-03-18	confirmado	Contacto	2020-03-15	2020-03-22
-20200322_283	Yucatán	M	0	2020-03-17	confirmado	Contacto		2020-03-22
-20200322_284	Baja California	F	49	2020-12-03	confirmado	Contacto		2020-03-22
-20200322_285	Zacatecas	M	39	2020-03-19	confirmado	Contacto	2020-03-19	2020-03-22
-20200322_287	México	M	44	2020-02-19	confirmado	Italia	2020-02-22	2020-03-22
-20200322_288	México	F	52	2020-10-03	confirmado	España	2020-12-03	2020-03-22
-20200322_289	Coahuila	M	43	2020-03-16	confirmado	Estados Unidos	2020-03-13	2020-03-22
-20200322_290	México	M	31	2020-03-13	confirmado	Estados Unidos	2020-07-03	2020-03-22
-20200322_291	Tamaulipas	F	21	2020-03-16	confirmado	España	2020-12-03	2020-03-22
-20200322_292	Jalisco	M	25	2020-03-13	confirmado	Estados Unidos	2020-06-03	2020-03-22
-20200322_293	Jalisco	M	40	2020-10-03	confirmado	Estados Unidos	2020-07-03	2020-03-22
-20200322_294	Jalisco	M	31	2020-03-18	confirmado	Estados Unidos	2020-08-03	2020-03-22
-20200322_295	Jalisco	F	38	2020-11-03	confirmado	Estados Unidos	2020-07-03	2020-03-22
-20200322_296	Jalisco	M	32	2020-03-13	confirmado	Estados Unidos	2020-02-03	2020-03-22
-20200322_297	Jalisco	M	30	2020-03-18	confirmado	Estados Unidos	2020-09-03	2020-03-22
-20200322_298	Coahuila	M	42	2020-03-18	confirmado	Estados Unidos	2020-11-03	2020-03-22
-20200322_299	Coahuila	M	11	2020-03-18	confirmado	Estados Unidos	2020-11-03	2020-03-22
-20200322_300	Coahuila	M	42	2020-03-18	confirmado	Estados Unidos		2020-03-22
-20200322_301	México	M	46	2020-03-18	confirmado	Contacto		2020-03-22
-20200322_302	México	M	62	2020-03-16	confirmado	España	2020-03-19	2020-03-22
-20200322_303	Jalisco	M	24	2020-03-17	confirmado	Contacto	2020-03-15	2020-03-22
-20200322_304	Yucatán	F	42	2020-03-18	confirmado	Francia	2020-03-18	2020-03-22
-20200322_305	Nuevo León	M	60	2020-03-14	confirmado	España	2020-03-13	2020-03-22
-20200322_306	Oaxaca	M	22	2020-03-16	confirmado	Contacto		2020-03-22
-20200322_307	Nuevo León	M	57	2020-03-13	confirmado	Estados Unidos	2020-12-03	2020-03-22
-20200322_308	Nuevo León	M	22	2020-03-14	confirmado	Estados Unidos	2020-03-13	2020-03-22
-20200322_309	Coahuila	M	76	2020-03-20	confirmado	España	2020-03-14	2020-03-22
-20200322_310	Coahuila	M	42	2020-03-20	confirmado	España	2020-03-14	2020-03-22
-20200322_311	Coahuila	F	42	2020-03-20	confirmado	España	2020-03-14	2020-03-22
-20200322_312	Sonora	M	22	2020-11-03	confirmado	España	2020-03-17	2020-03-22
-20200322_313	México	M	24	2020-03-20	confirmado	Italia	2020-03-14	2020-03-22
-20200322_314	México	F	29	2020-03-20	confirmado	España	2020-03-15	2020-03-22
-20200322_315	México	F	29	2020-12-03	confirmado	Estados Unidos	2020-02-27	2020-03-22
-20200323_125	Ciudad de México	M	35	2020-10-03	confirmado	Estados Unidos	2020-10-03	2020-03-23
-20200323_181	Jalisco	F	35	2020-11-03	confirmado	Italia	2020-03-14	2020-03-23
-20200323_218	Aguascalientes	M	44	2020-03-17	confirmado	España	2020-03-17	2020-03-23
-20200323_294	Guanajuato	M	34	2020-03-16	confirmado	Estados Unidos	2020-03-17	2020-03-23
-20200323_295	Guanajuato	F	58	2020-03-16	confirmado	Francia	2020-03-17	2020-03-23
-20200323_296	Guanajuato	M	43	2020-03-18	confirmado	Estados Unidos	2020-03-18	2020-03-23
-20200323_306	Coahuila	M	53	2020-03-17	confirmado	Estados Unidos	2020-11-03	2020-03-23
-20200323_312	Coahuila	F	30	2020-03-13	confirmado	Estados Unidos	2020-03-18	2020-03-23
-20200323_313	Hidalgo	F	40	2020-03-19	confirmado	Contacto	2020-03-13	2020-03-23
-20200323_321	Hidalgo	F	19	2020-03-20	confirmado	Contacto		2020-03-23
-20200323_323	Baja California Sur	F	33	2020-03-16	confirmado	Contacto	2020-07-03	2020-03-23
-20200323_324	Queretaro	M	37	2020-03-16	confirmado	Contacto		2020-03-23
-20200323_325	Jalisco	M	55	2020-03-13	confirmado	Contacto		2020-03-23
-20200323_329	Queretaro	F	30	2020-03-21	confirmado	España	2020-03-15	2020-03-23
-20200323_330	Campeche	F	59	2020-06-03	confirmado	España	2020-03-15	2020-03-23
-20200323_331	Quintana Roo	M	65	2020-03-18	confirmado	España	2020-03-15	2020-03-23
-20200323_332	Jalisco	M	28	2020-03-16	confirmado	Estados Unidos	2020-06-03	2020-03-23
-20200323_333	Baja California	M	30	2020-03-19	confirmado	Estados Unidos	2020-09-03	2020-03-23
-20200323_334	Zacatecas	M	28	2020-03-18	confirmado	España	2020-03-15	2020-03-23
-20200323_335	Tabasco	M	30	2020-03-13	confirmado	Estados Unidos	2020-11-03	2020-03-23
-20200323_336	Quintana Roo	M	60	2020-03-17	confirmado	España	2020-03-15	2020-03-23
-20200323_337	Quintana Roo	M	46	2020-03-15	confirmado	Contacto		2020-03-23
-20200323_338	Aguascalientes	M	18	2020-03-19	confirmado	España	2020-03-16	2020-03-23
-20200323_339	Quintana Roo	F	12	2020-03-15	confirmado	Contacto		2020-03-23
-20200323_340	Quintana Roo	F	52	2020-03-17	confirmado	España	2020-03-15	2020-03-23
-20200323_341	Jalisco	F	24	2020-03-14	confirmado	Contacto		2020-03-23
-20200323_342	Jalisco	M	19	2020-03-16	confirmado	España	2020-03-16	2020-03-23
-20200323_343	Michoacán	F	48	2020-03-15	confirmado	Contacto	2020-03-15	2020-03-23
-20200323_344	Michoacán	M	58	2020-03-15	confirmado	Contacto	2020-03-15	2020-03-23
-20200323_345	Quintana Roo	M	44	2020-03-14	confirmado	Contacto		2020-03-23
-20200323_346	San Luis Potosí	M	37	2020-03-19	confirmado	Estados Unidos	2020-03-17	2020-03-23
-20200323_347	San Luis Potosí	F	32	2020-03-18	confirmado	Estados Unidos	2020-03-17	2020-03-23
-20200323_348	San Luis Potosí	M	38	2020-03-18	confirmado	Estados Unidos	2020-03-17	2020-03-23
-20200323_349	Michoacán	F	50	2020-03-15	confirmado	Contacto	2020-03-15	2020-03-23
-20200323_350	Michoacán	M	56	2020-03-15	confirmado	Contacto	2020-03-15	2020-03-23
-20200323_351	San Luis Potosí	M	70	2020-03-15	confirmado	Contacto		2020-03-23
-20200323_352	Baja California	M	51	2020-03-21	confirmado	Contacto		2020-03-23
-20200323_353	Guerrero	F	36	2020-03-17	confirmado	Contacto		2020-03-23
-20200323_354	Quintana Roo	F	21	2020-03-18	confirmado	Contacto	2020-03-18	2020-03-23
-20200323_355	Quintana Roo	F	19	2020-11-03	confirmado	Estados Unidos	2020-09-03	2020-03-23
-20200323_356	Quintana Roo	M	48	2020-03-19	confirmado	Contacto	2020-03-13	2020-03-23
-20200323_357	Tamaulipas	M	29	2020-03-20	confirmado	Contacto		2020-03-23
-20200323_358	Oaxaca	F	34	2020-03-20	confirmado	Francia	2020-03-17	2020-03-23
-20200323_359	Nuevo León	F	30	2020-03-17	confirmado	Contacto		2020-03-23
-20200323_360	Nuevo León	M	55	2020-03-18	confirmado	Contacto		2020-03-23
-20200323_361	Nuevo León	M	32	2020-03-15	confirmado	Contacto		2020-03-23
-20200323_362	Nuevo León	M	35	2020-03-17	confirmado	Estados Unidos	2020-03-15	2020-03-23
-20200323_363	Nuevo León	M	39	2020-03-14	confirmado	Contacto	2020-03-13	2020-03-23
-20200323_364	Ciudad de México	M	77	2020-03-16	confirmado	Contacto		2020-03-23
-20200323_365	Ciudad de México	F	45	2020-03-20	confirmado	Contacto		2020-03-23
-20200323_366	Ciudad de México	M	52	2020-03-19	confirmado	Contacto		2020-03-23
-20200324_332	Puebla	M	29	2020-03-13	confirmado	Contacto		2020-03-24
-20200324_333	Puebla	M	33	2020-03-13	confirmado	Estados Unidos	2020-12-03	2020-03-24
-20200324_335	Puebla	F	49	2020-03-14	confirmado	España	2020-04-03	2020-03-24
-20200324_338	Ciudad de México	M	60	2020-03-18	confirmado	Contacto		2020-03-24
-20200324_339	Ciudad de México	M	38	2020-03-13	confirmado	Contacto		2020-03-24
-20200324_340	Ciudad de México	M	37	2020-03-15	confirmado	Contacto	2020-03-16	2020-03-24
-20200324_341	Puebla	F	28	2020-03-15	confirmado	Estados Unidos	2020-03-17	2020-03-24
-20200324_348	Quintana Roo	M	16	2020-03-13	confirmado	Contacto		2020-03-24
-20200324_360	Guanajuato	F	20	2020-03-15	confirmado	España	2020-03-16	2020-03-24
-20200324_361	Guanajuato	F	32	2020-03-16	confirmado	España	2020-03-16	2020-03-24
-20200324_362	Puebla	F	39	2020-03-18	confirmado	Estados Unidos	2020-03-13	2020-03-24
-20200324_363	Nuevo León	F	63	2020-03-13	confirmado	Francia	2020-03-14	2020-03-24
-20200324_378	Nuevo León	M	37	2020-03-17	confirmado	España	2020-03-18	2020-03-24
-20200324_380	Nuevo León	M	40	2020-11-03	confirmado	Estados Unidos	2020-09-03	2020-03-24
-20200324_381	Nuevo León	F	66	2020-03-19	confirmado	Contacto		2020-03-24
-20200324_382	Nuevo León	M	20	2020-03-15	confirmado	Estados Unidos	2020-03-14	2020-03-24
-20200324_383	Nuevo León	M	21	2020-03-14	confirmado	España	2020-03-15	2020-03-24
-20200324_384	Nuevo León	F	24	2020-03-17	confirmado	Estados Unidos	2020-03-16	2020-03-24
-20200324_385	Nuevo León	M	42	2020-03-13	confirmado	Estados Unidos	2020-10-03	2020-03-24
-20200324_386	Yucatán	M	63	2020-08-03	confirmado	Contacto		2020-03-24
-20200324_387	Nuevo León	F	27	2020-03-20	confirmado	Estados Unidos	2020-03-18	2020-03-24
-20200324_388	Nuevo León	M	28	2020-03-14	confirmado	Estados Unidos	2020-03-15	2020-03-24
-20200324_389	Nuevo León	M	30	2020-03-15	confirmado	Estados Unidos	2020-09-03	2020-03-24
-20200324_390	Puebla	F	76	2020-03-17	confirmado	Estados Unidos	2020-03-20	2020-03-24
-20200324_391	Ciudad de México	F	61	2020-03-16	confirmado	Italia	2020-12-03	2020-03-24
-20200324_392	Nuevo León	F	27	2020-09-03	confirmado	Italia	2020-07-03	2020-03-24
-20200324_393	Yucatán	M	38	2020-08-03	confirmado	España	2020-04-03	2020-03-24
-20200324_394	Guerrero	F	74	2020-08-03	confirmado	España	2020-04-03	2020-03-24
-20200324_395	Guanajuato	F	56	2020-03-16	confirmado	Francia	2020-03-17	2020-03-24
-20200324_396	Guanajuato	F	53	2020-03-16	confirmado	Francia	2020-03-17	2020-03-24
-20200324_397	Guanajuato	F	48	2020-03-21	confirmado	Francia	2020-03-17	2020-03-24
-20200324_398	Michoacán	M	49	2020-03-15	confirmado	España	2020-03-15	2020-03-24
-20200324_399	Yucatán	M	28	2020-03-19	confirmado	Francia	2020-03-15	2020-03-24
-20200324_400	Yucatán	F	30	2020-03-19	confirmado	Francia	2020-03-18	2020-03-24
-20200324_401	Yucatán	F	40	2020-03-14	confirmado	Contacto		2020-03-24
-20200324_402	Ciudad de México	M	38	2020-10-03	confirmado	Contacto		2020-03-24
-20200324_403	Ciudad de México	M	64	2020-03-15	confirmado	Francia	2020-11-03	2020-03-24
-20200324_404	Chihuahua	F	18	2020-03-21	confirmado	España	2020-03-18	2020-03-24
-20200325_125	Chiapas	M	63	2020-03-23	confirmado	Estados Unidos	2020-11-03	2020-03-25
-20200325_396	Puebla	M	51	2020-03-13	confirmado	Contacto		2020-03-25
-20200325_397	Puebla	F	66	2020-03-15	confirmado	España	2020-09-03	2020-03-25
-20200325_398	Puebla	M	28	2020-03-16	confirmado	Estados Unidos	2020-03-15	2020-03-25
-20200325_399	Ciudad de México	F	47	2020-03-18	confirmado	Contacto		2020-03-25
-20200325_400	Puebla	M	73	2020-03-16	confirmado	España	2020-03-15	2020-03-25
-20200325_401	Aguascalientes	F	40	2020-03-18	confirmado	Contacto	2020-03-15	2020-03-25
-20200325_402	Ciudad de México	M	76	2020-10-03	confirmado	Francia	2020-11-03	2020-03-25
-20200325_406	Aguascalientes	F	47	2020-12-03	confirmado	Contacto	2020-08-03	2020-03-25
-20200325_407	Ciudad de México	M	46	2020-03-17	confirmado	Estados Unidos	2020-02-03	2020-03-25
-20200325_409	Ciudad de México	M	10	2020-03-13	confirmado	Contacto		2020-03-25
-20200325_410	Ciudad de México	F	88	2020-03-20	confirmado	Contacto		2020-03-25
-20200325_414	Ciudad de México	F	79	2020-03-18	confirmado	Contacto		2020-03-25
-20200325_415	Aguascalientes	M	47	2020-03-18	confirmado	Contacto		2020-03-25
-20200325_417	Puebla	F	23	2020-11-03	confirmado	España	2020-03-15	2020-03-25
-20200325_419	Ciudad de México	M	76	2020-03-21	confirmado	Contacto	2020-03-21	2020-03-25
-20200325_421	Nayarit	F	66	2020-03-19	confirmado	Estados Unidos	2020-12-03	2020-03-25
-20200325_422	México	M	67	2020-03-13	confirmado	Contacto		2020-03-25
-20200325_423	Puebla	F	69	2020-03-17	confirmado	Contacto		2020-03-25
-20200325_424	México	F	62	2020-03-13	confirmado	Contacto		2020-03-25
-20200325_425	Puebla	M	72	2020-03-16	confirmado	Contacto		2020-03-25
-20200325_426	Puebla	F	38	2020-03-18	confirmado	Estados Unidos	2020-03-18	2020-03-25
-20200325_427	Oaxaca	F	62	2020-03-20	confirmado	Contacto	2020-03-21	2020-03-25
-20200325_428	Oaxaca	F	21	2020-03-19	confirmado	Contacto		2020-03-25
-20200325_429	Guerrero	F	82	2020-03-23	confirmado	España	2020-03-13	2020-03-25
-20200325_430	Puebla	F	48	2020-03-19	confirmado	Contacto		2020-03-25
-20200325_431	Puebla	M	31	2020-03-13	confirmado	España	2020-03-15	2020-03-25
-20200325_432	Puebla	M	26	2020-12-03	confirmado	Contacto		2020-03-25
-20200325_433	Yucatán	M	51	2020-03-18	confirmado	España	2020-03-16	2020-03-25
-20200325_434	Yucatán	F	60	2020-10-03	confirmado	Francia	2020-03-19	2020-03-25
-20200325_435	Puebla	M	24	2020-03-20	confirmado	Contacto		2020-03-25
-20200325_436	Guanajuato	F	56	2020-03-16	confirmado	Francia	2020-03-17	2020-03-25
-20200325_437	Guanajuato	F	22	2020-03-17	confirmado	España	2020-03-16	2020-03-25
-20200325_438	Guanajuato	M	65	2020-03-20	confirmado	España	2020-03-14	2020-03-25
-20200325_439	Guanajuato	F	47	2020-03-16	confirmado	Francia	2020-03-17	2020-03-25
-20200325_440	Guanajuato	M	29	2020-03-16	confirmado	España	2020-03-16	2020-03-25
-20200325_441	Guanajuato	F	41	2020-03-18	confirmado	España	2020-03-16	2020-03-25
-20200325_442	Guanajuato	M	24	2020-03-15	confirmado	Estados Unidos	2020-03-19	2020-03-25
-20200325_443	Ciudad de México	F	60	2020-03-14	confirmado	Contacto		2020-03-25
-20200325_444	Ciudad de México	M	28	2020-02-03	confirmado	Estados Unidos	2020-03-15	2020-03-25
-20200325_445	Ciudad de México	F	53	2020-10-03	confirmado	Francia	2020-03-18	2020-03-25
-20200325_446	Ciudad de México	M	47	2020-03-17	confirmado	España	2020-03-14	2020-03-25
-20200325_447	Ciudad de México	M	20	2020-03-16	confirmado	Contacto	2020-03-16	2020-03-25
-20200325_448	Michoacán	F	49	2020-03-16	confirmado	España	2020-03-15	2020-03-25
-20200325_449	Ciudad de México	F	29	2020-03-16	confirmado	Estados Unidos	2020-09-03	2020-03-25
-20200325_450	Tamaulipas	M	75	2020-03-22	confirmado	Contacto		2020-03-25
-20200325_451	Baja California Sur	M	40	2020-03-21	confirmado	Contacto		2020-03-25
-20200325_452	Baja California Sur	F	31	2020-03-21	confirmado	Contacto		2020-03-25
-20200325_453	México	M	45	2020-03-16	confirmado	Estados Unidos	2020-03-03	2020-03-25
-20200325_454	Chiapas	M	45	2020-03-13	confirmado	Contacto		2020-03-25
-20200325_455	Tlaxcala	F	19	2020-03-16	confirmado	Estados Unidos	2020-03-21	2020-03-25
-20200325_456	Ciudad de México	F	65	2020-03-16	confirmado	España	2020-03-14	2020-03-25
-20200325_457	Ciudad de México	F	34	2020-03-19	confirmado	Contacto		2020-03-25
-20200325_458	Aguascalientes	M	53	2020-03-23	confirmado	España	2020-03-23	2020-03-25
-20200325_459	Baja California	F	50	2020-03-18	confirmado	Contacto		2020-03-25
-20200325_460	Baja California Sur	M	46	2020-03-21	confirmado	Estados Unidos	2020-03-20	2020-03-25
-20200325_461	Aguascalientes	F	59	2020-03-23	confirmado	Contacto		2020-03-25
-20200325_462	Ciudad de México	M	58	2020-12-03	confirmado	Contacto		2020-03-25
-20200325_463	Aguascalientes	M	60	2020-03-20	confirmado	Francia	2020-12-03	2020-03-25
-20200325_464	Yucatán	M	30	2020-03-18	confirmado	Estados Unidos	2020-03-14	2020-03-25
-20200325_465	Oaxaca	F	16	2020-03-23	confirmado	Contacto	2020-03-23	2020-03-25
-20200325_466	Yucatán	F	42	2020-03-22	confirmado	Estados Unidos	2020-03-14	2020-03-25
-20200325_467	Queretaro	M	21	2020-03-22	confirmado	España	2020-03-13	2020-03-25
-20200325_468	México	M	69	2020-03-18	confirmado	España	2020-03-15	2020-03-25
-20200325_469	Queretaro	F	46	2020-03-20	confirmado	Francia	2020-06-03	2020-03-25
-20200325_470	San Luis Potosí	F	33	2020-03-22	confirmado	España	2020-03-14	2020-03-25
-20200325_471	Nayarit	M	53	2020-03-21	confirmado	Contacto	2020-03-24	2020-03-25
-20200325_472	Nayarit	M	53	2020-03-24	confirmado	Contacto	2020-03-24	2020-03-25
-20200325_473	Michoacán	F	62	2020-03-15	confirmado	Contacto	2020-03-15	2020-03-25
-20200325_474	Yucatán	M	53	2020-03-19	confirmado	Contacto	2020-12-03	2020-03-25
-20200326_427	Oaxaca	M	56	2020-03-20	confirmado	Contacto		2020-03-26
-20200326_442	Tabasco	F	57	2020-03-18	confirmado	España	2020-03-18	2020-03-26
-20200326_443	Hidalgo	F	16	2020-03-20	confirmado	Contacto		2020-03-26
-20200326_444	Hidalgo	M	17	2020-03-13	confirmado	Contacto		2020-03-26
-20200326_446	Jalisco	M	36	2020-03-15	confirmado	Estados Unidos	2020-08-03	2020-03-26
-20200326_447	Jalisco	F	25	2020-03-13	confirmado	Estados Unidos	2020-06-03	2020-03-26
-20200326_450	Quintana Roo	M	42	2020-03-21	confirmado	Estados Unidos	2020-03-19	2020-03-26
-20200326_452	Jalisco	F	50	2020-12-03	confirmado	España	2020-09-03	2020-03-26
-20200326_453	Jalisco	F	38	2020-03-20	confirmado	Contacto	2020-03-23	2020-03-26
-20200326_461	Jalisco	M	49	2020-12-03	confirmado	Estados Unidos	2020-08-03	2020-03-26
-20200326_467	Morelos	F	35	2020-03-16	confirmado	Estados Unidos	2020-03-16	2020-03-26
-20200326_469	Ciudad de México	M	45	2020-03-13	confirmado	España	2020-03-19	2020-03-26
-20200326_471	Jalisco	F	33	2020-03-21	confirmado	Contacto		2020-03-26
-20200326_472	Jalisco	F	20	2020-03-22	confirmado	Contacto		2020-03-26
-20200326_475	Hidalgo	F	24	2020-03-13	confirmado	Contacto		2020-03-26
-20200326_476	Quintana Roo	M	20	2020-03-13	confirmado	Estados Unidos	2020-03-21	2020-03-26
-20200326_478	Puebla	F	31	2020-03-16	confirmado	España	2020-03-15	2020-03-26
-20200326_479	Jalisco	M	58	2020-03-20	confirmado	España	2020-03-17	2020-03-26
-20200326_480	Michoacán	F	69	2020-03-15	confirmado	Contacto	2020-03-23	2020-03-26
-20200326_482	Quintana Roo	F	30	2020-03-21	confirmado	Francia	2020-03-21	2020-03-26
-20200326_483	Sinaloa	F	47	2020-03-16	confirmado	España	2020-03-15	2020-03-26
-20200326_484	Jalisco	F	20	2020-03-20	confirmado	Estados Unidos	2020-07-03	2020-03-26
-20200326_485	Jalisco	M	72	2020-03-18	confirmado	Francia	2020-03-17	2020-03-26
-20200326_489	Jalisco	M	54	2020-12-03	confirmado	Estados Unidos	2020-08-03	2020-03-26
-20200326_492	Jalisco	M	21	2020-12-03	confirmado	Estados Unidos	2020-07-03	2020-03-26
-20200326_493	Hidalgo	M	71	2020-03-16	confirmado	Estados Unidos	2020-03-13	2020-03-26
-20200326_494	Jalisco	F	49	2020-03-17	confirmado	Contacto		2020-03-26
-20200326_495	Quintana Roo	M	74	2020-03-15	confirmado	Contacto		2020-03-26
-20200326_496	Quintana Roo	M	51	2020-12-03	confirmado	Estados Unidos	2020-09-03	2020-03-26
-20200326_497	Jalisco	F	48	2020-06-03	confirmado	Estados Unidos	2020-05-02	2020-03-26
-20200326_498	Jalisco	F	20	2020-03-16	confirmado	Contacto		2020-03-26
-20200326_500	Jalisco	M	72	2020-12-03	confirmado	Estados Unidos	2020-06-03	2020-03-26
-20200326_501	México	F	26	2020-03-18	confirmado	España	2020-03-21	2020-03-26
-20200326_502	Puebla	F	22	2020-03-22	confirmado	Contacto		2020-03-26
-20200326_503	Nuevo León	F	30	2020-03-18	confirmado	España	2019-03-16	2020-03-26
-20200326_504	Puebla	F	47	2020-03-16	confirmado	Estados Unidos	2020-03-15	2020-03-26
-20200326_505	Puebla	M	42	2020-03-18	confirmado	Contacto		2020-03-26
-20200326_506	Jalisco	M	50	2020-03-14	confirmado	Contacto		2020-03-26
-20200326_508	Puebla	M	48	2020-03-16	confirmado	Estados Unidos	2020-03-15	2020-03-26
-20200326_509	Sinaloa	F	30	2020-03-17	confirmado	Estados Unidos	2020-03-15	2020-03-26
-20200326_510	Sinaloa	M	72	2020-03-14	confirmado	Contacto		2020-03-26
-20200326_511	Coahuila	M	42	2020-03-19	confirmado	Contacto		2020-03-26
-20200326_512	Nuevo León	F	26	2020-03-21	confirmado	Contacto		2020-03-26
-20200326_513	Baja California	F	50	2020-03-15	confirmado	Estados Unidos	2020-03-13	2020-03-26
-20200326_514	Morelos	F	61	2020-03-23	confirmado	Contacto		2020-03-26
-20200326_515	Sonora	M	44	2020-03-17	confirmado	España	2020-10-03	2020-03-26
-20200326_516	Tabasco	M	46	2020-03-20	confirmado	Contacto		2020-03-26
-20200326_517	Nuevo León	M	26	2020-03-18	confirmado	España	2020-03-16	2020-03-26
-20200326_518	Nuevo León	M	41	2020-09-03	confirmado	Estados Unidos	2020-09-03	2020-03-26
-20200326_519	Sonora	M	24	2020-03-17	confirmado	Estados Unidos	2020-03-19	2020-03-26
-20200326_521	Puebla	M	27	2020-03-23	confirmado	Contacto		2020-03-26
-20200326_522	Puebla	F	35	2020-03-21	confirmado	Contacto		2020-03-26
-20200326_525	Sonora	F	50	2020-03-20	confirmado	España	2020-03-16	2020-03-26
-20200326_527	Queretaro	M	38	2020-03-14	confirmado	Contacto		2020-03-26
-20200326_528	Aguascalientes	F	74	2020-03-22	confirmado	Contacto		2020-03-26
-20200326_529	Yucatán	M	23	2020-03-17	confirmado	Francia	2020-03-21	2020-03-26
-20200326_530	Yucatán	M	58	2020-03-20	confirmado	Contacto		2020-03-26
-20200326_531	Yucatán	M	67	2020-03-22	confirmado	Contacto	2020-03-21	2020-03-26
-20200326_532	Sinaloa	M	26	2020-03-20	confirmado	Contacto		2020-03-26
-20200326_533	Queretaro	M	23	2020-03-20	confirmado	Estados Unidos	2020-03-17	2020-03-26
-20200326_534	Quintana Roo	M	75	2020-03-25	confirmado	Contacto	2020-03-20	2020-03-26
-20200326_535	Tabasco	F	28	2020-03-19	confirmado	Contacto		2020-03-26
-20200326_536	Quintana Roo	F	49	2020-03-20	confirmado	Estados Unidos	2020-03-20	2020-03-26
-20200326_537	Queretaro	F	62	2020-03-17	confirmado	Contacto		2020-03-26
-20200326_538	Nuevo León	M	40	2020-05-03	confirmado	Estados Unidos	2020-10-03	2020-03-26
-20200326_539	Guanajuato	M	51	2020-03-20	confirmado	España	2020-03-15	2020-03-26
-20200326_540	Guanajuato	F	28	2020-03-20	confirmado	Contacto	2020-03-16	2020-03-26
-20200326_541	Zacatecas	F	57	2020-12-03	confirmado	Contacto	2020-02-29	2020-03-26
-20200326_542	Guanajuato	F	59	2020-03-20	confirmado	Contacto		2020-03-26
-20200326_543	Guanajuato	M	26	2020-03-15	confirmado	España	2020-03-14	2020-03-26
-20200326_544	Baja California	M	25	2020-03-20	confirmado	Contacto	2020-03-21	2020-03-26
-20200326_545	Jalisco	F	19	2020-03-17	confirmado	Francia	2020-11-03	2020-03-26
-20200326_546	Jalisco	F	19	2020-03-16	confirmado	Estados Unidos	2020-03-15	2020-03-26
-20200326_547	Baja California	F	41	2020-03-20	confirmado	Estados Unidos	2020-03-19	2020-03-26
-20200326_548	Baja California Sur	M	44	2020-03-20	confirmado	Estados Unidos	2020-03-14	2020-03-26
-20200326_549	Baja California	M	30	2020-03-16	confirmado	España	2020-03-18	2020-03-26
-20200326_550	Puebla	M	50	2020-03-22	confirmado	Contacto		2020-03-26
-20200326_551	Baja California	F	64	2020-03-13	confirmado	Contacto		2020-03-26
-20200326_552	Baja California Sur	M	66	2020-03-22	confirmado	Estados Unidos		2020-03-26
-20200326_553	Puebla	F	60	2020-03-16	confirmado	Estados Unidos		2020-03-26
-20200326_554	Tabasco	F	26	2020-03-16	confirmado	Contacto		2020-03-26
-20200326_555	Tabasco	F	53	2020-03-21	confirmado	Contacto		2020-03-26
-20200326_556	Tabasco	M	31	2020-03-21	confirmado	Contacto		2020-03-26
-20200326_557	Tabasco	F	29	2020-03-13	confirmado	Contacto		2020-03-26
-20200326_558	Tabasco	M	67	2020-03-19	confirmado	Contacto		2020-03-26
-20200326_559	Puebla	M	44	2020-03-18	confirmado	Contacto		2020-03-26
-20200326_560	Puebla	M	27	2020-03-23	confirmado	Estados Unidos		2020-03-26
-20200326_561	Tabasco	M	31	2020-03-17	confirmado	Contacto		2020-03-26
-20200326_562	Tabasco	F	58	2020-03-18	confirmado	Contacto		2020-03-26
-20200326_563	México	F	68	2020-03-17	confirmado	Contacto		2020-03-26
-20200326_564	México	F	49	2020-02-03	confirmado	Contacto		2020-03-26
-20200326_565	México	F	22	2020-03-24	confirmado	Contacto		2020-03-26
-20200326_566	México	F	22	2020-03-16	confirmado	Contacto		2020-03-26
-20200326_567	México	M	36	2020-03-16	confirmado	España		2020-03-26
-20200326_568	México	F	33	2020-12-03	confirmado	Contacto		2020-03-26
-20200326_569	México	M	37	2020-03-21	confirmado	Contacto		2020-03-26
-20200326_570	Hidalgo	F	49	2020-03-23	confirmado	Contacto		2020-03-26
-20200326_571	México	F	36	2020-03-16	confirmado	Contacto		2020-03-26
-20200326_572	México	F	31	2020-03-21	confirmado	Contacto		2020-03-26
-20200326_573	México	F	48	2020-03-16	confirmado	Contacto		2020-03-26
-20200326_574	México	M	60	2020-03-20	confirmado	Contacto		2020-03-26
-20200326_575	México	F	33	2020-03-22	confirmado	Contacto		2020-03-26
-20200326_576	San Luis Potosí	M	56	2020-03-13	confirmado	Contacto		2020-03-26
-20200326_577	México	F	33	2020-10-03	confirmado	Contacto		2020-03-26
-20200326_578	Tabasco	M	26	2020-09-03	confirmado	Contacto		2020-03-26
-20200326_579	México	F	28	2020-03-21	confirmado	Contacto		2020-03-26
-20200326_580	México	F	43	2020-03-23	confirmado	Contacto		2020-03-26
-20200326_581	México	F	46	2020-03-23	confirmado	Contacto		2020-03-26
-20200326_582	México	F	28	2020-03-16	confirmado	Contacto		2020-03-26
-20200326_583	México	F	31	2020-03-19	confirmado	Contacto		2020-03-26
-20200326_584	México	M	41	2020-03-24	confirmado	Contacto		2020-03-26
-20200327_100	México	M	39	2020-03-14	confirmado	Contacto		2020-03-27
-20200327_101	México	M	45	2020-03-13	confirmado	Contacto		2020-03-27
-20200327_102	México	F	22	2020-03-16	confirmado	España	2020-03-15	2020-03-27
-20200327_103	México	F	24	2020-09-03	confirmado	Contacto	2020-08-03	2020-03-27
-20200327_104	México	M	75	2020-06-03	confirmado	Contacto		2020-03-27
-20200327_109	México	M	61	2020-08-03	confirmado	España	2020-08-03	2020-03-27
-20200327_110	México	M	21	2020-07-03	confirmado	España	2020-03-13	2020-03-27
-20200327_111	México	F	23	2020-07-03	confirmado	España	2020-03-13	2020-03-27
-20200327_113	México	M	55	2020-09-03	confirmado	Estados Unidos	2020-09-03	2020-03-27
-20200327_114	México	M	31	2020-03-13	confirmado	España	2020-03-13	2020-03-27
-20200327_239	Ciudad de México	M	47	2020-06-03	confirmado	Estados Unidos	2020-02-03	2020-03-27
-20200327_345	México	M	63	2020-12-03	confirmado	España	2020-04-03	2020-03-27
-20200327_350	México	M	51	2020-05-03	confirmado	Contacto		2020-03-27
-20200327_371	Ciudad de México	M	44	2020-11-03	confirmado	España	2020-03-15	2020-03-27
-20200327_373	México	M	60	2020-03-14	confirmado	España	2020-12-03	2020-03-27
-20200327_552	Sonora	F	45	2020-03-15	confirmado	España	2020-03-16	2020-03-27
-20200327_553	Nayarit	F	32	2020-10-03	confirmado	Francia	2020-03-18	2020-03-27
-20200327_554	Veracruz	F	26	2020-03-15	confirmado	España	2020-03-16	2020-03-27
-20200327_555	Nuevo León	F	57	2020-03-19	confirmado	Estados Unidos	2020-08-03	2020-03-27
-20200327_556	Veracruz	F	33	2020-03-16	confirmado	Estados Unidos	2020-02-27	2020-03-27
-20200327_557	México	M	42	2020-03-15	confirmado	Estados Unidos	2020-11-03	2020-03-27
-20200327_558	Ciudad de México	M	37	2020-03-17	confirmado	Contacto		2020-03-27
-20200327_559	Veracruz	F	40	2020-12-03	confirmado	España	2020-03-15	2020-03-27
-20200327_560	Veracruz	M	46	2020-03-15	confirmado	España	2020-03-14	2020-03-27
-20200327_561	Veracruz	M	40	2020-12-03	confirmado	España	2020-03-15	2020-03-27
-20200327_562	Veracruz	F	39	2020-12-03	confirmado	Estados Unidos	2020-08-03	2020-03-27
-20200327_563	Veracruz	M	51	2020-03-19	confirmado	España	2020-03-15	2020-03-27
-20200327_565	Guanajuato	M	67	2020-03-16	confirmado	Contacto	2020-03-16	2020-03-27
-20200327_567	México	F	34	2020-03-13	confirmado	España	2020-03-14	2020-03-27
-20200327_581	Tlaxcala	M	38	2020-03-16	confirmado	Contacto		2020-03-27
-20200327_583	Ciudad de México	F	55	2020-03-15	confirmado	Contacto		2020-03-27
-20200327_584	Chiapas	F	32	2020-03-20	confirmado	Estados Unidos	2020-07-03	2020-03-27
-20200327_585	Coahuila	F	41	2020-03-21	confirmado	Contacto		2020-03-27
-20200327_587	Oaxaca	F	41	2020-03-23	confirmado	Contacto		2020-03-27
-20200327_588	México	M	60	2020-03-13	confirmado	Contacto	2020-03-15	2020-03-27
-20200327_591	Durango	M	25	2020-03-23	confirmado	Estados Unidos	2020-03-18	2020-03-27
-20200327_592	Tabasco	F	23	2020-03-15	confirmado	Contacto		2020-03-27
-20200327_594	Ciudad de México	M	49	2020-03-19	confirmado	Contacto		2020-03-27
-20200327_596	Ciudad de México	F	49	2020-03-19	confirmado	Contacto		2020-03-27
-20200327_598	Oaxaca	F	20	2020-03-22	confirmado	Contacto	2020-03-19	2020-03-27
-20200327_599	Oaxaca	M	36	2020-03-21	confirmado	Contacto		2020-03-27
-20200327_601	Tabasco	F	29	2020-03-24	confirmado	España	2020-03-18	2020-03-27
-20200327_602	Michoacán	F	60	2020-03-18	confirmado	Contacto	2020-03-23	2020-03-27
-20200327_603	Tlaxcala	M	45	2020-03-17	confirmado	Contacto		2020-03-27
-20200327_604	Michoacán	F	25	2020-03-18	confirmado	Contacto		2020-03-27
-20200327_605	Ciudad de México	M	25	2020-03-19	confirmado	España	2020-03-14	2020-03-27
-20200327_606	Nuevo León	M	42	2020-03-19	confirmado	Francia	2020-03-20	2020-03-27
-20200327_607	Chiapas	F	32	2020-03-22	confirmado	Estados Unidos	2020-03-18	2020-03-27
-20200327_608	Ciudad de México	M	36	2020-03-17	confirmado	Contacto		2020-03-27
-20200327_609	Sinaloa	M	42	2020-03-22	confirmado	Contacto		2020-03-27
-20200327_610	Durango	M	80	2020-03-18	confirmado	Contacto		2020-03-27
-20200327_613	Tlaxcala	M	56	2020-03-22	confirmado	Estados Unidos	2020-03-21	2020-03-27
-20200327_616	México	F	56	2020-03-19	confirmado	Contacto		2020-03-27
-20200327_619	Nuevo León	M	23	2020-03-14	confirmado	España	2020-03-16	2020-03-27
-20200327_624	Tabasco	M	51	2020-10-03	confirmado	Contacto		2020-03-27
-20200327_627	Tabasco	F	68	2020-03-18	confirmado	Contacto		2020-03-27
-20200327_630	Chiapas	M	42	2020-03-21	confirmado	Contacto	2020-03-18	2020-03-27
-20200327_641	México	F	44	2020-05-03	confirmado	Contacto		2020-03-27
-20200327_642	Guanajuato	F	52	2020-03-17	confirmado	Contacto		2020-03-27
-20200327_643	Yucatán	F	66	2020-03-21	confirmado	Contacto		2020-03-27
-20200327_644	México	M	37	2020-03-19	confirmado	Contacto		2020-03-27
-20200327_645	Yucatán	M	72	2020-03-19	confirmado	Contacto	2020-03-21	2020-03-27
-20200327_646	Yucatán	M	36	2020-03-19	confirmado	Contacto		2020-03-27
-20200327_647	México	F	51	2020-03-18	confirmado	Contacto		2020-03-27
-20200327_648	México	M	40	2020-03-17	confirmado	Contacto		2020-03-27
-20200327_649	Yucatán	F	67	2020-03-17	confirmado	Contacto	2020-03-21	2020-03-27
-20200327_650	Ciudad de México	M	31	2020-03-16	confirmado	Contacto		2020-03-27
-20200327_651	Jalisco	M	23	2020-03-17	confirmado	Estados Unidos	2020-03-18	2020-03-27
-20200327_652	Veracruz	M	33	2020-12-03	confirmado	Estados Unidos	2020-03-19	2020-03-27
-20200327_653	Veracruz	M	38	2020-03-17	confirmado	Contacto		2020-03-27
-20200327_654	Veracruz	F	37	2020-03-18	confirmado	Contacto		2020-03-27
-20200327_655	Ciudad de México	M	41	2020-03-16	confirmado	Estados Unidos	2020-03-15	2020-03-27
-20200327_656	Jalisco	F	56	2020-03-16	confirmado	Estados Unidos	2020-09-03	2020-03-27
-20200327_657	Jalisco	M	48	2020-12-03	confirmado	Estados Unidos	2020-09-03	2020-03-27
-20200327_658	Ciudad de México	F	35	2020-03-20	confirmado	Contacto		2020-03-27
-20200327_659	Ciudad de México	F	50	2020-01-03	confirmado	Estados Unidos	2020-08-03	2020-03-27
-20200327_660	Baja California	M	28	2020-03-18	confirmado	Estados Unidos	2020-10-03	2020-03-27
-20200327_661	Ciudad de México	F	35	2020-03-15	confirmado	Contacto		2020-03-27
-20200327_662	Queretaro	M	58	2020-03-17	confirmado	Contacto		2020-03-27
-20200327_663	México	M	42	2020-03-16	confirmado	Contacto		2020-03-27
-20200327_664	Ciudad de México	M	47	2020-03-20	confirmado	Contacto	2020-06-03	2020-03-27
-20200327_665	Ciudad de México	F	45	2020-03-22	confirmado	Contacto		2020-03-27
-20200327_666	Aguascalientes	F	32	2020-03-23	confirmado	Contacto		2020-03-27
-20200327_667	Nuevo León	M	64	2020-03-18	confirmado	Estados Unidos	2020-11-03	2020-03-27
-20200327_668	Jalisco	F	50	2020-01-03	confirmado	Estados Unidos		2020-03-27
-20200327_669	Jalisco	F	49	2020-03-15	confirmado	Contacto		2020-03-27
-20200327_670	México	F	36	2020-03-21	confirmado	Contacto		2020-03-27
-20200327_671	México	F	47	2020-03-20	confirmado	Contacto		2020-03-27
-20200327_672	Jalisco	F	34	2020-03-16	confirmado	Estados Unidos	2020-07-03	2020-03-27
-20200327_673	Puebla	M	77	2020-03-21	confirmado	España	2020-03-19	2020-03-27
-20200327_674	Puebla	M	40	2020-03-18	confirmado	Contacto		2020-03-27
-20200327_675	Guanajuato	F	60	2020-03-20	confirmado	Estados Unidos	2020-03-17	2020-03-27
-20200327_676	Guanajuato	M	19	2020-03-20	confirmado	Estados Unidos	2020-03-19	2020-03-27
-20200327_677	Guanajuato	F	63	2020-03-22	confirmado	Contacto	2020-03-22	2020-03-27
-20200327_678	Guanajuato	F	43	2020-03-22	confirmado	Estados Unidos	2020-03-24	2020-03-27
-20200327_679	Michoacán	M	64	2020-03-18	confirmado	Contacto		2020-03-27
-20200327_680	Michoacán	M	71	2020-03-17	confirmado	Contacto		2020-03-27
-20200327_681	Jalisco	F	65	2020-12-03	confirmado	Estados Unidos	2020-03-17	2020-03-27
-20200327_682	Aguascalientes	F	43	2020-03-23	confirmado	Contacto		2020-03-27
-20200327_683	Aguascalientes	F	65	2020-03-23	confirmado	Contacto		2020-03-27
-20200327_684	Ciudad de México	M	35	2020-03-20	confirmado	Contacto		2020-03-27
-20200327_685	Nuevo León	F	23	2020-03-22	confirmado	España	2020-03-16	2020-03-27
-20200327_686	Aguascalientes	M	24	2020-03-20	confirmado	Contacto		2020-03-27
-20200327_687	Guanajuato	M	21	2020-03-21	confirmado	Contacto	2020-03-21	2020-03-27
-20200327_688	Jalisco	M	64	2020-03-24	confirmado	Contacto		2020-03-27
-20200327_689	Jalisco	F	18	2020-03-22	confirmado	Estados Unidos	2020-12-03	2020-03-27
-20200327_690	Jalisco	F	13	2020-03-22	confirmado	Contacto		2020-03-27
-20200327_691	Nuevo León	M	28	2020-03-20	confirmado	Contacto	2020-03-18	2020-03-27
-20200327_692	Michoacán	F	66	2020-03-22	confirmado	Contacto	2020-03-23	2020-03-27
-20200327_693	Aguascalientes	F	5	2020-03-25	confirmado	Contacto	2020-03-25	2020-03-27
-20200327_694	Queretaro	F	47	2020-03-17	confirmado	Francia	2020-03-17	2020-03-27
-20200327_695	Aguascalientes	F	37	2020-03-25	confirmado	Contacto		2020-03-27
-20200327_696	Baja California Sur	M	59	2020-03-22	confirmado	Contacto		2020-03-27
-20200327_697	Guanajuato	F	37	2020-03-20	confirmado	Contacto		2020-03-27
-20200327_698	Puebla	F	39	2020-03-21	confirmado	Contacto		2020-03-27
-20200327_699	Puebla	F	22	2020-03-20	confirmado	Contacto		2020-03-27
-20200327_700	San Luis Potosí	F	47	2020-03-18	confirmado	Estados Unidos	2020-03-18	2020-03-27
-20200327_701	Ciudad de México	M	56	2020-03-20	confirmado	Estados Unidos	2020-03-13	2020-03-27
-20200327_702	Jalisco	M	21	2020-03-21	confirmado	Contacto		2020-03-27
-20200327_703	Jalisco	F	52	2020-03-18	confirmado	Contacto		2020-03-27
-20200327_704	Jalisco	M	50	2020-03-21	confirmado	Contacto		2020-03-27
-20200327_705	Puebla	F	24	2020-03-18	confirmado	Contacto		2020-03-27
-20200327_706	Puebla	M	47	2020-03-21	confirmado	Alemania		2020-03-27
-20200327_707	Baja California Sur	M	73	2020-03-24	confirmado	Contacto		2020-03-27
-20200327_708	Ciudad de México	F	44	2020-03-20	confirmado	Contacto		2020-03-27
-20200327_709	Nuevo León	M	27	2020-03-19	confirmado	Contacto		2020-03-27
-20200327_710	Ciudad de México	M	40	2020-03-17	confirmado	Contacto		2020-03-27
-20200327_711	Ciudad de México	M	64	2020-09-03	confirmado	Estados Unidos		2020-03-27
-20200327_712	Ciudad de México	M	37	2020-03-18	confirmado	Contacto		2020-03-27
-20200327_713	Ciudad de México	M	65	2020-12-03	confirmado	España		2020-03-27
-20200327_714	Ciudad de México	M	76	2020-03-15	confirmado	Contacto		2020-03-27
-20200327_715	Ciudad de México	F	59	2020-09-03	confirmado	Contacto		2020-03-27
-20200327_716	Ciudad de México	M	59	2020-09-03	confirmado	Contacto		2020-03-27
+20200316_1	Ciudad de México	M	35	2020-02-22	confirmado	Italia	2020-02-22	
+20200316_2	Sinaloa	M	41	2020-02-22	confirmado	Italia	2020-02-21	
+20200316_3	Ciudad de México	M	59	2020-02-23	confirmado	Italia	2020-02-22	
+20200316_4	Coahuila	F	20	2020-02-27	confirmado	Italia	2020-02-25	
+20200316_5	Chiapas	F	18	2020-02-25	confirmado	Italia	2020-02-25	
+20200316_6	México	M	71	2020-02-21	confirmado	Italia	2020-02-21	
+20200316_7	Ciudad de México	M	46	2020-02-29	confirmado	Estados Unidos	2020-02-29	
+20200316_8	Queretaro	M	43	2020-09-03	confirmado	España	2020-06-03	
+20200316_9	Ciudad de México	M	41	2020-07-03	confirmado	Estados Unidos	2020-06-03	
+20200316_10	Ciudad de México	F	30	2020-07-03	confirmado	España	2020-06-03	
+20200316_11	México	F	64	2020-02-03	confirmado	Estados Unidos	2020-02-29	
+20200316_12	Nuevo León	M	57	2020-04-03	confirmado	Alemania	2020-03-03	
+20200316_13	México	F	55	2020-09-03	confirmado	España	2020-09-03	
+20200316_14	Durango	M	58	2020-06-03	confirmado	España	2020-02-28	
+20200316_15	Queretaro	F	65	2020-10-03	confirmado	Contacto		
+20200316_16	Queretaro	M	42	2020-05-03	confirmado	Italia	2020-05-03	
+20200316_17	Ciudad de México	M	48	2020-10-03	confirmado	España	2020-09-03	
+20200316_18	Ciudad de México	M	38	2020-10-03	confirmado	España	2020-09-03	
+20200316_19	Queretaro	F	43	2020-11-03	confirmado	Contacto		
+20200316_20	Puebla	M	31	2020-05-03	confirmado	España	2020-09-03	
+20200316_21	Ciudad de México	M	37	2020-11-03	confirmado	Italia	2020-11-03	
+20200316_22	Yucatán	F	57	2020-07-03	confirmado	España	2020-06-03	
+20200316_23	Ciudad de México	M	52	2020-08-03	confirmado	España	2020-08-03	
+20200316_24	Ciudad de México	M	64	2020-10-03	confirmado	Contacto	2020-10-03	
+20200316_25	Ciudad de México	M	68	2020-04-03	confirmado	España	2020-10-03	
+20200316_26	Quintana Roo	F	71	2020-01-03	confirmado	Italia	2020-01-03	
+20200316_27	San Luis Potosí	F	53	2020-11-03	confirmado	España	2020-10-03	
+20200316_28	Nuevo León	M	73	2020-09-03	confirmado	Estados Unidos	2020-10-03	
+20200316_29	Nuevo León	M	30	2020-09-03	confirmado	España	2020-07-03	
+20200316_30	Puebla	M	31	2020-09-03	confirmado	España	2020-08-03	
+20200316_31	Ciudad de México	F	33	2020-10-03	confirmado	Francia	2020-08-03	
+20200316_32	Jalisco	F	54	2020-10-03	confirmado	España	2020-04-03	
+20200316_33	Jalisco	F	64	2020-01-03	confirmado	Alemania	2020-09-03	
+20200316_34	México	M	61	2020-09-03	confirmado	Estados Unidos	2020-03-03	
+20200316_35	Ciudad de México	M	45	2020-07-03	confirmado	España	2020-09-03	
+20200316_36	Ciudad de México	F	62	2020-11-03	confirmado	Estados Unidos	2020-08-03	
+20200316_37	Ciudad de México	M	72	2020-09-03	confirmado	Estados Unidos	2020-07-03	
+20200316_38	Ciudad de México	M	41	2020-10-03	confirmado	España	2020-08-03	
+20200316_39	Puebla	M	30	2020-09-03	confirmado	España	2020-09-03	
+20200316_40	Ciudad de México	M	38	2020-11-03	confirmado	Contacto		
+20200316_41	Oaxaca	F	30	2020-09-03	confirmado	España	2020-09-03	
+20200316_42	Sinaloa	M	25	2020-09-03	confirmado	Estados Unidos	2020-03-13	
+20200316_43	San Luis Potosí	F	23	2020-07-03	confirmado	España	2020-10-03	
+20200316_44	Queretaro	F	54	2020-10-03	confirmado	España	2020-10-03	
+20200316_45	Oaxaca	M	61	2020-10-03	confirmado	Estados Unidos	2020-10-03	
+20200316_46	Queretaro	F	55	2020-10-03	confirmado	España	2020-10-03	
+20200316_47	Nuevo León	M	27	2020-11-03	confirmado	España	2020-03-13	
+20200316_48	Nuevo León	M	46	2020-06-03	confirmado	Estados Unidos	2020-03-03	
+20200316_49	Guerrero	M	32	2020-12-03	confirmado	Contacto		2020-03-16
+20200316_50	Durango	M	32	2020-11-03	confirmado	Alemania	2020-11-03	2020-03-16
+20200316_51	Guerrero	F	22	2020-09-03	confirmado	España	2020-12-03	2020-03-16
+20200316_52	Puebla	F	27	2020-05-03	confirmado	España	2020-09-03	
+20200316_53	Ciudad de México	F	70	2020-07-03	confirmado	Estados Unidos	2020-08-03	
+20200316_54	Ciudad de México	M	32	2020-10-03	confirmado	Contacto		2020-03-16
+20200316_55	Ciudad de México	M	59	2020-07-03	confirmado	España	2020-04-03	2020-03-16
+20200316_56	Ciudad de México	M	70	2020-09-03	confirmado	Estados Unidos	2020-08-03	2020-03-16
+20200316_57	Durango	F	38	2020-09-03	confirmado	España	2020-12-03	2020-03-16
+20200316_58	Aguascalientes	M	25	2020-03-14	confirmado	España	2020-12-03	
+20200316_59	Puebla	F	31	2020-10-03	confirmado	Contacto		
+20200316_60	Queretaro	F	45	2020-03-13	confirmado	España	2020-10-03	2020-03-16
+20200316_61	México	M	27	2020-03-13	confirmado	Contacto		2020-03-16
+20200316_62	México	F	47	2020-05-03	confirmado	Estados Unidos	2020-02-29	2020-03-16
+20200316_63	México	F	59	2020-07-03	confirmado	Francia	2020-08-03	2020-03-16
+20200316_64	Nuevo León	M	72	2020-11-03	confirmado	Estados Unidos	2020-10-03	2020-03-16
+20200316_65	Quintana Roo	F	50	2020-08-03	confirmado	España	2020-11-03	2020-03-16
+20200316_66	Quintana Roo	F	19	2020-03-13	confirmado	España	2020-11-03	2020-03-16
+20200316_67	Quintana Roo	M	44	2020-11-03	confirmado	Contacto		2020-03-16
+20200316_68	México	F	49	2020-03-13	confirmado	España	2020-03-13	2020-03-16
+20200316_69	Puebla	M	32	2020-11-03	confirmado	Estados Unidos	2020-07-03	2020-03-16
+20200316_70	Nuevo León	F	74	2020-09-03	confirmado	España	2020-12-03	2020-03-16
+20200316_71	Nuevo León	F	80	2020-09-03	confirmado	España	2020-12-03	2020-03-16
+20200316_72	Nuevo León	M	71	2020-07-03	confirmado	Estados Unidos	2020-10-03	2020-03-16
+20200316_73	Nuevo León	M	53	2020-09-03	confirmado	España	2020-10-03	2020-03-16
+20200316_74	Nuevo León	M	42	2020-02-03	confirmado	Estados Unidos	2020-02-03	2020-03-16
+20200316_75	México	M	45	2020-11-03	confirmado	Estados Unidos	2020-01-03	2020-03-16
+20200316_76	Nuevo León	M	33	2020-09-03	confirmado	Estados Unidos	2020-12-03	2020-03-16
+20200316_77	Nuevo León	F	27	2020-12-03	confirmado	Estados Unidos	2020-12-03	2020-03-16
+20200316_78	Yucatán	F	31	2020-08-03	confirmado	Francia	2020-10-03	2020-03-16
+20200316_79	Yucatán	M	21	2020-03-13	confirmado	España	2020-03-13	2020-03-16
+20200316_80	Puebla	F	27	2020-09-03	confirmado	España	2020-09-03	2020-03-16
+20200316_81	Puebla	M	31	2020-09-03	confirmado	España	2020-09-03	2020-03-16
+20200316_82	Yucatán	F	54	2020-11-03	confirmado	España	2020-08-03	2020-03-16
+20200317_64	Guanajuato	M	39	2020-12-03	confirmado	Alemania	2020-10-03	2020-03-17
+20200317_66	Chihuahua	M	30	2020-12-03	confirmado	Alemania	2020-12-03	2020-03-17
+20200317_82	Tamaulipas	M	55	2020-03-13	confirmado	Singapur	2020-11-03	2020-03-17
+20200317_86	Sonora	M	72	2020-11-03	confirmado	Estados Unidos	2020-11-03	2020-03-17
+20200317_87	Jalisco	M	49	2020-06-03	confirmado	España	2020-04-03	2020-03-17
+20200317_88	Jalisco	M	41	2020-10-03	confirmado	Estados Unidos	2020-02-29	2020-03-17
+20200317_89	Jalisco	F	56	2020-11-03	confirmado	Contacto		2020-03-17
+20200317_90	Yucatán	M	37	2020-09-03	confirmado	Estados Unidos	2020-06-03	2020-03-17
+20200317_91	Nuevo León	M	19	2020-07-03	confirmado	Contacto	2020-10-03	2020-03-17
+20200317_92	México	M	56	2020-07-03	confirmado	Estados Unidos	2020-05-03	2020-03-17
+20200317_93	Puebla	M	25	2020-10-03	confirmado	España	2020-09-03	2020-03-17
+20200318_92	Nuevo León	M	34	2020-12-03	confirmado	Estados Unidos	2020-07-03	2020-03-18
+20200318_93	Nuevo León	M	41	2020-10-03	confirmado	Estados Unidos	2020-07-03	2020-03-18
+20200318_94	Nuevo León	M	46	2020-11-03	confirmado	Estados Unidos	2020-09-03	2020-03-18
+20200318_95	Nuevo León	M	21	2020-03-14	confirmado	España	2020-03-15	2020-03-18
+20200318_96	Nuevo León	M	21	2020-03-15	confirmado	España	2020-03-13	2020-03-18
+20200318_97	Yucatán	F	21	2020-03-13	confirmado	España	2020-03-13	2020-03-18
+20200318_98	Yucatán	M	25	2020-11-03	confirmado	España	2020-03-15	2020-03-18
+20200318_99	Jalisco	F	36	2020-10-03	confirmado	Contacto		2020-03-18
+20200318_100	Ciudad de México	M	53	2020-09-03	confirmado	España	2020-09-03	2020-03-18
+20200318_101	Ciudad de México	F	53	2020-06-03	confirmado	España	2020-09-03	2020-03-18
+20200318_103	Veracruz	F	21	2020-03-03	confirmado	España	2020-12-03	2020-03-18
+20200318_104	Veracruz	M	24	2020-03-14	confirmado	España	2020-03-14	2020-03-18
+20200318_105	San Luis Potosí	M	32	2020-03-14	confirmado	España	2020-03-14	2020-03-18
+20200318_107	Yucatán	F	26	2020-08-03	confirmado	España	2020-03-14	2020-03-18
+20200318_108	Colima	M	46	2020-03-15	confirmado	Alemania	2020-03-13	2020-03-18
+20200318_109	Baja California	F	54	2020-11-03	confirmado	Estados Unidos	2020-02-03	2020-03-18
+20200318_110	Baja California	F	57	2020-03-13	confirmado	Contacto	2020-03-16	2020-03-18
+20200318_111	Tabasco	F	61	2020-03-14	confirmado	Francia	2020-03-16	2020-03-18
+20200318_112	Ciudad de México	M	28	2020-03-16	confirmado	Contacto		2020-03-18
+20200318_113	Guanajuato	F	18	2020-10-03	confirmado	Estados Unidos	2020-03-13	2020-03-18
+20200318_114	Tamaulipas	F	23	2020-03-16	confirmado	España	2020-12-03	2020-03-18
+20200318_115	Quintana Roo	M	17	2020-09-03	confirmado	Estados Unidos	2020-09-03	2020-03-18
+20200318_116	Quintana Roo	M	39	2020-03-16	confirmado	Italia	2020-01-03	2020-03-18
+20200318_117	Guanajuato	F	27	2020-03-14	confirmado	España	2020-03-14	2020-03-18
+20200318_118	Guanajuato	F	52	2020-12-03	confirmado	España	2020-03-14	2020-03-18
+20200319_92	Ciudad de México	M	41	2020-09-03	confirmado	En investigación		2020-03-19
+20200319_112	Ciudad de México	M	47	2020-12-03	confirmado	Estados Unidos	2020-12-03	2020-03-19
+20200319_113	Ciudad de México	M	43	2020-03-14	confirmado	Estados Unidos	2020-12-03	2020-03-19
+20200319_114	Hidalgo	M	39	2020-07-03	confirmado	Francia	2020-06-03	2020-03-19
+20200319_115	Sonora	M	44	2020-12-03	confirmado	Italia	2020-10-03	2020-03-19
+20200319_117	Puebla	M	64	2020-08-03	confirmado	Estados Unidos	2020-08-03	2020-03-19
+20200319_118	Sinaloa	F	25	2020-03-15	confirmado	Estados Unidos	2020-03-17	2020-03-19
+20200319_119	Hidalgo	M	43	2020-08-03	confirmado	Estados Unidos	2020-10-02	2020-03-19
+20200319_120	San Luis Potosí	M	39	2020-03-16	confirmado	España	2020-03-14	2020-03-19
+20200319_121	San Luis Potosí	M	31	2020-03-15	confirmado	Francia	2020-03-14	2020-03-19
+20200319_122	San Luis Potosí	M	44	2020-03-16	confirmado	España	2020-03-16	2020-03-19
+20200319_123	San Luis Potosí	F	63	2020-03-15	confirmado	España	2020-03-17	2020-03-19
+20200319_125	Puebla	F	24	2020-03-16	confirmado	Contacto		2020-03-19
+20200319_130	Guerrero	M	79	2020-03-15	confirmado	España	2020-03-13	2020-03-19
+20200319_133	Queretaro	M	25	2020-08-03	confirmado	España	2020-03-16	2020-03-19
+20200319_134	Yucatán	F	27	2020-03-13	confirmado	Contacto		2020-03-19
+20200319_135	Yucatán	M	51	2020-03-14	confirmado	Contacto		2020-03-19
+20200319_136	Yucatán	M	32	2020-11-03	confirmado	Estados Unidos		2020-03-19
+20200319_137	Yucatán	M	30	2020-03-16	confirmado	España	2020-11-03	2020-03-19
+20200319_138	Yucatán	M	45	2020-03-13	confirmado	Estados Unidos	2020-03-13	2020-03-19
+20200319_139	Jalisco	M	27	2020-03-13	confirmado	España	2020-03-15	2020-03-19
+20200319_140	Jalisco	F	49	2020-12-03	confirmado	España	2020-09-03	2020-03-19
+20200319_141	Jalisco	M	19	2020-03-16	confirmado	España	2020-03-13	2020-03-19
+20200319_142	Guerrero	F	38	2020-03-13	confirmado	Estados Unidos	2020-01-03	2020-03-19
+20200319_143	Ciudad de México	M	46	2020-12-03	confirmado	Estados Unidos	2020-10-03	2020-03-19
+20200319_144	Ciudad de México	M	35	2020-11-03	confirmado	Estados Unidos	2020-05-03	2020-03-19
+20200319_145	Aguascalientes	M	70	2020-03-15	confirmado	Estados Unidos	2020-03-13	2020-03-19
+20200319_146	Ciudad de México	M	59	2020-03-13	confirmado	Contacto		2020-03-19
+20200319_147	Aguascalientes	M	50	2020-03-16	confirmado	España	2020-03-17	2020-03-19
+20200319_148	Queretaro	M	34	2020-03-15	confirmado	Francia	2020-03-15	2020-03-19
+20200319_149	Jalisco	F	73	2020-03-14	confirmado	Contacto		2020-03-19
+20200319_150	Jalisco	M	52	2020-03-14	confirmado	Estados Unidos	2020-03-14	2020-03-19
+20200319_151	Jalisco	M	50	2020-04-03	confirmado	Estados Unidos	2020-07-03	2020-03-19
+20200319_152	Aguascalientes	M	42	2020-10-03	confirmado	España	2020-11-03	2020-03-19
+20200319_153	Jalisco	F	19	2020-11-03	confirmado	Estados Unidos	2020-07-03	2020-03-19
+20200319_154	Jalisco	F	29	2020-03-14	confirmado	Estados Unidos	2020-07-03	2020-03-19
+20200319_155	Jalisco	M	41	2020-08-03	confirmado	Estados Unidos		2020-03-19
+20200319_156	Jalisco	M	54	2020-07-03	confirmado	Estados Unidos		2020-03-19
+20200319_157	Jalisco	F	62	2020-09-03	confirmado	Estados Unidos		2020-03-19
+20200319_158	Jalisco	M	42	2020-12-03	confirmado	Estados Unidos		2020-03-19
+20200319_159	Jalisco	M	49	2020-03-13	confirmado	Estados Unidos		2020-03-19
+20200319_160	Jalisco	M	29	2020-08-03	confirmado	Estados Unidos		2020-03-19
+20200319_161	Jalisco	M	19	2020-03-14	confirmado	España		2020-03-19
+20200319_162	Jalisco	M	63	2020-03-14	confirmado	Estados Unidos		2020-03-19
+20200319_163	Chiapas	M	47	2020-03-14	confirmado	Alemania		2020-03-19
+20200319_164	Ciudad de México	F	38	2020-03-14	confirmado	Contacto		2020-03-19
+20200320_133	Quintana Roo	M	42	2020-03-14	confirmado	España	2020-03-13	2020-03-20
+20200320_135	México	F	52	2020-10-03	confirmado	España	2020-12-03	2020-03-20
+20200320_138	Baja California	M	72	2020-09-03	confirmado	Estados Unidos	2020-10-03	2020-03-20
+20200320_142	Quintana Roo	M	45	2020-03-15	confirmado	Contacto	2020-03-15	2020-03-20
+20200320_143	Jalisco	M	54	2020-03-13	confirmado	Contacto		2020-03-20
+20200320_145	Quintana Roo	F	22	2020-03-16	confirmado	España	2020-03-16	2020-03-20
+20200320_154	Veracruz	F	64	2020-03-18	confirmado	España	2020-03-15	2020-03-20
+20200320_155	Nuevo León	M	35	2020-09-03	confirmado	Estados Unidos	2020-09-03	2020-03-20
+20200320_156	Nuevo León	M	42	2020-03-16	confirmado	Contacto		2020-03-20
+20200320_157	Durango	M	74	2020-03-15	confirmado	Estados Unidos	2020-03-03	2020-03-20
+20200320_158	Morelos	M	37	2020-03-14	confirmado	Estados Unidos	2020-07-03	2020-03-20
+20200320_160	Veracruz	F	63	2020-03-14	confirmado	España	2020-03-13	2020-03-20
+20200320_161	Nuevo León	F	29	2020-03-13	confirmado	España	2020-03-14	2020-03-20
+20200320_162	Morelos	F	54	2020-03-17	confirmado	Estados Unidos	2020-03-17	2020-03-20
+20200320_163	Jalisco	F	73	2020-03-14	confirmado	Contacto		2020-03-20
+20200320_166	Quintana Roo	M	35	2020-03-15	confirmado	Contacto	2020-03-14	2020-03-20
+20200320_167	Quintana Roo	F	30	2020-03-14	confirmado	Estados Unidos	2020-03-14	2020-03-20
+20200320_168	Nuevo León	M	28	2020-03-14	confirmado	Estados Unidos	2020-12-03	2020-03-20
+20200320_170	Nuevo León	F	48	2020-11-03	confirmado	España	2020-03-13	2020-03-20
+20200320_181	Jalisco	M	44	2020-11-03	confirmado	Italia	2020-11-03	2020-03-20
+20200320_182	Puebla	F	32	2020-03-15	confirmado	España	2020-03-15	2020-03-20
+20200320_184	Queretaro	M	51	2020-03-16	confirmado	Estados Unidos	2020-03-15	2020-03-20
+20200320_185	México	F	33	2020-03-15	confirmado	España	2020-05-03	2020-03-20
+20200320_186	México	M	31	2020-03-03	confirmado	España	2020-01-03	2020-03-20
+20200320_187	Baja California	M	62	2020-03-17	confirmado	Contacto		2020-03-20
+20200320_188	Queretaro	M	34	2020-03-18	confirmado	Francia	2020-03-16	2020-03-20
+20200320_190	México	M	55	2020-11-03	confirmado	Contacto		2020-03-20
+20200320_191	Nuevo León	M	53	2020-03-17	confirmado	Contacto		2020-03-20
+20200320_192	Nuevo León	M	58	2020-03-15	confirmado	España	2020-03-14	2020-03-20
+20200320_193	Nuevo León	M	61	2020-03-15	confirmado	España	2020-03-14	2020-03-20
+20200320_194	Nuevo León	F	59	2020-03-17	confirmado	Contacto		2020-03-20
+20200320_195	Tabasco	M	46	2020-09-03	confirmado	Estados Unidos	2020-11-03	2020-03-20
+20200320_196	Jalisco	F	75	2020-08-03	confirmado	Estados Unidos	2020-03-14	2020-03-20
+20200320_197	Jalisco	M	80	2020-03-14	confirmado	Estados Unidos	2020-03-14	2020-03-20
+20200320_198	Nuevo León	F	31	2020-10-03	confirmado	Contacto	2020-10-03	2020-03-20
+20200320_199	Puebla	M	21	2020-03-17	confirmado	España	2020-03-15	2020-03-20
+20200320_200	Puebla	M	56	2020-03-14	confirmado	Estados Unidos	2020-07-03	2020-03-20
+20200320_201	Chihuahua	F	18	2020-03-15	confirmado	Estados Unidos	2020-03-14	2020-03-20
+20200320_202	Jalisco	M	77	2020-03-13	confirmado	Contacto		2020-03-20
+20200320_203	Jalisco	M	20	2020-03-17	confirmado	Contacto		2020-03-20
+20200321_199	Ciudad de México	M	38	2020-10-03	confirmado	Estados Unidos	2020-07-03	2020-03-21
+20200321_200	Ciudad de México	F	35	2020-09-03	confirmado	Contacto		2020-03-21
+20200321_201	Ciudad de México	M	61	2020-03-16	confirmado	España	2020-11-03	2020-03-21
+20200321_202	Ciudad de México	F	37	2020-03-14	confirmado	Contacto		2020-03-21
+20200321_203	Ciudad de México	M	43	2020-03-13	confirmado	Contacto		2020-03-21
+20200321_204	Baja California	M	26	2020-03-15	confirmado	Francia	2020-03-13	2020-03-21
+20200321_205	Hidalgo	F	57	2020-03-14	confirmado	España	2020-03-16	2020-03-21
+20200321_207	Baja California	F	34	2020-11-03	confirmado	Estados Unidos	2020-08-03	2020-03-21
+20200321_208	Ciudad de México	M	0	2020-03-16	confirmado	Contacto		2020-03-21
+20200321_210	Nayarit	F	48	2020-03-17	confirmado	España	2020-03-17	2020-03-21
+20200321_211	Puebla	M	24	2020-03-14	confirmado	Estados Unidos	2020-07-03	2020-03-21
+20200321_213	Baja California	M	39	2020-03-17	confirmado	Contacto		2020-03-21
+20200321_214	Queretaro	F	29	2020-10-03	confirmado	Estados Unidos	2020-01-03	2020-03-21
+20200321_216	Tabasco	M	33	2020-03-14	confirmado	España	2020-03-18	2020-03-21
+20200321_218	Zacatecas	M	38	2020-08-03	confirmado	Contacto		2020-03-21
+20200321_219	Queretaro	M	29	2020-03-18	confirmado	España	2020-03-16	2020-03-21
+20200321_220	Ciudad de México	M	33	2020-11-03	confirmado	Contacto		2020-03-21
+20200321_221	Nuevo León	M	32	2020-03-15	confirmado	Estados Unidos	2020-03-16	2020-03-21
+20200321_222	Nuevo León	F	27	2020-03-18	confirmado	Estados Unidos	2020-03-14	2020-03-21
+20200321_223	Nuevo León	M	35	2020-03-17	confirmado	Estados Unidos	2020-03-15	2020-03-21
+20200321_224	Puebla	F	30	2020-03-16	confirmado	Estados Unidos	2020-03-15	2020-03-21
+20200321_225	Ciudad de México	M	27	2020-03-15	confirmado	Francia	2020-03-15	2020-03-21
+20200321_226	Veracruz	M	31	2020-03-16	confirmado	España	2020-03-13	2020-03-21
+20200321_227	Queretaro	M	29	2020-03-16	confirmado	Contacto		2020-03-21
+20200321_228	Durango	F	68	2020-03-18	confirmado	Contacto		2020-03-21
+20200321_229	Baja California	F	26	2020-03-13	confirmado	Estados Unidos	2020-03-16	2020-03-21
+20200321_230	San Luis Potosí	F	20	2020-09-03	confirmado	España	2020-03-17	2020-03-21
+20200321_231	Ciudad de México	F	54	2020-03-15	confirmado	Contacto		2020-03-21
+20200321_232	Jalisco	M	56	2020-03-17	confirmado	Estados Unidos	2020-04-03	2020-03-21
+20200321_233	Veracruz	F	35	2020-03-14	confirmado	Estados Unidos	2020-03-13	2020-03-21
+20200321_234	Jalisco	M	53	2020-03-17	confirmado	Contacto		2020-03-21
+20200321_235	Veracruz	M	27	2020-03-17	confirmado	Contacto	2020-03-16	2020-03-21
+20200321_236	Quintana Roo	M	51	2020-11-03	confirmado	España	2020-03-16	2020-03-21
+20200321_237	Tamaulipas	F	33	2020-03-16	confirmado	Francia	2020-07-03	2020-03-21
+20200321_238	San Luis Potosí	M	46	2020-12-03	confirmado	Estados Unidos	2020-12-03	2020-03-21
+20200321_239	Ciudad de México	F	35	2020-03-16	confirmado	Estados Unidos	2020-09-03	2020-03-21
+20200321_240	Tabasco	F	37	2020-10-03	confirmado	Estados Unidos	2020-11-03	2020-03-21
+20200321_241	Jalisco	M	58	2020-03-17	confirmado	Contacto		2020-03-21
+20200321_242	Baja California Sur	M	48	2020-03-16	confirmado	Estados Unidos	2020-03-14	2020-03-21
+20200321_243	Coahuila	F	41	2020-03-18	confirmado	España	2020-03-14	2020-03-21
+20200321_244	Ciudad de México	F	48	2020-03-13	confirmado	Contacto		2020-03-21
+20200321_245	Coahuila	M	29	2020-03-17	confirmado	Estados Unidos	2020-03-15	2020-03-21
+20200321_246	Ciudad de México	M	25	2020-03-13	confirmado	Contacto		2020-03-21
+20200321_247	Ciudad de México	M	37	2020-03-16	confirmado	España	2020-03-16	2020-03-21
+20200321_248	Yucatán	F	40	2020-03-15	confirmado	Contacto		2020-03-21
+20200321_249	Ciudad de México	M	36	2020-03-14	confirmado	Contacto		2020-03-21
+20200321_250	Jalisco	F	38	2020-03-15	confirmado	Estados Unidos	2020-03-16	2020-03-21
+20200321_251	Colima	F	34	2020-12-03	confirmado	Estados Unidos	2020-11-03	2020-03-21
+20200322_237	Baja California	M	35	2020-03-18	confirmado	Estados Unidos	2020-03-16	2020-03-22
+20200322_244	Ciudad de México	M	42	2020-06-03	confirmado	Contacto		2020-03-22
+20200322_246	Jalisco	M	29	2020-03-17	confirmado	Singapur	2020-09-03	2020-03-22
+20200322_248	Ciudad de México	M	47	2020-03-14	confirmado	España	2020-03-16	2020-03-22
+20200322_249	Ciudad de México	M	34	2020-03-14	confirmado	Francia	2020-12-03	2020-03-22
+20200322_250	Jalisco	M	0	2020-09-03	confirmado	España	2020-12-03	2020-03-22
+20200322_251	Ciudad de México	F	40	2020-03-18	confirmado	Contacto		2020-03-22
+20200322_255	Chihuahua	M	47	2020-03-18	confirmado	Estados Unidos	2020-03-13	2020-03-22
+20200322_257	Ciudad de México	M	35	2020-08-03	confirmado	España	2020-08-03	2020-03-22
+20200322_259	Ciudad de México	M	52	2020-11-03	confirmado	Contacto		2020-03-22
+20200322_261	Michoacán	M	36	2020-09-03	confirmado	España	2020-03-15	2020-03-22
+20200322_262	Sinaloa	M	55	2020-03-17	confirmado	Contacto		2020-03-22
+20200322_263	Baja California	M	27	2020-03-13	confirmado	Francia	2020-03-13	2020-03-22
+20200322_264	Chihuahua	F	19	2020-03-13	confirmado	España	2020-03-14	2020-03-22
+20200322_266	Chihuahua	F	21	2020-03-16	confirmado	España	2020-03-14	2020-03-22
+20200322_267	Ciudad de México	M	51	2020-03-17	confirmado	Contacto	2020-08-03	2020-03-22
+20200322_270	Hidalgo	F	55	2020-12-03	confirmado	Contacto		2020-03-22
+20200322_271	San Luis Potosí	F	27	2020-03-17	confirmado	Estados Unidos	2020-03-18	2020-03-22
+20200322_273	San Luis Potosí	M	21	2020-03-19	confirmado	Contacto	2020-03-18	2020-03-22
+20200322_274	San Luis Potosí	M	34	2020-03-18	confirmado	Francia	2020-05-03	2020-03-22
+20200322_275	Campeche	M	52	2020-12-03	confirmado	España	2020-03-18	2020-03-22
+20200322_276	Hidalgo	F	26	2020-03-18	confirmado	Francia	2020-03-17	2020-03-22
+20200322_277	Tabasco	F	71	2020-03-17	confirmado	España	2020-03-17	2020-03-22
+20200322_278	Yucatán	F	17	2020-10-03	confirmado	Estados Unidos	2020-08-03	2020-03-22
+20200322_279	Yucatán	F	19	2020-10-03	confirmado	Estados Unidos	2020-08-03	2020-03-22
+20200322_280	Yucatán	M	39	2020-03-14	confirmado	Estados Unidos	2020-03-14	2020-03-22
+20200322_281	Sonora	M	30	2020-03-18	confirmado	Francia	2020-03-13	2020-03-22
+20200322_282	Michoacán	F	57	2020-03-15	confirmado	Contacto	2020-03-15	2020-03-22
+20200322_283	Michoacán	M	57	2020-03-18	confirmado	Contacto	2020-03-15	2020-03-22
+20200322_284	Yucatán	M	0	2020-03-17	confirmado	Contacto		2020-03-22
+20200322_285	Baja California	F	49	2020-12-03	confirmado	Contacto		2020-03-22
+20200322_286	Zacatecas	M	39	2020-03-19	confirmado	Contacto	2020-03-19	2020-03-22
+20200322_288	México	M	44	2020-02-19	confirmado	Italia	2020-02-22	2020-03-22
+20200322_289	México	F	52	2020-10-03	confirmado	España	2020-12-03	2020-03-22
+20200322_290	Coahuila	M	43	2020-03-16	confirmado	Estados Unidos	2020-03-13	2020-03-22
+20200322_291	México	M	31	2020-03-13	confirmado	Estados Unidos	2020-07-03	2020-03-22
+20200322_292	Tamaulipas	F	21	2020-03-16	confirmado	España	2020-12-03	2020-03-22
+20200322_293	Jalisco	M	25	2020-03-13	confirmado	Estados Unidos	2020-06-03	2020-03-22
+20200322_294	Jalisco	M	40	2020-10-03	confirmado	Estados Unidos	2020-07-03	2020-03-22
+20200322_295	Jalisco	M	31	2020-03-18	confirmado	Estados Unidos	2020-08-03	2020-03-22
+20200322_296	Jalisco	F	38	2020-11-03	confirmado	Estados Unidos	2020-07-03	2020-03-22
+20200322_297	Jalisco	M	32	2020-03-13	confirmado	Estados Unidos	2020-02-03	2020-03-22
+20200322_298	Jalisco	M	30	2020-03-18	confirmado	Estados Unidos	2020-09-03	2020-03-22
+20200322_299	Coahuila	M	42	2020-03-18	confirmado	Estados Unidos	2020-11-03	2020-03-22
+20200322_300	Coahuila	M	11	2020-03-18	confirmado	Estados Unidos	2020-11-03	2020-03-22
+20200322_301	Coahuila	M	42	2020-03-18	confirmado	Estados Unidos		2020-03-22
+20200322_302	México	M	46	2020-03-18	confirmado	Contacto		2020-03-22
+20200322_303	México	M	62	2020-03-16	confirmado	España	2020-03-19	2020-03-22
+20200322_304	Jalisco	M	24	2020-03-17	confirmado	Contacto	2020-03-15	2020-03-22
+20200322_305	Yucatán	F	42	2020-03-18	confirmado	Francia	2020-03-18	2020-03-22
+20200322_306	Nuevo León	M	60	2020-03-14	confirmado	España	2020-03-13	2020-03-22
+20200322_307	Oaxaca	M	22	2020-03-16	confirmado	Contacto		2020-03-22
+20200322_308	Nuevo León	M	57	2020-03-13	confirmado	Estados Unidos	2020-12-03	2020-03-22
+20200322_309	Nuevo León	M	22	2020-03-14	confirmado	Estados Unidos	2020-03-13	2020-03-22
+20200322_310	Coahuila	M	76	2020-03-20	confirmado	España	2020-03-14	2020-03-22
+20200322_311	Coahuila	M	42	2020-03-20	confirmado	España	2020-03-14	2020-03-22
+20200322_312	Coahuila	F	42	2020-03-20	confirmado	España	2020-03-14	2020-03-22
+20200322_313	Sonora	M	22	2020-11-03	confirmado	España	2020-03-17	2020-03-22
+20200322_314	México	M	24	2020-03-20	confirmado	Italia	2020-03-14	2020-03-22
+20200322_315	México	F	29	2020-03-20	confirmado	España	2020-03-15	2020-03-22
+20200322_316	México	F	29	2020-12-03	confirmado	Estados Unidos	2020-02-27	2020-03-22
+20200323_126	Ciudad de México	M	35	2020-10-03	confirmado	Estados Unidos	2020-10-03	2020-03-23
+20200323_182	Jalisco	F	35	2020-11-03	confirmado	Italia	2020-03-14	2020-03-23
+20200323_219	Aguascalientes	M	44	2020-03-17	confirmado	España	2020-03-17	2020-03-23
+20200323_295	Guanajuato	M	34	2020-03-16	confirmado	Estados Unidos	2020-03-17	2020-03-23
+20200323_296	Guanajuato	F	58	2020-03-16	confirmado	Francia	2020-03-17	2020-03-23
+20200323_297	Guanajuato	M	43	2020-03-18	confirmado	Estados Unidos	2020-03-18	2020-03-23
+20200323_307	Coahuila	M	53	2020-03-17	confirmado	Estados Unidos	2020-11-03	2020-03-23
+20200323_313	Coahuila	F	30	2020-03-13	confirmado	Estados Unidos	2020-03-18	2020-03-23
+20200323_314	Hidalgo	F	40	2020-03-19	confirmado	Contacto	2020-03-13	2020-03-23
+20200323_322	Hidalgo	F	19	2020-03-20	confirmado	Contacto		2020-03-23
+20200323_324	Baja California Sur	F	33	2020-03-16	confirmado	Contacto	2020-07-03	2020-03-23
+20200323_325	Queretaro	M	37	2020-03-16	confirmado	Contacto		2020-03-23
+20200323_326	Jalisco	M	55	2020-03-13	confirmado	Contacto		2020-03-23
+20200323_330	Queretaro	F	30	2020-03-21	confirmado	España	2020-03-15	2020-03-23
+20200323_331	Campeche	F	59	2020-06-03	confirmado	España	2020-03-15	2020-03-23
+20200323_332	Quintana Roo	M	65	2020-03-18	confirmado	España	2020-03-15	2020-03-23
+20200323_333	Jalisco	M	28	2020-03-16	confirmado	Estados Unidos	2020-06-03	2020-03-23
+20200323_334	Baja California	M	30	2020-03-19	confirmado	Estados Unidos	2020-09-03	2020-03-23
+20200323_335	Zacatecas	M	28	2020-03-18	confirmado	España	2020-03-15	2020-03-23
+20200323_336	Tabasco	M	30	2020-03-13	confirmado	Estados Unidos	2020-11-03	2020-03-23
+20200323_337	Quintana Roo	M	60	2020-03-17	confirmado	España	2020-03-15	2020-03-23
+20200323_338	Quintana Roo	M	46	2020-03-15	confirmado	Contacto		2020-03-23
+20200323_339	Aguascalientes	M	18	2020-03-19	confirmado	España	2020-03-16	2020-03-23
+20200323_340	Quintana Roo	F	12	2020-03-15	confirmado	Contacto		2020-03-23
+20200323_341	Quintana Roo	F	52	2020-03-17	confirmado	España	2020-03-15	2020-03-23
+20200323_342	Jalisco	F	24	2020-03-14	confirmado	Contacto		2020-03-23
+20200323_343	Jalisco	M	19	2020-03-16	confirmado	España	2020-03-16	2020-03-23
+20200323_344	Michoacán	F	48	2020-03-15	confirmado	Contacto	2020-03-15	2020-03-23
+20200323_345	Michoacán	M	58	2020-03-15	confirmado	Contacto	2020-03-15	2020-03-23
+20200323_346	Quintana Roo	M	44	2020-03-14	confirmado	Contacto		2020-03-23
+20200323_347	San Luis Potosí	M	37	2020-03-19	confirmado	Estados Unidos	2020-03-17	2020-03-23
+20200323_348	San Luis Potosí	F	32	2020-03-18	confirmado	Estados Unidos	2020-03-17	2020-03-23
+20200323_349	San Luis Potosí	M	38	2020-03-18	confirmado	Estados Unidos	2020-03-17	2020-03-23
+20200323_350	Michoacán	F	50	2020-03-15	confirmado	Contacto	2020-03-15	2020-03-23
+20200323_351	Michoacán	M	56	2020-03-15	confirmado	Contacto	2020-03-15	2020-03-23
+20200323_352	San Luis Potosí	M	70	2020-03-15	confirmado	Contacto		2020-03-23
+20200323_353	Baja California	M	51	2020-03-21	confirmado	Contacto		2020-03-23
+20200323_354	Guerrero	F	36	2020-03-17	confirmado	Contacto		2020-03-23
+20200323_355	Quintana Roo	F	21	2020-03-18	confirmado	Contacto	2020-03-18	2020-03-23
+20200323_356	Quintana Roo	F	19	2020-11-03	confirmado	Estados Unidos	2020-09-03	2020-03-23
+20200323_357	Quintana Roo	M	48	2020-03-19	confirmado	Contacto	2020-03-13	2020-03-23
+20200323_358	Tamaulipas	M	29	2020-03-20	confirmado	Contacto		2020-03-23
+20200323_359	Oaxaca	F	34	2020-03-20	confirmado	Francia	2020-03-17	2020-03-23
+20200323_360	Nuevo León	F	30	2020-03-17	confirmado	Contacto		2020-03-23
+20200323_361	Nuevo León	M	55	2020-03-18	confirmado	Contacto		2020-03-23
+20200323_362	Nuevo León	M	32	2020-03-15	confirmado	Contacto		2020-03-23
+20200323_363	Nuevo León	M	35	2020-03-17	confirmado	Estados Unidos	2020-03-15	2020-03-23
+20200323_364	Nuevo León	M	39	2020-03-14	confirmado	Contacto	2020-03-13	2020-03-23
+20200323_365	Ciudad de México	M	77	2020-03-16	confirmado	Contacto		2020-03-23
+20200323_366	Ciudad de México	F	45	2020-03-20	confirmado	Contacto		2020-03-23
+20200323_367	Ciudad de México	M	52	2020-03-19	confirmado	Contacto		2020-03-23
+20200324_333	Puebla	M	29	2020-03-13	confirmado	Contacto		2020-03-24
+20200324_334	Puebla	M	33	2020-03-13	confirmado	Estados Unidos	2020-12-03	2020-03-24
+20200324_336	Puebla	F	49	2020-03-14	confirmado	España	2020-04-03	2020-03-24
+20200324_339	Ciudad de México	M	60	2020-03-18	confirmado	Contacto		2020-03-24
+20200324_340	Ciudad de México	M	38	2020-03-13	confirmado	Contacto		2020-03-24
+20200324_341	Ciudad de México	M	37	2020-03-15	confirmado	Contacto	2020-03-16	2020-03-24
+20200324_342	Puebla	F	28	2020-03-15	confirmado	Estados Unidos	2020-03-17	2020-03-24
+20200324_349	Quintana Roo	M	16	2020-03-13	confirmado	Contacto		2020-03-24
+20200324_361	Guanajuato	F	20	2020-03-15	confirmado	España	2020-03-16	2020-03-24
+20200324_362	Guanajuato	F	32	2020-03-16	confirmado	España	2020-03-16	2020-03-24
+20200324_363	Puebla	F	39	2020-03-18	confirmado	Estados Unidos	2020-03-13	2020-03-24
+20200324_364	Nuevo León	F	63	2020-03-13	confirmado	Francia	2020-03-14	2020-03-24
+20200324_379	Nuevo León	M	37	2020-03-17	confirmado	España	2020-03-18	2020-03-24
+20200324_381	Nuevo León	M	40	2020-11-03	confirmado	Estados Unidos	2020-09-03	2020-03-24
+20200324_382	Nuevo León	F	66	2020-03-19	confirmado	Contacto		2020-03-24
+20200324_383	Nuevo León	M	20	2020-03-15	confirmado	Estados Unidos	2020-03-14	2020-03-24
+20200324_384	Nuevo León	M	21	2020-03-14	confirmado	España	2020-03-15	2020-03-24
+20200324_385	Nuevo León	F	24	2020-03-17	confirmado	Estados Unidos	2020-03-16	2020-03-24
+20200324_386	Nuevo León	M	42	2020-03-13	confirmado	Estados Unidos	2020-10-03	2020-03-24
+20200324_387	Yucatán	M	63	2020-08-03	confirmado	Contacto		2020-03-24
+20200324_388	Nuevo León	F	27	2020-03-20	confirmado	Estados Unidos	2020-03-18	2020-03-24
+20200324_389	Nuevo León	M	28	2020-03-14	confirmado	Estados Unidos	2020-03-15	2020-03-24
+20200324_390	Nuevo León	M	30	2020-03-15	confirmado	Estados Unidos	2020-09-03	2020-03-24
+20200324_391	Puebla	F	76	2020-03-17	confirmado	Estados Unidos	2020-03-20	2020-03-24
+20200324_392	Ciudad de México	F	61	2020-03-16	confirmado	Italia	2020-12-03	2020-03-24
+20200324_393	Nuevo León	F	27	2020-09-03	confirmado	Italia	2020-07-03	2020-03-24
+20200324_394	Yucatán	M	38	2020-08-03	confirmado	España	2020-04-03	2020-03-24
+20200324_395	Guerrero	F	74	2020-08-03	confirmado	España	2020-04-03	2020-03-24
+20200324_396	Guanajuato	F	56	2020-03-16	confirmado	Francia	2020-03-17	2020-03-24
+20200324_397	Guanajuato	F	53	2020-03-16	confirmado	Francia	2020-03-17	2020-03-24
+20200324_398	Guanajuato	F	48	2020-03-21	confirmado	Francia	2020-03-17	2020-03-24
+20200324_399	Michoacán	M	49	2020-03-15	confirmado	España	2020-03-15	2020-03-24
+20200324_400	Yucatán	M	28	2020-03-19	confirmado	Francia	2020-03-15	2020-03-24
+20200324_401	Yucatán	F	30	2020-03-19	confirmado	Francia	2020-03-18	2020-03-24
+20200324_402	Yucatán	F	40	2020-03-14	confirmado	Contacto		2020-03-24
+20200324_403	Ciudad de México	M	38	2020-10-03	confirmado	Contacto		2020-03-24
+20200324_404	Ciudad de México	M	64	2020-03-15	confirmado	Francia	2020-11-03	2020-03-24
+20200324_405	Chihuahua	F	18	2020-03-21	confirmado	España	2020-03-18	2020-03-24
+20200325_126	Chiapas	M	63	2020-03-23	confirmado	Estados Unidos	2020-11-03	2020-03-25
+20200325_397	Puebla	M	51	2020-03-13	confirmado	Contacto		2020-03-25
+20200325_398	Puebla	F	66	2020-03-15	confirmado	España	2020-09-03	2020-03-25
+20200325_399	Puebla	M	28	2020-03-16	confirmado	Estados Unidos	2020-03-15	2020-03-25
+20200325_400	Ciudad de México	F	47	2020-03-18	confirmado	Contacto		2020-03-25
+20200325_401	Puebla	M	73	2020-03-16	confirmado	España	2020-03-15	2020-03-25
+20200325_402	Aguascalientes	F	40	2020-03-18	confirmado	Contacto	2020-03-15	2020-03-25
+20200325_403	Ciudad de México	M	76	2020-10-03	confirmado	Francia	2020-11-03	2020-03-25
+20200325_407	Aguascalientes	F	47	2020-12-03	confirmado	Contacto	2020-08-03	2020-03-25
+20200325_408	Ciudad de México	M	46	2020-03-17	confirmado	Estados Unidos	2020-02-03	2020-03-25
+20200325_410	Ciudad de México	M	10	2020-03-13	confirmado	Contacto		2020-03-25
+20200325_411	Ciudad de México	F	88	2020-03-20	confirmado	Contacto		2020-03-25
+20200325_415	Ciudad de México	F	79	2020-03-18	confirmado	Contacto		2020-03-25
+20200325_416	Aguascalientes	M	47	2020-03-18	confirmado	Contacto		2020-03-25
+20200325_418	Puebla	F	23	2020-11-03	confirmado	España	2020-03-15	2020-03-25
+20200325_420	Ciudad de México	M	76	2020-03-21	confirmado	Contacto	2020-03-21	2020-03-25
+20200325_422	Nayarit	F	66	2020-03-19	confirmado	Estados Unidos	2020-12-03	2020-03-25
+20200325_423	México	M	67	2020-03-13	confirmado	Contacto		2020-03-25
+20200325_424	Puebla	F	69	2020-03-17	confirmado	Contacto		2020-03-25
+20200325_425	México	F	62	2020-03-13	confirmado	Contacto		2020-03-25
+20200325_426	Puebla	M	72	2020-03-16	confirmado	Contacto		2020-03-25
+20200325_427	Puebla	F	38	2020-03-18	confirmado	Estados Unidos	2020-03-18	2020-03-25
+20200325_428	Oaxaca	F	62	2020-03-20	confirmado	Contacto	2020-03-21	2020-03-25
+20200325_429	Oaxaca	F	21	2020-03-19	confirmado	Contacto		2020-03-25
+20200325_430	Guerrero	F	82	2020-03-23	confirmado	España	2020-03-13	2020-03-25
+20200325_431	Puebla	F	48	2020-03-19	confirmado	Contacto		2020-03-25
+20200325_432	Puebla	M	31	2020-03-13	confirmado	España	2020-03-15	2020-03-25
+20200325_433	Puebla	M	26	2020-12-03	confirmado	Contacto		2020-03-25
+20200325_434	Yucatán	M	51	2020-03-18	confirmado	España	2020-03-16	2020-03-25
+20200325_435	Yucatán	F	60	2020-10-03	confirmado	Francia	2020-03-19	2020-03-25
+20200325_436	Puebla	M	24	2020-03-20	confirmado	Contacto		2020-03-25
+20200325_437	Guanajuato	F	56	2020-03-16	confirmado	Francia	2020-03-17	2020-03-25
+20200325_438	Guanajuato	F	22	2020-03-17	confirmado	España	2020-03-16	2020-03-25
+20200325_439	Guanajuato	M	65	2020-03-20	confirmado	España	2020-03-14	2020-03-25
+20200325_440	Guanajuato	F	47	2020-03-16	confirmado	Francia	2020-03-17	2020-03-25
+20200325_441	Guanajuato	M	29	2020-03-16	confirmado	España	2020-03-16	2020-03-25
+20200325_442	Guanajuato	F	41	2020-03-18	confirmado	España	2020-03-16	2020-03-25
+20200325_443	Guanajuato	M	24	2020-03-15	confirmado	Estados Unidos	2020-03-19	2020-03-25
+20200325_444	Ciudad de México	F	60	2020-03-14	confirmado	Contacto		2020-03-25
+20200325_445	Ciudad de México	M	28	2020-02-03	confirmado	Estados Unidos	2020-03-15	2020-03-25
+20200325_446	Ciudad de México	F	53	2020-10-03	confirmado	Francia	2020-03-18	2020-03-25
+20200325_447	Ciudad de México	M	47	2020-03-17	confirmado	España	2020-03-14	2020-03-25
+20200325_448	Ciudad de México	M	20	2020-03-16	confirmado	Contacto	2020-03-16	2020-03-25
+20200325_449	Michoacán	F	49	2020-03-16	confirmado	España	2020-03-15	2020-03-25
+20200325_450	Ciudad de México	F	29	2020-03-16	confirmado	Estados Unidos	2020-09-03	2020-03-25
+20200325_451	Tamaulipas	M	75	2020-03-22	confirmado	Contacto		2020-03-25
+20200325_452	Baja California Sur	M	40	2020-03-21	confirmado	Contacto		2020-03-25
+20200325_453	Baja California Sur	F	31	2020-03-21	confirmado	Contacto		2020-03-25
+20200325_454	México	M	45	2020-03-16	confirmado	Estados Unidos	2020-03-03	2020-03-25
+20200325_455	Chiapas	M	45	2020-03-13	confirmado	Contacto		2020-03-25
+20200325_456	Tlaxcala	F	19	2020-03-16	confirmado	Estados Unidos	2020-03-21	2020-03-25
+20200325_457	Ciudad de México	F	65	2020-03-16	confirmado	España	2020-03-14	2020-03-25
+20200325_458	Ciudad de México	F	34	2020-03-19	confirmado	Contacto		2020-03-25
+20200325_459	Aguascalientes	M	53	2020-03-23	confirmado	España	2020-03-23	2020-03-25
+20200325_460	Baja California	F	50	2020-03-18	confirmado	Contacto		2020-03-25
+20200325_461	Baja California Sur	M	46	2020-03-21	confirmado	Estados Unidos	2020-03-20	2020-03-25
+20200325_462	Aguascalientes	F	59	2020-03-23	confirmado	Contacto		2020-03-25
+20200325_463	Ciudad de México	M	58	2020-12-03	confirmado	Contacto		2020-03-25
+20200325_464	Aguascalientes	M	60	2020-03-20	confirmado	Francia	2020-12-03	2020-03-25
+20200325_465	Yucatán	M	30	2020-03-18	confirmado	Estados Unidos	2020-03-14	2020-03-25
+20200325_466	Oaxaca	F	16	2020-03-23	confirmado	Contacto	2020-03-23	2020-03-25
+20200325_467	Yucatán	F	42	2020-03-22	confirmado	Estados Unidos	2020-03-14	2020-03-25
+20200325_468	Queretaro	M	21	2020-03-22	confirmado	España	2020-03-13	2020-03-25
+20200325_469	México	M	69	2020-03-18	confirmado	España	2020-03-15	2020-03-25
+20200325_470	Queretaro	F	46	2020-03-20	confirmado	Francia	2020-06-03	2020-03-25
+20200325_471	San Luis Potosí	F	33	2020-03-22	confirmado	España	2020-03-14	2020-03-25
+20200325_472	Nayarit	M	53	2020-03-21	confirmado	Contacto	2020-03-24	2020-03-25
+20200325_473	Nayarit	M	53	2020-03-24	confirmado	Contacto	2020-03-24	2020-03-25
+20200325_474	Michoacán	F	62	2020-03-15	confirmado	Contacto	2020-03-15	2020-03-25
+20200325_475	Yucatán	M	53	2020-03-19	confirmado	Contacto	2020-12-03	2020-03-25
+20200326_428	Oaxaca	M	56	2020-03-20	confirmado	Contacto		2020-03-26
+20200326_443	Tabasco	F	57	2020-03-18	confirmado	España	2020-03-18	2020-03-26
+20200326_444	Hidalgo	F	16	2020-03-20	confirmado	Contacto		2020-03-26
+20200326_445	Hidalgo	M	17	2020-03-13	confirmado	Contacto		2020-03-26
+20200326_447	Jalisco	M	36	2020-03-15	confirmado	Estados Unidos	2020-08-03	2020-03-26
+20200326_448	Jalisco	F	25	2020-03-13	confirmado	Estados Unidos	2020-06-03	2020-03-26
+20200326_451	Quintana Roo	M	42	2020-03-21	confirmado	Estados Unidos	2020-03-19	2020-03-26
+20200326_453	Jalisco	F	50	2020-12-03	confirmado	España	2020-09-03	2020-03-26
+20200326_454	Jalisco	F	38	2020-03-20	confirmado	Contacto	2020-03-23	2020-03-26
+20200326_462	Jalisco	M	49	2020-12-03	confirmado	Estados Unidos	2020-08-03	2020-03-26
+20200326_468	Morelos	F	35	2020-03-16	confirmado	Estados Unidos	2020-03-16	2020-03-26
+20200326_470	Ciudad de México	M	45	2020-03-13	confirmado	España	2020-03-19	2020-03-26
+20200326_472	Jalisco	F	33	2020-03-21	confirmado	Contacto		2020-03-26
+20200326_473	Jalisco	F	20	2020-03-22	confirmado	Contacto		2020-03-26
+20200326_476	Hidalgo	F	24	2020-03-13	confirmado	Contacto		2020-03-26
+20200326_477	Quintana Roo	M	20	2020-03-13	confirmado	Estados Unidos	2020-03-21	2020-03-26
+20200326_479	Puebla	F	31	2020-03-16	confirmado	España	2020-03-15	2020-03-26
+20200326_480	Jalisco	M	58	2020-03-20	confirmado	España	2020-03-17	2020-03-26
+20200326_481	Michoacán	F	69	2020-03-15	confirmado	Contacto	2020-03-23	2020-03-26
+20200326_483	Quintana Roo	F	30	2020-03-21	confirmado	Francia	2020-03-21	2020-03-26
+20200326_484	Sinaloa	F	47	2020-03-16	confirmado	España	2020-03-15	2020-03-26
+20200326_485	Jalisco	F	20	2020-03-20	confirmado	Estados Unidos	2020-07-03	2020-03-26
+20200326_486	Jalisco	M	72	2020-03-18	confirmado	Francia	2020-03-17	2020-03-26
+20200326_490	Jalisco	M	54	2020-12-03	confirmado	Estados Unidos	2020-08-03	2020-03-26
+20200326_493	Jalisco	M	21	2020-12-03	confirmado	Estados Unidos	2020-07-03	2020-03-26
+20200326_494	Hidalgo	M	71	2020-03-16	confirmado	Estados Unidos	2020-03-13	2020-03-26
+20200326_495	Jalisco	F	49	2020-03-17	confirmado	Contacto		2020-03-26
+20200326_496	Quintana Roo	M	74	2020-03-15	confirmado	Contacto		2020-03-26
+20200326_497	Quintana Roo	M	51	2020-12-03	confirmado	Estados Unidos	2020-09-03	2020-03-26
+20200326_498	Jalisco	F	48	2020-06-03	confirmado	Estados Unidos	2020-05-02	2020-03-26
+20200326_499	Jalisco	F	20	2020-03-16	confirmado	Contacto		2020-03-26
+20200326_501	Jalisco	M	72	2020-12-03	confirmado	Estados Unidos	2020-06-03	2020-03-26
+20200326_502	México	F	26	2020-03-18	confirmado	España	2020-03-21	2020-03-26
+20200326_503	Puebla	F	22	2020-03-22	confirmado	Contacto		2020-03-26
+20200326_504	Nuevo León	F	30	2020-03-18	confirmado	España	2019-03-16	2020-03-26
+20200326_505	Puebla	F	47	2020-03-16	confirmado	Estados Unidos	2020-03-15	2020-03-26
+20200326_506	Puebla	M	42	2020-03-18	confirmado	Contacto		2020-03-26
+20200326_507	Jalisco	M	50	2020-03-14	confirmado	Contacto		2020-03-26
+20200326_509	Puebla	M	48	2020-03-16	confirmado	Estados Unidos	2020-03-15	2020-03-26
+20200326_510	Sinaloa	F	30	2020-03-17	confirmado	Estados Unidos	2020-03-15	2020-03-26
+20200326_511	Sinaloa	M	72	2020-03-14	confirmado	Contacto		2020-03-26
+20200326_512	Coahuila	M	42	2020-03-19	confirmado	Contacto		2020-03-26
+20200326_513	Nuevo León	F	26	2020-03-21	confirmado	Contacto		2020-03-26
+20200326_514	Baja California	F	50	2020-03-15	confirmado	Estados Unidos	2020-03-13	2020-03-26
+20200326_515	Morelos	F	61	2020-03-23	confirmado	Contacto		2020-03-26
+20200326_516	Sonora	M	44	2020-03-17	confirmado	España	2020-10-03	2020-03-26
+20200326_517	Tabasco	M	46	2020-03-20	confirmado	Contacto		2020-03-26
+20200326_518	Nuevo León	M	26	2020-03-18	confirmado	España	2020-03-16	2020-03-26
+20200326_519	Nuevo León	M	41	2020-09-03	confirmado	Estados Unidos	2020-09-03	2020-03-26
+20200326_520	Sonora	M	24	2020-03-17	confirmado	Estados Unidos	2020-03-19	2020-03-26
+20200326_522	Puebla	M	27	2020-03-23	confirmado	Contacto		2020-03-26
+20200326_523	Puebla	F	35	2020-03-21	confirmado	Contacto		2020-03-26
+20200326_526	Sonora	F	50	2020-03-20	confirmado	España	2020-03-16	2020-03-26
+20200326_528	Queretaro	M	38	2020-03-14	confirmado	Contacto		2020-03-26
+20200326_529	Aguascalientes	F	74	2020-03-22	confirmado	Contacto		2020-03-26
+20200326_530	Yucatán	M	23	2020-03-17	confirmado	Francia	2020-03-21	2020-03-26
+20200326_531	Yucatán	M	58	2020-03-20	confirmado	Contacto		2020-03-26
+20200326_532	Yucatán	M	67	2020-03-22	confirmado	Contacto	2020-03-21	2020-03-26
+20200326_533	Sinaloa	M	26	2020-03-20	confirmado	Contacto		2020-03-26
+20200326_534	Queretaro	M	23	2020-03-20	confirmado	Estados Unidos	2020-03-17	2020-03-26
+20200326_535	Quintana Roo	M	75	2020-03-25	confirmado	Contacto	2020-03-20	2020-03-26
+20200326_536	Tabasco	F	28	2020-03-19	confirmado	Contacto		2020-03-26
+20200326_537	Quintana Roo	F	49	2020-03-20	confirmado	Estados Unidos	2020-03-20	2020-03-26
+20200326_538	Queretaro	F	62	2020-03-17	confirmado	Contacto		2020-03-26
+20200326_539	Nuevo León	M	40	2020-05-03	confirmado	Estados Unidos	2020-10-03	2020-03-26
+20200326_540	Guanajuato	M	51	2020-03-20	confirmado	España	2020-03-15	2020-03-26
+20200326_541	Guanajuato	F	28	2020-03-20	confirmado	Contacto	2020-03-16	2020-03-26
+20200326_542	Zacatecas	F	57	2020-12-03	confirmado	Contacto	2020-02-29	2020-03-26
+20200326_543	Guanajuato	F	59	2020-03-20	confirmado	Contacto		2020-03-26
+20200326_544	Guanajuato	M	26	2020-03-15	confirmado	España	2020-03-14	2020-03-26
+20200326_545	Baja California	M	25	2020-03-20	confirmado	Contacto	2020-03-21	2020-03-26
+20200326_546	Jalisco	F	19	2020-03-17	confirmado	Francia	2020-11-03	2020-03-26
+20200326_547	Jalisco	F	19	2020-03-16	confirmado	Estados Unidos	2020-03-15	2020-03-26
+20200326_548	Baja California	F	41	2020-03-20	confirmado	Estados Unidos	2020-03-19	2020-03-26
+20200326_549	Baja California Sur	M	44	2020-03-20	confirmado	Estados Unidos	2020-03-14	2020-03-26
+20200326_550	Baja California	M	30	2020-03-16	confirmado	España	2020-03-18	2020-03-26
+20200326_551	Puebla	M	50	2020-03-22	confirmado	Contacto		2020-03-26
+20200326_552	Baja California	F	64	2020-03-13	confirmado	Contacto		2020-03-26
+20200326_553	Baja California Sur	M	66	2020-03-22	confirmado	Estados Unidos		2020-03-26
+20200326_554	Puebla	F	60	2020-03-16	confirmado	Estados Unidos		2020-03-26
+20200326_555	Tabasco	F	26	2020-03-16	confirmado	Contacto		2020-03-26
+20200326_556	Tabasco	F	53	2020-03-21	confirmado	Contacto		2020-03-26
+20200326_557	Tabasco	M	31	2020-03-21	confirmado	Contacto		2020-03-26
+20200326_558	Tabasco	F	29	2020-03-13	confirmado	Contacto		2020-03-26
+20200326_559	Tabasco	M	67	2020-03-19	confirmado	Contacto		2020-03-26
+20200326_560	Puebla	M	44	2020-03-18	confirmado	Contacto		2020-03-26
+20200326_561	Puebla	M	27	2020-03-23	confirmado	Estados Unidos		2020-03-26
+20200326_562	Tabasco	M	31	2020-03-17	confirmado	Contacto		2020-03-26
+20200326_563	Tabasco	F	58	2020-03-18	confirmado	Contacto		2020-03-26
+20200326_564	México	F	68	2020-03-17	confirmado	Contacto		2020-03-26
+20200326_565	México	F	49	2020-02-03	confirmado	Contacto		2020-03-26
+20200326_566	México	F	22	2020-03-24	confirmado	Contacto		2020-03-26
+20200326_567	México	F	22	2020-03-16	confirmado	Contacto		2020-03-26
+20200326_568	México	M	36	2020-03-16	confirmado	España		2020-03-26
+20200326_569	México	F	33	2020-12-03	confirmado	Contacto		2020-03-26
+20200326_570	México	M	37	2020-03-21	confirmado	Contacto		2020-03-26
+20200326_571	Hidalgo	F	49	2020-03-23	confirmado	Contacto		2020-03-26
+20200326_572	México	F	36	2020-03-16	confirmado	Contacto		2020-03-26
+20200326_573	México	F	31	2020-03-21	confirmado	Contacto		2020-03-26
+20200326_574	México	F	48	2020-03-16	confirmado	Contacto		2020-03-26
+20200326_575	México	M	60	2020-03-20	confirmado	Contacto		2020-03-26
+20200326_576	México	F	33	2020-03-22	confirmado	Contacto		2020-03-26
+20200326_577	San Luis Potosí	M	56	2020-03-13	confirmado	Contacto		2020-03-26
+20200326_578	México	F	33	2020-10-03	confirmado	Contacto		2020-03-26
+20200326_579	Tabasco	M	26	2020-09-03	confirmado	Contacto		2020-03-26
+20200326_580	México	F	28	2020-03-21	confirmado	Contacto		2020-03-26
+20200326_581	México	F	43	2020-03-23	confirmado	Contacto		2020-03-26
+20200326_582	México	F	46	2020-03-23	confirmado	Contacto		2020-03-26
+20200326_583	México	F	28	2020-03-16	confirmado	Contacto		2020-03-26
+20200326_584	México	F	31	2020-03-19	confirmado	Contacto		2020-03-26
+20200326_585	México	M	41	2020-03-24	confirmado	Contacto		2020-03-26
+20200327_101	México	M	39	2020-03-14	confirmado	Contacto		2020-03-27
+20200327_102	México	M	45	2020-03-13	confirmado	Contacto		2020-03-27
+20200327_103	México	F	22	2020-03-16	confirmado	España	2020-03-15	2020-03-27
+20200327_104	México	F	24	2020-09-03	confirmado	Contacto	2020-08-03	2020-03-27
+20200327_105	México	M	75	2020-06-03	confirmado	Contacto		2020-03-27
+20200327_110	México	M	61	2020-08-03	confirmado	España	2020-08-03	2020-03-27
+20200327_111	México	M	21	2020-07-03	confirmado	España	2020-03-13	2020-03-27
+20200327_112	México	F	23	2020-07-03	confirmado	España	2020-03-13	2020-03-27
+20200327_114	México	M	55	2020-09-03	confirmado	Estados Unidos	2020-09-03	2020-03-27
+20200327_115	México	M	31	2020-03-13	confirmado	España	2020-03-13	2020-03-27
+20200327_240	Ciudad de México	M	47	2020-06-03	confirmado	Estados Unidos	2020-02-03	2020-03-27
+20200327_346	México	M	63	2020-12-03	confirmado	España	2020-04-03	2020-03-27
+20200327_351	México	M	51	2020-05-03	confirmado	Contacto		2020-03-27
+20200327_372	Ciudad de México	M	44	2020-11-03	confirmado	España	2020-03-15	2020-03-27
+20200327_374	México	M	60	2020-03-14	confirmado	España	2020-12-03	2020-03-27
+20200327_553	Sonora	F	45	2020-03-15	confirmado	España	2020-03-16	2020-03-27
+20200327_554	Nayarit	F	32	2020-10-03	confirmado	Francia	2020-03-18	2020-03-27
+20200327_555	Veracruz	F	26	2020-03-15	confirmado	España	2020-03-16	2020-03-27
+20200327_556	Nuevo León	F	57	2020-03-19	confirmado	Estados Unidos	2020-08-03	2020-03-27
+20200327_557	Veracruz	F	33	2020-03-16	confirmado	Estados Unidos	2020-02-27	2020-03-27
+20200327_558	México	M	42	2020-03-15	confirmado	Estados Unidos	2020-11-03	2020-03-27
+20200327_559	Ciudad de México	M	37	2020-03-17	confirmado	Contacto		2020-03-27
+20200327_560	Veracruz	F	40	2020-12-03	confirmado	España	2020-03-15	2020-03-27
+20200327_561	Veracruz	M	46	2020-03-15	confirmado	España	2020-03-14	2020-03-27
+20200327_562	Veracruz	M	40	2020-12-03	confirmado	España	2020-03-15	2020-03-27
+20200327_563	Veracruz	F	39	2020-12-03	confirmado	Estados Unidos	2020-08-03	2020-03-27
+20200327_564	Veracruz	M	51	2020-03-19	confirmado	España	2020-03-15	2020-03-27
+20200327_566	Guanajuato	M	67	2020-03-16	confirmado	Contacto	2020-03-16	2020-03-27
+20200327_568	México	F	34	2020-03-13	confirmado	España	2020-03-14	2020-03-27
+20200327_582	Tlaxcala	M	38	2020-03-16	confirmado	Contacto		2020-03-27
+20200327_584	Ciudad de México	F	55	2020-03-15	confirmado	Contacto		2020-03-27
+20200327_585	Chiapas	F	32	2020-03-20	confirmado	Estados Unidos	2020-07-03	2020-03-27
+20200327_586	Coahuila	F	41	2020-03-21	confirmado	Contacto		2020-03-27
+20200327_588	Oaxaca	F	41	2020-03-23	confirmado	Contacto		2020-03-27
+20200327_589	México	M	60	2020-03-13	confirmado	Contacto	2020-03-15	2020-03-27
+20200327_592	Durango	M	25	2020-03-23	confirmado	Estados Unidos	2020-03-18	2020-03-27
+20200327_593	Tabasco	F	23	2020-03-15	confirmado	Contacto		2020-03-27
+20200327_595	Ciudad de México	M	49	2020-03-19	confirmado	Contacto		2020-03-27
+20200327_597	Ciudad de México	F	49	2020-03-19	confirmado	Contacto		2020-03-27
+20200327_599	Oaxaca	F	20	2020-03-22	confirmado	Contacto	2020-03-19	2020-03-27
+20200327_600	Oaxaca	M	36	2020-03-21	confirmado	Contacto		2020-03-27
+20200327_602	Tabasco	F	29	2020-03-24	confirmado	España	2020-03-18	2020-03-27
+20200327_603	Michoacán	F	60	2020-03-18	confirmado	Contacto	2020-03-23	2020-03-27
+20200327_604	Tlaxcala	M	45	2020-03-17	confirmado	Contacto		2020-03-27
+20200327_605	Michoacán	F	25	2020-03-18	confirmado	Contacto		2020-03-27
+20200327_606	Ciudad de México	M	25	2020-03-19	confirmado	España	2020-03-14	2020-03-27
+20200327_607	Nuevo León	M	42	2020-03-19	confirmado	Francia	2020-03-20	2020-03-27
+20200327_608	Chiapas	F	32	2020-03-22	confirmado	Estados Unidos	2020-03-18	2020-03-27
+20200327_609	Ciudad de México	M	36	2020-03-17	confirmado	Contacto		2020-03-27
+20200327_610	Sinaloa	M	42	2020-03-22	confirmado	Contacto		2020-03-27
+20200327_611	Durango	M	80	2020-03-18	confirmado	Contacto		2020-03-27
+20200327_614	Tlaxcala	M	56	2020-03-22	confirmado	Estados Unidos	2020-03-21	2020-03-27
+20200327_617	México	F	56	2020-03-19	confirmado	Contacto		2020-03-27
+20200327_620	Nuevo León	M	23	2020-03-14	confirmado	España	2020-03-16	2020-03-27
+20200327_625	Tabasco	M	51	2020-10-03	confirmado	Contacto		2020-03-27
+20200327_628	Tabasco	F	68	2020-03-18	confirmado	Contacto		2020-03-27
+20200327_631	Chiapas	M	42	2020-03-21	confirmado	Contacto	2020-03-18	2020-03-27
+20200327_642	México	F	44	2020-05-03	confirmado	Contacto		2020-03-27
+20200327_643	Guanajuato	F	52	2020-03-17	confirmado	Contacto		2020-03-27
+20200327_644	Yucatán	F	66	2020-03-21	confirmado	Contacto		2020-03-27
+20200327_645	México	M	37	2020-03-19	confirmado	Contacto		2020-03-27
+20200327_646	Yucatán	M	72	2020-03-19	confirmado	Contacto	2020-03-21	2020-03-27
+20200327_647	Yucatán	M	36	2020-03-19	confirmado	Contacto		2020-03-27
+20200327_648	México	F	51	2020-03-18	confirmado	Contacto		2020-03-27
+20200327_649	México	M	40	2020-03-17	confirmado	Contacto		2020-03-27
+20200327_650	Yucatán	F	67	2020-03-17	confirmado	Contacto	2020-03-21	2020-03-27
+20200327_651	Ciudad de México	M	31	2020-03-16	confirmado	Contacto		2020-03-27
+20200327_652	Jalisco	M	23	2020-03-17	confirmado	Estados Unidos	2020-03-18	2020-03-27
+20200327_653	Veracruz	M	33	2020-12-03	confirmado	Estados Unidos	2020-03-19	2020-03-27
+20200327_654	Veracruz	M	38	2020-03-17	confirmado	Contacto		2020-03-27
+20200327_655	Veracruz	F	37	2020-03-18	confirmado	Contacto		2020-03-27
+20200327_656	Ciudad de México	M	41	2020-03-16	confirmado	Estados Unidos	2020-03-15	2020-03-27
+20200327_657	Jalisco	F	56	2020-03-16	confirmado	Estados Unidos	2020-09-03	2020-03-27
+20200327_658	Jalisco	M	48	2020-12-03	confirmado	Estados Unidos	2020-09-03	2020-03-27
+20200327_659	Ciudad de México	F	35	2020-03-20	confirmado	Contacto		2020-03-27
+20200327_660	Ciudad de México	F	50	2020-01-03	confirmado	Estados Unidos	2020-08-03	2020-03-27
+20200327_661	Baja California	M	28	2020-03-18	confirmado	Estados Unidos	2020-10-03	2020-03-27
+20200327_662	Ciudad de México	F	35	2020-03-15	confirmado	Contacto		2020-03-27
+20200327_663	Queretaro	M	58	2020-03-17	confirmado	Contacto		2020-03-27
+20200327_664	México	M	42	2020-03-16	confirmado	Contacto		2020-03-27
+20200327_665	Ciudad de México	M	47	2020-03-20	confirmado	Contacto	2020-06-03	2020-03-27
+20200327_666	Ciudad de México	F	45	2020-03-22	confirmado	Contacto		2020-03-27
+20200327_667	Aguascalientes	F	32	2020-03-23	confirmado	Contacto		2020-03-27
+20200327_668	Nuevo León	M	64	2020-03-18	confirmado	Estados Unidos	2020-11-03	2020-03-27
+20200327_669	Jalisco	F	50	2020-01-03	confirmado	Estados Unidos		2020-03-27
+20200327_670	Jalisco	F	49	2020-03-15	confirmado	Contacto		2020-03-27
+20200327_671	México	F	36	2020-03-21	confirmado	Contacto		2020-03-27
+20200327_672	México	F	47	2020-03-20	confirmado	Contacto		2020-03-27
+20200327_673	Jalisco	F	34	2020-03-16	confirmado	Estados Unidos	2020-07-03	2020-03-27
+20200327_674	Puebla	M	77	2020-03-21	confirmado	España	2020-03-19	2020-03-27
+20200327_675	Puebla	M	40	2020-03-18	confirmado	Contacto		2020-03-27
+20200327_676	Guanajuato	F	60	2020-03-20	confirmado	Estados Unidos	2020-03-17	2020-03-27
+20200327_677	Guanajuato	M	19	2020-03-20	confirmado	Estados Unidos	2020-03-19	2020-03-27
+20200327_678	Guanajuato	F	63	2020-03-22	confirmado	Contacto	2020-03-22	2020-03-27
+20200327_679	Guanajuato	F	43	2020-03-22	confirmado	Estados Unidos	2020-03-24	2020-03-27
+20200327_680	Michoacán	M	64	2020-03-18	confirmado	Contacto		2020-03-27
+20200327_681	Michoacán	M	71	2020-03-17	confirmado	Contacto		2020-03-27
+20200327_682	Jalisco	F	65	2020-12-03	confirmado	Estados Unidos	2020-03-17	2020-03-27
+20200327_683	Aguascalientes	F	43	2020-03-23	confirmado	Contacto		2020-03-27
+20200327_684	Aguascalientes	F	65	2020-03-23	confirmado	Contacto		2020-03-27
+20200327_685	Ciudad de México	M	35	2020-03-20	confirmado	Contacto		2020-03-27
+20200327_686	Nuevo León	F	23	2020-03-22	confirmado	España	2020-03-16	2020-03-27
+20200327_687	Aguascalientes	M	24	2020-03-20	confirmado	Contacto		2020-03-27
+20200327_688	Guanajuato	M	21	2020-03-21	confirmado	Contacto	2020-03-21	2020-03-27
+20200327_689	Jalisco	M	64	2020-03-24	confirmado	Contacto		2020-03-27
+20200327_690	Jalisco	F	18	2020-03-22	confirmado	Estados Unidos	2020-12-03	2020-03-27
+20200327_691	Jalisco	F	13	2020-03-22	confirmado	Contacto		2020-03-27
+20200327_692	Nuevo León	M	28	2020-03-20	confirmado	Contacto	2020-03-18	2020-03-27
+20200327_693	Michoacán	F	66	2020-03-22	confirmado	Contacto	2020-03-23	2020-03-27
+20200327_694	Aguascalientes	F	5	2020-03-25	confirmado	Contacto	2020-03-25	2020-03-27
+20200327_695	Queretaro	F	47	2020-03-17	confirmado	Francia	2020-03-17	2020-03-27
+20200327_696	Aguascalientes	F	37	2020-03-25	confirmado	Contacto		2020-03-27
+20200327_697	Baja California Sur	M	59	2020-03-22	confirmado	Contacto		2020-03-27
+20200327_698	Guanajuato	F	37	2020-03-20	confirmado	Contacto		2020-03-27
+20200327_699	Puebla	F	39	2020-03-21	confirmado	Contacto		2020-03-27
+20200327_700	Puebla	F	22	2020-03-20	confirmado	Contacto		2020-03-27
+20200327_701	San Luis Potosí	F	47	2020-03-18	confirmado	Estados Unidos	2020-03-18	2020-03-27
+20200327_702	Ciudad de México	M	56	2020-03-20	confirmado	Estados Unidos	2020-03-13	2020-03-27
+20200327_703	Jalisco	M	21	2020-03-21	confirmado	Contacto		2020-03-27
+20200327_704	Jalisco	F	52	2020-03-18	confirmado	Contacto		2020-03-27
+20200327_705	Jalisco	M	50	2020-03-21	confirmado	Contacto		2020-03-27
+20200327_706	Puebla	F	24	2020-03-18	confirmado	Contacto		2020-03-27
+20200327_707	Puebla	M	47	2020-03-21	confirmado	Alemania		2020-03-27
+20200327_708	Baja California Sur	M	73	2020-03-24	confirmado	Contacto		2020-03-27
+20200327_709	Ciudad de México	F	44	2020-03-20	confirmado	Contacto		2020-03-27
+20200327_710	Nuevo León	M	27	2020-03-19	confirmado	Contacto		2020-03-27
+20200327_711	Ciudad de México	M	40	2020-03-17	confirmado	Contacto		2020-03-27
+20200327_712	Ciudad de México	M	64	2020-09-03	confirmado	Estados Unidos		2020-03-27
+20200327_713	Ciudad de México	M	37	2020-03-18	confirmado	Contacto		2020-03-27
+20200327_714	Ciudad de México	M	65	2020-12-03	confirmado	España		2020-03-27
+20200327_715	Ciudad de México	M	76	2020-03-15	confirmado	Contacto		2020-03-27
+20200327_716	Ciudad de México	F	59	2020-09-03	confirmado	Contacto		2020-03-27
+20200327_717	Ciudad de México	M	59	2020-09-03	confirmado	Contacto		2020-03-27
