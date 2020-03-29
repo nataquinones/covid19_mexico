@@ -250,10 +250,10 @@ pseudo_indice	estado	sexo	edad	fecha_inicio_sintomas	id_rt-pcr	procedencia	fecha
 20200321_249	Ciudad de México	M	36	2020-03-14	confirmado	Contacto		2020-03-21
 20200321_250	Jalisco	F	38	2020-03-15	confirmado	Estados Unidos	2020-03-16	2020-03-21
 20200321_251	Colima	F	34	2020-12-03	confirmado	Estados Unidos	2020-11-03	2020-03-21
-20200322_226	Ciudad de México	M	71	2020-04-03	confirmado	España	2020-03-14	
-20200322_227	Ciudad de México	F	25	2020-09-03	confirmado	España	2020-03-13	
-20200322_228	Ciudad de México	M	43	2020-08-03	confirmado	España	2020-04-03	
-20200322_229	Ciudad de México	F	31	2020-03-03	confirmado	Alemania	2020-09-03	
+20200322_226	Ciudad de México	M	71	2020-04-03	confirmado	España	2020-03-14	2020-03-22
+20200322_227	Ciudad de México	F	25	2020-09-03	confirmado	España	2020-03-13	2020-03-22
+20200322_228	Ciudad de México	M	43	2020-08-03	confirmado	España	2020-04-03	2020-03-22
+20200322_229	Ciudad de México	F	31	2020-03-03	confirmado	Alemania	2020-09-03	2020-03-22
 20200322_237	Baja California	M	35	2020-03-18	confirmado	Estados Unidos	2020-03-16	2020-03-22
 20200322_244	Ciudad de México	M	42	2020-06-03	confirmado	Contacto		2020-03-22
 20200322_246	Jalisco	M	29	2020-03-17	confirmado	Singapur	2020-09-03	2020-03-22
