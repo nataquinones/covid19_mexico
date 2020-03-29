@@ -474,6 +474,7 @@ pseudo_indice	estado	sexo	edad	fecha_inicio_sintomas	id_rt-pcr	procedencia	fecha
 20200325_473	Nayarit	M	53	2020-03-24	confirmado	Contacto	2020-03-24	2020-03-25
 20200325_474	Michoacán	F	62	2020-03-15	confirmado	Contacto	2020-03-15	2020-03-25
 20200325_475	Yucatán	M	53	2020-03-19	confirmado	Contacto	2020-12-03	2020-03-25
+20200326_240	Jalisco	M	58	2020-03-17	confirmado	Estados Unidos	2020-04-03
 20200326_428	Oaxaca	M	56	2020-03-20	confirmado	Contacto		2020-03-26
 20200326_443	Tabasco	F	57	2020-03-18	confirmado	España	2020-03-18	2020-03-26
 20200326_444	Hidalgo	F	16	2020-03-20	confirmado	Contacto		2020-03-26
