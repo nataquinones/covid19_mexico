@@ -10,11 +10,11 @@ TO_DO
 > Última actualización: 2020-03-29
 
 El archivo más reciente de la Secretaría de Salud  se encuentra aquí:
-- [Tabla en `pdf`]()
-- [Tabla en `.tsv`]()
+- [Tabla en `pdf`](/datos/ssalud_pdf/Tabla_casos_positivos_COVID-19_resultado_InDRE_2020.03.29.pdf)
+- [Tabla en `.tsv`](/datos/tablas_originales/20200329_positivos.tsv)
 
 La tabla completa que incluye las **fechas en las que el caso fue reportado como nuevo** se encuentra aquí:
-- [Tabla completa en `.tsv`]()
+- [Tabla completa en `.tsv`](datos/tablas_procesadas/tabla_completa.tsv)
 
 ## Visualización
 
