@@ -17,6 +17,10 @@ La tabla completa que incluye las **fechas en las que el caso fue reportado como
 - [Tabla completa en `.tsv`](datos/tablas_procesadas/tabla_completa.tsv)
 
 ## Visualización
+TO_DO
+
+## Documentación
+TO_DO
 
 ## Reporte de errores
 El proceso de extraer los datos de los archivos `pdf` es inconsistente. Los archivos de la Secretaría de Salud no tienen un formato regular y esto dificulta considerablemente la extración limpia de los datos. En este repositorio, he intentado automatizar la obtención de las tablas, pero no es un algoritmo perfecto. He detectado y corregido errores y estoy constantemente intentando mejorar el script. Conforme los casos aumenten, será más complicado hacer una curaduría manual, y es donde la automatización de la descarga de la información valdrá la pena. Otros esfuerzos han hecho un gran trabajo para limpiar y resolver conflictos de datos, recomiendo visitar el repositorio de [guzmart/covid19_mex](https://github.com/guzmart/covid19_mex) para obtener los datos con curaduría manual.
