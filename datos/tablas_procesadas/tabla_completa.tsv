@@ -719,3 +719,135 @@ pseudo_indice	estado	sexo	edad	fecha_inicio_sintomas	id_rt-pcr	procedencia	fecha
 20200327_715	Ciudad de México	M	76	2020-03-15	confirmado	Contacto		2020-03-27
 20200327_716	Ciudad de México	F	59	2020-09-03	confirmado	Contacto		2020-03-27
 20200327_717	Ciudad de México	M	59	2020-09-03	confirmado	Contacto		2020-03-27
+20200328_49	Ciudad de México	F	49	2020-09-03	confirmado	España	2020-09-03	2020-03-28
+20200328_50	Ciudad de México	M	50	2020-10-03	confirmado	Estados Unidos	2020-10-03	2020-03-28
+20200328_51	Ciudad de México	M	41	2020-10-03	confirmado	España	2020-11-03	2020-03-28
+20200328_52	Ciudad de México	M	66	2020-08-03	confirmado	Estados Unidos	2020-06-03	2020-03-28
+20200328_53	Ciudad de México	F	63	2020-09-03	confirmado	Estados Unidos	2020-06-03	2020-03-28
+20200328_54	Ciudad de México	M	53	2020-09-03	confirmado	Francia	2020-02-28	2020-03-28
+20200328_55	Ciudad de México	F	30	2020-11-03	confirmado	España	2020-11-03	2020-03-28
+20200328_56	Ciudad de México	F	49	2020-03-13	confirmado	España	2020-03-13	2020-03-28
+20200328_146	Ciudad de México	M	29	2020-10-03	confirmado	España	2020-03-15	2020-03-28
+20200328_249	México	M	43	2020-09-03	confirmado	España	2020-03-13	2020-03-28
+20200328_251	Ciudad de México	M	43	2020-03-14	confirmado	Contacto		2020-03-28
+20200328_353	Ciudad de México	M	20	2020-03-14	confirmado	Contacto		2020-03-28
+20200328_463	Guerrero	M	29	2020-03-15	confirmado	Contacto		2020-03-28
+20200328_664	Jalisco	M	33	2020-03-17	confirmado	Contacto		2020-03-28
+20200328_667	Yucatán	M	46	2020-03-13	confirmado	Contacto		2020-03-28
+20200328_676	Veracruz	M	21	2020-03-20	confirmado	España	2020-03-19	2020-03-28
+20200328_678	Queretaro	F	34	2020-03-16	confirmado	Contacto		2020-03-28
+20200328_680	México	M	37	2020-03-19	confirmado	Contacto		2020-03-28
+20200328_686	Veracruz	F	74	2020-03-18	confirmado	Contacto	2020-03-17	2020-03-28
+20200328_692	Veracruz	F	46	2020-03-19	confirmado	Contacto		2020-03-28
+20200328_695	Jalisco	F	29	2020-03-21	confirmado	Contacto	2020-03-21	2020-03-28
+20200328_697	Jalisco	F	25	2020-03-17	confirmado	Estados Unidos	2020-03-17	2020-03-28
+20200328_703	Veracruz	M	51	2020-03-18	confirmado	Contacto		2020-03-28
+20200328_707	Sonora	F	56	2020-03-19	confirmado	Contacto		2020-03-28
+20200328_725	Veracruz	M	23	2020-03-20	confirmado	Contacto		2020-03-28
+20200328_726	Ciudad de México	M	52	2020-03-21	confirmado	Contacto		2020-03-28
+20200328_728	Veracruz	M	35	2020-03-21	confirmado	Contacto	2020-03-17	2020-03-28
+20200328_729	Jalisco	M	77	2020-03-20	confirmado	Contacto		2020-03-28
+20200328_730	Sinaloa	F	39	2020-03-22	confirmado	Contacto		2020-03-28
+20200328_732	Sinaloa	F	78	2020-03-23	confirmado	Contacto		2020-03-28
+20200328_733	Oaxaca	F	56	2020-03-24	confirmado	Estados Unidos	2020-03-17	2020-03-28
+20200328_738	Sinaloa	F	53	2020-03-20	confirmado	Contacto		2020-03-28
+20200328_740	Sonora	F	25	2020-03-17	confirmado	Estados Unidos	2020-03-19	2020-03-28
+20200328_742	Sinaloa	M	43	2020-03-25	confirmado	Contacto		2020-03-28
+20200328_744	Queretaro	F	66	2020-03-22	confirmado	Contacto		2020-03-28
+20200328_748	Sinaloa	F	81	2020-03-22	confirmado	Contacto		2020-03-28
+20200328_750	Ciudad de México	M	58	2020-03-19	confirmado	España	2020-03-15	2020-03-28
+20200328_752	Puebla	F	24	2020-03-23	confirmado	Contacto		2020-03-28
+20200328_755	Ciudad de México	F	37	2020-09-03	confirmado	España	2020-03-13	2020-03-28
+20200328_756	Ciudad de México	F	31	2020-07-03	confirmado	España	2020-10-03	2020-03-28
+20200328_757	Jalisco	F	40	2020-03-22	confirmado	Contacto		2020-03-28
+20200328_758	Ciudad de México	M	35	2020-08-03	confirmado	Estados Unidos	2020-07-03	2020-03-28
+20200328_759	Ciudad de México	M	29	2020-03-13	confirmado	Estados Unidos	2020-06-03	2020-03-28
+20200328_760	Ciudad de México	M	23	2020-03-16	confirmado	España	2020-03-16	2020-03-28
+20200328_761	Ciudad de México	M	43	2020-03-14	confirmado	España	2020-05-03	2020-03-28
+20200328_762	Ciudad de México	F	20	2020-03-14	confirmado	España	2020-12-03	2020-03-28
+20200328_763	Ciudad de México	F	50	2020-09-03	confirmado	España	2020-11-03	2020-03-28
+20200328_764	Ciudad de México	F	52	2020-03-17	confirmado	España	2020-03-16	2020-03-28
+20200328_765	Ciudad de México	M	27	2020-03-18	confirmado	España	2020-03-14	2020-03-28
+20200328_766	Ciudad de México	M	55	2020-10-03	confirmado	Estados Unidos	2020-12-03	2020-03-28
+20200328_767	Ciudad de México	M	26	2020-11-03	confirmado	España	2020-03-13	2020-03-28
+20200328_768	Ciudad de México	F	33	2020-03-18	confirmado	Contacto	2020-12-03	2020-03-28
+20200328_769	Ciudad de México	F	33	2020-03-19	confirmado	Estados Unidos	2020-03-18	2020-03-28
+20200328_770	Quintana Roo	F	32	2020-03-20	confirmado	Francia	2020-03-19	2020-03-28
+20200328_771	Ciudad de México	M	60	2020-03-18	confirmado	Contacto	2020-03-13	2020-03-28
+20200328_772	Ciudad de México	M	48	2020-03-20	confirmado	España	2020-03-13	2020-03-28
+20200328_773	Ciudad de México	M	33	2020-03-13	confirmado	España	2020-12-03	2020-03-28
+20200328_774	Ciudad de México	F	36	2020-03-18	confirmado	España	2020-03-18	2020-03-28
+20200328_775	Ciudad de México	F	30	2020-03-17	confirmado	España	2020-03-18	2020-03-28
+20200328_776	Ciudad de México	M	34	2020-03-17	confirmado	España	2020-09-03	2020-03-28
+20200328_777	Quintana Roo	M	35	2020-02-03	confirmado	Italia	2020-03-15	2020-03-28
+20200328_778	Ciudad de México	M	38	2020-03-13	confirmado	España	2020-08-03	2020-03-28
+20200328_779	Ciudad de México	M	26	2020-03-20	confirmado	Contacto	2020-03-18	2020-03-28
+20200328_780	Ciudad de México	M	29	2020-03-16	confirmado	Contacto	2020-03-21	2020-03-28
+20200328_781	Ciudad de México	M	26	2020-03-22	confirmado	Contacto		2020-03-28
+20200328_782	Ciudad de México	M	72	2020-03-19	confirmado	Contacto		2020-03-28
+20200328_783	Ciudad de México	M	39	2020-03-14	confirmado	Contacto		2020-03-28
+20200328_784	Ciudad de México	F	47	2020-03-21	confirmado	Contacto		2020-03-28
+20200328_785	Ciudad de México	M	51	2020-03-22	confirmado	España	2020-03-19	2020-03-28
+20200328_786	México	M	43	2020-03-14	confirmado	Contacto		2020-03-28
+20200328_787	Ciudad de México	M	60	2020-03-21	confirmado	Contacto		2020-03-28
+20200328_788	Ciudad de México	M	49	2020-03-22	confirmado	Contacto		2020-03-28
+20200328_789	Ciudad de México	F	30	2020-12-03	confirmado	Contacto		2020-03-28
+20200328_790	Guanajuato	M	29	2020-03-16	confirmado	Contacto		2020-03-28
+20200328_791	Ciudad de México	M	33	2020-03-19	confirmado	Francia	2020-03-17	2020-03-28
+20200328_792	Ciudad de México	M	41	2020-03-17	confirmado	Contacto	2020-03-17	2020-03-28
+20200328_793	Ciudad de México	M	24	2020-03-15	confirmado	Francia	2020-11-03	2020-03-28
+20200328_794	Ciudad de México	F	31	2020-03-19	confirmado	Francia	2020-04-03	2020-03-28
+20200328_795	Coahuila	F	61	2020-03-21	confirmado	Contacto		2020-03-28
+20200328_796	Ciudad de México	M	40	2020-03-19	confirmado	Contacto		2020-03-28
+20200328_797	Ciudad de México	M	36	2020-03-15	confirmado	Contacto		2020-03-28
+20200328_798	Ciudad de México	F	54	2020-03-15	confirmado	España	2020-03-18	2020-03-28
+20200328_799	México	M	21	2020-03-20	confirmado	Contacto		2020-03-28
+20200328_800	Tabasco	F	60	2020-03-24	confirmado	Contacto		2020-03-28
+20200328_801	Ciudad de México	M	34	2020-03-14	confirmado	Estados Unidos	2020-03-13	2020-03-28
+20200328_802	Guerrero	M	53	2020-03-20	confirmado	Estados Unidos	2020-11-03	2020-03-28
+20200328_803	Ciudad de México	M	53	2020-03-15	confirmado	Contacto		2020-03-28
+20200328_804	Guanajuato	M	54	2020-03-19	confirmado	Contacto		2020-03-28
+20200328_805	Guanajuato	M	33	2020-03-21	confirmado	Italia	2020-03-16	2020-03-28
+20200328_806	Guanajuato	M	30	2020-03-25	confirmado	Contacto		2020-03-28
+20200328_807	Campeche	M	18	2020-03-18	confirmado	Estados Unidos	2020-02-25	2020-03-28
+20200328_808	Guerrero	M	63	2020-03-20	confirmado	Contacto		2020-03-28
+20200328_809	Tabasco	F	49	2020-03-19	confirmado	Contacto		2020-03-28
+20200328_810	San Luis Potosí	F	24	2020-03-21	confirmado	Contacto		2020-03-28
+20200328_811	Tabasco	M	36	2020-03-20	confirmado	Contacto		2020-03-28
+20200328_812	Michoacán	F	63	2020-03-22	confirmado	Contacto		2020-03-28
+20200328_813	Guanajuato	M	30	2020-03-22	confirmado	España	2020-03-22	2020-03-28
+20200328_814	Guanajuato	F	35	2020-03-14	confirmado	Contacto		2020-03-28
+20200328_815	Yucatán	F	59	2020-03-17	confirmado	Contacto	2020-03-24	2020-03-28
+20200328_816	Ciudad de México	F	28	2020-03-16	confirmado	Contacto		2020-03-28
+20200328_817	Ciudad de México	M	40	2020-03-16	confirmado	Contacto	2020-02-29	2020-03-28
+20200328_818	Ciudad de México	F	43	2020-03-23	confirmado	Contacto		2020-03-28
+20200328_819	Ciudad de México	F	33	2020-03-24	confirmado	Contacto		2020-03-28
+20200328_820	Ciudad de México	M	29	2020-03-18	confirmado	Contacto		2020-03-28
+20200328_821	Ciudad de México	M	65	2020-03-19	confirmado	España	2020-09-03	2020-03-28
+20200328_822	Ciudad de México	M	40	2020-03-19	confirmado	Contacto		2020-03-28
+20200328_823	Ciudad de México	M	43	2020-03-20	confirmado	Contacto		2020-03-28
+20200328_824	Ciudad de México	F	53	2020-03-23	confirmado	Contacto		2020-03-28
+20200328_825	Ciudad de México	F	35	2020-03-25	confirmado	Contacto		2020-03-28
+20200328_826	Ciudad de México	M	41	2020-03-23	confirmado	Contacto		2020-03-28
+20200328_827	Tabasco	F	42	2020-03-23	confirmado	Contacto		2020-03-28
+20200328_828	Tabasco	F	57	2020-03-19	confirmado	Contacto		2020-03-28
+20200328_829	México	M	35	2020-03-18	confirmado	Contacto		2020-03-28
+20200328_830	México	M	39	2020-03-23	confirmado	Contacto		2020-03-28
+20200328_831	México	F	51	2020-03-19	confirmado	Contacto		2020-03-28
+20200328_832	México	M	25	2020-03-16	confirmado	Contacto	2020-03-16	2020-03-28
+20200328_833	México	F	42	2020-03-22	confirmado	Contacto	2020-03-14	2020-03-28
+20200328_834	México	M	29	2020-03-24	confirmado	Contacto	2020-03-16	2020-03-28
+20200328_835	México	M	43	2020-03-24	confirmado	Contacto	2020-10-03	2020-03-28
+20200328_836	México	F	73	2020-03-26	confirmado	Contacto		2020-03-28
+20200328_837	México	M	46	2020-03-20	confirmado	Contacto		2020-03-28
+20200328_838	Tabasco	M	58	2020-03-26	confirmado	Contacto		2020-03-28
+20200328_839	Quintana Roo	F	26	2020-03-22	confirmado	Contacto	2020-03-18	2020-03-28
+20200328_840	Ciudad de México	M	42	2020-11-03	confirmado	Estados Unidos	2020-10-03	2020-03-28
+20200328_841	Quintana Roo	M	38	2020-03-22	confirmado	Contacto	2020-03-18	2020-03-28
+20200328_842	Ciudad de México	M	33	2020-12-03	confirmado	Estados Unidos	2020-06-03	2020-03-28
+20200328_843	Ciudad de México	M	41	2020-12-03	confirmado	España	2020-03-13	2020-03-28
+20200328_844	Ciudad de México	F	43	2020-03-15	confirmado	Contacto		2020-03-28
+20200328_845	Ciudad de México	M	27	2020-03-14	confirmado	Estados Unidos	2020-03-15	2020-03-28
+20200328_846	México	M	35	2020-03-26	confirmado	Estados Unidos	2020-03-15	2020-03-28
+20200328_847	Ciudad de México	M	43	2020-11-03	confirmado	Estados Unidos	2020-08-03	2020-03-28
+20200328_848	México	F	61	2020-03-26	confirmado	Estados Unidos	2020-03-15	2020-03-28
