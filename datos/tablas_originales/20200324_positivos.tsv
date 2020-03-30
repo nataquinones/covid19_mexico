@@ -6,306 +6,306 @@
 5	Chiapas	F	18	2020-02-25	confirmado	Italia	2020-02-25	False
 6	México	M	71	2020-02-21	confirmado	Italia	2020-02-21	False
 7	Ciudad de México	M	46	2020-02-29	confirmado	Estados Unidos	2020-02-29	False
-8	Queretaro	M	43	2020-09-03	confirmado	España	2020-06-03	False
-9	Ciudad de México	M	41	2020-07-03	confirmado	Estados Unidos	2020-06-03	False
-10	Ciudad de México	F	30	2020-07-03	confirmado	España	2020-06-03	False
-11	México	F	64	2020-02-03	confirmado	Estados Unidos	2020-02-29	False
-12	Nuevo León	M	57	2020-04-03	confirmado	Alemania	2020-03-03	False
-13	México	F	55	2020-09-03	confirmado	España	2020-09-03	False
-14	Durango	M	58	2020-06-03	confirmado	España	2020-02-28	False
-15	Queretaro	F	65	2020-10-03	confirmado	Contacto		False
-16	Queretaro	M	42	2020-05-03	confirmado	Italia	2020-05-03	False
-17	Ciudad de México	M	48	2020-10-03	confirmado	España	2020-09-03	False
-18	Ciudad de México	M	38	2020-10-03	confirmado	España	2020-09-03	False
-19	Queretaro	F	43	2020-11-03	confirmado	Contacto		False
-20	Puebla	M	31	2020-05-03	confirmado	España	2020-09-03	False
-21	Ciudad de México	M	37	2020-11-03	confirmado	Italia	2020-11-03	False
-22	Yucatán	F	57	2020-07-03	confirmado	España	2020-06-03	False
-23	Ciudad de México	M	52	2020-08-03	confirmado	España	2020-08-03	False
-24	Ciudad de México	M	64	2020-10-03	confirmado	Contacto	2020-10-03	False
-25	Ciudad de México	M	68	2020-04-03	confirmado	España	2020-10-03	False
-26	Quintana Roo	F	71	2020-01-03	confirmado	Italia	2020-01-03	False
-27	San Luis Potosí	F	53	2020-11-03	confirmado	España	2020-10-03	False
-28	Nuevo León	M	73	2020-09-03	confirmado	Estados Unidos	2020-10-03	False
-29	Nuevo León	M	30	2020-09-03	confirmado	España	2020-07-03	False
-30	Puebla	M	31	2020-09-03	confirmado	España	2020-08-03	False
-31	Ciudad de México	F	33	2020-10-03	confirmado	Francia	2020-08-03	False
-32	Jalisco	F	54	2020-10-03	confirmado	España	2020-04-03	False
-33	Jalisco	F	64	2020-01-03	confirmado	Alemania	2020-09-03	False
-34	México	M	61	2020-09-03	confirmado	Estados Unidos	2020-03-03	False
-35	Ciudad de México	M	45	2020-07-03	confirmado	España	2020-09-03	False
-36	Ciudad de México	F	62	2020-11-03	confirmado	Estados Unidos	2020-08-03	False
-37	Ciudad de México	M	72	2020-09-03	confirmado	Estados Unidos	2020-07-03	False
-38	Ciudad de México	M	41	2020-10-03	confirmado	España	2020-08-03	False
-39	Puebla	M	30	2020-09-03	confirmado	España	2020-09-03	False
-40	Ciudad de México	M	38	2020-11-03	confirmado	Contacto		False
-41	Oaxaca	F	30	2020-09-03	confirmado	España	2020-09-03	False
-42	Sinaloa	M	25	2020-09-03	confirmado	Estados Unidos	2020-03-13	False
-43	San Luis Potosí	F	23	2020-07-03	confirmado	España	2020-10-03	False
-44	Queretaro	F	54	2020-10-03	confirmado	España	2020-10-03	False
-45	Oaxaca	M	61	2020-10-03	confirmado	Estados Unidos	2020-10-03	False
-46	Queretaro	F	55	2020-10-03	confirmado	España	2020-10-03	False
-47	Nuevo León	M	27	2020-11-03	confirmado	España	2020-03-13	False
-48	Nuevo León	M	46	2020-06-03	confirmado	Estados Unidos	2020-03-03	False
-49	Guerrero	M	32	2020-12-03	confirmado	Contacto		False
-50	Durango	M	32	2020-11-03	confirmado	Alemania	2020-11-03	False
-51	Guerrero	F	22	2020-09-03	confirmado	España	2020-12-03	False
-52	Puebla	F	27	2020-05-03	confirmado	España	2020-09-03	False
-53	Ciudad de México	F	70	2020-07-03	confirmado	Estados Unidos	2020-08-03	False
-54	Ciudad de México	M	32	2020-10-03	confirmado	Contacto		False
-55	Ciudad de México	M	59	2020-07-03	confirmado	España	2020-04-03	False
-56	Ciudad de México	M	70	2020-09-03	confirmado	Estados Unidos	2020-08-03	False
-57	Durango	F	38	2020-09-03	confirmado	España	2020-12-03	False
-58	Aguascalientes	M	25	2020-03-14	confirmado	España	2020-12-03	False
-59	Puebla	F	31	2020-10-03	confirmado	Contacto		False
-60	Queretaro	F	45	2020-03-13	confirmado	España	2020-10-03	False
+8	Queretaro	M	43	2020-03-09	confirmado	España	2020-03-06	False
+9	Ciudad de México	M	41	2020-03-07	confirmado	Estados Unidos	2020-03-06	False
+10	Ciudad de México	F	30	2020-03-07	confirmado	España	2020-03-06	False
+11	México	F	64	2020-03-02	confirmado	Estados Unidos	2020-02-29	False
+12	Nuevo León	M	57	2020-03-04	confirmado	Alemania	2020-03-03	False
+13	México	F	55	2020-03-09	confirmado	España	2020-03-09	False
+14	Durango	M	58	2020-03-06	confirmado	España	2020-02-28	False
+15	Queretaro	F	65	2020-03-10	confirmado	Contacto		False
+16	Queretaro	M	42	2020-03-05	confirmado	Italia	2020-03-05	False
+17	Ciudad de México	M	48	2020-03-10	confirmado	España	2020-03-09	False
+18	Ciudad de México	M	38	2020-03-10	confirmado	España	2020-03-09	False
+19	Queretaro	F	43	2020-03-11	confirmado	Contacto		False
+20	Puebla	M	31	2020-03-05	confirmado	España	2020-03-09	False
+21	Ciudad de México	M	37	2020-03-11	confirmado	Italia	2020-03-11	False
+22	Yucatán	F	57	2020-03-07	confirmado	España	2020-03-06	False
+23	Ciudad de México	M	52	2020-03-08	confirmado	España	2020-03-08	False
+24	Ciudad de México	M	64	2020-03-10	confirmado	Contacto	2020-03-10	False
+25	Ciudad de México	M	68	2020-03-04	confirmado	España	2020-03-10	False
+26	Quintana Roo	F	71	2020-03-01	confirmado	Italia	2020-03-01	False
+27	San Luis Potosí	F	53	2020-03-11	confirmado	España	2020-03-10	False
+28	Nuevo León	M	73	2020-03-09	confirmado	Estados Unidos	2020-03-10	False
+29	Nuevo León	M	30	2020-03-09	confirmado	España	2020-03-07	False
+30	Puebla	M	31	2020-03-09	confirmado	España	2020-03-08	False
+31	Ciudad de México	F	33	2020-03-10	confirmado	Francia	2020-03-08	False
+32	Jalisco	F	54	2020-03-10	confirmado	España	2020-03-04	False
+33	Jalisco	F	64	2020-03-01	confirmado	Alemania	2020-03-09	False
+34	México	M	61	2020-03-09	confirmado	Estados Unidos	2020-03-03	False
+35	Ciudad de México	M	45	2020-03-07	confirmado	España	2020-03-09	False
+36	Ciudad de México	F	62	2020-03-11	confirmado	Estados Unidos	2020-03-08	False
+37	Ciudad de México	M	72	2020-03-09	confirmado	Estados Unidos	2020-03-07	False
+38	Ciudad de México	M	41	2020-03-10	confirmado	España	2020-03-08	False
+39	Puebla	M	30	2020-03-09	confirmado	España	2020-03-09	False
+40	Ciudad de México	M	38	2020-03-11	confirmado	Contacto		False
+41	Oaxaca	F	30	2020-03-09	confirmado	España	2020-03-09	False
+42	Sinaloa	M	25	2020-03-09	confirmado	Estados Unidos	2020-03-13	False
+43	San Luis Potosí	F	23	2020-03-07	confirmado	España	2020-03-10	False
+44	Queretaro	F	54	2020-03-10	confirmado	España	2020-03-10	False
+45	Oaxaca	M	61	2020-03-10	confirmado	Estados Unidos	2020-03-10	False
+46	Queretaro	F	55	2020-03-10	confirmado	España	2020-03-10	False
+47	Nuevo León	M	27	2020-03-11	confirmado	España	2020-03-13	False
+48	Nuevo León	M	46	2020-03-06	confirmado	Estados Unidos	2020-03-03	False
+49	Guerrero	M	32	2020-03-12	confirmado	Contacto		False
+50	Durango	M	32	2020-03-11	confirmado	Alemania	2020-03-11	False
+51	Guerrero	F	22	2020-03-09	confirmado	España	2020-03-12	False
+52	Puebla	F	27	2020-03-05	confirmado	España	2020-03-09	False
+53	Ciudad de México	F	70	2020-03-07	confirmado	Estados Unidos	2020-03-08	False
+54	Ciudad de México	M	32	2020-03-10	confirmado	Contacto		False
+55	Ciudad de México	M	59	2020-03-07	confirmado	España	2020-03-04	False
+56	Ciudad de México	M	70	2020-03-09	confirmado	Estados Unidos	2020-03-08	False
+57	Durango	F	38	2020-03-09	confirmado	España	2020-03-12	False
+58	Aguascalientes	M	25	2020-03-14	confirmado	España	2020-03-12	False
+59	Puebla	F	31	2020-03-10	confirmado	Contacto		False
+60	Queretaro	F	45	2020-03-13	confirmado	España	2020-03-10	False
 61	México	M	27	2020-03-13	confirmado	Contacto		False
-62	México	F	47	2020-05-03	confirmado	Estados Unidos	2020-02-29	False
-63	México	F	59	2020-07-03	confirmado	Francia	2020-08-03	False
-64	Ciudad de México	M	41	2020-09-03	confirmado	Contacto		False
-65	Guanajuato	M	39	2020-12-03	confirmado	Alemania	2020-10-03	False
-66	Nuevo León	M	72	2020-11-03	confirmado	Estados Unidos	2020-10-03	False
-67	Chihuahua	M	29	2020-12-03	confirmado	Alemania	2020-12-03	False
-68	Quintana Roo	F	50	2020-08-03	confirmado	España	2020-11-03	False
-69	Quintana Roo	F	19	2020-03-13	confirmado	España	2020-11-03	False
-70	Quintana Roo	M	44	2020-11-03	confirmado	Contacto		False
+62	México	F	47	2020-03-05	confirmado	Estados Unidos	2020-02-29	False
+63	México	F	59	2020-03-07	confirmado	Francia	2020-03-08	False
+64	Ciudad de México	M	41	2020-03-09	confirmado	Contacto		False
+65	Guanajuato	M	39	2020-03-12	confirmado	Alemania	2020-03-10	False
+66	Nuevo León	M	72	2020-03-11	confirmado	Estados Unidos	2020-03-10	False
+67	Chihuahua	M	29	2020-03-12	confirmado	Alemania	2020-03-12	False
+68	Quintana Roo	F	50	2020-03-08	confirmado	España	2020-03-11	False
+69	Quintana Roo	F	19	2020-03-13	confirmado	España	2020-03-11	False
+70	Quintana Roo	M	44	2020-03-11	confirmado	Contacto		False
 71	México	F	49	2020-03-13	confirmado	España	2020-03-13	False
-72	Puebla	M	32	2020-11-03	confirmado	Estados Unidos	2020-07-03	False
-73	Nuevo León	F	74	2020-09-03	confirmado	España	2020-12-03	False
-74	Nuevo León	F	80	2020-09-03	confirmado	España	2020-12-03	False
-75	Nuevo León	M	71	2020-07-03	confirmado	Estados Unidos	2020-10-03	False
-76	Nuevo León	M	53	2020-09-03	confirmado	España	2020-10-03	False
-77	Nuevo León	M	42	2020-02-03	confirmado	Estados Unidos	2020-02-03	False
-78	México	M	45	2020-11-03	confirmado	Estados Unidos	2020-01-03	False
-79	Nuevo León	M	33	2020-09-03	confirmado	Estados Unidos	2020-12-03	False
-80	Nuevo León	F	27	2020-12-03	confirmado	Estados Unidos	2020-12-03	False
-81	Yucatán	F	31	2020-08-03	confirmado	Francia	2020-10-03	False
+72	Puebla	M	32	2020-03-11	confirmado	Estados Unidos	2020-03-07	False
+73	Nuevo León	F	74	2020-03-09	confirmado	España	2020-03-12	False
+74	Nuevo León	F	80	2020-03-09	confirmado	España	2020-03-12	False
+75	Nuevo León	M	71	2020-03-07	confirmado	Estados Unidos	2020-03-10	False
+76	Nuevo León	M	53	2020-03-09	confirmado	España	2020-03-10	False
+77	Nuevo León	M	42	2020-03-02	confirmado	Estados Unidos	2020-03-02	False
+78	México	M	45	2020-03-11	confirmado	Estados Unidos	2020-03-01	False
+79	Nuevo León	M	33	2020-03-09	confirmado	Estados Unidos	2020-03-12	False
+80	Nuevo León	F	27	2020-03-12	confirmado	Estados Unidos	2020-03-12	False
+81	Yucatán	F	31	2020-03-08	confirmado	Francia	2020-03-10	False
 82	Yucatán	M	21	2020-03-13	confirmado	España	2020-03-13	False
-83	Tamaulipas	M	55	2020-03-13	confirmado	Singapur	2020-11-03	False
-84	Puebla	F	27	2020-09-03	confirmado	España	2020-09-03	False
-85	Puebla	M	31	2020-09-03	confirmado	España	2020-09-03	False
-86	Yucatán	F	54	2020-11-03	confirmado	España	2020-08-03	False
-87	Sonora	M	72	2020-11-03	confirmado	Estados Unidos	2020-11-03	False
-88	Jalisco	M	49	2020-06-03	confirmado	España	2020-04-03	False
-89	Jalisco	M	41	2020-10-03	confirmado	Estados Unidos	2020-02-29	False
-90	Jalisco	F	56	2020-11-03	confirmado	Contacto		False
-91	Yucatán	M	37	2020-09-03	confirmado	Estados Unidos	2020-06-03	False
-92	Nuevo León	M	19	2020-07-03	confirmado	Contacto	2020-10-03	False
-93	Nuevo León	M	34	2020-12-03	confirmado	Estados Unidos	2020-07-03	False
-94	Nuevo León	M	41	2020-10-03	confirmado	Estados Unidos	2020-07-03	False
-95	Nuevo León	M	46	2020-11-03	confirmado	Estados Unidos	2020-09-03	False
+83	Tamaulipas	M	55	2020-03-13	confirmado	Singapur	2020-03-11	False
+84	Puebla	F	27	2020-03-09	confirmado	España	2020-03-09	False
+85	Puebla	M	31	2020-03-09	confirmado	España	2020-03-09	False
+86	Yucatán	F	54	2020-03-11	confirmado	España	2020-03-08	False
+87	Sonora	M	72	2020-03-11	confirmado	Estados Unidos	2020-03-11	False
+88	Jalisco	M	49	2020-03-06	confirmado	España	2020-03-04	False
+89	Jalisco	M	41	2020-03-10	confirmado	Estados Unidos	2020-02-29	False
+90	Jalisco	F	56	2020-03-11	confirmado	Contacto		False
+91	Yucatán	M	37	2020-03-09	confirmado	Estados Unidos	2020-03-06	False
+92	Nuevo León	M	19	2020-03-07	confirmado	Contacto	2020-03-10	False
+93	Nuevo León	M	34	2020-03-12	confirmado	Estados Unidos	2020-03-07	False
+94	Nuevo León	M	41	2020-03-10	confirmado	Estados Unidos	2020-03-07	False
+95	Nuevo León	M	46	2020-03-11	confirmado	Estados Unidos	2020-03-09	False
 96	Nuevo León	M	21	2020-03-14	confirmado	España	2020-03-15	False
 97	Nuevo León	M	21	2020-03-15	confirmado	España	2020-03-13	False
 98	Yucatán	F	21	2020-03-13	confirmado	España	2020-03-13	False
-99	Yucatán	M	25	2020-11-03	confirmado	España	2020-03-15	False
-100	Jalisco	F	36	2020-10-03	confirmado	Contacto		False
-101	Ciudad de México	M	53	2020-09-03	confirmado	España	2020-09-03	False
-102	Ciudad de México	F	53	2020-06-03	confirmado	España	2020-09-03	False
-103	México	M	56	2020-07-03	confirmado	Estados Unidos	2020-05-03	False
-104	Veracruz	F	21	2020-03-03	confirmado	España	2020-12-03	False
+99	Yucatán	M	25	2020-03-11	confirmado	España	2020-03-15	False
+100	Jalisco	F	36	2020-03-10	confirmado	Contacto		False
+101	Ciudad de México	M	53	2020-03-09	confirmado	España	2020-03-09	False
+102	Ciudad de México	F	53	2020-03-06	confirmado	España	2020-03-09	False
+103	México	M	56	2020-03-07	confirmado	Estados Unidos	2020-03-05	False
+104	Veracruz	F	21	2020-03-03	confirmado	España	2020-03-12	False
 105	Veracruz	M	24	2020-03-14	confirmado	España	2020-03-14	False
 106	San Luis Potosí	M	32	2020-03-14	confirmado	España	2020-03-14	False
-107	Puebla	M	25	2020-10-03	confirmado	España	2020-09-03	False
-108	Yucatán	F	26	2020-08-03	confirmado	España	2020-03-14	False
+107	Puebla	M	25	2020-03-10	confirmado	España	2020-03-09	False
+108	Yucatán	F	26	2020-03-08	confirmado	España	2020-03-14	False
 109	Colima	M	46	2020-03-15	confirmado	Alemania	2020-03-13	False
-110	Baja California	F	54	2020-11-03	confirmado	Estados Unidos	2020-02-03	False
+110	Baja California	F	54	2020-03-11	confirmado	Estados Unidos	2020-03-02	False
 111	Baja California	F	57	2020-03-13	confirmado	Contacto	2020-03-16	False
-112	Ciudad de México	M	47	2020-12-03	confirmado	Estados Unidos	2020-12-03	False
-113	Ciudad de México	M	43	2020-03-14	confirmado	Estados Unidos	2020-12-03	False
-114	Hidalgo	M	39	2020-07-03	confirmado	Francia	2020-06-03	False
-115	Sonora	M	44	2020-12-03	confirmado	Italia	2020-10-03	False
+112	Ciudad de México	M	47	2020-03-12	confirmado	Estados Unidos	2020-03-12	False
+113	Ciudad de México	M	43	2020-03-14	confirmado	Estados Unidos	2020-03-12	False
+114	Hidalgo	M	39	2020-03-07	confirmado	Francia	2020-03-06	False
+115	Sonora	M	44	2020-03-12	confirmado	Italia	2020-03-10	False
 116	Tabasco	F	61	2020-03-14	confirmado	Francia	2020-03-16	False
-117	Puebla	M	64	2020-08-03	confirmado	Estados Unidos	2020-08-03	False
+117	Puebla	M	64	2020-03-08	confirmado	Estados Unidos	2020-03-08	False
 118	Sinaloa	F	25	2020-03-15	confirmado	Estados Unidos	2020-03-17	False
-119	Hidalgo	M	43	2020-08-03	confirmado	Estados Unidos	2020-10-02	False
+119	Hidalgo	M	43	2020-03-08	confirmado	Estados Unidos	2020-02-10	False
 120	San Luis Potosí	M	39	2020-03-16	confirmado	España	2020-03-14	False
 121	San Luis Potosí	M	31	2020-03-15	confirmado	Francia	2020-03-14	False
 122	San Luis Potosí	M	44	2020-03-16	confirmado	España	2020-03-16	False
 123	San Luis Potosí	F	63	2020-03-15	confirmado	España	2020-03-17	False
 124	Ciudad de México	M	28	2020-03-16	confirmado	Contacto		False
 125	Puebla	F	24	2020-03-16	confirmado	Contacto		False
-126	Ciudad de México	M	35	2020-10-03	confirmado	Estados Unidos	2020-10-03	False
-127	Guanajuato	F	18	2020-10-03	confirmado	Estados Unidos	2020-03-13	False
-128	Tamaulipas	F	23	2020-03-16	confirmado	España	2020-12-03	False
-129	Quintana Roo	M	17	2020-09-03	confirmado	Estados Unidos	2020-09-03	False
-130	Quintana Roo	M	39	2020-03-16	confirmado	Italia	2020-01-03	False
+126	Ciudad de México	M	35	2020-03-10	confirmado	Estados Unidos	2020-03-10	False
+127	Guanajuato	F	18	2020-03-10	confirmado	Estados Unidos	2020-03-13	False
+128	Tamaulipas	F	23	2020-03-16	confirmado	España	2020-03-12	False
+129	Quintana Roo	M	17	2020-03-09	confirmado	Estados Unidos	2020-03-09	False
+130	Quintana Roo	M	39	2020-03-16	confirmado	Italia	2020-03-01	False
 131	Guerrero	M	79	2020-03-15	confirmado	España	2020-03-13	False
 132	Guanajuato	F	27	2020-03-14	confirmado	España	2020-03-14	False
-133	Guanajuato	F	52	2020-12-03	confirmado	España	2020-03-14	False
+133	Guanajuato	F	52	2020-03-12	confirmado	España	2020-03-14	False
 134	Quintana Roo	M	42	2020-03-14	confirmado	España	2020-03-13	False
-135	Queretaro	M	25	2020-08-03	confirmado	España	2020-03-16	False
-136	México	F	52	2020-10-03	confirmado	España	2020-12-03	False
+135	Queretaro	M	25	2020-03-08	confirmado	España	2020-03-16	False
+136	México	F	52	2020-03-10	confirmado	España	2020-03-12	False
 137	Yucatán	F	27	2020-03-13	confirmado	Contacto		False
 138	Yucatán	M	51	2020-03-14	confirmado	Contacto		False
-139	Baja California	M	72	2020-09-03	confirmado	Estados Unidos	2020-10-03	False
-140	Yucatán	M	32	2020-11-03	confirmado	Estados Unidos		False
-141	Yucatán	M	30	2020-03-16	confirmado	España	2020-11-03	False
+139	Baja California	M	72	2020-03-09	confirmado	Estados Unidos	2020-03-10	False
+140	Yucatán	M	32	2020-03-11	confirmado	Estados Unidos		False
+141	Yucatán	M	30	2020-03-16	confirmado	España	2020-03-11	False
 142	Yucatán	M	45	2020-03-13	confirmado	Estados Unidos	2020-03-13	False
 143	Quintana Roo	M	45	2020-03-15	confirmado	Estados Unidos	2020-03-15	False
 144	Jalisco	M	54	2020-03-13	confirmado	Contacto		False
 145	Jalisco	M	27	2020-03-13	confirmado	España	2020-03-15	False
 146	Quintana Roo	F	22	2020-03-16	confirmado	España	2020-03-16	False
-147	Jalisco	F	49	2020-12-03	confirmado	España	2020-09-03	False
+147	Jalisco	F	49	2020-03-12	confirmado	España	2020-03-09	False
 148	Jalisco	M	19	2020-03-16	confirmado	España	2020-03-13	False
-149	Guerrero	F	38	2020-03-13	confirmado	Estados Unidos	2020-01-03	False
-150	Ciudad de México	M	46	2020-12-03	confirmado	Estados Unidos	2020-10-03	False
-151	Ciudad de México	M	35	2020-11-03	confirmado	Estados Unidos	2020-05-03	False
+149	Guerrero	F	38	2020-03-13	confirmado	Estados Unidos	2020-03-01	False
+150	Ciudad de México	M	46	2020-03-12	confirmado	Estados Unidos	2020-03-10	False
+151	Ciudad de México	M	35	2020-03-11	confirmado	Estados Unidos	2020-03-05	False
 152	Aguascalientes	M	70	2020-03-15	confirmado	Estados Unidos	2020-03-13	False
 153	Ciudad de México	M	59	2020-03-13	confirmado	Contacto		False
 154	Aguascalientes	M	50	2020-03-16	confirmado	España	2020-03-17	False
 155	Veracruz	F	64	2020-03-18	confirmado	España	2020-03-15	False
-156	Nuevo León	M	35	2020-09-03	confirmado	Estados Unidos	2020-09-03	False
+156	Nuevo León	M	35	2020-03-09	confirmado	Estados Unidos	2020-03-09	False
 157	Nuevo León	M	42	2020-03-16	confirmado	Contacto		False
 158	Durango	M	74	2020-03-15	confirmado	Estados Unidos	2020-03-03	False
-159	Morelos	M	37	2020-03-14	confirmado	Estados Unidos	2020-07-03	False
+159	Morelos	M	37	2020-03-14	confirmado	Estados Unidos	2020-03-07	False
 160	Queretaro	M	34	2020-03-15	confirmado	Francia	2020-03-15	False
 161	Veracruz	F	63	2020-03-14	confirmado	España	2020-03-13	False
 162	Nuevo León	F	29	2020-03-13	confirmado	España	2020-03-14	False
 163	Morelos	F	54	2020-03-17	confirmado	Estados Unidos	2020-03-17	False
 164	Jalisco	F	73	2020-03-14	confirmado	Contacto		False
 165	Jalisco	M	52	2020-03-14	confirmado	Estados Unidos	2020-03-14	False
-166	Jalisco	M	50	2020-04-03	confirmado	Estados Unidos	2020-07-03	False
+166	Jalisco	M	50	2020-03-04	confirmado	Estados Unidos	2020-03-07	False
 167	Quintana Roo	M	35	2020-03-15	confirmado	Alemania	2020-03-14	False
 168	Quintana Roo	F	30	2020-03-14	confirmado	Estados Unidos	2020-03-14	False
-169	Nuevo León	M	28	2020-03-14	confirmado	Estados Unidos	2020-12-03	False
-170	Aguascalientes	M	42	2020-10-03	confirmado	España	2020-11-03	False
-171	Nuevo León	F	48	2020-11-03	confirmado	España	2020-03-13	False
-172	Jalisco	F	19	2020-11-03	confirmado	Estados Unidos	2020-07-03	False
-173	Jalisco	F	29	2020-03-14	confirmado	Estados Unidos	2020-07-03	False
-174	Jalisco	M	41	2020-08-03	confirmado	Estados Unidos	2020-09-03	False
-175	Jalisco	M	54	2020-07-03	confirmado	Estados Unidos	2020-07-03	False
-176	Jalisco	F	62	2020-09-03	confirmado	Estados Unidos	2020-02-23	False
-177	Jalisco	M	42	2020-12-03	confirmado	Estados Unidos	2020-11-03	False
-178	Jalisco	M	49	2020-03-13	confirmado	Estados Unidos	2020-08-03	False
-179	Jalisco	M	29	2020-08-03	confirmado	Estados Unidos	2020-07-03	False
+169	Nuevo León	M	28	2020-03-14	confirmado	Estados Unidos	2020-03-12	False
+170	Aguascalientes	M	42	2020-03-10	confirmado	España	2020-03-11	False
+171	Nuevo León	F	48	2020-03-11	confirmado	España	2020-03-13	False
+172	Jalisco	F	19	2020-03-11	confirmado	Estados Unidos	2020-03-07	False
+173	Jalisco	F	29	2020-03-14	confirmado	Estados Unidos	2020-03-07	False
+174	Jalisco	M	41	2020-03-08	confirmado	Estados Unidos	2020-03-09	False
+175	Jalisco	M	54	2020-03-07	confirmado	Estados Unidos	2020-03-07	False
+176	Jalisco	F	62	2020-03-09	confirmado	Estados Unidos	2020-02-23	False
+177	Jalisco	M	42	2020-03-12	confirmado	Estados Unidos	2020-03-11	False
+178	Jalisco	M	49	2020-03-13	confirmado	Estados Unidos	2020-03-08	False
+179	Jalisco	M	29	2020-03-08	confirmado	Estados Unidos	2020-03-07	False
 180	Jalisco	M	19	2020-03-14	confirmado	España	2020-03-13	False
 181	Jalisco	M	63	2020-03-14	confirmado	Estados Unidos	2020-03-14	False
-182	Jalisco	F	35	2020-11-03	confirmado	Italia	2020-03-14	False
-183	Jalisco	M	44	2020-11-03	confirmado	Italia	2020-11-03	False
+182	Jalisco	F	35	2020-03-11	confirmado	Italia	2020-03-14	False
+183	Jalisco	M	44	2020-03-11	confirmado	Italia	2020-03-11	False
 184	Puebla	F	32	2020-03-15	confirmado	España	2020-03-15	False
 185	Chiapas	M	47	2020-03-14	confirmado	Alemania	2020-03-13	False
 186	Queretaro	M	51	2020-03-16	confirmado	Estados Unidos	2020-03-15	False
-187	México	F	33	2020-03-15	confirmado	España	2020-05-03	False
-188	México	M	31	2020-03-03	confirmado	España	2020-01-03	False
+187	México	F	33	2020-03-15	confirmado	España	2020-03-05	False
+188	México	M	31	2020-03-03	confirmado	España	2020-03-01	False
 189	Baja California	M	62	2020-03-17	confirmado	Contacto		False
 190	Queretaro	M	34	2020-03-18	confirmado	Francia	2020-03-16	False
 191	Ciudad de México	F	38	2020-03-14	confirmado	Contacto		False
-192	México	M	55	2020-11-03	confirmado	Contacto		False
+192	México	M	55	2020-03-11	confirmado	Contacto		False
 193	Nuevo León	M	53	2020-03-17	confirmado	Contacto		False
 194	Nuevo León	M	58	2020-03-15	confirmado	España	2020-03-14	False
 195	Nuevo León	M	61	2020-03-15	confirmado	España	2020-03-14	False
 196	Nuevo León	F	59	2020-03-17	confirmado	Contacto		False
-197	Tabasco	M	46	2020-09-03	confirmado	Estados Unidos	2020-11-03	False
-198	Jalisco	F	75	2020-08-03	confirmado	Estados Unidos	2020-03-14	False
+197	Tabasco	M	46	2020-03-09	confirmado	Estados Unidos	2020-03-11	False
+198	Jalisco	F	75	2020-03-08	confirmado	Estados Unidos	2020-03-14	False
 199	Jalisco	M	80	2020-03-14	confirmado	Estados Unidos	2020-03-14	False
-200	Nuevo León	F	31	2020-10-03	confirmado	Contacto	2020-10-03	False
-201	Ciudad de México	M	38	2020-10-03	confirmado	Estados Unidos	2020-07-03	False
-202	Ciudad de México	F	35	2020-09-03	confirmado	Contacto		False
-203	Ciudad de México	M	61	2020-03-16	confirmado	España	2020-11-03	False
+200	Nuevo León	F	31	2020-03-10	confirmado	Contacto	2020-03-10	False
+201	Ciudad de México	M	38	2020-03-10	confirmado	Estados Unidos	2020-03-07	False
+202	Ciudad de México	F	35	2020-03-09	confirmado	Contacto		False
+203	Ciudad de México	M	61	2020-03-16	confirmado	España	2020-03-11	False
 204	Ciudad de México	F	37	2020-03-14	confirmado	Contacto		False
 205	Ciudad de México	M	43	2020-03-13	confirmado	Contacto		False
 206	Baja California	M	26	2020-03-15	confirmado	Francia	2020-03-13	False
 207	Hidalgo	F	57	2020-03-14	confirmado	España	2020-03-16	False
 208	Puebla	M	21	2020-03-17	confirmado	España	2020-03-15	False
-209	Baja California	F	34	2020-11-03	confirmado	Estados Unidos	2020-08-03	False
+209	Baja California	F	34	2020-03-11	confirmado	Estados Unidos	2020-03-08	False
 210	Ciudad de México	M	0	2020-03-16	confirmado	Contacto		False
-211	Puebla	M	56	2020-03-14	confirmado	Estados Unidos	2020-07-03	False
+211	Puebla	M	56	2020-03-14	confirmado	Estados Unidos	2020-03-07	False
 212	Nayarit	F	48	2020-03-17	confirmado	España	2020-03-17	False
-213	Puebla	M	24	2020-03-14	confirmado	Estados Unidos	2020-07-03	False
+213	Puebla	M	24	2020-03-14	confirmado	Estados Unidos	2020-03-07	False
 214	Chihuahua	F	18	2020-03-15	confirmado	Estados Unidos	2020-03-14	False
 215	Baja California	M	39	2020-03-17	confirmado	Contacto		False
-216	Queretaro	F	29	2020-10-03	confirmado	Estados Unidos	2020-01-03	False
+216	Queretaro	F	29	2020-03-10	confirmado	Estados Unidos	2020-03-01	False
 217	Jalisco	M	77	2020-03-13	confirmado	Contacto		False
 218	Tabasco	M	33	2020-03-14	confirmado	España	2020-03-18	False
 219	Aguascalientes	M	44	2020-03-17	confirmado	España	2020-03-17	False
 220	Jalisco	M	20	2020-03-17	confirmado	Contacto		False
-221	Zacatecas	M	38	2020-08-03	confirmado	Contacto		False
+221	Zacatecas	M	38	2020-03-08	confirmado	Contacto		False
 222	Queretaro	M	29	2020-03-18	confirmado	España	2020-03-16	False
-223	Ciudad de México	M	33	2020-11-03	confirmado	Contacto		False
+223	Ciudad de México	M	33	2020-03-11	confirmado	Contacto		False
 224	Nuevo León	M	32	2020-03-15	confirmado	Estados Unidos	2020-03-16	False
 225	Nuevo León	F	27	2020-03-18	confirmado	Estados Unidos	2020-03-14	False
 226	Nuevo León	M	35	2020-03-17	confirmado	Estados Unidos	2020-03-15	False
 227	Puebla	F	30	2020-03-16	confirmado	Estados Unidos	2020-03-15	False
 228	Ciudad de México	M	27	2020-03-15	confirmado	Francia	2020-03-15	False
-229	Ciudad de México	M	71	2020-04-03	confirmado	España	2020-03-14	False
-230	Ciudad de México	F	25	2020-09-03	confirmado	España	2020-03-13	False
-231	Ciudad de México	M	43	2020-08-03	confirmado	España	2020-04-03	False
-232	Ciudad de México	F	31	2020-03-03	confirmado	Alemania	2020-09-03	False
+229	Ciudad de México	M	71	2020-03-04	confirmado	España	2020-03-14	False
+230	Ciudad de México	F	25	2020-03-09	confirmado	España	2020-03-13	False
+231	Ciudad de México	M	43	2020-03-08	confirmado	España	2020-03-04	False
+232	Ciudad de México	F	31	2020-03-03	confirmado	Alemania	2020-03-09	False
 233	Veracruz	M	31	2020-03-16	confirmado	España	2020-03-13	False
 234	Queretaro	M	29	2020-03-16	confirmado	Contacto		False
 235	Durango	F	68	2020-03-18	confirmado	Contacto		False
 236	Baja California	F	26	2020-03-13	confirmado	Estados Unidos	2020-03-16	False
-237	San Luis Potosí	F	20	2020-09-03	confirmado	España	2020-03-17	False
+237	San Luis Potosí	F	20	2020-03-09	confirmado	España	2020-03-17	False
 238	Ciudad de México	F	54	2020-03-15	confirmado	Contacto		False
-239	Jalisco	M	56	2020-03-17	confirmado	Estados Unidos	2020-04-03	False
+239	Jalisco	M	56	2020-03-17	confirmado	Estados Unidos	2020-03-04	False
 240	Baja California	M	35	2020-03-18	confirmado	Estados Unidos	2020-03-16	False
 241	Veracruz	F	35	2020-03-14	confirmado	Estados Unidos	2020-03-13	False
 242	Jalisco	M	53	2020-03-17	confirmado	Contacto		False
 243	Veracruz	M	27	2020-03-17	confirmado	Contacto	2020-03-16	False
-244	Quintana Roo	M	51	2020-11-03	confirmado	España	2020-03-16	False
-245	Tamaulipas	F	33	2020-03-16	confirmado	Francia	2020-07-03	False
-246	San Luis Potosí	M	46	2020-12-03	confirmado	Estados Unidos	2020-12-03	False
-247	Ciudad de México	M	42	2020-06-03	confirmado	Contacto		False
-248	Ciudad de México	F	35	2020-03-16	confirmado	Estados Unidos	2020-09-03	False
-249	Jalisco	M	29	2020-03-17	confirmado	Singapur	2020-09-03	False
-250	Tabasco	F	37	2020-10-03	confirmado	Estados Unidos	2020-11-03	False
+244	Quintana Roo	M	51	2020-03-11	confirmado	España	2020-03-16	False
+245	Tamaulipas	F	33	2020-03-16	confirmado	Francia	2020-03-07	False
+246	San Luis Potosí	M	46	2020-03-12	confirmado	Estados Unidos	2020-03-12	False
+247	Ciudad de México	M	42	2020-03-06	confirmado	Contacto		False
+248	Ciudad de México	F	35	2020-03-16	confirmado	Estados Unidos	2020-03-09	False
+249	Jalisco	M	29	2020-03-17	confirmado	Singapur	2020-03-09	False
+250	Tabasco	F	37	2020-03-10	confirmado	Estados Unidos	2020-03-11	False
 251	Ciudad de México	M	47	2020-03-14	confirmado	España	2020-03-16	False
-252	Ciudad de México	M	34	2020-03-14	confirmado	Francia	2020-12-03	False
-253	Jalisco	M	55	2020-09-03	confirmado	España	2020-12-03	False
+252	Ciudad de México	M	34	2020-03-14	confirmado	Francia	2020-03-12	False
+253	Jalisco	M	55	2020-03-09	confirmado	España	2020-03-12	False
 254	Ciudad de México	F	40	2020-03-18	confirmado	Contacto		False
 255	Jalisco	M	58	2020-03-17	confirmado	Contacto		False
 256	Baja California Sur	M	48	2020-03-16	confirmado	Estados Unidos	2020-03-14	False
 257	Coahuila	F	41	2020-03-18	confirmado	España	2020-03-14	False
 258	Chihuahua	M	47	2020-03-18	confirmado	Estados Unidos	2020-03-13	False
 259	Ciudad de México	F	48	2020-03-13	confirmado	Contacto		False
-260	Ciudad de México	M	35	2020-08-03	confirmado	España	2020-08-03	False
+260	Ciudad de México	M	35	2020-03-08	confirmado	España	2020-03-08	False
 261	Coahuila	M	29	2020-03-17	confirmado	Estados Unidos	2020-03-15	False
-262	Ciudad de México	M	52	2020-11-03	confirmado	Contacto		False
+262	Ciudad de México	M	52	2020-03-11	confirmado	Contacto		False
 263	Ciudad de México	M	25	2020-03-13	confirmado	Contacto		False
-264	Michoacán	M	36	2020-09-03	confirmado	España	2020-03-15	False
+264	Michoacán	M	36	2020-03-09	confirmado	España	2020-03-15	False
 265	Sinaloa	M	55	2020-03-17	confirmado	Contacto		False
 266	Baja California	M	27	2020-03-13	confirmado	Francia	2020-03-13	False
 267	Chihuahua	F	19	2020-03-13	confirmado	España	2020-03-14	False
 268	Ciudad de México	M	37	2020-03-16	confirmado	España	2020-03-16	False
 269	Chihuahua	F	21	2020-03-16	confirmado	España	2020-03-14	False
-270	Ciudad de México	M	51	2020-03-17	confirmado	Contacto	2020-08-03	False
+270	Ciudad de México	M	51	2020-03-17	confirmado	Contacto	2020-03-08	False
 271	Yucatán	F	40	2020-03-15	confirmado	Contacto		False
 272	Ciudad de México	M	36	2020-03-14	confirmado	Contacto		False
-273	Hidalgo	F	55	2020-12-03	confirmado	Contacto		False
+273	Hidalgo	F	55	2020-03-12	confirmado	Contacto		False
 274	San Luis Potosí	F	27	2020-03-17	confirmado	Estados Unidos	2020-03-18	False
 275	Jalisco	F	38	2020-03-15	confirmado	Estados Unidos	2020-03-16	False
 276	San Luis Potosí	M	21	2020-03-19	confirmado	Contacto	2020-03-18	False
-277	San Luis Potosí	M	34	2020-03-18	confirmado	Francia	2020-05-03	False
-278	Campeche	M	52	2020-12-03	confirmado	España	2020-03-18	False
+277	San Luis Potosí	M	34	2020-03-18	confirmado	Francia	2020-03-05	False
+278	Campeche	M	52	2020-03-12	confirmado	España	2020-03-18	False
 279	Hidalgo	F	26	2020-03-18	confirmado	Francia	2020-03-17	False
 280	Tabasco	F	71	2020-03-17	confirmado	España	2020-03-17	False
-281	Yucatán	F	17	2020-10-03	confirmado	Estados Unidos	2020-08-03	False
-282	Yucatán	F	19	2020-10-03	confirmado	Estados Unidos	2020-08-03	False
+281	Yucatán	F	17	2020-03-10	confirmado	Estados Unidos	2020-03-08	False
+282	Yucatán	F	19	2020-03-10	confirmado	Estados Unidos	2020-03-08	False
 283	Yucatán	M	39	2020-03-14	confirmado	Estados Unidos	2020-03-14	False
 284	Sonora	M	30	2020-03-18	confirmado	Francia	2020-03-13	False
 285	Michoacán	F	57	2020-03-15	confirmado	Contacto	2020-03-15	False
 286	Michoacán	M	57	2020-03-18	confirmado	Contacto	2020-03-15	False
 287	Yucatán	M	31	2020-03-17	confirmado	Contacto		False
-288	Baja California	F	49	2020-12-03	confirmado	Contacto		False
+288	Baja California	F	49	2020-03-12	confirmado	Contacto		False
 289	Zacatecas	M	39	2020-03-19	confirmado	Contacto	2020-03-19	False
-290	Colima	F	34	2020-12-03	confirmado	Estados Unidos	2020-11-03	False
+290	Colima	F	34	2020-03-12	confirmado	Estados Unidos	2020-03-11	False
 291	México	M	44	2020-02-19	confirmado	Italia	2020-02-22	False
-292	México	F	52	2020-10-03	confirmado	España	2020-12-03	False
+292	México	F	52	2020-03-10	confirmado	España	2020-03-12	False
 293	Coahuila	M	43	2020-03-16	confirmado	Estados Unidos	2020-03-13	False
-294	México	M	31	2020-03-13	confirmado	Estados Unidos	2020-07-03	False
+294	México	M	31	2020-03-13	confirmado	Estados Unidos	2020-03-07	False
 295	Guanajuato	M	34	2020-03-16	confirmado	Estados Unidos	2020-03-17	False
 296	Guanajuato	F	58	2020-03-16	confirmado	Francia	2020-03-17	False
 297	Guanajuato	M	43	2020-03-18	confirmado	Estados Unidos	2020-03-18	False
-298	Tamaulipas	F	21	2020-03-16	confirmado	España	2020-12-03	False
-299	Jalisco	M	25	2020-03-13	confirmado	Estados Unidos	2020-06-03	False
-300	Jalisco	M	40	2020-10-03	confirmado	Estados Unidos	2020-07-03	False
-301	Jalisco	M	31	2020-03-18	confirmado	Estados Unidos	2020-08-03	False
-302	Jalisco	F	38	2020-11-03	confirmado	Estados Unidos	2020-07-03	False
-303	Jalisco	M	32	2020-03-13	confirmado	Estados Unidos	2020-02-03	False
-304	Jalisco	M	30	2020-03-18	confirmado	Estados Unidos	2020-09-03	False
-305	Coahuila	M	42	2020-03-18	confirmado	Estados Unidos	2020-11-03	False
-306	Coahuila	M	11	2020-03-18	confirmado	Estados Unidos	2020-11-03	False
-307	Coahuila	M	53	2020-03-17	confirmado	Estados Unidos	2020-11-03	False
+298	Tamaulipas	F	21	2020-03-16	confirmado	España	2020-03-12	False
+299	Jalisco	M	25	2020-03-13	confirmado	Estados Unidos	2020-03-06	False
+300	Jalisco	M	40	2020-03-10	confirmado	Estados Unidos	2020-03-07	False
+301	Jalisco	M	31	2020-03-18	confirmado	Estados Unidos	2020-03-08	False
+302	Jalisco	F	38	2020-03-11	confirmado	Estados Unidos	2020-03-07	False
+303	Jalisco	M	32	2020-03-13	confirmado	Estados Unidos	2020-03-02	False
+304	Jalisco	M	30	2020-03-18	confirmado	Estados Unidos	2020-03-09	False
+305	Coahuila	M	42	2020-03-18	confirmado	Estados Unidos	2020-03-11	False
+306	Coahuila	M	11	2020-03-18	confirmado	Estados Unidos	2020-03-11	False
+307	Coahuila	M	53	2020-03-17	confirmado	Estados Unidos	2020-03-11	False
 308	Coahuila	M	42	2020-03-18	confirmado	Estados Unidos		False
 309	México	M	46	2020-03-18	confirmado	Contacto		False
 310	México	M	62	2020-03-16	confirmado	España	2020-03-19	False
@@ -315,33 +315,33 @@
 314	Hidalgo	F	40	2020-03-19	confirmado	Contacto	2020-03-13	False
 315	Nuevo León	M	60	2020-03-14	confirmado	España	2020-03-13	False
 316	Oaxaca	M	22	2020-03-16	confirmado	Contacto		False
-317	Nuevo León	M	57	2020-03-13	confirmado	Estados Unidos	2020-12-03	False
+317	Nuevo León	M	57	2020-03-13	confirmado	Estados Unidos	2020-03-12	False
 318	Nuevo León	M	22	2020-03-14	confirmado	Estados Unidos	2020-03-13	False
 319	Coahuila	M	76	2020-03-20	confirmado	España	2020-03-14	False
 320	Coahuila	M	42	2020-03-20	confirmado	España	2020-03-14	False
 321	Coahuila	F	42	2020-03-20	confirmado	España	2020-03-14	False
 322	Hidalgo	F	19	2020-03-20	confirmado	Contacto		False
-323	Sonora	M	22	2020-11-03	confirmado	España	2020-03-17	False
-324	Baja California Sur	F	33	2020-03-16	confirmado	Contacto	2020-07-03	False
+323	Sonora	M	22	2020-03-11	confirmado	España	2020-03-17	False
+324	Baja California Sur	F	33	2020-03-16	confirmado	Contacto	2020-03-07	False
 325	Queretaro	M	37	2020-03-16	confirmado	Contacto		False
 326	Jalisco	M	55	2020-03-13	confirmado	Contacto		False
 327	México	M	24	2020-03-20	confirmado	Italia	2020-03-14	False
 328	México	F	29	2020-03-20	confirmado	España	2020-03-15	False
-329	México	F	29	2020-12-03	confirmado	Estados Unidos	2020-02-27	False
+329	México	F	29	2020-03-12	confirmado	Estados Unidos	2020-02-27	False
 330	Queretaro	F	30	2020-03-21	confirmado	España	2020-03-15	False
-331	Campeche	F	59	2020-06-03	confirmado	España	2020-03-15	False
+331	Campeche	F	59	2020-03-06	confirmado	España	2020-03-15	False
 332	Quintana Roo	M	65	2020-03-18	confirmado	España	2020-03-15	False
 333	Puebla	M	29	2020-03-13	confirmado	Contacto		True
-334	Puebla	M	33	2020-03-13	confirmado	Estados Unidos	2020-12-03	True
-335	Jalisco	M	28	2020-03-16	confirmado	Estados Unidos	2020-06-03	False
-336	Puebla	F	49	2020-03-14	confirmado	España	2020-04-03	True
-337	Baja California	M	30	2020-03-19	confirmado	Estados Unidos	2020-09-03	False
+334	Puebla	M	33	2020-03-13	confirmado	Estados Unidos	2020-03-12	True
+335	Jalisco	M	28	2020-03-16	confirmado	Estados Unidos	2020-03-06	False
+336	Puebla	F	49	2020-03-14	confirmado	España	2020-03-04	True
+337	Baja California	M	30	2020-03-19	confirmado	Estados Unidos	2020-03-09	False
 338	Zacatecas	M	28	2020-03-18	confirmado	España	2020-03-15	False
 339	Ciudad de México	M	60	2020-03-18	confirmado	Contacto		True
 340	Ciudad de México	M	38	2020-03-13	confirmado	Contacto		True
 341	Ciudad de México	M	37	2020-03-15	confirmado	Contacto	2020-03-16	True
 342	Puebla	F	28	2020-03-15	confirmado	Estados Unidos	2020-03-17	True
-343	Tabasco	M	30	2020-03-13	confirmado	Estados Unidos	2020-11-03	False
+343	Tabasco	M	30	2020-03-13	confirmado	Estados Unidos	2020-03-11	False
 344	Quintana Roo	M	60	2020-03-17	confirmado	España	2020-03-15	False
 345	Quintana Roo	M	46	2020-03-15	confirmado	Contacto		False
 346	Aguascalientes	M	18	2020-03-19	confirmado	España	2020-03-16	False
@@ -366,7 +366,7 @@
 365	Baja California	M	51	2020-03-21	confirmado	Contacto		False
 366	Guerrero	F	36	2020-03-17	confirmado	Contacto		False
 367	Quintana Roo	F	21	2020-03-18	confirmado	Estados Unidos	2020-03-18	False
-368	Quintana Roo	F	19	2020-11-03	confirmado	Estados Unidos	2020-09-03	False
+368	Quintana Roo	F	19	2020-03-11	confirmado	Estados Unidos	2020-03-09	False
 369	Quintana Roo	M	48	2020-03-19	confirmado	Contacto	2020-03-13	False
 370	Tamaulipas	M	29	2020-03-20	confirmado	Contacto		False
 371	Oaxaca	F	34	2020-03-20	confirmado	Francia	2020-03-17	False
@@ -379,21 +379,21 @@
 378	Ciudad de México	F	45	2020-03-20	confirmado	Contacto		False
 379	Nuevo León	M	37	2020-03-17	confirmado	España	2020-03-18	True
 380	Ciudad de México	M	52	2020-03-19	confirmado	Contacto		False
-381	Nuevo León	M	40	2020-11-03	confirmado	Estados Unidos	2020-09-03	True
+381	Nuevo León	M	40	2020-03-11	confirmado	Estados Unidos	2020-03-09	True
 382	Nuevo León	F	66	2020-03-19	confirmado	Contacto		True
 383	Nuevo León	M	20	2020-03-15	confirmado	Estados Unidos	2020-03-14	True
 384	Nuevo León	M	21	2020-03-14	confirmado	España	2020-03-15	True
 385	Nuevo León	F	24	2020-03-17	confirmado	Estados Unidos	2020-03-16	True
-386	Nuevo León	M	42	2020-03-13	confirmado	Estados Unidos	2020-10-03	True
-387	Yucatán	M	63	2020-08-03	confirmado	Contacto		True
+386	Nuevo León	M	42	2020-03-13	confirmado	Estados Unidos	2020-03-10	True
+387	Yucatán	M	63	2020-03-08	confirmado	Contacto		True
 388	Nuevo León	F	27	2020-03-20	confirmado	Estados Unidos	2020-03-18	True
 389	Nuevo León	M	28	2020-03-14	confirmado	Estados Unidos	2020-03-15	True
-390	Nuevo León	M	30	2020-03-15	confirmado	Estados Unidos	2020-09-03	True
+390	Nuevo León	M	30	2020-03-15	confirmado	Estados Unidos	2020-03-09	True
 391	Puebla	F	76	2020-03-17	confirmado	Estados Unidos	2020-03-20	True
-392	Ciudad de México	F	61	2020-03-16	confirmado	Italia	2020-12-03	True
-393	Nuevo León	F	27	2020-09-03	confirmado	Italia	2020-07-03	True
-394	Yucatán	M	38	2020-08-03	confirmado	España	2020-04-03	True
-395	Guerrero	F	74	2020-08-03	confirmado	España	2020-04-03	True
+392	Ciudad de México	F	61	2020-03-16	confirmado	Italia	2020-03-12	True
+393	Nuevo León	F	27	2020-03-09	confirmado	Italia	2020-03-07	True
+394	Yucatán	M	38	2020-03-08	confirmado	España	2020-03-04	True
+395	Guerrero	F	74	2020-03-08	confirmado	España	2020-03-04	True
 396	Guanajuato	F	56	2020-03-16	confirmado	Francia	2020-03-17	True
 397	Guanajuato	F	53	2020-03-16	confirmado	Francia	2020-03-17	True
 398	Guanajuato	F	48	2020-03-21	confirmado	Francia	2020-03-17	True
@@ -401,6 +401,6 @@
 400	Yucatán	M	28	2020-03-19	confirmado	Francia	2020-03-15	True
 401	Yucatán	F	30	2020-03-19	confirmado	Francia	2020-03-18	True
 402	Yucatán	F	40	2020-03-14	confirmado	Contacto		True
-403	Ciudad de México	M	38	2020-10-03	confirmado	Contacto		True
-404	Ciudad de México	M	64	2020-03-15	confirmado	Francia	2020-11-03	True
+403	Ciudad de México	M	38	2020-03-10	confirmado	Contacto		True
+404	Ciudad de México	M	64	2020-03-15	confirmado	Francia	2020-03-11	True
 405	Chihuahua	F	18	2020-03-21	confirmado	España	2020-03-18	True
