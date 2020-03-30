@@ -117,7 +117,7 @@ pseudo_indice	estado	sexo	edad	fecha_inicio_sintomas	id_rt-pcr	procedencia	fecha
 20200318_116	Quintana Roo	M	39	2020-03-16	confirmado	Italia	2020-03-01	2020-03-18
 20200318_117	Guanajuato	F	27	2020-03-14	confirmado	España	2020-03-14	2020-03-18
 20200318_118	Guanajuato	F	52	2020-03-12	confirmado	España	2020-03-14	2020-03-18
-20200319_92	Ciudad de México	M	41	2020-03-09	confirmado	En investigación		2020-03-19
+20200319_92	Ciudad de México	M	41	2020-03-09	confirmado	Contacto		2020-03-19
 20200319_112	Ciudad de México	M	47	2020-03-12	confirmado	Estados Unidos	2020-03-12	2020-03-19
 20200319_113	Ciudad de México	M	43	2020-03-14	confirmado	Estados Unidos	2020-03-12	2020-03-19
 20200319_114	Hidalgo	M	39	2020-03-07	confirmado	Francia	2020-03-06	2020-03-19
