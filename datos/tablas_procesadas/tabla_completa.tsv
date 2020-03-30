@@ -9,7 +9,7 @@ pseudo_indice	estado	sexo	edad	fecha_inicio_sintomas	id_rt-pcr	procedencia	fecha
 20200316_8	Queretaro	M	43	2020-03-09	confirmado	España	2020-03-06	
 20200316_9	Ciudad de México	M	41	2020-03-07	confirmado	Estados Unidos	2020-03-06	
 20200316_10	Ciudad de México	F	30	2020-03-07	confirmado	España	2020-03-06	
-20200316_11	México	F	64	2020-02-03	confirmado	Estados Unidos	2020-02-29	
+20200316_11	México	F	64	2020-03-02	confirmado	Estados Unidos	2020-02-29	
 20200316_12	Nuevo León	M	57	2020-03-04	confirmado	Alemania	2020-03-03	
 20200316_13	México	F	55	2020-03-09	confirmado	España	2020-03-09	
 20200316_14	Durango	M	58	2020-03-06	confirmado	España	2020-02-28	
@@ -72,7 +72,7 @@ pseudo_indice	estado	sexo	edad	fecha_inicio_sintomas	id_rt-pcr	procedencia	fecha
 20200316_71	Nuevo León	F	80	2020-03-09	confirmado	España	2020-03-12	2020-03-16
 20200316_72	Nuevo León	M	71	2020-03-07	confirmado	Estados Unidos	2020-03-10	2020-03-16
 20200316_73	Nuevo León	M	53	2020-03-09	confirmado	España	2020-03-10	2020-03-16
-20200316_74	Nuevo León	M	42	2020-02-03	confirmado	Estados Unidos	2020-02-03	2020-03-16
+20200316_74	Nuevo León	M	42	2020-03-02	confirmado	Estados Unidos	2020-03-02	2020-03-16
 20200316_75	México	M	45	2020-03-11	confirmado	Estados Unidos	2020-03-01	2020-03-16
 20200316_76	Nuevo León	M	33	2020-03-09	confirmado	Estados Unidos	2020-03-12	2020-03-16
 20200316_77	Nuevo León	F	27	2020-03-12	confirmado	Estados Unidos	2020-03-12	2020-03-16
@@ -107,7 +107,7 @@ pseudo_indice	estado	sexo	edad	fecha_inicio_sintomas	id_rt-pcr	procedencia	fecha
 20200318_105	San Luis Potosí	M	32	2020-03-14	confirmado	España	2020-03-14	2020-03-18
 20200318_107	Yucatán	F	26	2020-03-08	confirmado	España	2020-03-14	2020-03-18
 20200318_108	Colima	M	46	2020-03-15	confirmado	Alemania	2020-03-13	2020-03-18
-20200318_109	Baja California	F	54	2020-03-11	confirmado	Estados Unidos	2020-02-03	2020-03-18
+20200318_109	Baja California	F	54	2020-03-11	confirmado	Estados Unidos	2020-03-02	2020-03-18
 20200318_110	Baja California	F	57	2020-03-13	confirmado	Contacto	2020-03-16	2020-03-18
 20200318_111	Tabasco	F	61	2020-03-14	confirmado	Francia	2020-03-16	2020-03-18
 20200318_112	Ciudad de México	M	28	2020-03-16	confirmado	Contacto		2020-03-18
@@ -295,7 +295,7 @@ pseudo_indice	estado	sexo	edad	fecha_inicio_sintomas	id_rt-pcr	procedencia	fecha
 20200322_294	Jalisco	M	40	2020-03-10	confirmado	Estados Unidos	2020-03-07	2020-03-22
 20200322_295	Jalisco	M	31	2020-03-18	confirmado	Estados Unidos	2020-03-08	2020-03-22
 20200322_296	Jalisco	F	38	2020-03-11	confirmado	Estados Unidos	2020-03-07	2020-03-22
-20200322_297	Jalisco	M	32	2020-03-13	confirmado	Estados Unidos	2020-02-03	2020-03-22
+20200322_297	Jalisco	M	32	2020-03-13	confirmado	Estados Unidos	2020-03-02	2020-03-22
 20200322_298	Jalisco	M	30	2020-03-18	confirmado	Estados Unidos	2020-03-09	2020-03-22
 20200322_299	Coahuila	M	42	2020-03-18	confirmado	Estados Unidos	2020-03-11	2020-03-22
 20200322_300	Coahuila	M	11	2020-03-18	confirmado	Estados Unidos	2020-03-11	2020-03-22
@@ -413,7 +413,7 @@ pseudo_indice	estado	sexo	edad	fecha_inicio_sintomas	id_rt-pcr	procedencia	fecha
 20200325_402	Aguascalientes	F	40	2020-03-18	confirmado	Contacto	2020-03-15	2020-03-25
 20200325_403	Ciudad de México	M	76	2020-03-10	confirmado	Francia	2020-03-11	2020-03-25
 20200325_407	Aguascalientes	F	47	2020-03-12	confirmado	Contacto	2020-03-08	2020-03-25
-20200325_408	Ciudad de México	M	46	2020-03-17	confirmado	Estados Unidos	2020-02-03	2020-03-25
+20200325_408	Ciudad de México	M	46	2020-03-17	confirmado	Estados Unidos	2020-03-02	2020-03-25
 20200325_410	Ciudad de México	M	10	2020-03-13	confirmado	Contacto		2020-03-25
 20200325_411	Ciudad de México	F	88	2020-03-20	confirmado	Contacto		2020-03-25
 20200325_415	Ciudad de México	F	79	2020-03-18	confirmado	Contacto		2020-03-25
@@ -443,7 +443,7 @@ pseudo_indice	estado	sexo	edad	fecha_inicio_sintomas	id_rt-pcr	procedencia	fecha
 20200325_442	Guanajuato	F	41	2020-03-18	confirmado	España	2020-03-16	2020-03-25
 20200325_443	Guanajuato	M	24	2020-03-15	confirmado	Estados Unidos	2020-03-19	2020-03-25
 20200325_444	Ciudad de México	F	60	2020-03-14	confirmado	Contacto		2020-03-25
-20200325_445	Ciudad de México	M	28	2020-02-03	confirmado	Estados Unidos	2020-03-15	2020-03-25
+20200325_445	Ciudad de México	M	28	2020-03-02	confirmado	Estados Unidos	2020-03-15	2020-03-25
 20200325_446	Ciudad de México	F	53	2020-03-10	confirmado	Francia	2020-03-18	2020-03-25
 20200325_447	Ciudad de México	M	47	2020-03-17	confirmado	España	2020-03-14	2020-03-25
 20200325_448	Ciudad de México	M	20	2020-03-16	confirmado	Contacto	2020-03-16	2020-03-25
@@ -565,7 +565,7 @@ pseudo_indice	estado	sexo	edad	fecha_inicio_sintomas	id_rt-pcr	procedencia	fecha
 20200326_562	Tabasco	M	31	2020-03-17	confirmado	Contacto		2020-03-26
 20200326_563	Tabasco	F	58	2020-03-18	confirmado	Contacto		2020-03-26
 20200326_564	México	F	68	2020-03-17	confirmado	Contacto		2020-03-26
-20200326_565	México	F	49	2020-02-03	confirmado	Contacto		2020-03-26
+20200326_565	México	F	49	2020-03-02	confirmado	Contacto		2020-03-26
 20200326_566	México	F	22	2020-03-24	confirmado	Contacto		2020-03-26
 20200326_567	México	F	22	2020-03-16	confirmado	Contacto		2020-03-26
 20200326_568	México	M	36	2020-03-16	confirmado	España		2020-03-26
@@ -596,7 +596,7 @@ pseudo_indice	estado	sexo	edad	fecha_inicio_sintomas	id_rt-pcr	procedencia	fecha
 20200327_112	México	F	23	2020-03-07	confirmado	España	2020-03-13	2020-03-27
 20200327_114	México	M	55	2020-03-09	confirmado	Estados Unidos	2020-03-09	2020-03-27
 20200327_115	México	M	31	2020-03-13	confirmado	España	2020-03-13	2020-03-27
-20200327_240	Ciudad de México	M	47	2020-03-06	confirmado	Estados Unidos	2020-02-03	2020-03-27
+20200327_240	Ciudad de México	M	47	2020-03-06	confirmado	Estados Unidos	2020-03-02	2020-03-27
 20200327_346	México	M	63	2020-03-12	confirmado	España	2020-03-04	2020-03-27
 20200327_351	México	M	51	2020-03-05	confirmado	Contacto		2020-03-27
 20200327_372	Ciudad de México	M	44	2020-03-11	confirmado	España	2020-03-15	2020-03-27
@@ -779,7 +779,7 @@ pseudo_indice	estado	sexo	edad	fecha_inicio_sintomas	id_rt-pcr	procedencia	fecha
 20200328_774	Ciudad de México	F	36	2020-03-18	confirmado	España	2020-03-18	2020-03-28
 20200328_775	Ciudad de México	F	30	2020-03-17	confirmado	España	2020-03-18	2020-03-28
 20200328_776	Ciudad de México	M	34	2020-03-17	confirmado	España	2020-03-09	2020-03-28
-20200328_777	Quintana Roo	M	35	2020-02-03	confirmado	Italia	2020-03-15	2020-03-28
+20200328_777	Quintana Roo	M	35	2020-03-02	confirmado	Italia	2020-03-15	2020-03-28
 20200328_778	Ciudad de México	M	38	2020-03-13	confirmado	España	2020-03-08	2020-03-28
 20200328_779	Ciudad de México	M	26	2020-03-20	confirmado	Contacto	2020-03-18	2020-03-28
 20200328_780	Ciudad de México	M	29	2020-03-16	confirmado	Contacto	2020-03-21	2020-03-28
