@@ -18,12 +18,21 @@ La tabla completa que incluye las **fechas en las que el caso fue reportado como
 
 ## Visualización
 
-<a href="https://plotly.com/~nataquinones/849/?share_key=NQs6mraaw1EHZVVbALZHTj" target="_blank" title="20200329_growth" style="display: block; text-align: center;"><img src="https://plotly.com/~nataquinones/849.png?share_key=NQs6mraaw1EHZVVbALZHTj" alt="20200329_growth" style="max-width: 100%;width: 1000px;"  width="1000" onerror="this.onerror=null;this.src='https://plotly.com/404.png';" /></a>
+### Acumulado de casos nacionales
+[[ver versión dinámica](https://plotly.com/~nataquinones/849.png) |  [ver tabla]()]
+<a href="https://plotly.com/~nataquinones/849/" target="_blank" style="display: block; text-align: center;">
+  <img src="https://plotly.com/~nataquinones/849.png" style="max-width: 100%;width: 1000px;"  width="1000"/></a>
 
-<a href="https://plotly.com/~nataquinones/847/?share_key=2Yu1MznsRh1mokhgGft5HU" target="_blank" title="20200329_staticmap" style="display: block; text-align: center;"><img src="https://plotly.com/~nataquinones/847.png?share_key=2Yu1MznsRh1mokhgGft5HU" alt="20200329_staticmap" style="max-width: 100%;width: 1000px;"  width="1000" onerror="this.onerror=null;this.src='https://plotly.com/404.png';" /></a>
 
+### Acumulado por estados: Aquellos con mayor número de casos
+[[ver versión dinámica](https://plotly.com/~nataquinones/854.png) |  [ver tabla]()]
+<a href="https://plotly.com/~nataquinones/854/" target="_blank" style="display: block; text-align: center;">
+  <img src="https://plotly.com/~nataquinones/854.png" style="max-width: 100%;width: 1000px;"  width="1000"/></a>
 
-
+### Mapa
+[[ver versión dinámica](https://plotly.com/~nataquinones/847.png) |  [ver tabla]()]
+<a href="https://plotly.com/~nataquinones/847/" target="_blank" style="display: block; text-align: center;">
+  <img src="https://plotly.com/~nataquinones/847.png" style="max-width: 100%;width: 1000px;"  width="1000"/></a>
 
 ## Documentación
 TO_DO
