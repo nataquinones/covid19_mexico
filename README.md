@@ -18,17 +18,17 @@ La tabla completa que incluye las **fechas en las que el caso fue reportado como
 
 ## Visualización
 ### Mapa
-[[versión dinámica](https://plotly.com/~nataquinones/847) |  [tabla]()]
+[[versión dinámica](https://plotly.com/~nataquinones/847) |  [tabla](https://github.com/nataquinones/covid19_mexico/blob/master/datos/tablas_procesadas/20200329_mapa.tsv)]
 <a href="https://plotly.com/~nataquinones/847/" target="_blank" style="display: block; text-align: center;">
   <img src="https://plotly.com/~nataquinones/847.png" style="max-width: 100%;width: 1000px;"  width="1000"/></a>
 
 ### Acumulado de casos nacionales
-[[versión dinámica](https://plotly.com/~nataquinones/849) |  [tabla]()]
+[[versión dinámica](https://plotly.com/~nataquinones/849) |  [tabla](https://github.com/nataquinones/covid19_mexico/blob/master/datos/tablas_procesadas/20200329_acumulados-nacional.tsv)]
 <a href="https://plotly.com/~nataquinones/849/" target="_blank" style="display: block; text-align: center;">
   <img src="https://plotly.com/~nataquinones/849.png" style="max-width: 100%;width: 1000px;"  width="1000"/></a>
 
 ### Acumulado por estados: Aquellos con mayor número de casos
-[[versión dinámica](https://plotly.com/~nataquinones/854) |  [tabla]()]
+[[versión dinámica](https://plotly.com/~nataquinones/854) |  [tabla](https://github.com/nataquinones/covid19_mexico/blob/master/datos/tablas_procesadas/20200329_acumulados-estado.tsv)]
 <a href="https://plotly.com/~nataquinones/854/" target="_blank" style="display: block; text-align: center;">
   <img src="https://plotly.com/~nataquinones/854.png" style="max-width: 100%;width: 1000px;"  width="1000"/></a>
 
