@@ -19,18 +19,18 @@ La tabla completa que incluye las **fechas en las que el caso fue reportado como
 ## Visualización
 
 ### Acumulado de casos nacionales
-[[ver versión dinámica](https://plotly.com/~nataquinones/849.png) |  [ver tabla]()]
+[[versión dinámica](https://plotly.com/~nataquinones/849) |  [tabla]()]
 <a href="https://plotly.com/~nataquinones/849/" target="_blank" style="display: block; text-align: center;">
   <img src="https://plotly.com/~nataquinones/849.png" style="max-width: 100%;width: 1000px;"  width="1000"/></a>
 
 
 ### Acumulado por estados: Aquellos con mayor número de casos
-[[ver versión dinámica](https://plotly.com/~nataquinones/854.png) |  [ver tabla]()]
+[[versión dinámica](https://plotly.com/~nataquinones/854) |  [tabla]()]
 <a href="https://plotly.com/~nataquinones/854/" target="_blank" style="display: block; text-align: center;">
   <img src="https://plotly.com/~nataquinones/854.png" style="max-width: 100%;width: 1000px;"  width="1000"/></a>
 
 ### Mapa
-[[ver versión dinámica](https://plotly.com/~nataquinones/847.png) |  [ver tabla]()]
+[[versión dinámica](https://plotly.com/~nataquinones/847) |  [tabla]()]
 <a href="https://plotly.com/~nataquinones/847/" target="_blank" style="display: block; text-align: center;">
   <img src="https://plotly.com/~nataquinones/847.png" style="max-width: 100%;width: 1000px;"  width="1000"/></a>
 
