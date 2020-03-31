@@ -38,6 +38,7 @@ La tabla completa que incluye las **fechas en las que el caso fue reportado como
 Todos el procesamiento de datos se encuentra en [`ipynb_notebooks/`](https://github.com/nataquinones/covid19_mexico/tree/master/ipynb_notebooks).
 Algunos puntos importantes a considerar son los siguientes:
 - El primer archivo pdf que se procesa es del día `2020-03-16`, todos los casos anteriores a este día se marcan como `2020-03-15`.
+- La [tabla completa](datos/tablas_procesadas/tabla_completa.tsv) tiene una columna llamada `pseudo_indice` que corresponde a la fecha en la que el dato fue agregado como nuevo y el indice en la tabla original.
 - Los [datos procesados](https://github.com/nataquinones/covid19_mexico/tree/master/datos/tablas_procesadas) requieren resolver ciertas inconsistencias presentes en los datos originales. Las decisiones que han tomado para consolidar estos datos se pueden encontrar en el historial de [Issues](https://github.com/nataquinones/covid19_mexico/issues?q=is%3Aissue+is%3Aclosed), donde documento cualquier información sobre cambios en los datos. Por lo mismo, pueden diferir ligeramente de lo publicado por la Secretaría de Salud. Si encuentras inconsistencias mayores, házmelo saber.
 
 ## Reporte de errores
