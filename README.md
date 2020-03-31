@@ -18,6 +18,9 @@ La tabla completa que incluye las **fechas en las que el caso fue reportado como
 
 ## Visualización
 
+<a href="https://plotly.com/~nataquinones/849/?share_key=NQs6mraaw1EHZVVbALZHTj" target="_blank" title="20200329_growth" style="display: block; text-align: center;"><img src="https://plotly.com/~nataquinones/849.png?share_key=NQs6mraaw1EHZVVbALZHTj" alt="20200329_growth" style="max-width: 100%;width: 1000px;"  width="1000" onerror="this.onerror=null;this.src='https://plotly.com/404.png';" /></a>
+
+
 <a href="https://plotly.com/~nataquinones/847/?share_key=2Yu1MznsRh1mokhgGft5HU" target="_blank" title="20200329_staticmap" style="display: block; text-align: center;"><img src="https://plotly.com/~nataquinones/847.png?share_key=2Yu1MznsRh1mokhgGft5HU" alt="20200329_staticmap" style="max-width: 100%;width: 1000px;"  width="1000" onerror="this.onerror=null;this.src='https://plotly.com/404.png';" /></a>
 
 
