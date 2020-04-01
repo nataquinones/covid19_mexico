@@ -16,7 +16,7 @@ The most recent data file from the Secretaría de Salud can be found here:
 The full table that includes the **dates in which the cases were reported as new** can be found here:
 - [Full table in `.tsv`](datos/tablas_procesadas/tabla_completa.tsv)
 
->For translation of the headers, see [TO_DO](https://github.com/nataquinones/covid19_mexico/blob/master/README_en.md#documentation).
+>For translation of the headers, see [here](https://github.com/nataquinones/covid19_mexico/blob/master/README_en.md#documentation).
 
 ## Data Visualization
 ### Map
