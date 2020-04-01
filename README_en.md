@@ -1,4 +1,4 @@
-# covid19_mexico: Processing of the official data for COVID-2019 in Mexico
+# covid19_mexico: Processing of the official data for COVID-19 in Mexico
 
 [ [Español](README.md) | English ]
 
