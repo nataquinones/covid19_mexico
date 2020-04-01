@@ -37,12 +37,12 @@ The full table that includes the **dates in which the cases were reported as new
   <img src="https://plotly.com/~nataquinones/854.png" style="max-width: 100%;width: 1000px;"  width="1000"/></a>
 
 ## Documentation
+
+> I have tried to make the data and code available with Spanish speakers in mind. Nevertheless, I recognize the importance of having this data available in English as well. An extra file translating table headers and directory structure can be found [here](TO_DO). I'm happy to help with other things upon request.
+
 All the data processing can be found in [`ipynb_notebooks/`](https://github.com/nataquinones/covid19_mexico/tree/master/ipynb_notebooks).
 
-For English speakers:
-- I have tried to make the data and code available with Spanish speakers in mind. Nevertheless, I recognize the importance of having this data available in English as well. An extra file translating table headers and directory structure can be found [here](TO_DO). I'm happy to help with other things upon request.
-
-Main things to consider are:
+The main things to consider are:
 - The first date included in this repo is `2020-03-16`. All cases confirmed before this date are marked as having appeared in `2020-03-15` in the plots and processed data. In the raw data, their date of confirmation is marked as a null value.
 - The [full table](datos/tablas_procesadas/tabla_completa.tsv) has a column labeled `pseudo_indice` (*pseudo_index*), which corresponds to the date in which the data point was added as a new case (maked with blue in the `pdf` table), and the index it had on the original table. This has been added because there's no consistent indexing or case ids associated with the data.
 - The [processed data](https://github.com/nataquinones/covid19_mexico/tree/master/datos/tablas_procesadas) tables require solving several inconsistencies present in the original data. For this reason, they might differ from what is published by the Mexican Ministry of Health. The decisions I've made regarding what to include or remove can be found in [Issues](https://github.com/nataquinones/covid19_mexico/issues?q=is%3Aissue+is%3Aclosed). If you find any other mayor inconsistency, please let me know and I'll fix it as soon as I can.
