@@ -28,7 +28,7 @@ La tabla completa que incluye las **fechas en las que el caso fue reportado como
 
 
 ### Acumulado de casos nacionales
-[[ versión dinámica](https://plotly.com/~nataquinones/864) |  [tabla ](https://github.com/nataquinones/covid19_mexico/blob/master/datos/tablas_procesadas/acumulados_nacional/20200331_acumulados-nacional.tsv)]
+[[ versión dinámica](https://plotly.com/~nataquinones/864) |  [tabla ](https://github.com/nataquinones/covid19_mexico/blob/master/datos/tablas_procesadas/20200331_acumulados-nacional.tsv)]
 
 <a href="https://plotly.com/~nataquinones/864/">
 <img src="https://plotly.com/~nataquinones/864.png"
@@ -40,7 +40,7 @@ La tabla completa que incluye las **fechas en las que el caso fue reportado como
 ### Acumulado por estados
 > Los 5 con mayor número de casos
 
-[[ versión dinámica](https://plotly.com/~nataquinones/866) |  [tabla ](https://github.com/nataquinones/covid19_mexico/blob/master/datos/tablas_procesadas/acumulados_estado/20200331_acumulados-estado.tsv)]
+[[ versión dinámica](https://plotly.com/~nataquinones/866) |  [tabla ](https://github.com/nataquinones/covid19_mexico/blob/master/datos/tablas_procesadas/20200331_acumulados-estado.tsv)]
 
 <a href="https://plotly.com/~nataquinones/866/">
 <img src="https://plotly.com/~nataquinones/866.png"
