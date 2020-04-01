@@ -1097,3 +1097,123 @@ pseudo_indice	estado	sexo	edad	fecha_inicio_sintomas	id_rt-pcr	procedencia	fecha
 20200330_1092	Ciudad de México	F	43	2020-03-16	confirmado	España		2020-03-30
 20200330_1093	Ciudad de México	M	47	2020-03-14	confirmado	Contacto		2020-03-30
 20200330_1094	Jalisco	M	37	2020-03-20	confirmado	Contacto		2020-03-30
+20200331_1009	México	F	54	2020-03-23	confirmado	Contacto		2020-03-31
+20200331_1010	México	F	53	2020-03-26	confirmado	Contacto		2020-03-31
+20200331_1012	Ciudad de México	F	73	2020-03-16	confirmado	Italia	2020-03-15	2020-03-31
+20200331_1013	Ciudad de México	M	26	2020-03-18	confirmado	España	2020-03-15	2020-03-31
+20200331_1014	Veracruz	F	22	2020-03-20	confirmado	España	2020-03-11	2020-03-31
+20200331_1015	Ciudad de México	F	38	2020-03-14	confirmado	Italia	2020-03-15	2020-03-31
+20200331_1016	México	M	22	2020-03-15	confirmado	Contacto		2020-03-31
+20200331_1018	Aguascalientes	M	38	2020-03-18	confirmado	España	2020-03-17	2020-03-31
+20200331_1019	Aguascalientes	M	23	2020-03-25	confirmado	Estados Unidos	2020-03-23	2020-03-31
+20200331_1020	Aguascalientes	F	60	2020-03-12	confirmado	España		2020-03-31
+20200331_1021	Baja California	F	32	2020-03-19	confirmado	Contacto		2020-03-31
+20200331_1022	Aguascalientes	M	43	2020-03-22	confirmado	Contacto		2020-03-31
+20200331_1023	Aguascalientes	M	75	2020-03-26	confirmado	Contacto		2020-03-31
+20200331_1024	Aguascalientes	M	27	2020-03-16	confirmado	Contacto		2020-03-31
+20200331_1026	Michoacán	F	62	2020-03-20	confirmado	Contacto	2020-03-23	2020-03-31
+20200331_1032	Aguascalientes	F	30	2020-03-23	confirmado	Contacto		2020-03-31
+20200331_1040	Michoacán	F	28	2020-03-22	confirmado	Contacto		2020-03-31
+20200331_1042	Guerrero	M	70	2020-03-20	confirmado	Estados Unidos	2020-03-20	2020-03-31
+20200331_1043	Michoacán	M	30	2020-03-22	confirmado	Contacto		2020-03-31
+20200331_1045	Baja California	M	54	2020-03-24	confirmado	Contacto	2020-03-27	2020-03-31
+20200331_1060	Tabasco	F	29	2020-03-25	confirmado	Contacto		2020-03-31
+20200331_1063	Tabasco	F	61	2020-03-18	confirmado	Contacto		2020-03-31
+20200331_1069	Michoacán	M	44	2020-03-25	confirmado	Contacto		2020-03-31
+20200331_1072	Baja California	F	59	2020-03-19	confirmado	Contacto	2020-03-12	2020-03-31
+20200331_1090	Tabasco	M	68	2020-03-25	confirmado	España	2020-03-22	2020-03-31
+20200331_1093	Tabasco	F	67	2020-03-28	confirmado	España	2020-03-22	2020-03-31
+20200331_1096	Tabasco	F	20	2020-03-18	confirmado	Contacto		2020-03-31
+20200331_1099	Tabasco	M	46	2020-03-16	confirmado	Contacto		2020-03-31
+20200331_1106	Baja California	M	54	2020-03-18	confirmado	Estados Unidos	2020-03-08	2020-03-31
+20200331_1116	Tabasco	M	26	2020-03-23	confirmado	Contacto		2020-03-31
+20200331_1118	Tabasco	M	47	2020-03-21	confirmado	Contacto	2020-03-22	2020-03-31
+20200331_1123	Tabasco	F	70	2020-03-29	confirmado	Contacto		2020-03-31
+20200331_1126	Nuevo León	F	58	2020-03-21	confirmado	Contacto		2020-03-31
+20200331_1129	Baja California	F	50	2020-03-26	confirmado	Contacto		2020-03-31
+20200331_1130	Puebla	M	30	2020-03-26	confirmado	Contacto		2020-03-31
+20200331_1131	Ciudad de México	F	65	2020-03-09	confirmado	España	2019-03-13	2020-03-31
+20200331_1132	Chiapas	M	71	2020-03-25	confirmado	Contacto	2020-03-23	2020-03-31
+20200331_1133	México	F	31	2020-03-27	confirmado	Contacto		2020-03-31
+20200331_1134	Ciudad de México	M	47	2020-03-13	confirmado	Estados Unidos	2020-02-29	2020-03-31
+20200331_1135	Ciudad de México	F	51	2020-03-23	confirmado	Contacto		2020-03-31
+20200331_1136	Ciudad de México	M	47	2020-03-14	confirmado	Estados Unidos	2020-03-04	2020-03-31
+20200331_1137	Ciudad de México	M	51	2020-03-14	confirmado	Contacto		2020-03-31
+20200331_1138	Ciudad de México	M	48	2020-03-15	confirmado	Estados Unidos	2020-03-07	2020-03-31
+20200331_1139	México	M	36	2020-03-23	confirmado	Estados Unidos	2020-03-13	2020-03-31
+20200331_1140	Ciudad de México	M	71	2020-03-19	confirmado	Estados Unidos	2020-03-19	2020-03-31
+20200331_1141	Ciudad de México	M	59	2020-03-17	confirmado	España	2020-03-02	2020-03-31
+20200331_1142	Ciudad de México	F	33	2020-03-16	confirmado	Contacto		2020-03-31
+20200331_1143	México	M	27	2020-03-30	confirmado	Contacto		2020-03-31
+20200331_1144	Baja California Sur	F	26	2020-03-23	confirmado	Contacto		2020-03-31
+20200331_1145	Ciudad de México	M	35	2020-03-17	confirmado	Contacto		2020-03-31
+20200331_1146	México	M	69	2020-03-27	confirmado	Contacto		2020-03-31
+20200331_1147	Ciudad de México	F	33	2020-03-19	confirmado	Contacto		2020-03-31
+20200331_1148	Ciudad de México	M	56	2020-03-11	confirmado	España	2020-03-06	2020-03-31
+20200331_1149	Ciudad de México	M	44	2020-03-16	confirmado	Estados Unidos	2020-03-14	2020-03-31
+20200331_1150	Ciudad de México	F	76	2020-03-15	confirmado	Contacto	2020-03-18	2020-03-31
+20200331_1151	Ciudad de México	M	41	2020-02-17	confirmado	Contacto	2020-02-17	2020-03-31
+20200331_1152	Ciudad de México	M	32	2020-03-18	confirmado	Estados Unidos	2020-02-17	2020-03-31
+20200331_1153	Ciudad de México	M	55	2020-03-17	confirmado	España	2020-03-12	2020-03-31
+20200331_1154	Ciudad de México	F	32	2020-03-17	confirmado	Contacto		2020-03-31
+20200331_1155	Ciudad de México	M	45	2020-03-13	confirmado	España	2020-03-19	2020-03-31
+20200331_1156	Puebla	M	48	2020-03-20	confirmado	Contacto		2020-03-31
+20200331_1157	Ciudad de México	F	43	2020-03-10	confirmado	Contacto		2020-03-31
+20200331_1158	Aguascalientes	M	79	2020-03-26	confirmado	Contacto		2020-03-31
+20200331_1159	Aguascalientes	M	8	2020-03-27	confirmado	Contacto		2020-03-31
+20200331_1160	Aguascalientes	M	15	2020-03-27	confirmado	Contacto		2020-03-31
+20200331_1161	Aguascalientes	M	43	2020-03-23	confirmado	Contacto		2020-03-31
+20200331_1162	Jalisco	M	24	2020-03-27	confirmado	Estados Unidos	2020-03-15	2020-03-31
+20200331_1163	Aguascalientes	M	31	2020-03-22	confirmado	Contacto	2020-03-19	2020-03-31
+20200331_1164	Hidalgo	M	70	2020-03-20	confirmado	Contacto		2020-03-31
+20200331_1165	Ciudad de México	M	40	2020-03-19	confirmado	Contacto		2020-03-31
+20200331_1166	México	M	74	2020-03-17	confirmado	Contacto		2020-03-31
+20200331_1167	Guanajuato	M	16	2020-03-24	confirmado	Contacto		2020-03-31
+20200331_1168	Campeche	M	40	2020-03-20	confirmado	Contacto		2020-03-31
+20200331_1169	Campeche	F	60	2020-02-23	confirmado	Contacto		2020-03-31
+20200331_1170	México	F	44	2020-03-20	confirmado	Contacto	2020-03-02	2020-03-31
+20200331_1171	Ciudad de México	F	52	2020-03-25	confirmado	Contacto		2020-03-31
+20200331_1172	México	M	41	2020-03-23	confirmado	Contacto	2020-03-13	2020-03-31
+20200331_1173	Guerrero	M	44	2020-03-18	confirmado	Contacto		2020-03-31
+20200331_1174	México	F	30	2020-03-26	confirmado	Contacto		2020-03-31
+20200331_1175	México	M	24	2020-03-23	confirmado	Contacto		2020-03-31
+20200331_1176	Quintana Roo	M	42	2020-03-24	confirmado	Contacto		2020-03-31
+20200331_1177	Sinaloa	F	25	2020-03-20	confirmado	Contacto		2020-03-31
+20200331_1178	Baja California Sur	M	39	2020-03-22	confirmado	Contacto		2020-03-31
+20200331_1179	Quintana Roo	M	47	2020-03-18	confirmado	Contacto		2020-03-31
+20200331_1180	México	F	32	2020-03-21	confirmado	Contacto		2020-03-31
+20200331_1181	Yucatán	M	65	2020-03-20	confirmado	Contacto		2020-03-31
+20200331_1182	Yucatán	M	32	2020-03-19	confirmado	Contacto		2020-03-31
+20200331_1183	Quintana Roo	M	49	2020-03-27	confirmado	Contacto		2020-03-31
+20200331_1184	Jalisco	M	46	2020-03-17	confirmado	Contacto		2020-03-31
+20200331_1185	Hidalgo	M	56	2020-03-27	confirmado	Contacto		2020-03-31
+20200331_1186	Ciudad de México	F	48	2020-03-20	confirmado	Contacto		2020-03-31
+20200331_1187	Quintana Roo	M	49	2020-03-24	confirmado	Contacto		2020-03-31
+20200331_1188	Coahuila	F	0	2020-03-28	confirmado	Contacto		2020-03-31
+20200331_1189	Baja California	F	68	2020-03-17	confirmado	Estados Unidos	2020-03-22	2020-03-31
+20200331_1190	Coahuila	M	43	2020-03-27	confirmado	Contacto		2020-03-31
+20200331_1191	Morelos	M	37	2020-03-19	confirmado	Estados Unidos	2020-03-16	2020-03-31
+20200331_1192	Coahuila	M	57	2020-03-27	confirmado	Contacto		2020-03-31
+20200331_1193	Coahuila	M	43	2020-03-28	confirmado	Contacto		2020-03-31
+20200331_1194	Coahuila	F	43	2020-03-27	confirmado	Contacto		2020-03-31
+20200331_1195	Baja California	F	49	2020-03-24	confirmado	Estados Unidos		2020-03-31
+20200331_1196	Sinaloa	M	64	2020-03-27	confirmado	Contacto		2020-03-31
+20200331_1197	Chiapas	M	64	2020-03-23	confirmado	Contacto		2020-03-31
+20200331_1198	Sinaloa	F	40	2020-03-21	confirmado	Contacto		2020-03-31
+20200331_1199	Tabasco	M	47	2020-03-22	confirmado	Contacto		2020-03-31
+20200331_1200	Chihuahua	F	55	2020-03-20	confirmado	Contacto		2020-03-31
+20200331_1201	Yucatán	F	42	2020-03-23	confirmado	Contacto		2020-03-31
+20200331_1202	Queretaro	M	46	2020-03-26	confirmado	Contacto		2020-03-31
+20200331_1203	Puebla	M	42	2020-03-28	confirmado	Contacto		2020-03-31
+20200331_1204	Baja California	M	70	2020-03-26	confirmado	Contacto		2020-03-31
+20200331_1205	Queretaro	M	45	2020-03-23	confirmado	Contacto		2020-03-31
+20200331_1206	Ciudad de México	M	56	2020-03-26	confirmado	Contacto		2020-03-31
+20200331_1207	Puebla	M	52	2020-03-27	confirmado	Contacto		2020-03-31
+20200331_1208	Baja California Sur	F	44	2020-03-22	confirmado	Contacto		2020-03-31
+20200331_1209	Guanajuato	F	46	2020-03-24	confirmado	España		2020-03-31
+20200331_1210	Puebla	F	64	2020-03-27	confirmado	Contacto		2020-03-31
+20200331_1211	Baja California Sur	F	29	2020-03-23	confirmado	Contacto		2020-03-31
+20200331_1212	Guanajuato	F	18	2020-03-26	confirmado	Contacto		2020-03-31
+20200331_1213	Ciudad de México	M	49	2020-03-14	confirmado	Estados Unidos		2020-03-31
+20200331_1214	Jalisco	F	38	2020-03-18	confirmado	Estados Unidos		2020-03-31
+20200331_1215	Jalisco	M	39	2020-03-21	confirmado	Francia		2020-03-31
