@@ -1,9 +1,9 @@
-# covid19_mexico: Procesamiento de los datos oficiales de COVID-2019 en México
+# covid19_mexico: Procesamiento de los datos oficiales de COVID-19 en México
 
 [ Español | [English](README_en.md) ]
 
 ## Descripción
-La Secretaría de Salud publica la información sobre casos de COVID-2019 en México en formato [pdf](/datos/ssalud_pdf/). Este repositorio busca automatizar la conversión de estos documentos para producir [tablas](/datos/tablas_originales) que faciliten la consulta y el procesamiento de estos datos.
+La Secretaría de Salud publica la información sobre casos de COVID-19 en México en formato [pdf](/datos/ssalud_pdf/). Este repositorio busca automatizar la conversión de estos documentos para producir [tablas](/datos/tablas_originales) que faciliten la consulta y el procesamiento de estos datos.
 
 ## Datos
 
