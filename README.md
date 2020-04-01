@@ -7,32 +7,47 @@ La Secretaría de Salud publica la información sobre casos de COVID-19 en Méxi
 
 ## Datos
 
-> Última actualización: 2020-03-29
+> Última actualización: 2020-03-30
 
 El archivo más reciente de la Secretaría de Salud se encuentra aquí:
-- [Tabla en `pdf`](/datos/ssalud_pdf/Tabla_casos_positivos_COVID-19_resultado_InDRE_2020.03.29.pdf)
-- [Tabla en `tsv`](/datos/tablas_originales/20200329_positivos.tsv)
+- [Tabla en `pdf`](/datos/ssalud_pdf/Tabla_casos_positivos_COVID-19_resultado_InDRE_2020.03.30.pdf)
+- [Tabla en `tsv`](/datos/tablas_originales/20200330_positivos.tsv)
 
 La tabla completa que incluye las **fechas en las que el caso fue reportado como nuevo** se encuentra aquí:
 - [Tabla completa en `tsv`](datos/tablas_procesadas/tabla_completa.tsv)
 
 ## Visualización
 ### Mapa
-[[versión dinámica](https://plotly.com/~nataquinones/847) |  [tabla](https://github.com/nataquinones/covid19_mexico/blob/master/datos/tablas_procesadas/20200329_mapa.tsv)]
-<a href="https://plotly.com/~nataquinones/847/" target="_blank" style="display: block; text-align: center;">
-  <img src="https://plotly.com/~nataquinones/847.png" style="max-width: 100%;width: 1000px;"  width="1000"/></a>
+[[ versión dinámica](https://plotly.com/~nataquinones/856) |  [tabla ](https://github.com/nataquinones/covid19_mexico/blob/master/datos/tablas_procesadas/mapa/20200330_mapa.tsv)]
+
+<a href="https://plotly.com/~nataquinones/856/">
+<img src="https://plotly.com/~nataquinones/856.png"
+     style="max-width: 100%;width: 1000px;"
+     width="1000"/>
+</a>
+
 
 ### Acumulado de casos nacionales
-[[versión dinámica](https://plotly.com/~nataquinones/849) |  [tabla](https://github.com/nataquinones/covid19_mexico/blob/master/datos/tablas_procesadas/20200329_acumulados-nacional.tsv)]
-<a href="https://plotly.com/~nataquinones/849/" target="_blank" style="display: block; text-align: center;">
-  <img src="https://plotly.com/~nataquinones/849.png" style="max-width: 100%;width: 1000px;"  width="1000"/></a>
+[[ versión dinámica](https://plotly.com/~nataquinones/859) |  [tabla ](https://github.com/nataquinones/covid19_mexico/blob/master/datos/tablas_procesadas/acumulados_nacional/20200330_acumulados-nacional.tsv)]
+
+<a href="https://plotly.com/~nataquinones/859/">
+<img src="https://plotly.com/~nataquinones/859.png"
+     style="max-width: 100%;width: 1000px;"
+     width="1000"/>
+</a>
+
 
 ### Acumulado por estados
 > Los 5 con mayor número de casos
 
-[[versión dinámica](https://plotly.com/~nataquinones/854) |  [tabla](https://github.com/nataquinones/covid19_mexico/blob/master/datos/tablas_procesadas/20200329_acumulados-estado.tsv)]
-<a href="https://plotly.com/~nataquinones/854/" target="_blank" style="display: block; text-align: center;">
-  <img src="https://plotly.com/~nataquinones/854.png" style="max-width: 100%;width: 1000px;"  width="1000"/></a>
+[[ versión dinámica](https://plotly.com/~nataquinones/862) |  [tabla ](https://github.com/nataquinones/covid19_mexico/blob/master/datos/tablas_procesadas/acumulados_estado/20200330_acumulados-estado.tsv)]
+
+<a href="https://plotly.com/~nataquinones/862/">
+<img src="https://plotly.com/~nataquinones/862.png"
+     style="max-width: 100%;width: 1000px;"
+     width="1000"/>
+</a>
+
 
 ## Documentación
 Todos el procesamiento de datos se encuentra en [`ipynb_notebooks/`](https://github.com/nataquinones/covid19_mexico/tree/master/ipynb_notebooks).
