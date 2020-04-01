@@ -18,7 +18,7 @@ La tabla completa que incluye las **fechas en las que el caso fue reportado como
 
 ## Visualización
 ### Mapa
-[[ versión dinámica](https://plotly.com/~nataquinones/868) |  [tabla ](https://github.com/nataquinones/covid19_mexico/blob/master/datos/tablas_procesadas/mapa/20200331_mapa.tsv)]
+[[ versión dinámica](https://plotly.com/~nataquinones/868) |  [tabla ](https://github.com/nataquinones/covid19_mexico/blob/master/datos/tablas_procesadas/20200331_mapa.tsv)]
 
 <a href="https://plotly.com/~nataquinones/868/">
 <img src="https://plotly.com/~nataquinones/868.png"
