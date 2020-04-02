@@ -7,11 +7,11 @@ The Mexican Ministry of Health (*Secretaría de Salud*) publishes the COVID-19 d
 
 ## Data
 
-> Updated: 2020-03-31
+> Updated: 2020-04-01
 
 The most recent data file from the Secretaría de Salud can be found here:
-- [Table in `pdf`](/datos/ssalud_pdf/Tabla_casos_positivos_COVID-19_resultado_InDRE_2020.03.31.pdf)
-- [Table in `.tsv`](/datos/tablas_originales/20200331_positivos.tsv)
+- [Table in `pdf`](/datos/ssalud_pdf/Tabla_casos_positivos_COVID-19_resultado_InDRE_2020.04.01.pdf)
+- [Table in `.tsv`](/datos/tablas_originales/20200401_positivos.tsv)
 
 The full table that includes the **dates in which the cases were reported as new** can be found here:
 - [Full table in `.tsv`](datos/tablas_procesadas/tabla_completa.tsv)
@@ -21,20 +21,20 @@ The full table that includes the **dates in which the cases were reported as new
 
 ## Data Visualization
 ### Map
-[[ interactive figure](https://plotly.com/~nataquinones/868) |  [table ](https://github.com/nataquinones/covid19_mexico/blob/master/datos/tablas_procesadas/20200331_mapa.tsv)]
+[[ interactive figure](https://plotly.com/~nataquinones/870) |  [table ](https://github.com/nataquinones/covid19_mexico/blob/master/datos/tablas_procesadas/mapa/20200401_mapa.tsv)]
 
-<a href="https://plotly.com/~nataquinones/868/">
-<img src="https://plotly.com/~nataquinones/868.png"
+<a href="https://plotly.com/~nataquinones/870/">
+<img src="https://plotly.com/~nataquinones/870.png"
      style="max-width: 100%;width: 1000px;"
      width="1000"/>
 </a>
 
 
 ### Cumulative cases - Nationwide
-[[ interactive figure](https://plotly.com/~nataquinones/864) |  [table ](https://github.com/nataquinones/covid19_mexico/blob/master/datos/tablas_procesadas/20200331_acumulados-nacional.tsv)]
+[[ interactive figure](https://plotly.com/~nataquinones/872) |  [table ](https://github.com/nataquinones/covid19_mexico/blob/master/datos/tablas_procesadas/acumulados_nacional/20200401_acumulados-nacional.tsv)]
 
-<a href="https://plotly.com/~nataquinones/864/">
-<img src="https://plotly.com/~nataquinones/864.png"
+<a href="https://plotly.com/~nataquinones/872/">
+<img src="https://plotly.com/~nataquinones/872.png"
      style="max-width: 100%;width: 1000px;"
      width="1000"/>
 </a>
@@ -43,10 +43,10 @@ The full table that includes the **dates in which the cases were reported as new
 ### Cumulative cases - Statewide
 > Top 5 states with most cases
 
-[[ interactive figure](https://plotly.com/~nataquinones/886654) |  [table ](https://github.com/nataquinones/covid19_mexico/blob/master/datos/tablas_procesadas/20200331_acumulados-estado.tsv)]
+[[ interactive figure](https://plotly.com/~nataquinones/875) |  [table ](https://github.com/nataquinones/covid19_mexico/blob/master/datos/tablas_procesadas/acumulados_estado/20200401_acumulados-estado.tsv)]
 
-<a href="https://plotly.com/~nataquinones/866/">
-<img src="https://plotly.com/~nataquinones/866.png"
+<a href="https://plotly.com/~nataquinones/875/">
+<img src="https://plotly.com/~nataquinones/875.png"
      style="max-width: 100%;width: 1000px;"
      width="1000"/>
 </a>
