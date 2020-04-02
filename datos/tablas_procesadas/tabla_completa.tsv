@@ -1218,3 +1218,170 @@ pseudo_indice	estado	sexo	edad	fecha_inicio_sintomas	id_rt-pcr	procedencia	fecha
 20200331_1214	Jalisco	F	38	2020-03-18	confirmado	Estados Unidos		2020-03-31
 20200331_1215	Jalisco	M	39	2020-03-21	confirmado	Francia		2020-03-31
 20200331_220	Ciudad de México	F	61	2020-03-18	confirmado	Alemania	2020-03-18	2020-03-31
+20200401_175	Ciudad de México	F	51	2020-03-09	Confirmado	Estados Unidos	2020-03-09	2020-04-01
+20200401_176	Ciudad de México	M	32	2020-03-07	Confirmado	Contacto		2020-04-01
+20200401_177	Ciudad de México	M	35	2020-03-17	Confirmado	Estados Unidos	2020-03-15	2020-04-01
+20200401_1083	Puebla	F	29	2020-03-25	Confirmado	Contacto		2020-04-01
+20200401_1140	México	M	44	2020-03-17	Confirmado	Estados Unidos	2020-03-19	2020-04-01
+20200401_1141	México	F	72	2020-03-23	Confirmado	Contacto	2020-03-12	2020-04-01
+20200401_1148	Puebla	F	42	2020-03-28	Confirmado	Contacto		2020-04-01
+20200401_1150	Puebla	F	41	2020-03-25	Confirmado	Contacto		2020-04-01
+20200401_1202	México	M	17	2020-03-26	Confirmado	Contacto		2020-04-01
+20200401_1216	Sinaloa	M	63	2020-03-28	Confirmado	Contacto		2020-04-01
+20200401_1217	Coahuila	M	50	2020-03-29	Confirmado	Contacto		2020-04-01
+20200401_1218	Coahuila	M	39	2020-03-25	Confirmado	Contacto		2020-04-01
+20200401_1219	Hidalgo	M	38	2020-03-23	Confirmado	Contacto		2020-04-01
+20200401_1220	Sinaloa	F	89	2020-03-26	Confirmado	Contacto		2020-04-01
+20200401_1221	Ciudad de México	M	69	2020-03-25	Confirmado	Contacto		2020-04-01
+20200401_1222	Coahuila	F	33	2020-03-29	Confirmado	Contacto		2020-04-01
+20200401_1223	Coahuila	F	56	2020-03-24	Confirmado	Contacto		2020-04-01
+20200401_1224	Sinaloa	M	47	2020-03-23	Confirmado	Contacto		2020-04-01
+20200401_1225	Tabasco	F	26	2020-03-26	Confirmado	Contacto		2020-04-01
+20200401_1226	Chihuahua	M	45	2020-03-26	Confirmado	Contacto		2020-04-01
+20200401_1227	Ciudad de México	M	75	2020-03-28	Confirmado	Contacto		2020-04-01
+20200401_1228	Oaxaca	F	32	2020-03-28	Confirmado	Contacto		2020-04-01
+20200401_1229	Chiapas	M	44	2020-03-08	Confirmado	Contacto		2020-04-01
+20200401_1230	Puebla	M	71	2020-03-29	Confirmado	Contacto		2020-04-01
+20200401_1231	Tabasco	M	25	2020-03-23	Confirmado	Contacto		2020-04-01
+20200401_1232	Quintana Roo	M	54	2020-03-23	Confirmado	Contacto		2020-04-01
+20200401_1233	Coahuila	M	47	2020-03-21	Confirmado	Contacto		2020-04-01
+20200401_1234	Coahuila	M	26	2020-03-26	Confirmado	Contacto		2020-04-01
+20200401_1235	Yucatán	F	65	2020-03-12	Confirmado	Contacto		2020-04-01
+20200401_1236	Yucatán	F	26	2020-03-21	Confirmado	Contacto		2020-04-01
+20200401_1237	Quintana Roo	M	44	2020-03-23	Confirmado	Contacto		2020-04-01
+20200401_1238	Yucatán	M	65	2020-03-27	Confirmado	Contacto		2020-04-01
+20200401_1239	Oaxaca	M	54	2020-03-24	Confirmado	Contacto		2020-04-01
+20200401_1240	Ciudad de México	M	71	2020-03-21	Confirmado	Contacto		2020-04-01
+20200401_1241	Puebla	F	49	2020-03-23	Confirmado	Contacto		2020-04-01
+20200401_1242	Ciudad de México	F	30	2020-03-27	Confirmado	Contacto		2020-04-01
+20200401_1243	Ciudad de México	M	11	2020-03-24	Confirmado	Contacto		2020-04-01
+20200401_1244	Ciudad de México	F	13	2020-03-24	Confirmado	Contacto		2020-04-01
+20200401_1245	Ciudad de México	F	52	2020-03-19	Confirmado	Contacto		2020-04-01
+20200401_1246	Ciudad de México	M	59	2020-03-22	Confirmado	Contacto		2020-04-01
+20200401_1247	Ciudad de México	M	59	2020-03-26	Confirmado	Contacto		2020-04-01
+20200401_1248	Ciudad de México	M	49	2020-03-24	Confirmado	Contacto		2020-04-01
+20200401_1249	México	M	66	2020-03-21	Confirmado	Contacto		2020-04-01
+20200401_1250	Ciudad de México	M	54	2020-03-25	Confirmado	Contacto		2020-04-01
+20200401_1251	Puebla	F	21	2020-03-23	Confirmado	Contacto		2020-04-01
+20200401_1252	Chihuahua	M	26	2020-03-19	Confirmado	Contacto		2020-04-01
+20200401_1253	Puebla	F	57	2020-03-24	Confirmado	Contacto		2020-04-01
+20200401_1254	Puebla	M	45	2020-03-21	Confirmado	Estados Unidos	2020-03-18	2020-04-01
+20200401_1255	Oaxaca	F	34	2020-03-12	Confirmado	Contacto		2020-04-01
+20200401_1257	Michoacán	M	49	2020-03-25	Confirmado	Contacto	2020-03-22	2020-04-01
+20200401_1258	Ciudad de México	M	57	2020-03-26	Confirmado	Contacto		2020-04-01
+20200401_1259	Nayarit	F	47	2020-03-27	Confirmado	Contacto	2020-03-23	2020-04-01
+20200401_1260	Chihuahua	F	57	2020-03-24	Confirmado	Contacto		2020-04-01
+20200401_1261	Puebla	M	67	2020-03-30	Confirmado	Contacto	2020-03-13	2020-04-01
+20200401_1262	Ciudad de México	M	86	2020-03-15	Confirmado	Contacto		2020-04-01
+20200401_1263	Ciudad de México	M	50	2020-03-13	Confirmado	España	2020-03-13	2020-04-01
+20200401_1264	Ciudad de México	F	29	2020-03-12	Confirmado	Estados Unidos	2020-03-14	2020-04-01
+20200401_1265	Puebla	M	40	2020-03-20	Confirmado	Contacto		2020-04-01
+20200401_1266	Ciudad de México	F	34	2020-03-14	Confirmado	Estados Unidos	2020-03-07	2020-04-01
+20200401_1267	Puebla	M	68	2020-03-22	Confirmado	Contacto		2020-04-01
+20200401_1268	Ciudad de México	M	47	2020-03-27	Confirmado	Contacto		2020-04-01
+20200401_1269	Puebla	M	49	2020-03-27	Confirmado	Contacto		2020-04-01
+20200401_1270	Tabasco	M	13	2020-03-30	Confirmado	Contacto		2020-04-01
+20200401_1271	Puebla	F	59	2020-03-24	Confirmado	Contacto		2020-04-01
+20200401_1272	Quintana Roo	M	44	2020-03-26	Confirmado	Contacto		2020-04-01
+20200401_1273	Ciudad de México	M	33	2020-03-24	Confirmado	Contacto		2020-04-01
+20200401_1274	Ciudad de México	F	56	2020-03-16	Confirmado	Contacto		2020-04-01
+20200401_1275	Ciudad de México	F	39	2020-03-13	Confirmado	Contacto	2020-03-07	2020-04-01
+20200401_1276	Ciudad de México	M	38	2020-03-13	Confirmado	España	2020-03-07	2020-04-01
+20200401_1277	Ciudad de México	M	30	2020-03-13	Confirmado	Contacto	2020-03-06	2020-04-01
+20200401_1278	Ciudad de México	M	67	2020-03-15	Confirmado	Estados Unidos	2020-03-14	2020-04-01
+20200401_1279	Ciudad de México	F	25	2020-03-16	Confirmado	Contacto	2020-03-16	2020-04-01
+20200401_1280	Oaxaca	F	22	2020-03-31	Confirmado	Contacto	2020-03-26	2020-04-01
+20200401_1281	Jalisco	F	45	2020-03-24	Confirmado	Contacto		2020-04-01
+20200401_1282	Jalisco	F	76	2020-03-27	Confirmado	Contacto		2020-04-01
+20200401_1283	Ciudad de México	M	80	2020-03-20	Confirmado	Contacto		2020-04-01
+20200401_1284	México	F	47	2020-03-15	Confirmado	Estados Unidos	2020-03-16	2020-04-01
+20200401_1285	Ciudad de México	F	42	2020-03-09	Confirmado	Contacto		2020-04-01
+20200401_1286	México	F	50	2020-03-18	Confirmado	Contacto		2020-04-01
+20200401_1287	México	F	33	2020-03-19	Confirmado	Contacto		2020-04-01
+20200401_1288	Morelos	M	68	2020-03-20	Confirmado	Contacto		2020-04-01
+20200401_1289	Oaxaca	F	61	2020-03-23	Confirmado	Contacto		2020-04-01
+20200401_1290	Morelos	M	72	2020-03-20	Confirmado	Contacto		2020-04-01
+20200401_1291	Puebla	M	39	2020-03-17	Confirmado	Contacto		2020-04-01
+20200401_1292	Baja California	M	53	2020-03-23	Confirmado	Contacto		2020-04-01
+20200401_1293	Tlaxcala	M	29	2020-03-24	Confirmado	Contacto		2020-04-01
+20200401_1294	Ciudad de México	M	45	2020-03-14	Confirmado	Contacto		2020-04-01
+20200401_1296	México	M	34	2020-03-23	Confirmado	Contacto		2020-04-01
+20200401_1298	México	M	42	2020-03-25	Confirmado	Contacto		2020-04-01
+20200401_1300	Guanajuato	M	66	2020-03-14	Confirmado	Contacto		2020-04-01
+20200401_1301	México	M	29	2020-03-22	Confirmado	Contacto		2020-04-01
+20200401_1302	Coahuila	M	34	2020-03-28	Confirmado	Contacto		2020-04-01
+20200401_1303	Hidalgo	M	47	2020-03-24	Confirmado	Contacto		2020-04-01
+20200401_1304	San Luis Potosí	M	7	2020-03-25	Confirmado	Contacto		2020-04-01
+20200401_1305	Sonora	F	65	2020-03-22	Confirmado	Estados Unidos		2020-04-01
+20200401_1306	San Luis Potosí	F	8	2020-03-24	Confirmado	Contacto		2020-04-01
+20200401_1307	San Luis Potosí	F	58	2020-03-24	Confirmado	Contacto		2020-04-01
+20200401_1308	Guerrero	M	59	2020-03-19	Confirmado	Contacto		2020-04-01
+20200401_1309	Guerrero	M	62	2020-03-18	Confirmado	Contacto		2020-04-01
+20200401_1310	Jalisco	M	32	2020-03-25	Confirmado	Contacto		2020-04-01
+20200401_1311	Coahuila	M	58	2020-03-26	Confirmado	Contacto		2020-04-01
+20200401_1312	Tamaulipas	M	52	2020-03-20	Confirmado	Estados Unidos		2020-04-01
+20200401_1313	Michoacán	M	62	2020-03-27	Confirmado	Estados Unidos		2020-04-01
+20200401_1314	Quintana Roo	M	45	2020-03-19	Confirmado	Contacto		2020-04-01
+20200401_1315	México	F	58	2020-03-24	Confirmado	Contacto		2020-04-01
+20200401_1316	Ciudad de México	F	74	2020-03-15	Confirmado	Contacto		2020-04-01
+20200401_1317	Ciudad de México	F	26	2020-03-24	Confirmado	Contacto		2020-04-01
+20200401_1318	Ciudad de México	M	36	2020-03-19	Confirmado	Contacto		2020-04-01
+20200401_1319	Ciudad de México	M	36	2020-03-22	Confirmado	España		2020-04-01
+20200401_1320	Tabasco	F	27	2020-03-19	Confirmado	Francia		2020-04-01
+20200401_1321	Ciudad de México	M	50	2020-03-14	Confirmado	Contacto		2020-04-01
+20200401_1322	Ciudad de México	F	39	2020-03-24	Confirmado	Contacto		2020-04-01
+20200401_1323	Oaxaca	F	35	2020-03-27	Confirmado	Contacto		2020-04-01
+20200401_1324	Ciudad de México	M	40	2020-03-24	Confirmado	Contacto		2020-04-01
+20200401_1325	Jalisco	M	58	2020-03-23	Confirmado	Contacto		2020-04-01
+20200401_1326	Ciudad de México	M	28	2020-03-15	Confirmado	Contacto		2020-04-01
+20200401_1327	Ciudad de México	F	64	2020-03-24	Confirmado	Contacto		2020-04-01
+20200401_1328	Ciudad de México	F	50	2020-03-27	Confirmado	Contacto		2020-04-01
+20200401_1329	Ciudad de México	M	46	2020-03-17	Confirmado	Contacto		2020-04-01
+20200401_1330	Ciudad de México	M	41	2020-03-27	Confirmado	Contacto		2020-04-01
+20200401_1331	Ciudad de México	F	27	2020-03-26	Confirmado	Contacto		2020-04-01
+20200401_1332	Ciudad de México	M	33	2020-03-18	Confirmado	Contacto		2020-04-01
+20200401_1333	Ciudad de México	F	29	2020-03-25	Confirmado	Contacto		2020-04-01
+20200401_1334	Ciudad de México	M	30	2020-03-19	Confirmado	Contacto		2020-04-01
+20200401_1335	Coahuila	F	34	2020-03-27	Confirmado	Contacto		2020-04-01
+20200401_1336	Ciudad de México	F	26	2020-03-25	Confirmado	Contacto		2020-04-01
+20200401_1337	Ciudad de México	M	44	2020-03-20	Confirmado	Contacto		2020-04-01
+20200401_1338	Guanajuato	M	21	2020-03-26	Confirmado	España	2020-03-28	2020-04-01
+20200401_1339	Colima	M	66	2020-03-25	Confirmado	Contacto		2020-04-01
+20200401_1340	Ciudad de México	M	27	2020-03-19	Confirmado	Contacto		2020-04-01
+20200401_1341	Ciudad de México	M	41	2020-03-16	Confirmado	Contacto		2020-04-01
+20200401_1342	Ciudad de México	M	32	2020-03-23	Confirmado	Contacto		2020-04-01
+20200401_1343	Ciudad de México	F	40	2020-03-23	Confirmado	Contacto		2020-04-01
+20200401_1344	Coahuila	M	58	2020-03-28	Confirmado	Contacto		2020-04-01
+20200401_1345	Ciudad de México	F	33	2020-03-25	Confirmado	Contacto		2020-04-01
+20200401_1346	San Luis Potosí	F	37	2020-03-28	Confirmado	Estados Unidos	2020-03-27	2020-04-01
+20200401_1347	Sinaloa	F	62	2020-03-24	Confirmado	Contacto		2020-04-01
+20200401_1348	Puebla	F	29	2020-03-23	Confirmado	Contacto		2020-04-01
+20200401_1349	Veracruz	M	36	2020-03-27	Confirmado	Contacto	2020-03-27	2020-04-01
+20200401_1350	Ciudad de México	F	22	2020-03-27	Confirmado	Contacto		2020-04-01
+20200401_1351	Baja California Sur	F	79	2020-03-23	Confirmado	Contacto	2020-03-30	2020-04-01
+20200401_1352	Ciudad de México	F	55	2020-03-25	Confirmado	Contacto		2020-04-01
+20200401_1353	Ciudad de México	F	38	2020-03-17	Confirmado	Contacto		2020-04-01
+20200401_1354	Ciudad de México	M	33	2020-03-21	Confirmado	Contacto		2020-04-01
+20200401_1355	Ciudad de México	F	55	2020-03-26	Confirmado	Contacto		2020-04-01
+20200401_1357	Baja California	M	66	2020-03-28	Confirmado	Estados Unidos	2020-03-22	2020-04-01
+20200401_1358	Ciudad de México	F	42	2020-03-14	Confirmado	Contacto		2020-04-01
+20200401_1359	San Luis Potosí	F	37	2020-03-25	Confirmado	Estados Unidos	2020-03-22	2020-04-01
+20200401_1360	Coahuila	F	43	2020-03-26	Confirmado	Contacto		2020-04-01
+20200401_1361	Michoacán	M	45	2020-03-25	Confirmado	Contacto	2020-03-16	2020-04-01
+20200401_1362	Chihuahua	M	35	2020-03-24	Confirmado	Contacto		2020-04-01
+20200401_1363	Oaxaca	M	22	2020-03-28	Confirmado	Contacto		2020-04-01
+20200401_1364	Coahuila	F	10	2020-03-28	Confirmado	Contacto		2020-04-01
+20200401_1365	Nuevo León	M	35	2020-03-29	Confirmado	Contacto		2020-04-01
+20200401_1366	Jalisco	M	35	2020-03-21	Confirmado	Contacto	2020-03-19	2020-04-01
+20200401_1367	Oaxaca	M	43	2020-03-29	Confirmado	Contacto		2020-04-01
+20200401_1368	Coahuila	M	11	2020-03-24	Confirmado	Contacto		2020-04-01
+20200401_1369	Sinaloa	F	50	2020-03-27	Confirmado	Contacto		2020-04-01
+20200401_1370	Jalisco	F	44	2020-03-25	Confirmado	Estados Unidos	2020-03-15	2020-04-01
+20200401_1371	Ciudad de México	F	65	2020-03-19	Confirmado	España	2020-03-17	2020-04-01
+20200401_1372	Guanajuato	M	37	2020-03-27	Confirmado	Contacto		2020-04-01
+20200401_1373	Ciudad de México	M	29	2020-03-26	Confirmado	Contacto		2020-04-01
+20200401_1374	Ciudad de México	F	54	2020-03-25	Confirmado	Contacto		2020-04-01
+20200401_1375	Nayarit	F	79	2020-03-24	Confirmado	Contacto		2020-04-01
+20200401_1376	Nuevo León	F	46	2020-03-28	Confirmado	Contacto		2020-04-01
+20200401_1377	Puebla	M	49	2020-03-23	Confirmado	Contacto		2020-04-01
+20200401_1378	San Luis Potosí	F	41	2020-03-27	Confirmado	Estados Unidos	2020-03-17	2020-04-01
