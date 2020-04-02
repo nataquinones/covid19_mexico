@@ -1,0 +1,5 @@
+estado	sexo	edad	fecha_inicio_sintomas	id_rt-pcr	procedencia	fecha_llegada_mx	casos_nuevos	pseudo_indice	duplicado
+México	F	48	2020-03-16	confirmado	Contacto		False	20200331_642	False
+México	M	60	2020-03-20	confirmado	Contacto		False	20200331_643	False
+México	F	31	2020-03-19	confirmado	Contacto		False	20200331_653	False
+Jalisco	M	46	2020-03-17	confirmado	Contacto		2020-03-31 00:00:00	20200331_1184	False
