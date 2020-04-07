@@ -1,0 +1,44 @@
+---
+---
+// Text
+$section-headings-color: #34405B !default;
+$body-link-color: #C26D69 !default;
+
+
+@import "{{ site.theme }}";
+
+.iframe-container {
+  overflow: hidden;
+  padding-top: 56.25%;
+  position: relative;
+} 
+
+.iframe-container iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.iframe-container_table {
+  overflow: hidden;
+  padding-top: 18%;
+  position: relative;
+} 
+
+.iframe-container_table iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.page-header {
+  text-align: center;
+  background-color: #051421;
+  background-image: none;
+  }
