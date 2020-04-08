@@ -122,7 +122,10 @@ def parse_pdf(file, save_name=False, casos_nuevos=False, exception=False):
     '''
     paginas = 'all'
     verify_integrity = True
-    header = ['num_caso', 'estado', 'sexo', 'edad', 'fecha_inicio_sintomas', 'id_rt-pcr', 'procedencia', 'fecha_llegada_mx']
+    #
+    #header = ['num_caso', 'estado', 'sexo', 'edad', 'fecha_inicio_sintomas', 'id_rt-pcr', 'procedencia', 'fecha_llegada_mx']
+    # a partir de 2020-04-07
+    header = ['num_caso', 'estado', 'sexo', 'edad', 'fecha_inicio_sintomas', 'id_rt-pcr', 'procedencia']
     
     if exception:
         if 'pages' in exception.keys():
@@ -130,9 +133,6 @@ def parse_pdf(file, save_name=False, casos_nuevos=False, exception=False):
             
         if 'verify_integrity' in exception.keys():
             verify_integrity = exception['verify_integrity']
-        
-        if 'header' in exception.keys():
-            header = exception['header']
 
     
     tables = camelot.read_pdf(file, pages=paginas, flavor='stream', row_tol=10)
@@ -163,62 +163,59 @@ def parse_pdf(file, save_name=False, casos_nuevos=False, exception=False):
     # juntar tabla unica
     df = pd.concat(tables_list)
     
-    
     # renombrar columnas
     df.columns = header
     
-    if 'header' in exception.keys():
-        
-        return df
-    
-    else:
-        # actualizar index
-        df.set_index('num_caso', inplace=True, verify_integrity=verify_integrity)
-        df.index.name = None
+    # actualizar index
+    df.set_index('num_caso', inplace=True, verify_integrity=verify_integrity)
+    df.index.name = None
 
-        # convertir a datetime format
+    # convertir a datetime format
+    try:
         df['fecha_inicio_sintomas'] = pd.to_datetime(df['fecha_inicio_sintomas'], format='%d/%m/%Y')
-        df['fecha_llegada_mx'] = pd.to_datetime(df['fecha_llegada_mx'], format='%d/%m/%Y')
+    except:
+        pass
+    #df['fecha_llegada_mx'] = pd.to_datetime(df['fecha_llegada_mx'], format='%d/%m/%Y')
 
-        # limpiar nombres de estados
-        df['estado'] = df['estado'].str.title()
-        df['estado'] = df['estado'].str.replace('Ciudad De México', 'Ciudad de México')
-        df['estado'] = df['estado'].str.replace('"Estados \nUnidos"', 'Estados Unidos')
+    # limpiar nombres de estados
+    df['estado'] = df['estado'].str.title()
+    df['estado'] = df['estado'].str.replace('Ciudad De México', 'Ciudad de México')
+    df['estado'] = df['estado'].str.replace('"Estados \nUnidos"', 'Estados Unidos')
 
-        # CASOS NUEVOS
+    # CASOS NUEVOS
 
-        if casos_nuevos:
-            # interpretar string de casos nuevos
-            # by: https://stackoverflow.com/users/190597/unutbu
-            # in: https://stackoverflow.com/questions/4726168/parsing-command-line-input-for-numbers
-            result = set()
+    if casos_nuevos:
+        # interpretar string de casos nuevos
+        # by: https://stackoverflow.com/users/190597/unutbu
+        # in: https://stackoverflow.com/questions/4726168/parsing-command-line-input-for-numbers
+        result = set()
 
-            for part in casos_nuevos.split(','):
-                x = part.split('-')
-                result.update(range(int(x[0]), int(x[-1]) + 1))
+        for part in casos_nuevos.split(','):
+            x = part.split('-')
+            result.update(range(int(x[0]), int(x[-1]) + 1))
 
-            lista_casos_nuevos = sorted(result)
+        lista_casos_nuevos = sorted(result)
 
-            # generar lista con anotaciones de casos nuevos
-            lista_nuevos = []
+        # generar lista con anotaciones de casos nuevos
+        lista_nuevos = []
 
-            for i in df.index:
-                    if int(i) in lista_casos_nuevos:
-                        lista_nuevos.append(True)
-                    else:
-                        lista_nuevos.append(False)
+        for i in df.index:
+                if int(i) in lista_casos_nuevos:
+                    lista_nuevos.append(True)
+                else:
+                    lista_nuevos.append(False)
 
-            df['casos_nuevos'] = lista_nuevos
+        df['casos_nuevos'] = lista_nuevos
 
-        else:
-            print('No se agregara información sobre casos nuevos. (Celdas en azul.)')
+    else:
+        print('No se agregara información sobre casos nuevos. (Celdas en azul.)')
 
-        if save_name:
-            df.to_csv(f'{save_name}',
-                      sep='\t',
-                      index=True)
+    if save_name:
+        df.to_csv(f'{save_name}',
+                  sep='\t',
+                  index=True)
 
-        return df
+    return df
 
 def update_info(info_path, date, pdf, save_name):
     '''
