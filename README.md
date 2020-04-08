@@ -8,9 +8,6 @@
 La Secretaría de Salud publica la información sobre casos de COVID-19 en México en formato [pdf](/datos/ssalud_pdf/). Este repositorio busca automatizar la conversión de estos documentos para producir [tablas](/datos/tablas_positivos) que faciliten la consulta y el procesamiento de estos datos.
 
 ## Datos
-
-> Última actualización: 2020-04-05
-
 El archivo más reciente de la Secretaría de Salud se encuentra aquí:
 - [Tabla en `pdf`](/datos/ssalud_pdf/Tabla_casos_positivos_COVID-19_resultado_InDRE_2020.04.05.pdf)
 - [Tabla en `tsv`](/datos/tablas_positivos/20200405_positivos.tsv)
