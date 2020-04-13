@@ -1,0 +1,3442 @@
+	estado	sexo	edad	fecha_inicio_sintomas	id_rt-pcr	procedencia	fecha_llegada_mx	casos_nuevos
+1	Tamaulipas	M	22	2020-04-04	Confirmado			
+2	Ciudad de México	M	40	2020-03-17	Confirmado			
+3	Ciudad de México	F	29	2020-03-26	Confirmado			
+4	México	F	84	2020-03-26	Confirmado			
+5	Nuevo León	M	54	2020-03-20	Confirmado			
+6	Veracruz	F	65	2020-03-18	Confirmado			
+7	Ciudad de México	M	30	2020-03-31	Confirmado			
+8	Puebla	M	30	2020-03-13	Confirmado			
+9	Yucatán	F	32	2020-03-17	Confirmado			
+10	Tabasco	M	32	2020-03-21	Confirmado			
+11	Queretaro	M	24	2020-03-20	Confirmado			
+12	Tabasco	F	29	2020-03-25	Confirmado			
+13	Aguascalientes	F	74	2020-03-22	Confirmado			
+14	Ciudad de México	F	26	2020-03-31	Confirmado			
+15	Jalisco	F	57	2020-03-16	Confirmado			
+16	México	M	40	2020-03-24	Confirmado			
+17	Sinaloa	F	69	2020-03-31	Confirmado			
+18	Jalisco	M	49	2020-03-12	Confirmado			
+19	Jalisco	F	58	2020-03-27	Confirmado			
+20	Sinaloa	F	62	2020-04-04	Confirmado			
+21	Coahuila	M	33	2020-03-27	Confirmado			
+22	Baja California	F	38	2020-03-24	Confirmado			
+23	Ciudad de México	M	46	2020-03-12	Confirmado			
+24	México	F	4	2020-03-23	Confirmado			
+25	Baja California	M	36	2020-03-18	Confirmado			
+26	Campeche	F	59	2020-03-06	Confirmado			
+27	Ciudad de México	M	1	2020-03-16	Confirmado			
+28	Sonora	M	44	2020-03-12	Confirmado			
+29	Ciudad de México	F	50	2020-03-13	Confirmado			
+30	Ciudad de México	F	51	2020-03-09	Confirmado			
+31	Aguascalientes	M	61	2020-03-24	Confirmado			
+32	Ciudad de México	M	65	2020-03-29	Confirmado			
+33	Nuevo León	M	31	2020-03-20	Confirmado			
+34	San Luis Potosí	F	63	2020-03-15	Confirmado			
+35	Puebla	M	32	2020-03-24	Confirmado			
+36	Quintana Roo	M	52	2020-03-22	Confirmado			
+37	Yucatán	M	69	2020-03-22	Confirmado			
+38	Ciudad de México	M	43	2020-03-28	Confirmado			
+39	Baja California Sur	M	51	2020-03-21	Confirmado			
+40	Baja California Sur	F	47	2020-03-27	Confirmado			
+41	Ciudad de México	M	32	2020-03-17	Confirmado			
+42	Tlaxcala	M	46	2020-03-17	Confirmado			
+43	Quintana Roo	M	37	2020-03-20	Confirmado			
+44	Coahuila	M	43	2020-03-24	Confirmado			
+45	Veracruz	M	68	2020-03-26	Confirmado			
+46	Ciudad de México	F	19	2020-03-28	Confirmado			
+47	Ciudad de México	F	48	2020-03-28	Confirmado			
+48	Ciudad de México	F	45	2020-03-20	Confirmado			
+49	México	M	53	2020-04-04	Confirmado			
+50	Ciudad de México	F	28	2020-04-04	Confirmado			
+51	Ciudad de México	M	59	2020-03-30	Confirmado			
+52	Ciudad de México	M	60	2020-03-20	Confirmado			
+53	Tabasco	F	47	2020-03-29	Confirmado			
+54	Ciudad de México	M	30	2020-04-03	Confirmado			
+55	Queretaro	M	25	2020-03-28	Confirmado			
+56	Puebla	F	43	2020-03-28	Confirmado			
+57	México	F	53	2020-03-26	Confirmado			
+58	Ciudad de México	F	55	2020-03-25	Confirmado			
+59	Baja California	F	50	2020-03-12	Confirmado			
+60	Tamaulipas	M	52	2020-03-31	Confirmado			
+61	Tamaulipas	M	24	2020-03-31	Confirmado			
+62	Baja California	M	31	2020-03-24	Confirmado			
+63	Coahuila	F	43	2020-03-26	Confirmado			
+64	Baja California	M	86	2020-03-28	Confirmado			
+65	Baja California	M	54	2020-03-30	Confirmado			
+66	Quintana Roo	M	30	2020-03-21	Confirmado			
+67	Chihuahua	M	57	2020-04-03	Confirmado			
+68	Ciudad de México	F	49	2020-03-24	Confirmado			
+69	Ciudad de México	M	41	2020-03-30	Confirmado			
+70	Ciudad de México	F	53	2020-03-23	Confirmado			
+71	México	M	34	2020-03-09	Confirmado			
+72	Durango	M	74	2020-03-15	Confirmado			
+73	México	M	42	2020-03-21	Confirmado			
+74	Ciudad de México	M	46	2020-03-07	Confirmado			
+75	Ciudad de México	M	37	2020-03-28	Confirmado			
+76	Ciudad de México	M	65	2020-03-27	Confirmado			
+77	Ciudad de México	F	37	2020-04-04	Confirmado			
+78	San Luis Potosí	F	53	2020-03-11	Confirmado			
+79	Guerrero	M	54	2020-03-20	Confirmado			
+80	Puebla	M	40	2020-03-28	Confirmado			
+81	Chiapas	M	54	2020-03-27	Confirmado			
+82	Ciudad de México	M	66	2020-03-31	Confirmado			
+83	Ciudad de México	F	27	2020-03-24	Confirmado			
+84	Baja California	F	48	2020-03-30	Confirmado			
+85	Tabasco	F	62	2020-03-18	Confirmado			
+86	Guanajuato	F	61	2020-03-20	Confirmado			
+87	Chihuahua	M	47	2020-03-29	Confirmado			
+88	Baja California	F	45	2020-04-02	Confirmado			
+89	Sinaloa	M	40	2020-03-25	Confirmado			
+90	Guanajuato	M	66	2020-03-20	Confirmado			
+91	Sinaloa	F	40	2020-03-22	Confirmado			
+92	Sinaloa	M	73	2020-03-14	Confirmado			
+93	Oaxaca	M	73	2020-03-26	Confirmado			
+94	Ciudad de México	M	38	2020-03-11	Confirmado			
+95	Puebla	F	69	2020-04-03	Confirmado			
+96	Ciudad de México	F	43	2020-03-27	Confirmado			
+97	Baja California	M	38	2020-03-24	Confirmado			
+98	Guerrero	M	46	2020-03-29	Confirmado			
+99	Ciudad de México	F	12	2020-03-17	Confirmado			
+100	Baja California	M	30	2020-03-19	Confirmado			
+101	Baja California Sur	M	37	2020-04-01	Confirmado			
+102	Ciudad de México	M	52	2020-03-17	Confirmado			
+103	Ciudad de México	F	35	2020-03-27	Confirmado			
+104	Ciudad de México	M	44	2020-03-31	Confirmado			
+105	Tlaxcala	M	62	2020-04-01	Confirmado			
+106	México	M	28	2020-03-30	Confirmado			
+107	Veracruz	M	22	2020-03-20	Confirmado			
+108	Yucatán	F	27	2020-03-08	Confirmado			
+109	Morelos	F	32	2020-03-27	Confirmado			
+110	Ciudad de México	M	52	2020-03-14	Confirmado			
+111	Ciudad de México	M	46	2020-03-19	Confirmado			
+112	Durango	F	59	2020-03-24	Confirmado			
+113	Sinaloa	M	75	2020-03-23	Confirmado			
+114	Ciudad de México	F	55	2020-03-20	Confirmado			
+115	Ciudad de México	F	53	2020-03-18	Confirmado			
+116	México	F	34	2020-03-28	Confirmado			
+117	Ciudad de México	M	59	2020-03-31	Confirmado			
+118	Ciudad de México	F	30	2020-03-18	Confirmado			
+119	Coahuila	M	57	2020-04-01	Confirmado			
+120	Jalisco	F	39	2020-03-18	Confirmado			
+121	Queretaro	M	35	2020-03-27	Confirmado			
+122	Ciudad de México	M	60	2020-03-26	Confirmado			
+123	Ciudad de México	F	0	2020-03-28	Confirmado			
+124	Tabasco	M	26	2020-03-23	Confirmado			
+125	Quintana Roo	M	34	2020-03-19	Confirmado			
+126	Ciudad de México	F	41	2020-03-23	Confirmado			
+127	Ciudad de México	M	70	2020-03-23	Confirmado			
+128	Baja California Sur	M	34	2020-03-25	Confirmado			
+129	Coahuila	F	44	2020-04-01	Confirmado			
+130	Coahuila	F	45	2020-04-01	Confirmado			
+131	Sonora	M	24	2020-04-03	Confirmado			
+132	Quintana Roo	M	43	2020-03-24	Confirmado			
+133	Ciudad de México	F	65	2020-03-24	Confirmado			
+134	México	F	78	2020-03-31	Confirmado			
+135	Yucatán	M	24	2020-03-31	Confirmado			
+136	Michoacán	F	70	2020-03-15	Confirmado			
+137	Ciudad de México	M	44	2020-03-16	Confirmado			
+138	Baja California Sur	F	24	2020-03-25	Confirmado			
+139	Puebla	M	64	2020-04-04	Confirmado			
+140	Baja California	F	60	2020-04-02	Confirmado			
+141	Ciudad de México	F	74	2020-04-06	Confirmado			
+142	Ciudad de México	M	28	2020-03-15	Confirmado			
+143	Puebla	F	49	2020-03-19	Confirmado			
+144	Baja California	M	59	2020-03-19	Confirmado			
+145	Ciudad de México	M	51	2020-03-14	Confirmado			
+146	San Luis Potosí	F	58	2020-04-02	Confirmado			
+147	Tabasco	M	28	2020-03-20	Confirmado			
+148	Queretaro	F	32	2020-03-31	Confirmado			
+149	Ciudad de México	M	54	2020-03-20	Confirmado			
+150	Ciudad de México	M	36	2020-03-30	Confirmado			
+151	Ciudad de México	M	35	2020-03-17	Confirmado			
+152	México	M	38	2020-04-04	Confirmado			
+153	México	F	23	2020-04-01	Confirmado			
+154	Coahuila	M	31	2020-04-02	Confirmado			
+155	Ciudad de México	M	50	2020-03-19	Confirmado			
+156	Sinaloa	F	31	2020-03-17	Confirmado			
+157	Coahuila	F	32	2020-04-01	Confirmado			
+158	Sinaloa	F	47	2020-03-23	Confirmado			
+159	Baja California	M	58	2020-03-21	Confirmado			
+160	Ciudad de México	M	38	2020-03-17	Confirmado			
+161	Ciudad de México	M	46	2020-03-28	Confirmado			
+162	Ciudad de México	F	29	2020-04-04	Confirmado			
+163	Sinaloa	F	90	2020-03-26	Confirmado			
+164	Puebla	M	27	2020-03-12	Confirmado			
+165	Puebla	F	23	2020-03-20	Confirmado			
+166	México	F	42	2020-03-18	Confirmado			
+167	Ciudad de México	F	63	2020-03-11	Confirmado			
+168	Ciudad de México	F	35	2020-03-20	Confirmado			
+169	Nuevo León	F	26	2020-03-17	Confirmado			
+170	Ciudad de México	M	49	2020-03-30	Confirmado			
+171	México	M	58	2020-03-19	Confirmado			
+172	Tabasco	M	47	2020-03-20	Confirmado			
+173	Ciudad de México	F	26	2020-03-11	Confirmado			
+174	Ciudad de México	F	47	2020-03-29	Confirmado			
+175	Tabasco	M	40	2020-04-04	Confirmado			
+176	Quintana Roo	M	48	2020-03-18	Confirmado			
+177	Guerrero	M	45	2020-03-18	Confirmado			
+178	México	F	29	2020-03-16	Confirmado			
+179	Ciudad de México	F	48	2020-03-20	Confirmado			
+180	Ciudad de México	F	53	2020-03-02	Confirmado			
+181	México	M	25	2020-03-27	Confirmado			
+182	Chihuahua	F	44	2020-03-26	Confirmado			
+183	Ciudad de México	M	52	2020-03-08	Confirmado			
+184	México	M	37	2020-04-02	Confirmado			
+185	Ciudad de México	M	26	2020-03-28	Confirmado			
+186	Queretaro	M	51	2020-03-23	Confirmado			
+187	Morelos	M	32	2020-03-30	Confirmado			
+188	Sonora	F	60	2020-03-28	Confirmado			
+189	Guanajuato	F	30	2020-04-02	Confirmado			
+190	Puebla	F	28	2020-03-05	Confirmado			
+191	Quintana Roo	M	49	2020-03-21	Confirmado			
+192	Quintana Roo	M	35	2020-03-28	Confirmado			
+193	México	M	59	2020-03-24	Confirmado			
+194	Puebla	M	43	2020-03-25	Confirmado			
+195	México	M	40	2020-03-14	Confirmado			
+196	Puebla	F	57	2020-03-26	Confirmado			
+197	Ciudad de México	M	67	2020-03-08	Confirmado			
+198	Ciudad de México	F	38	2020-03-10	Confirmado			
+199	Puebla	F	61	2020-03-16	Confirmado			
+200	Ciudad de México	F	41	2020-03-12	Confirmado			
+201	Ciudad de México	F	53	2020-03-06	Confirmado			
+202	Chiapas	M	85	2020-03-21	Confirmado			
+203	Ciudad de México	M	44	2020-03-11	Confirmado			
+204	Ciudad de México	F	35	2020-03-25	Confirmado			
+205	San Luis Potosí	M	67	2020-03-27	Confirmado			
+206	San Luis Potosí	F	34	2020-03-27	Confirmado			
+207	San Luis Potosí	F	37	2020-03-24	Confirmado			
+208	San Luis Potosí	F	9	2020-03-24	Confirmado			
+209	San Luis Potosí	F	23	2020-03-31	Confirmado			
+210	San Luis Potosí	M	57	2020-03-20	Confirmado			
+211	México	M	40	2020-03-23	Confirmado			
+212	México	F	44	2020-03-20	Confirmado			
+213	Michoacán	M	52	2020-03-26	Confirmado			
+214	Baja California	F	51	2020-03-29	Confirmado			
+215	México	F	30	2020-03-12	Confirmado			
+216	Ciudad de México	M	65	2020-03-26	Confirmado			
+217	Ciudad de México	M	61	2020-03-21	Confirmado			
+218	Puebla	F	26	2020-04-01	Confirmado			
+219	Baja California	F	58	2020-03-25	Confirmado			
+220	Ciudad de México	M	23	2020-03-13	Confirmado			
+221	Ciudad de México	M	52	2020-03-28	Confirmado			
+222	Ciudad de México	M	44	2020-03-13	Confirmado			
+223	Ciudad de México	F	73	2020-03-30	Confirmado			
+224	Tabasco	F	57	2020-03-19	Confirmado			
+225	México	M	63	2020-04-01	Confirmado			
+226	Puebla	F	28	2020-03-28	Confirmado			
+227	Hidalgo	M	44	2020-04-03	Confirmado			
+228	Ciudad de México	M	42	2020-03-26	Confirmado			
+229	México	M	43	2020-03-16	Confirmado			
+230	Ciudad de México	M	78	2020-03-24	Confirmado			
+231	Zacatecas	F	58	2020-03-12	Confirmado			
+232	Tabasco	F	62	2020-03-14	Confirmado			
+233	Guerrero	M	29	2020-03-15	Confirmado			
+234	Baja California	F	64	2020-03-28	Confirmado			
+235	Ciudad de México	M	32	2020-03-18	Confirmado			
+236	Hidalgo	M	47	2020-03-24	Confirmado			
+237	Yucatán	M	47	2020-03-24	Confirmado			
+238	Ciudad de México	M	81	2020-03-20	Confirmado			
+239	México	F	56	2020-03-29	Confirmado			
+240	Yucatán	F	68	2020-03-17	Confirmado			
+241	Tamaulipas	F	55	2020-03-23	Confirmado			
+242	Coahuila	M	47	2020-03-27	Confirmado			
+243	Ciudad de México	M	70	2020-03-26	Confirmado			
+244	Puebla	M	22	2020-03-17	Confirmado			
+245	México	F	35	2020-04-02	Confirmado			
+246	Guerrero	M	36	2020-03-30	Confirmado			
+247	Ciudad de México	M	29	2020-03-19	Confirmado			
+248	Jalisco	M	26	2020-03-23	Confirmado			
+249	Ciudad de México	F	41	2020-03-24	Confirmado			
+250	Quintana Roo	M	49	2020-03-19	Confirmado			
+251	Hidalgo	F	70	2020-03-25	Confirmado			
+252	Jalisco	M	64	2020-03-24	Confirmado			
+253	Jalisco	F	24	2020-03-30	Confirmado			
+254	Michoacán	M	63	2020-03-27	Confirmado			
+255	Veracruz	F	27	2020-03-15	Confirmado			
+256	Jalisco	F	21	2020-03-22	Confirmado			
+257	Ciudad de México	M	56	2020-04-04	Confirmado			
+258	Quintana Roo	M	60	2020-03-29	Confirmado			
+259	Ciudad de México	F	41	2020-04-05	Confirmado			
+260	Baja California	F	34	2020-03-27	Confirmado			
+261	Yucatán	M	33	2020-03-11	Confirmado			
+262	Coahuila	F	19	2020-03-29	Confirmado			
+263	Quintana Roo	F	27	2020-03-22	Confirmado			
+264	Puebla	F	27	2020-03-28	Confirmado			
+265	Chiapas	F	29	2020-03-22	Confirmado			
+266	Veracruz	F	36	2020-03-14	Confirmado			
+267	Ciudad de México	M	37	2020-04-01	Confirmado			
+268	México	M	49	2020-03-20	Confirmado			
+269	Yucatán	M	31	2020-03-16	Confirmado			
+270	Ciudad de México	F	52	2020-03-19	Confirmado			
+271	Guerrero	M	33	2020-04-02	Confirmado			
+272	Ciudad de México	M	22	2020-03-07	Confirmado			
+273	Sonora	F	24	2020-04-05	Confirmado			
+274	Campeche	M	52	2020-03-12	Confirmado			
+275	Ciudad de México	M	60	2020-03-18	Confirmado			
+276	Baja California	F	61	2020-03-31	Confirmado			
+277	Queretaro	F	34	2020-03-16	Confirmado			
+278	Baja California	F	43	2020-03-28	Confirmado			
+279	Nayarit	F	35	2020-03-31	Confirmado			
+280	Baja California	M	41	2020-04-01	Confirmado			
+281	Sonora	F	48	2020-03-28	Confirmado			
+282	Durango	M	81	2020-03-18	Confirmado			
+283	México	F	34	2020-04-02	Confirmado			
+284	Baja California	M	39	2020-03-28	Confirmado			
+285	Quintana Roo	M	57	2020-03-17	Confirmado			
+286	Jalisco	F	25	2020-03-22	Confirmado			
+287	Ciudad de México	M	71	2020-03-19	Confirmado			
+288	Ciudad de México	M	59	2020-03-25	Confirmado			
+289	Veracruz	M	59	2020-03-31	Confirmado			
+290	México	M	29	2020-03-29	Confirmado			
+291	Guerrero	M	43	2020-03-30	Confirmado			
+292	México	F	36	2020-03-31	Confirmado			
+293	Yucatán	F	32	2020-04-02	Confirmado			
+294	Ciudad de México	F	31	2020-03-26	Confirmado			
+295	Quintana Roo	F	54	2020-03-17	Confirmado			
+296	Quintana Roo	F	14	2020-04-03	Confirmado			
+297	Quintana Roo	M	76	2020-03-25	Confirmado			
+298	Puebla	M	28	2020-03-29	Confirmado			
+299	Hidalgo	M	49	2020-03-28	Confirmado			
+300	Ciudad de México	F	34	2020-03-16	Confirmado			
+301	Quintana Roo	M	45	2020-03-14	Confirmado			
+302	México	M	37	2020-03-28	Confirmado			
+303	México	M	23	2020-03-30	Confirmado			
+304	Guanajuato	M	44	2020-03-18	Confirmado			
+305	Baja California Sur	M	60	2020-03-22	Confirmado			
+306	Ciudad de México	F	48	2020-03-10	Confirmado			
+307	Ciudad de México	F	80	2020-03-20	Confirmado			
+308	Ciudad de México	F	51	2020-04-05	Confirmado			
+309	Sinaloa	M	59	2020-03-25	Confirmado			
+310	Ciudad de México	M	76	2020-03-28	Confirmado			
+311	Baja California	M	32	2020-03-24	Confirmado			
+312	Chihuahua	M	35	2020-03-25	Confirmado			
+313	Ciudad de México	F	38	2020-03-17	Confirmado			
+314	Queretaro	M	44	2020-03-09	Confirmado			
+315	Oaxaca	M	71	2020-03-30	Confirmado			
+316	México	F	30	2020-03-25	Confirmado			
+317	Ciudad de México	M	65	2020-03-20	Confirmado			
+318	Quintana Roo	M	35	2020-03-22	Confirmado			
+319	México	M	32	2020-03-27	Confirmado			
+320	Guerrero	M	31	2020-04-06	Confirmado			
+321	Coahuila	F	3	2020-03-28	Confirmado			
+322	México	F	34	2020-03-19	Confirmado			
+323	México	M	34	2020-03-19	Confirmado			
+324	Ciudad de México	F	43	2020-04-07	Confirmado			
+325	Guerrero	M	75	2020-03-30	Confirmado			
+326	Baja California	M	52	2020-03-21	Confirmado			
+327	Puebla	F	67	2020-03-10	Confirmado			
+328	México	M	18	2020-03-26	Confirmado			
+329	México	F	48	2020-03-20	Confirmado			
+330	Ciudad de México	F	35	2020-03-14	Confirmado			
+331	Durango	M	33	2020-03-11	Confirmado			
+332	Quintana Roo	M	46	2020-03-25	Confirmado			
+333	Ciudad de México	M	36	2020-03-24	Confirmado			
+334	Veracruz	F	57	2020-03-29	Confirmado			
+335	Baja California Sur	F	32	2020-03-21	Confirmado			
+336	Jalisco	M	31	2020-03-13	Confirmado			
+337	Yucatán	M	39	2020-03-08	Confirmado			
+338	Chihuahua	M	35	2020-03-28	Confirmado			
+339	Baja California Sur	F	27	2020-03-26	Confirmado			
+340	Chihuahua	F	19	2020-03-21	Confirmado			
+341	Yucatán	F	78	2020-03-22	Confirmado			
+342	Ciudad de México	M	55	2020-03-17	Confirmado			
+343	Yucatán	M	33	2020-03-19	Confirmado			
+344	Ciudad de México	M	62	2020-03-16	Confirmado			
+345	Sonora	F	58	2020-04-02	Confirmado			
+346	Sinaloa	F	78	2020-03-23	Confirmado			
+347	Ciudad de México	F	57	2020-03-27	Confirmado			
+348	Baja California	F	32	2020-04-01	Confirmado			
+349	Jalisco	F	74	2020-03-14	Confirmado			
+350	Puebla	F	73	2020-03-23	Confirmado			
+351	Ciudad de México	M	49	2020-03-28	Confirmado			
+352	Ciudad de México	M	72	2020-03-25	Confirmado			
+353	Ciudad de México	M	39	2020-03-13	Confirmado			
+354	México	M	40	2020-03-21	Confirmado			
+355	Quintana Roo	F	49	2020-03-27	Confirmado			
+356	Jalisco	F	50	2020-03-15	Confirmado			
+357	México	M	46	2020-03-24	Confirmado			
+358	México	F	47	2020-04-01	Confirmado			
+359	Quintana Roo	M	49	2020-03-27	Confirmado			
+360	Guerrero	F	43	2020-03-31	Confirmado			
+361	Guanajuato	M	55	2020-03-19	Confirmado			
+362	Ciudad de México	M	39	2020-03-10	Confirmado			
+363	México	F	48	2020-03-15	Confirmado			
+364	Ciudad de México	F	48	2020-03-13	Confirmado			
+365	Ciudad de México	F	37	2020-03-09	Confirmado			
+366	Quintana Roo	F	40	2020-03-27	Confirmado			
+367	Sinaloa	F	49	2020-04-03	Confirmado			
+368	Coahuila	F	48	2020-03-23	Confirmado			
+369	Tabasco	F	51	2020-03-23	Confirmado			
+370	Baja California	F	36	2020-03-26	Confirmado			
+371	San Luis Potosí	F	48	2020-03-18	Confirmado			
+372	Quintana Roo	M	52	2020-03-23	Confirmado			
+373	Baja California	M	47	2020-03-28	Confirmado			
+374	Baja California	F	56	2020-03-29	Confirmado			
+375	Tabasco	F	49	2020-03-24	Confirmado			
+376	Ciudad de México	F	68	2020-03-28	Confirmado			
+377	Puebla	M	31	2020-03-09	Confirmado			
+378	México	F	28	2020-03-29	Confirmado			
+379	Ciudad de México	F	33	2020-03-25	Confirmado			
+380	Ciudad de México	M	34	2020-03-18	Confirmado			
+381	México	F	45	2020-03-21	Confirmado			
+382	Jalisco	M	53	2020-03-14	Confirmado			
+383	México	M	35	2020-04-02	Confirmado			
+384	Yucatán	M	22	2020-03-13	Confirmado			
+385	Puebla	F	28	2020-03-27	Confirmado			
+386	Ciudad de México	M	52	2020-03-22	Confirmado			
+387	Puebla	F	40	2020-03-18	Confirmado			
+388	Ciudad de México	F	73	2020-03-26	Confirmado			
+389	Michoacán	M	69	2020-04-06	Confirmado			
+390	México	F	59	2020-03-31	Confirmado			
+391	Ciudad de México	M	46	2020-02-29	Confirmado			
+392	Michoacán	M	33	2020-03-26	Confirmado			
+393	Guanajuato	F	74	2020-03-26	Confirmado			
+394	Quintana Roo	F	36	2020-03-21	Confirmado			
+395	Ciudad de México	M	55	2020-03-22	Confirmado			
+396	Guanajuato	F	64	2020-03-22	Confirmado			
+397	Quintana Roo	M	40	2020-03-16	Confirmado			
+398	México	F	46	2020-03-16	Confirmado			
+399	Tabasco	M	47	2020-03-09	Confirmado			
+400	Baja California Sur	F	35	2020-04-01	Confirmado			
+401	Sinaloa	M	47	2020-03-24	Confirmado			
+402	Ciudad de México	M	53	2020-03-09	Confirmado			
+403	Ciudad de México	F	45	2020-03-29	Confirmado			
+404	Coahuila	M	29	2020-03-19	Confirmado			
+405	Coahuila	F	29	2020-03-19	Confirmado			
+406	Guanajuato	F	27	2020-03-17	Confirmado			
+407	Ciudad de México	M	34	2020-03-13	Confirmado			
+408	Guerrero	M	32	2020-03-31	Confirmado			
+409	Ciudad de México	F	40	2020-03-13	Confirmado			
+410	Ciudad de México	M	41	2020-03-10	Confirmado			
+411	Quintana Roo	M	50	2020-03-24	Confirmado			
+412	Guanajuato	M	68	2020-03-16	Confirmado			
+413	Quintana Roo	M	70	2020-03-27	Confirmado			
+414	Jalisco	M	50	2020-03-04	Confirmado			
+415	Jalisco	F	20	2020-03-11	Confirmado			
+416	Quintana Roo	M	57	2020-03-28	Confirmado			
+417	Yucatán	M	68	2020-03-22	Confirmado			
+418	Chiapas	M	44	2020-04-02	Confirmado			
+419	Ciudad de México	F	56	2020-03-15	Confirmado			
+420	Tabasco	M	35	2020-03-22	Confirmado			
+421	México	M	47	2020-03-27	Confirmado			
+422	Chihuahua	M	65	2020-03-31	Confirmado			
+423	Baja California Sur	M	56	2020-03-28	Confirmado			
+424	Guerrero	M	46	2020-03-30	Confirmado			
+425	Tamaulipas	F	24	2020-03-16	Confirmado			
+426	Yucatán	F	67	2020-03-21	Confirmado			
+427	Ciudad de México	M	72	2020-03-28	Confirmado			
+428	Guerrero	F	63	2020-03-26	Confirmado			
+429	Jalisco	F	26	2020-04-03	Confirmado			
+430	Chihuahua	M	45	2020-04-01	Confirmado			
+431	México	M	30	2020-03-24	Confirmado			
+432	Michoacán	F	61	2020-03-18	Confirmado			
+433	Guanajuato	F	66	2020-04-02	Confirmado			
+434	Quintana Roo	M	38	2020-03-14	Confirmado			
+435	Ciudad de México	M	66	2020-04-04	Confirmado			
+436	Quintana Roo	M	32	2020-03-25	Confirmado			
+437	Baja California	F	33	2020-03-19	Confirmado			
+438	Quintana Roo	M	39	2020-03-22	Confirmado			
+439	Jalisco	M	26	2020-03-13	Confirmado			
+440	Coahuila	F	35	2020-03-30	Confirmado			
+441	Sinaloa	F	34	2020-04-03	Confirmado			
+442	Coahuila	F	46	2020-03-21	Confirmado			
+443	Quintana Roo	M	50	2020-03-25	Confirmado			
+444	Chihuahua	M	31	2020-03-29	Confirmado			
+445	Ciudad de México	F	13	2020-03-09	Confirmado			
+446	Guerrero	M	47	2020-03-23	Confirmado			
+447	Chihuahua	F	55	2020-03-20	Confirmado			
+448	Puebla	M	61	2020-03-30	Confirmado			
+449	Baja California	M	34	2020-04-02	Confirmado			
+450	Ciudad de México	M	41	2020-03-30	Confirmado			
+451	Puebla	M	59	2020-03-27	Confirmado			
+452	Ciudad de México	M	56	2020-03-20	Confirmado			
+453	Quintana Roo	F	27	2020-04-03	Confirmado			
+454	Ciudad de México	M	76	2020-03-23	Confirmado			
+455	México	F	48	2020-04-01	Confirmado			
+456	México	F	51	2020-03-20	Confirmado			
+457	Sinaloa	F	40	2020-03-21	Confirmado			
+458	Ciudad de México	F	36	2020-03-15	Confirmado			
+459	Morelos	M	54	2020-04-04	Confirmado			
+460	Ciudad de México	M	43	2020-03-26	Confirmado			
+461	Ciudad de México	M	27	2020-03-28	Confirmado			
+462	Ciudad de México	M	42	2020-03-23	Confirmado			
+463	Coahuila	F	33	2020-03-30	Confirmado			
+464	Guanajuato	F	48	2020-03-28	Confirmado			
+465	Jalisco	M	56	2020-03-13	Confirmado			
+466	Nuevo León	M	29	2020-03-20	Confirmado			
+467	Ciudad de México	F	50	2020-03-24	Confirmado			
+468	Guanajuato	M	31	2020-03-25	Confirmado			
+469	Guerrero	M	44	2020-03-16	Confirmado			
+470	Ciudad de México	M	58	2020-03-19	Confirmado			
+471	Baja California	M	67	2020-03-23	Confirmado			
+472	Tamaulipas	F	42	2020-03-20	Confirmado			
+473	Sinaloa	M	48	2020-03-23	Confirmado			
+474	Jalisco	F	30	2020-03-14	Confirmado			
+475	Oaxaca	M	27	2020-04-03	Confirmado			
+476	Ciudad de México	M	45	2020-04-02	Confirmado			
+477	Ciudad de México	M	36	2020-04-02	Confirmado			
+478	México	F	67	2020-03-29	Confirmado			
+479	Oaxaca	F	42	2020-04-04	Confirmado			
+480	Ciudad de México	F	42	2020-03-14	Confirmado			
+481	Puebla	M	68	2020-03-20	Confirmado			
+482	Ciudad de México	F	55	2020-03-28	Confirmado			
+483	Puebla	M	30	2020-03-29	Confirmado			
+484	Ciudad de México	F	62	2020-03-20	Confirmado			
+485	Tamaulipas	M	42	2020-03-30	Confirmado			
+486	Tabasco	F	68	2020-03-28	Confirmado			
+487	Tabasco	M	50	2020-03-25	Confirmado			
+488	Jalisco	M	35	2020-03-21	Confirmado			
+489	Sinaloa	F	29	2020-03-29	Confirmado			
+490	Colima	F	53	2020-03-24	Confirmado			
+491	Guerrero	M	56	2020-04-05	Confirmado			
+492	Quintana Roo	M	60	2020-03-17	Confirmado			
+493	Veracruz	F	41	2020-03-12	Confirmado			
+494	Sinaloa	M	62	2020-03-21	Confirmado			
+495	México	M	49	2020-03-31	Confirmado			
+496	Jalisco	M	59	2020-03-23	Confirmado			
+497	Ciudad de México	F	55	2020-03-15	Confirmado			
+498	Sinaloa	M	41	2020-03-24	Confirmado			
+499	Baja California	F	47	2020-03-27	Confirmado			
+500	Sinaloa	M	61	2020-03-25	Confirmado			
+501	Hidalgo	M	47	2020-03-21	Confirmado			
+502	Puebla	F	23	2020-03-22	Confirmado			
+503	Baja California	M	73	2020-03-19	Confirmado			
+504	Jalisco	M	48	2020-03-27	Confirmado			
+505	Baja California Sur	M	25	2020-03-28	Confirmado			
+506	Veracruz	M	52	2020-03-27	Confirmado			
+507	Baja California	M	28	2020-03-26	Confirmado			
+508	Ciudad de México	F	30	2020-04-03	Confirmado			
+509	Ciudad de México	M	30	2020-03-14	Confirmado			
+510	Tamaulipas	M	50	2020-03-21	Confirmado			
+511	Ciudad de México	F	52	2020-03-09	Confirmado			
+512	Sinaloa	M	49	2020-03-24	Confirmado			
+513	Sinaloa	F	62	2020-03-24	Confirmado			
+514	México	F	46	2020-04-02	Confirmado			
+515	México	M	50	2020-03-18	Confirmado			
+516	México	M	46	2020-03-16	Confirmado			
+517	Baja California Sur	F	24	2020-03-27	Confirmado			
+518	Yucatán	F	70	2020-03-18	Confirmado			
+519	Ciudad de México	M	41	2020-04-05	Confirmado			
+520	Ciudad de México	M	36	2020-04-03	Confirmado			
+521	Ciudad de México	M	45	2020-02-26	Confirmado			
+522	Baja California	F	24	2020-03-31	Confirmado			
+523	Guerrero	F	83	2020-03-23	Confirmado			
+524	Sonora	M	23	2020-03-11	Confirmado			
+525	Aguascalientes	F	54	2020-03-24	Confirmado			
+526	Ciudad de México	M	39	2020-04-03	Confirmado			
+527	Jalisco	M	42	2020-03-08	Confirmado			
+528	Ciudad de México	M	27	2020-03-20	Confirmado			
+529	Ciudad de México	M	63	2020-03-13	Confirmado			
+530	Baja California	M	27	2020-03-29	Confirmado			
+531	Quintana Roo	M	50	2020-03-27	Confirmado			
+532	Quintana Roo	M	46	2020-03-25	Confirmado			
+533	Sinaloa	F	35	2020-03-25	Confirmado			
+534	Baja California Sur	M	60	2020-03-27	Confirmado			
+535	México	F	29	2020-03-21	Confirmado			
+536	Ciudad de México	F	58	2020-03-28	Confirmado			
+537	Chihuahua	M	75	2020-03-20	Confirmado			
+538	Oaxaca	M	31	2020-03-28	Confirmado			
+539	Nuevo León	M	35	2020-03-25	Confirmado			
+540	Chihuahua	F	58	2020-03-24	Confirmado			
+541	Baja California	M	29	2020-03-20	Confirmado			
+542	Queretaro	F	63	2020-04-03	Confirmado			
+543	Ciudad de México	M	77	2020-03-23	Confirmado			
+544	Baja California	F	43	2020-03-23	Confirmado			
+545	Tamaulipas	F	55	2020-04-02	Confirmado			
+546	Chihuahua	F	51	2020-03-29	Confirmado			
+547	Tamaulipas	M	53	2020-03-20	Confirmado			
+548	Colima	M	55	2020-03-29	Confirmado			
+549	México	F	40	2020-03-26	Confirmado			
+550	Baja California	M	24	2020-03-27	Confirmado			
+551	México	M	27	2020-03-26	Confirmado			
+552	Quintana Roo	F	44	2020-03-19	Confirmado			
+553	Puebla	M	81	2020-04-03	Confirmado			
+554	Colima	M	47	2020-03-15	Confirmado			
+555	Tabasco	F	82	2020-03-28	Confirmado			
+556	Nuevo León	M	43	2020-03-02	Confirmado			
+557	Baja California Sur	F	53	2020-03-26	Confirmado			
+558	Baja California	F	60	2020-03-27	Confirmado			
+559	San Luis Potosí	M	36	2020-03-29	Confirmado			
+560	Ciudad de México	M	27	2020-03-26	Confirmado			
+561	Ciudad de México	M	0	2020-03-26	Confirmado			
+562	Tlaxcala	F	57	2020-03-22	Confirmado			
+563	Ciudad de México	M	51	2020-03-10	Confirmado			
+564	Puebla	M	23	2020-03-23	Confirmado			
+565	Chiapas	M	63	2020-03-23	Confirmado			
+566	Tabasco	M	72	2020-03-23	Confirmado			
+567	Quintana Roo	M	48	2020-03-29	Confirmado			
+568	México	M	58	2020-03-22	Confirmado			
+569	Baja California	F	37	2020-03-24	Confirmado			
+570	Quintana Roo	M	46	2020-03-15	Confirmado			
+571	Ciudad de México	M	51	2020-03-26	Confirmado			
+572	Puebla	F	48	2020-03-16	Confirmado			
+573	Veracruz	M	43	2020-03-20	Confirmado			
+574	Quintana Roo	F	40	2020-03-27	Confirmado			
+575	México	M	48	2020-03-24	Confirmado			
+576	Baja California	F	51	2020-03-20	Confirmado			
+577	Baja California	F	50	2020-03-23	Confirmado			
+578	Nayarit	F	50	2020-04-02	Confirmado			
+579	Jalisco	M	55	2020-03-09	Confirmado			
+580	Tamaulipas	F	65	2020-03-30	Confirmado			
+581	Coahuila	F	42	2020-03-30	Confirmado			
+582	México	M	39	2020-03-27	Confirmado			
+583	Hidalgo	M	27	2020-03-29	Confirmado			
+584	Hidalgo	M	35	2020-03-30	Confirmado			
+585	Chihuahua	M	31	2020-03-17	Confirmado			
+586	Baja California	F	35	2020-03-11	Confirmado			
+587	Tabasco	M	45	2020-03-31	Confirmado			
+588	Oaxaca	M	45	2020-04-04	Confirmado			
+589	Baja California	M	49	2020-03-16	Confirmado			
+590	Ciudad de México	F	54	2020-03-12	Confirmado			
+591	Coahuila	M	25	2020-04-01	Confirmado			
+592	Baja California	F	67	2020-03-16	Confirmado			
+593	Jalisco	M	40	2020-03-10	Confirmado			
+594	Ciudad de México	F	39	2020-03-14	Confirmado			
+595	Tabasco	M	69	2020-03-25	Confirmado			
+596	Nuevo León	F	27	2020-03-21	Confirmado			
+597	Sinaloa	F	30	2020-03-31	Confirmado			
+598	Michoacán	F	63	2020-03-22	Confirmado			
+599	Morelos	M	57	2020-04-01	Confirmado			
+600	Puebla	F	64	2020-03-30	Confirmado			
+601	Baja California	M	72	2020-03-17	Confirmado			
+602	Ciudad de México	F	63	2020-03-25	Confirmado			
+603	Puebla	F	47	2020-03-30	Confirmado			
+604	Sonora	M	45	2020-03-31	Confirmado			
+605	Baja California	M	15	2020-03-28	Confirmado			
+606	Guanajuato	M	53	2020-03-21	Confirmado			
+607	Sinaloa	F	55	2020-03-31	Confirmado			
+608	Jalisco	F	48	2020-04-02	Confirmado			
+609	Baja California	M	29	2020-03-26	Confirmado			
+610	Nuevo León	M	36	2020-03-17	Confirmado			
+611	Sinaloa	M	43	2020-03-28	Confirmado			
+612	Sonora	M	45	2020-03-17	Confirmado			
+613	Baja California Sur	F	44	2020-03-23	Confirmado			
+614	Veracruz	M	52	2020-03-19	Confirmado			
+615	Ciudad de México	M	41	2020-03-29	Confirmado			
+616	Ciudad de México	F	76	2020-03-20	Confirmado			
+617	Hidalgo	M	49	2020-03-26	Confirmado			
+618	Puebla	M	28	2020-04-06	Confirmado			
+619	Puebla	F	58	2020-04-02	Confirmado			
+620	Ciudad de México	M	36	2020-03-17	Confirmado			
+621	Ciudad de México	F	13	2020-03-24	Confirmado			
+622	Ciudad de México	M	12	2020-03-24	Confirmado			
+623	Baja California Sur	M	46	2020-03-21	Confirmado			
+624	Ciudad de México	M	51	2020-03-21	Confirmado			
+625	Puebla	F	79	2020-04-03	Confirmado			
+626	México	M	37	2020-03-21	Confirmado			
+627	Morelos	F	50	2020-03-30	Confirmado			
+628	Ciudad de México	M	53	2020-04-03	Confirmado			
+629	Ciudad de México	F	25	2020-03-26	Confirmado			
+630	Chihuahua	F	22	2020-03-16	Confirmado			
+631	Chihuahua	F	20	2020-03-13	Confirmado			
+632	Sinaloa	M	72	2020-03-16	Confirmado			
+633	Sinaloa	M	78	2020-03-21	Confirmado			
+634	Veracruz	M	48	2020-03-31	Confirmado			
+635	Puebla	F	24	2020-03-11	Confirmado			
+636	México	F	59	2020-03-07	Confirmado			
+637	México	M	64	2020-03-12	Confirmado			
+638	Ciudad de México	F	50	2020-03-09	Confirmado			
+639	Coahuila	M	31	2020-03-27	Confirmado			
+640	Baja California	F	28	2020-04-01	Confirmado			
+641	México	M	30	2020-03-22	Confirmado			
+642	Ciudad de México	M	47	2020-03-28	Confirmado			
+643	Baja California	M	39	2020-03-27	Confirmado			
+644	Oaxaca	M	23	2020-03-28	Confirmado			
+645	Quintana Roo	M	54	2020-03-23	Confirmado			
+646	Quintana Roo	M	46	2020-03-26	Confirmado			
+647	México	M	60	2020-03-30	Confirmado			
+648	San Luis Potosí	M	73	2020-03-31	Confirmado			
+649	Quintana Roo	M	54	2020-03-29	Confirmado			
+650	Baja California Sur	F	44	2020-04-02	Confirmado			
+651	México	M	26	2020-03-30	Confirmado			
+652	Ciudad de México	F	67	2020-03-20	Confirmado			
+653	Ciudad de México	M	52	2020-03-28	Confirmado			
+654	México	F	37	2020-04-03	Confirmado			
+655	Nuevo León	M	40	2020-03-05	Confirmado			
+656	Baja California	M	37	2020-03-27	Confirmado			
+657	Oaxaca	M	59	2020-03-30	Confirmado			
+658	Oaxaca	M	37	2020-03-21	Confirmado			
+659	Oaxaca	F	51	2020-03-26	Confirmado			
+660	Baja California	F	34	2020-04-01	Confirmado			
+661	Oaxaca	F	47	2020-03-23	Confirmado			
+662	Puebla	M	58	2020-04-01	Confirmado			
+663	México	F	28	2020-03-30	Confirmado			
+664	Ciudad de México	F	65	2020-03-03	Confirmado			
+665	Puebla	F	51	2020-03-24	Confirmado			
+666	Oaxaca	F	20	2020-03-22	Confirmado			
+667	Oaxaca	M	73	2020-04-03	Confirmado			
+668	México	M	34	2020-03-28	Confirmado			
+669	Ciudad de México	M	48	2020-03-16	Confirmado			
+670	Ciudad de México	M	37	2020-03-26	Confirmado			
+671	Quintana Roo	M	44	2020-03-24	Confirmado			
+672	Ciudad de México	M	48	2020-04-01	Confirmado			
+673	Ciudad de México	F	54	2020-03-27	Confirmado			
+674	Ciudad de México	M	31	2020-03-26	Confirmado			
+675	Ciudad de México	M	68	2020-03-04	Confirmado			
+676	Tlaxcala	M	62	2020-03-28	Confirmado			
+677	Aguascalientes	F	38	2020-03-18	Confirmado			
+678	Ciudad de México	M	69	2020-04-05	Confirmado			
+679	Ciudad de México	F	33	2020-04-05	Confirmado			
+680	Chihuahua	M	46	2020-03-26	Confirmado			
+681	Tamaulipas	F	80	2020-04-04	Confirmado			
+682	Campeche	F	59	2020-04-03	Confirmado			
+683	Ciudad de México	M	41	2020-03-30	Confirmado			
+684	Ciudad de México	F	44	2020-03-23	Confirmado			
+685	Ciudad de México	F	75	2020-03-15	Confirmado			
+686	Ciudad de México	F	37	2020-03-24	Confirmado			
+687	Tamaulipas	F	40	2020-04-05	Confirmado			
+688	Jalisco	F	53	2020-03-24	Confirmado			
+689	Puebla	F	30	2020-03-29	Confirmado			
+690	Ciudad de México	M	45	2020-03-16	Confirmado			
+691	Aguascalientes	M	60	2020-03-20	Confirmado			
+692	Ciudad de México	F	61	2020-03-14	Confirmado			
+693	Ciudad de México	F	55	2020-03-13	Confirmado			
+694	Oaxaca	M	66	2020-03-29	Confirmado			
+695	Coahuila	F	37	2020-03-23	Confirmado			
+696	Coahuila	M	47	2020-03-16	Confirmado			
+697	México	M	42	2020-03-30	Confirmado			
+698	Tabasco	M	45	2020-03-29	Confirmado			
+699	Baja California	M	42	2020-03-26	Confirmado			
+700	Tabasco	F	39	2020-03-25	Confirmado			
+701	Tabasco	F	51	2020-03-23	Confirmado			
+702	Ciudad de México	M	36	2020-03-23	Confirmado			
+703	Tlaxcala	M	54	2020-04-01	Confirmado			
+704	Tlaxcala	F	23	2020-03-28	Confirmado			
+705	Nuevo León	M	22	2020-03-14	Confirmado			
+706	Ciudad de México	M	69	2020-03-19	Confirmado			
+707	Veracruz	F	38	2020-03-18	Confirmado			
+708	Coahuila	F	49	2020-03-23	Confirmado			
+709	Morelos	M	29	2020-03-31	Confirmado			
+710	Morelos	M	69	2020-03-21	Confirmado			
+711	Nuevo León	M	27	2020-03-19	Confirmado			
+712	Hidalgo	M	44	2020-03-08	Confirmado			
+713	Hidalgo	F	45	2020-03-25	Confirmado			
+714	Hidalgo	F	31	2020-03-27	Confirmado			
+715	Ciudad de México	M	44	2020-03-23	Confirmado			
+716	Hidalgo	M	71	2020-03-23	Confirmado			
+717	Ciudad de México	F	64	2020-03-23	Confirmado			
+718	Coahuila	F	76	2020-03-25	Confirmado			
+719	Baja California	M	55	2020-03-18	Confirmado			
+720	Hidalgo	M	17	2020-03-13	Confirmado			
+721	Hidalgo	F	17	2020-03-20	Confirmado			
+722	Hidalgo	F	20	2020-03-20	Confirmado			
+723	México	F	35	2020-03-25	Confirmado			
+724	Puebla	M	43	2020-03-18	Confirmado			
+725	Yucatán	F	56	2020-04-03	Confirmado			
+726	Coahuila	F	43	2020-03-20	Confirmado			
+727	Oaxaca	M	23	2020-03-16	Confirmado			
+728	Baja California	M	42	2020-03-25	Confirmado			
+729	Nuevo León	F	27	2020-03-09	Confirmado			
+730	Tabasco	F	57	2020-03-30	Confirmado			
+731	Ciudad de México	M	49	2020-03-10	Confirmado			
+732	Puebla	F	39	2020-03-22	Confirmado			
+733	Nayarit	F	74	2020-04-02	Confirmado			
+734	Coahuila	F	58	2020-03-29	Confirmado			
+735	Aguascalientes	F	25	2020-03-19	Confirmado			
+736	Veracruz	F	34	2020-03-23	Confirmado			
+737	Nuevo León	M	22	2020-03-13	Confirmado			
+738	México	M	51	2020-03-22	Confirmado			
+739	Yucatán	F	42	2020-03-22	Confirmado			
+740	Baja California Sur	F	34	2020-03-16	Confirmado			
+741	Tabasco	F	30	2020-03-13	Confirmado			
+742	Sonora	F	69	2020-03-27	Confirmado			
+743	Oaxaca	M	57	2020-03-20	Confirmado			
+744	Nuevo León	M	64	2020-03-22	Confirmado			
+745	México	F	24	2020-03-07	Confirmado			
+746	México	M	22	2020-03-07	Confirmado			
+747	México	M	44	2020-03-09	Confirmado			
+748	Ciudad de México	M	44	2020-03-09	Confirmado			
+749	Ciudad de México	F	32	2020-04-03	Confirmado			
+750	Ciudad de México	M	49	2020-03-12	Confirmado			
+751	Ciudad de México	M	33	2020-03-07	Confirmado			
+752	Tamaulipas	F	26	2020-03-26	Confirmado			
+753	Quintana Roo	F	48	2020-04-04	Confirmado			
+754	Quintana Roo	M	24	2020-03-29	Confirmado			
+755	Quintana Roo	F	50	2020-03-20	Confirmado			
+756	Guerrero	M	34	2020-03-29	Confirmado			
+757	Jalisco	F	54	2020-03-09	Confirmado			
+758	Morelos	M	58	2020-03-28	Confirmado			
+759	Ciudad de México	M	36	2020-03-15	Confirmado			
+760	México	M	23	2020-03-15	Confirmado			
+761	Guanajuato	F	19	2020-03-26	Confirmado			
+762	Quintana Roo	F	32	2020-03-30	Confirmado			
+763	México	M	38	2020-03-19	Confirmado			
+764	México	F	26	2020-03-24	Confirmado			
+765	México	M	40	2020-03-14	Confirmado			
+766	Baja California	F	57	2020-03-27	Confirmado			
+767	Ciudad de México	F	23	2020-04-01	Confirmado			
+768	México	M	54	2020-03-31	Confirmado			
+769	Ciudad de México	M	43	2020-03-27	Confirmado			
+770	Baja California Sur	M	44	2020-03-31	Confirmado			
+771	Ciudad de México	M	63	2020-03-14	Confirmado			
+772	México	M	24	2020-03-31	Confirmado			
+773	Baja California	M	47	2020-03-19	Confirmado			
+774	Tlaxcala	M	21	2020-03-27	Confirmado			
+775	Ciudad de México	M	77	2020-03-22	Confirmado			
+776	Aguascalientes	F	46	2020-03-29	Confirmado			
+777	México	M	18	2020-03-29	Confirmado			
+778	Jalisco	M	30	2020-03-23	Confirmado			
+779	Baja California	F	35	2020-03-26	Confirmado			
+780	Ciudad de México	M	32	2020-03-23	Confirmado			
+781	Jalisco	M	26	2020-03-17	Confirmado			
+782	Ciudad de México	M	23	2020-03-23	Confirmado			
+783	Sinaloa	F	39	2020-04-04	Confirmado			
+784	Yucatán	F	27	2020-03-13	Confirmado			
+785	Aguascalientes	M	51	2020-03-27	Confirmado			
+786	Tlaxcala	F	47	2020-03-31	Confirmado			
+787	Puebla	F	60	2020-03-30	Confirmado			
+788	Puebla	M	61	2020-03-28	Confirmado			
+789	Coahuila	F	92	2020-03-27	Confirmado			
+790	Tabasco	F	69	2020-03-18	Confirmado			
+791	Baja California	F	36	2020-03-30	Confirmado			
+792	Guanajuato	F	73	2020-03-25	Confirmado			
+793	Puebla	M	74	2020-03-16	Confirmado			
+794	Queretaro	M	54	2020-03-29	Confirmado			
+795	San Luis Potosí	F	38	2020-03-22	Confirmado			
+796	México	F	42	2020-03-22	Confirmado			
+797	Baja California Sur	M	67	2020-03-22	Confirmado			
+798	Baja California	M	46	2020-03-29	Confirmado			
+799	Puebla	F	32	2020-03-15	Confirmado			
+800	Baja California	M	48	2020-03-31	Confirmado			
+801	Ciudad de México	F	28	2020-03-19	Confirmado			
+802	Sinaloa	M	76	2020-03-18	Confirmado			
+803	Coahuila	F	36	2020-04-03	Confirmado			
+804	Ciudad de México	F	34	2020-03-27	Confirmado			
+805	Puebla	F	55	2020-03-25	Confirmado			
+806	Baja California	M	38	2020-03-23	Confirmado			
+807	Ciudad de México	M	26	2020-03-23	Confirmado			
+808	Sinaloa	M	55	2020-04-02	Confirmado			
+809	Yucatán	M	65	2020-03-20	Confirmado			
+810	Ciudad de México	M	70	2020-03-27	Confirmado			
+811	México	M	45	2020-03-17	Confirmado			
+812	Nuevo León	M	56	2020-03-18	Confirmado			
+813	Ciudad de México	M	53	2020-03-11	Confirmado			
+814	Ciudad de México	M	11	2020-03-13	Confirmado			
+815	Sinaloa	F	39	2020-03-30	Confirmado			
+816	México	M	69	2020-03-25	Confirmado			
+817	México	M	36	2020-03-27	Confirmado			
+818	Chiapas	M	72	2020-03-25	Confirmado			
+819	Nuevo León	F	28	2020-03-20	Confirmado			
+820	Yucatán	M	52	2020-03-18	Confirmado			
+821	Baja California Sur	M	45	2020-03-20	Confirmado			
+822	Tabasco	F	57	2020-04-02	Confirmado			
+823	Sinaloa	M	74	2020-03-23	Confirmado			
+824	Ciudad de México	M	36	2020-03-17	Confirmado			
+825	México	F	52	2020-04-01	Confirmado			
+826	México	M	35	2020-03-19	Confirmado			
+827	México	F	58	2020-03-24	Confirmado			
+828	Ciudad de México	M	50	2020-03-10	Confirmado			
+829	Ciudad de México	M	59	2020-03-29	Confirmado			
+830	Guanajuato	M	31	2020-03-22	Confirmado			
+831	Sinaloa	M	26	2020-03-09	Confirmado			
+832	San Luis Potosí	F	59	2020-03-24	Confirmado			
+833	México	M	34	2020-03-30	Confirmado			
+834	México	F	62	2020-04-01	Confirmado			
+835	Ciudad de México	M	22	2020-03-31	Confirmado			
+836	Puebla	M	29	2020-03-29	Confirmado			
+837	Jalisco	F	33	2020-03-24	Confirmado			
+838	Ciudad de México	M	49	2020-03-20	Confirmado			
+839	Tabasco	F	28	2020-03-19	Confirmado			
+840	Sinaloa	M	64	2020-03-28	Confirmado			
+841	Tabasco	M	62	2020-03-09	Confirmado			
+842	Guerrero	F	26	2020-04-02	Confirmado			
+843	Ciudad de México	M	56	2020-03-11	Confirmado			
+844	Ciudad de México	F	44	2020-03-29	Confirmado			
+845	Ciudad de México	F	43	2020-03-27	Confirmado			
+846	Quintana Roo	M	36	2020-03-23	Confirmado			
+847	San Luis Potosí	M	33	2020-03-31	Confirmado			
+848	Nuevo León	M	48	2020-03-31	Confirmado			
+849	Ciudad de México	M	53	2020-03-29	Confirmado			
+850	México	F	65	2020-03-02	Confirmado			
+851	Ciudad de México	F	53	2020-03-30	Confirmado			
+852	México	M	37	2020-03-16	Confirmado			
+853	Ciudad de México	M	54	2020-03-12	Confirmado			
+854	Jalisco	F	37	2020-03-10	Confirmado			
+855	Quintana Roo	M	49	2020-03-28	Confirmado			
+856	San Luis Potosí	M	56	2020-03-24	Confirmado			
+857	Quintana Roo	M	39	2020-03-27	Confirmado			
+858	Sinaloa	F	57	2020-03-27	Confirmado			
+859	Baja California	M	24	2020-03-30	Confirmado			
+860	Chiapas	F	50	2020-03-27	Confirmado			
+861	Jalisco	M	67	2020-03-28	Confirmado			
+862	México	M	44	2020-03-24	Confirmado			
+863	Nayarit	F	39	2020-04-02	Confirmado			
+864	Yucatán	M	55	2020-03-29	Confirmado			
+865	México	F	29	2020-03-20	Confirmado			
+866	Sinaloa	M	37	2020-03-20	Confirmado			
+867	Ciudad de México	F	58	2020-04-04	Confirmado			
+868	Aguascalientes	F	60	2020-03-12	Confirmado			
+869	México	M	70	2020-03-18	Confirmado			
+870	Puebla	F	43	2020-03-30	Confirmado			
+871	Baja California	F	58	2020-03-13	Confirmado			
+872	Baja California	F	55	2020-03-11	Confirmado			
+873	Yucatán	M	63	2020-03-08	Confirmado			
+874	Coahuila	F	45	2020-03-27	Confirmado			
+875	Morelos	M	72	2020-03-21	Confirmado			
+876	México	F	51	2020-03-18	Confirmado			
+877	Ciudad de México	M	46	2020-03-31	Confirmado			
+878	Sinaloa	F	76	2020-04-03	Confirmado			
+879	Baja California	M	52	2020-03-25	Confirmado			
+880	Yucatán	F	32	2020-04-03	Confirmado			
+881	Yucatán	M	24	2020-03-17	Confirmado			
+882	México	M	35	2020-03-30	Confirmado			
+883	Quintana Roo	M	54	2020-03-29	Confirmado			
+884	Ciudad de México	M	36	2020-03-29	Confirmado			
+885	Ciudad de México	F	50	2020-03-08	Confirmado			
+886	Ciudad de México	F	30	2020-03-12	Confirmado			
+887	Baja California	M	39	2020-03-28	Confirmado			
+888	Ciudad de México	M	47	2020-04-03	Confirmado			
+889	Baja California	M	40	2020-03-17	Confirmado			
+890	Chihuahua	M	20	2020-03-26	Confirmado			
+891	Hidalgo	M	58	2020-03-24	Confirmado			
+892	Coahuila	M	59	2020-03-26	Confirmado			
+893	México	M	75	2020-03-06	Confirmado			
+894	Puebla	F	72	2020-04-01	Confirmado			
+895	Chihuahua	M	30	2020-03-12	Confirmado			
+896	Sinaloa	F	34	2020-03-24	Confirmado			
+897	Sinaloa	M	82	2020-03-16	Confirmado			
+898	Coahuila	F	35	2020-03-24	Confirmado			
+899	Baja California	F	64	2020-03-13	Confirmado			
+900	México	F	51	2020-03-29	Confirmado			
+901	Tabasco	F	65	2020-03-20	Confirmado			
+902	Veracruz	F	40	2020-03-12	Confirmado			
+903	Ciudad de México	F	30	2020-03-31	Confirmado			
+904	Coahuila	F	35	2020-03-20	Confirmado			
+905	Ciudad de México	F	68	2020-03-30	Confirmado			
+906	Sinaloa	M	48	2020-03-23	Confirmado			
+907	Oaxaca	F	62	2020-03-19	Confirmado			
+908	Ciudad de México	M	68	2020-03-31	Confirmado			
+909	Tabasco	F	59	2020-03-18	Confirmado			
+910	Veracruz	F	23	2020-03-20	Confirmado			
+911	Nayarit	F	33	2020-03-10	Confirmado			
+912	Ciudad de México	F	51	2020-03-27	Confirmado			
+913	Michoacán	F	49	2020-03-16	Confirmado			
+914	México	F	54	2020-03-27	Confirmado			
+915	Ciudad de México	F	52	2020-03-17	Confirmado			
+916	Guerrero	M	79	2020-03-15	Confirmado			
+917	México	M	32	2020-03-30	Confirmado			
+918	Ciudad de México	F	49	2020-03-20	Confirmado			
+919	Colima	M	67	2020-03-25	Confirmado			
+920	Guerrero	F	65	2020-03-26	Confirmado			
+921	Ciudad de México	M	49	2020-03-30	Confirmado			
+922	Ciudad de México	M	37	2020-03-24	Confirmado			
+923	Ciudad de México	F	36	2020-04-02	Confirmado			
+924	Veracruz	M	77	2020-04-02	Confirmado			
+925	Tamaulipas	F	47	2020-03-29	Confirmado			
+926	Veracruz	F	47	2020-03-19	Confirmado			
+927	Ciudad de México	F	57	2020-03-30	Confirmado			
+928	Tabasco	M	34	2020-03-29	Confirmado			
+929	México	M	63	2020-03-16	Confirmado			
+930	Baja California	F	48	2020-03-19	Confirmado			
+931	Ciudad de México	M	27	2020-03-27	Confirmado			
+932	Baja California	M	47	2020-03-26	Confirmado			
+933	Ciudad de México	M	48	2020-03-17	Confirmado			
+934	México	M	33	2020-03-19	Confirmado			
+935	México	M	38	2020-03-19	Confirmado			
+936	Ciudad de México	M	47	2020-03-12	Confirmado			
+937	Nuevo León	M	31	2020-03-09	Confirmado			
+938	Chihuahua	M	49	2020-04-02	Confirmado			
+939	México	M	61	2020-04-01	Confirmado			
+940	Ciudad de México	F	67	2020-03-30	Confirmado			
+941	Ciudad de México	M	74	2020-03-28	Confirmado			
+942	Puebla	F	60	2020-03-24	Confirmado			
+943	Veracruz	F	42	2020-03-25	Confirmado			
+944	Coahuila	M	42	2020-03-20	Confirmado			
+945	Puebla	M	49	2020-03-23	Confirmado			
+946	Ciudad de México	F	54	2020-03-28	Confirmado			
+947	Guerrero	M	30	2020-04-01	Confirmado			
+948	México	F	28	2020-03-25	Confirmado			
+949	Coahuila	M	60	2020-03-24	Confirmado			
+950	Ciudad de México	M	59	2020-02-23	Confirmado			
+951	Ciudad de México	F	31	2020-03-27	Confirmado			
+952	Ciudad de México	M	47	2020-04-01	Confirmado			
+953	Coahuila	M	63	2020-04-01	Confirmado			
+954	México	F	34	2020-03-15	Confirmado			
+955	Nuevo León	F	48	2020-03-30	Confirmado			
+956	Ciudad de México	M	33	2020-02-28	Confirmado			
+957	Puebla	M	57	2020-03-30	Confirmado			
+958	Baja California	F	46	2020-03-30	Confirmado			
+959	Morelos	F	85	2020-04-01	Confirmado			
+960	Coahuila	M	38	2020-04-05	Confirmado			
+961	México	M	41	2020-03-25	Confirmado			
+962	Quintana Roo	M	25	2020-03-28	Confirmado			
+963	Baja California	M	40	2020-03-27	Confirmado			
+964	San Luis Potosí	M	71	2020-03-15	Confirmado			
+965	Baja California Sur	F	34	2020-03-27	Confirmado			
+966	Puebla	M	49	2020-03-20	Confirmado			
+967	México	F	33	2020-03-26	Confirmado			
+968	México	F	32	2020-03-20	Confirmado			
+969	Coahuila	M	30	2020-03-20	Confirmado			
+970	México	F	3	2020-03-17	Confirmado			
+971	Ciudad de México	M	31	2020-03-15	Confirmado			
+972	Jalisco	F	50	2020-03-12	Confirmado			
+973	Tabasco	F	68	2020-04-01	Confirmado			
+974	Ciudad de México	M	45	2020-03-22	Confirmado			
+975	Ciudad de México	M	27	2020-03-18	Confirmado			
+976	Ciudad de México	M	57	2020-03-20	Confirmado			
+977	Veracruz	M	33	2020-03-12	Confirmado			
+978	Nuevo León	M	78	2020-03-22	Confirmado			
+979	Queretaro	M	43	2020-03-05	Confirmado			
+980	Zacatecas	M	71	2020-03-19	Confirmado			
+981	Ciudad de México	M	47	2020-03-24	Confirmado			
+982	Tabasco	F	35	2020-03-28	Confirmado			
+983	Queretaro	M	54	2020-03-26	Confirmado			
+984	Coahuila	M	58	2020-03-26	Confirmado			
+985	Guerrero	M	83	2020-04-02	Confirmado			
+986	Puebla	F	69	2020-03-17	Confirmado			
+987	Ciudad de México	F	24	2020-03-31	Confirmado			
+988	Sinaloa	M	78	2020-03-24	Confirmado			
+989	Baja California Sur	M	25	2020-04-01	Confirmado			
+990	Ciudad de México	F	32	2020-03-07	Confirmado			
+991	Quintana Roo	F	37	2020-03-25	Confirmado			
+992	Sinaloa	M	52	2020-03-22	Confirmado			
+993	Puebla	M	23	2020-03-14	Confirmado			
+994	Sinaloa	M	41	2020-03-20	Confirmado			
+995	México	F	31	2020-03-20	Confirmado			
+996	Jalisco	M	77	2020-03-25	Confirmado			
+997	Puebla	F	39	2020-03-27	Confirmado			
+998	Puebla	M	27	2020-03-22	Confirmado			
+999	Puebla	F	58	2020-03-24	Confirmado			
+1000	Baja California	M	63	2020-03-17	Confirmado			
+1001	Jalisco	F	52	2020-04-03	Confirmado			
+1002	Jalisco	M	36	2020-04-03	Confirmado			
+1003	México	M	36	2020-03-18	Confirmado			
+1004	Nuevo León	M	27	2020-04-02	Confirmado			
+1005	Baja California	M	60	2020-04-03	Confirmado			
+1006	Puebla	F	51	2020-03-28	Confirmado			
+1007	Ciudad de México	M	51	2020-03-25	Confirmado			
+1008	Quintana Roo	F	53	2020-03-17	Confirmado			
+1009	México	M	51	2020-03-30	Confirmado			
+1010	Tabasco	M	13	2020-03-30	Confirmado			
+1011	Baja California Sur	F	79	2020-03-23	Confirmado			
+1012	México	M	36	2020-03-26	Confirmado			
+1013	Baja California Sur	M	45	2020-04-02	Confirmado			
+1014	Nuevo León	M	66	2020-03-30	Confirmado			
+1015	Tamaulipas	F	43	2020-04-01	Confirmado			
+1016	Baja California	M	62	2020-03-26	Confirmado			
+1017	Coahuila	F	44	2020-04-02	Confirmado			
+1018	Morelos	M	44	2020-03-23	Confirmado			
+1019	Baja California	F	36	2020-03-26	Confirmado			
+1020	Nuevo León	M	47	2020-03-06	Confirmado			
+1021	México	F	49	2020-03-13	Confirmado			
+1022	Ciudad de México	M	65	2020-03-15	Confirmado			
+1023	Veracruz	F	64	2020-03-14	Confirmado			
+1024	México	F	47	2020-04-05	Confirmado			
+1025	Ciudad de México	M	30	2020-03-26	Confirmado			
+1026	México	M	64	2020-03-20	Confirmado			
+1027	Baja California Sur	M	44	2020-03-31	Confirmado			
+1028	Ciudad de México	F	42	2020-03-15	Confirmado			
+1029	Coahuila	M	48	2020-03-27	Confirmado			
+1030	México	F	51	2020-04-01	Confirmado			
+1031	Nuevo León	F	64	2020-03-13	Confirmado			
+1032	Guerrero	F	42	2020-03-22	Confirmado			
+1033	Guanajuato	F	57	2020-03-16	Confirmado			
+1034	Ciudad de México	M	48	2020-03-29	Confirmado			
+1035	Ciudad de México	M	26	2020-03-11	Confirmado			
+1036	Baja California	M	25	2020-03-20	Confirmado			
+1037	Ciudad de México	M	66	2020-04-05	Confirmado			
+1038	Ciudad de México	M	37	2020-03-26	Confirmado			
+1039	Ciudad de México	M	45	2020-03-29	Confirmado			
+1040	México	F	72	2020-03-21	Confirmado			
+1041	Jalisco	M	69	2020-03-31	Confirmado			
+1042	Tabasco	F	30	2020-03-24	Confirmado			
+1043	Ciudad de México	M	53	2020-03-21	Confirmado			
+1044	Ciudad de México	M	54	2020-03-17	Confirmado			
+1045	Baja California	M	26	2020-03-29	Confirmado			
+1046	Puebla	M	46	2020-03-21	Confirmado			
+1047	Baja California	F	49	2020-03-24	Confirmado			
+1048	Ciudad de México	F	41	2020-03-31	Confirmado			
+1049	México	M	27	2020-03-26	Confirmado			
+1050	Michoacán	M	50	2020-03-25	Confirmado			
+1051	Ciudad de México	M	48	2020-03-13	Confirmado			
+1052	Ciudad de México	M	47	2020-03-17	Confirmado			
+1053	Morelos	F	41	2020-03-26	Confirmado			
+1054	Puebla	F	67	2020-03-30	Confirmado			
+1055	México	M	48	2020-03-31	Confirmado			
+1056	Baja California	F	35	2020-03-30	Confirmado			
+1057	Nuevo León	M	54	2020-03-16	Confirmado			
+1058	México	M	51	2020-04-05	Confirmado			
+1059	México	M	36	2020-03-25	Confirmado			
+1060	Ciudad de México	F	47	2020-03-26	Confirmado			
+1061	Ciudad de México	M	38	2020-03-23	Confirmado			
+1062	México	M	46	2020-03-15	Confirmado			
+1063	Jalisco	M	54	2020-03-17	Confirmado			
+1064	Guerrero	F	75	2020-03-19	Confirmado			
+1065	Ciudad de México	M	58	2020-03-26	Confirmado			
+1066	Michoacán	F	82	2020-03-25	Confirmado			
+1067	Sinaloa	F	42	2020-03-29	Confirmado			
+1068	Ciudad de México	M	27	2020-03-20	Confirmado			
+1069	México	M	54	2020-04-02	Confirmado			
+1070	México	F	47	2020-03-27	Confirmado			
+1071	Ciudad de México	F	33	2020-03-31	Confirmado			
+1072	Nuevo León	F	59	2020-03-17	Confirmado			
+1073	Ciudad de México	M	52	2020-03-30	Confirmado			
+1074	Ciudad de México	F	51	2020-03-14	Confirmado			
+1075	Quintana Roo	F	61	2020-03-23	Confirmado			
+1076	Ciudad de México	M	30	2020-03-31	Confirmado			
+1077	Oaxaca	F	33	2020-03-25	Confirmado			
+1078	Chiapas	F	41	2020-04-03	Confirmado			
+1079	México	M	26	2020-03-26	Confirmado			
+1080	Ciudad de México	M	41	2020-03-06	Confirmado			
+1081	México	F	30	2020-04-04	Confirmado			
+1082	Ciudad de México	M	39	2020-04-01	Confirmado			
+1083	Chihuahua	F	41	2020-03-24	Confirmado			
+1084	Ciudad de México	M	59	2020-03-25	Confirmado			
+1085	Nuevo León	F	24	2020-03-22	Confirmado			
+1086	Coahuila	M	43	2020-03-25	Confirmado			
+1087	México	F	31	2020-03-26	Confirmado			
+1088	Tabasco	M	58	2020-03-28	Confirmado			
+1089	México	F	66	2020-03-30	Confirmado			
+1090	Aguascalientes	M	31	2020-03-22	Confirmado			
+1091	Sinaloa	M	25	2020-03-19	Confirmado			
+1092	Ciudad de México	F	42	2020-03-15	Confirmado			
+1093	Veracruz	F	78	2020-03-30	Confirmado			
+1094	Puebla	F	25	2020-03-27	Confirmado			
+1095	Puebla	M	49	2020-03-24	Confirmado			
+1096	Guanajuato	M	27	2020-03-15	Confirmado			
+1097	Guanajuato	F	60	2020-03-20	Confirmado			
+1098	México	F	25	2020-03-26	Confirmado			
+1099	Ciudad de México	M	35	2020-03-08	Confirmado			
+1100	Nuevo León	M	24	2020-03-14	Confirmado			
+1101	Ciudad de México	M	50	2020-03-27	Confirmado			
+1102	Guanajuato	F	47	2020-03-24	Confirmado			
+1103	Ciudad de México	M	44	2020-04-04	Confirmado			
+1104	Jalisco	M	36	2020-03-23	Confirmado			
+1105	Ciudad de México	M	29	2020-03-02	Confirmado			
+1106	México	F	50	2020-03-02	Confirmado			
+1107	Hidalgo	F	68	2020-04-03	Confirmado			
+1108	Baja California	F	25	2020-03-31	Confirmado			
+1109	Oaxaca	F	31	2020-03-09	Confirmado			
+1110	Ciudad de México	F	29	2020-03-23	Confirmado			
+1111	Puebla	F	44	2020-03-28	Confirmado			
+1112	Yucatán	M	60	2020-03-28	Confirmado			
+1113	México	M	59	2020-03-25	Confirmado			
+1114	México	M	57	2020-03-25	Confirmado			
+1115	Baja California	F	25	2020-03-25	Confirmado			
+1116	Ciudad de México	F	59	2020-03-28	Confirmado			
+1117	Chiapas	F	33	2020-03-22	Confirmado			
+1118	Sinaloa	M	55	2020-04-03	Confirmado			
+1119	Baja California	M	43	2020-03-18	Confirmado			
+1120	Baja California Sur	M	35	2020-03-28	Confirmado			
+1121	México	F	52	2020-03-10	Confirmado			
+1122	México	M	53	2020-03-24	Confirmado			
+1123	Baja California	M	56	2020-03-24	Confirmado			
+1124	Nuevo León	M	35	2020-03-12	Confirmado			
+1125	Ciudad de México	M	34	2020-04-02	Confirmado			
+1126	Jalisco	M	42	2020-03-10	Confirmado			
+1127	México	M	51	2020-03-29	Confirmado			
+1128	México	M	47	2020-04-01	Confirmado			
+1129	Ciudad de México	M	72	2020-03-27	Confirmado			
+1130	Ciudad de México	F	65	2020-03-20	Confirmado			
+1131	Ciudad de México	F	54	2020-03-18	Confirmado			
+1132	Sinaloa	M	49	2020-04-04	Confirmado			
+1133	Baja California	F	23	2020-03-25	Confirmado			
+1134	Ciudad de México	M	45	2020-03-20	Confirmado			
+1135	Queretaro	F	31	2020-03-21	Confirmado			
+1136	Nuevo León	F	32	2020-03-10	Confirmado			
+1137	Durango	M	34	2020-03-30	Confirmado			
+1138	Nuevo León	M	72	2020-03-07	Confirmado			
+1139	Yucatán	M	38	2020-03-19	Confirmado			
+1140	Nuevo León	M	73	2020-03-11	Confirmado			
+1141	Guanajuato	F	65	2020-04-01	Confirmado			
+1142	Nuevo León	M	61	2020-03-14	Confirmado			
+1143	Coahuila	M	12	2020-03-18	Confirmado			
+1144	Coahuila	M	43	2020-03-18	Confirmado			
+1145	Coahuila	M	54	2020-03-17	Confirmado			
+1146	Quintana Roo	F	31	2020-03-21	Confirmado			
+1147	Sinaloa	F	70	2020-03-19	Confirmado			
+1148	Baja California	M	60	2020-03-29	Confirmado			
+1149	Baja California	M	26	2020-03-27	Confirmado			
+1150	Sinaloa	M	47	2020-03-27	Confirmado			
+1151	Baja California	F	28	2020-03-28	Confirmado			
+1152	Ciudad de México	F	36	2020-03-18	Confirmado			
+1153	Chihuahua	M	48	2020-03-18	Confirmado			
+1154	Quintana Roo	F	26	2020-03-20	Confirmado			
+1155	Coahuila	F	36	2020-03-24	Confirmado			
+1156	Ciudad de México	M	47	2020-03-30	Confirmado			
+1157	Ciudad de México	M	56	2020-03-10	Confirmado			
+1158	Ciudad de México	M	55	2020-03-27	Confirmado			
+1159	Baja California	M	47	2020-03-24	Confirmado			
+1160	San Luis Potosí	M	45	2020-03-16	Confirmado			
+1161	Ciudad de México	M	23	2020-03-30	Confirmado			
+1162	México	F	31	2020-03-26	Confirmado			
+1163	Coahuila	M	55	2020-03-23	Confirmado			
+1164	Ciudad de México	F	40	2020-03-24	Confirmado			
+1165	Sonora	F	25	2020-03-31	Confirmado			
+1166	Sonora	M	26	2020-04-03	Confirmado			
+1167	Coahuila	F	26	2020-03-19	Confirmado			
+1168	México	M	60	2020-03-27	Confirmado			
+1169	Ciudad de México	F	31	2020-03-11	Confirmado			
+1170	Chiapas	M	82	2020-03-25	Confirmado			
+1171	Jalisco	M	55	2020-03-07	Confirmado			
+1172	Sinaloa	M	86	2020-03-22	Confirmado			
+1173	Chihuahua	M	43	2020-03-26	Confirmado			
+1174	Baja California	F	32	2020-03-28	Confirmado			
+1175	México	M	47	2020-03-29	Confirmado			
+1176	Jalisco	M	34	2020-03-17	Confirmado			
+1177	Coahuila	M	31	2020-03-31	Confirmado			
+1178	Quintana Roo	M	40	2020-03-27	Confirmado			
+1179	Sinaloa	F	38	2020-03-26	Confirmado			
+1180	Ciudad de México	M	64	2020-04-03	Confirmado			
+1181	México	M	43	2020-03-27	Confirmado			
+1182	Quintana Roo	F	55	2020-03-18	Confirmado			
+1183	Sinaloa	F	51	2020-03-27	Confirmado			
+1184	Ciudad de México	M	37	2020-03-17	Confirmado			
+1185	México	M	51	2020-04-01	Confirmado			
+1186	Ciudad de México	M	50	2020-03-26	Confirmado			
+1187	Ciudad de México	F	41	2020-03-23	Confirmado			
+1188	Zacatecas	F	39	2020-03-21	Confirmado			
+1189	México	M	32	2020-03-30	Confirmado			
+1190	Veracruz	F	22	2020-03-03	Confirmado			
+1191	Jalisco	M	31	2020-03-30	Confirmado			
+1192	Tabasco	M	36	2020-03-29	Confirmado			
+1193	México	M	61	2020-04-03	Confirmado			
+1194	México	M	43	2020-03-25	Confirmado			
+1195	Hidalgo	F	50	2020-03-23	Confirmado			
+1196	Jalisco	F	20	2020-03-16	Confirmado			
+1197	Ciudad de México	F	38	2020-03-14	Confirmado			
+1198	Sonora	F	21	2020-03-16	Confirmado			
+1199	Jalisco	F	55	2020-03-10	Confirmado			
+1200	Yucatán	M	26	2020-03-31	Confirmado			
+1201	Jalisco	M	51	2020-03-14	Confirmado			
+1202	Nuevo León	M	76	2020-03-26	Confirmado			
+1203	Puebla	M	47	2020-03-27	Confirmado			
+1204	Jalisco	F	66	2020-03-12	Confirmado			
+1205	Tabasco	M	27	2020-03-09	Confirmado			
+1206	San Luis Potosí	M	8	2020-03-25	Confirmado			
+1207	Quintana Roo	F	27	2020-03-30	Confirmado			
+1208	Puebla	F	25	2020-03-28	Confirmado			
+1209	Ciudad de México	M	21	2020-03-16	Confirmado			
+1210	Baja California	M	32	2020-03-24	Confirmado			
+1211	Ciudad de México	M	7	2020-03-27	Confirmado			
+1212	Sinaloa	F	34	2020-03-29	Confirmado			
+1213	Puebla	M	29	2020-03-23	Confirmado			
+1214	Coahuila	F	27	2020-03-31	Confirmado			
+1215	México	F	47	2020-03-31	Confirmado			
+1216	Puebla	M	58	2020-03-29	Confirmado			
+1217	Ciudad de México	M	64	2020-04-01	Confirmado			
+1218	Ciudad de México	F	61	2020-03-26	Confirmado			
+1219	Ciudad de México	M	39	2020-03-10	Confirmado			
+1220	Tabasco	M	66	2020-03-02	Confirmado			
+1221	Ciudad de México	M	37	2020-03-10	Confirmado			
+1222	Guanajuato	F	49	2020-03-21	Confirmado			
+1223	Jalisco	F	40	2020-03-25	Confirmado			
+1224	Campeche	M	41	2020-03-27	Confirmado			
+1225	Jalisco	F	65	2020-03-01	Confirmado			
+1226	México	M	56	2020-03-11	Confirmado			
+1227	Ciudad de México	M	32	2020-03-10	Confirmado			
+1228	Coahuila	F	40	2020-03-27	Confirmado			
+1229	Ciudad de México	M	30	2020-03-26	Confirmado			
+1230	Puebla	M	28	2020-03-23	Confirmado			
+1231	Quintana Roo	F	44	2020-03-22	Confirmado			
+1232	Tamaulipas	F	20	2020-03-26	Confirmado			
+1233	Sinaloa	M	33	2020-03-23	Confirmado			
+1234	Baja California	F	20	2020-03-29	Confirmado			
+1235	Ciudad de México	M	56	2020-03-30	Confirmado			
+1236	Tabasco	M	26	2020-03-23	Confirmado			
+1237	Nuevo León	F	81	2020-04-02	Confirmado			
+1238	Ciudad de México	M	49	2020-03-30	Confirmado			
+1239	Quintana Roo	M	52	2020-03-11	Confirmado			
+1240	Ciudad de México	F	67	2020-03-26	Confirmado			
+1241	Chihuahua	F	36	2020-03-25	Confirmado			
+1242	México	M	40	2020-03-22	Confirmado			
+1243	Ciudad de México	M	59	2020-03-19	Confirmado			
+1244	Jalisco	M	72	2020-03-18	Confirmado			
+1245	Tabasco	F	50	2020-03-19	Confirmado			
+1246	Jalisco	F	41	2020-03-22	Confirmado			
+1247	Ciudad de México	M	39	2020-03-30	Confirmado			
+1248	Ciudad de México	M	25	2020-03-15	Confirmado			
+1249	Baja California Sur	F	37	2020-03-18	Confirmado			
+1250	Jalisco	F	49	2020-03-26	Confirmado			
+1251	Jalisco	F	57	2020-03-11	Confirmado			
+1252	Ciudad de México	F	56	2020-02-25	Confirmado			
+1253	Ciudad de México	F	51	2020-03-17	Confirmado			
+1254	Nuevo León	M	74	2020-03-09	Confirmado			
+1255	Ciudad de México	M	47	2020-03-22	Confirmado			
+1256	Quintana Roo	M	39	2020-03-24	Confirmado			
+1257	México	M	26	2020-03-22	Confirmado			
+1258	Durango	F	69	2020-03-18	Confirmado			
+1259	Coahuila	F	41	2020-03-23	Confirmado			
+1260	Baja California Sur	M	3	2020-03-17	Confirmado			
+1261	México	M	30	2020-03-20	Confirmado			
+1262	México	M	53	2020-03-28	Confirmado			
+1263	Coahuila	F	42	2020-03-22	Confirmado			
+1264	Jalisco	F	35	2020-03-11	Confirmado			
+1265	Ciudad de México	F	50	2020-04-05	Confirmado			
+1266	México	M	51	2020-03-15	Confirmado			
+1267	Baja California	M	24	2020-03-25	Confirmado			
+1268	Jalisco	F	48	2020-03-06	Confirmado			
+1269	San Luis Potosí	F	53	2020-04-02	Confirmado			
+1270	México	F	29	2020-03-29	Confirmado			
+1271	México	M	74	2020-03-17	Confirmado			
+1272	Oaxaca	M	39	2020-03-27	Confirmado			
+1273	Baja California	M	45	2020-04-01	Confirmado			
+1274	Ciudad de México	M	41	2020-03-16	Confirmado			
+1275	Michoacán	F	45	2020-04-01	Confirmado			
+1276	Aguascalientes	M	43	2020-03-10	Confirmado			
+1277	México	F	29	2020-03-25	Confirmado			
+1278	Ciudad de México	M	39	2020-03-13	Confirmado			
+1279	Ciudad de México	M	39	2020-03-13	Confirmado			
+1280	Guanajuato	M	33	2020-03-21	Confirmado			
+1281	Ciudad de México	F	70	2020-04-05	Confirmado			
+1282	Ciudad de México	F	53	2020-03-29	Confirmado			
+1283	Nuevo León	M	27	2020-03-11	Confirmado			
+1284	Veracruz	F	31	2020-03-29	Confirmado			
+1285	San Luis Potosí	M	32	2020-03-15	Confirmado			
+1286	Ciudad de México	F	42	2020-03-11	Confirmado			
+1287	Nuevo León	M	41	2020-03-11	Confirmado			
+1288	México	M	38	2020-03-22	Confirmado			
+1289	Tamaulipas	F	22	2020-03-16	Confirmado			
+1290	Ciudad de México	F	26	2020-03-09	Confirmado			
+1291	Queretaro	M	28	2020-04-05	Confirmado			
+1292	Baja California	M	55	2020-03-24	Confirmado			
+1293	México	F	52	2020-03-31	Confirmado			
+1294	Ciudad de México	M	61	2020-03-22	Confirmado			
+1295	Queretaro	M	45	2020-04-04	Confirmado			
+1296	Ciudad de México	M	37	2020-04-03	Confirmado			
+1297	Sonora	F	63	2020-03-19	Confirmado			
+1298	Coahuila	F	74	2020-03-30	Confirmado			
+1299	Ciudad de México	M	36	2020-02-22	Confirmado			
+1300	Ciudad de México	F	53	2020-03-12	Confirmado			
+1301	Baja California	M	23	2020-03-30	Confirmado			
+1302	México	F	44	2020-04-03	Confirmado			
+1303	Ciudad de México	M	31	2020-03-31	Confirmado			
+1304	Guerrero	F	23	2020-03-09	Confirmado			
+1305	Ciudad de México	F	46	2020-03-22	Confirmado			
+1306	México	M	56	2020-03-09	Confirmado			
+1307	Morelos	F	44	2020-04-01	Confirmado			
+1308	Ciudad de México	M	40	2020-03-31	Confirmado			
+1309	Ciudad de México	M	28	2020-03-19	Confirmado			
+1310	Nayarit	F	86	2020-03-31	Confirmado			
+1311	Tabasco	M	53	2020-03-31	Confirmado			
+1312	Quintana Roo	F	30	2020-03-29	Confirmado			
+1313	Jalisco	M	25	2020-03-17	Confirmado			
+1314	Jalisco	F	34	2020-03-21	Confirmado			
+1315	Baja California	F	47	2020-03-24	Confirmado			
+1316	Tabasco	M	59	2020-03-26	Confirmado			
+1317	Tabasco	F	24	2020-03-15	Confirmado			
+1318	Puebla	F	54	2020-03-28	Confirmado			
+1319	Aguascalientes	F	31	2020-03-23	Confirmado			
+1320	México	M	21	2020-03-20	Confirmado			
+1321	Coahuila	M	40	2020-03-25	Confirmado			
+1322	Chihuahua	M	27	2020-03-19	Confirmado			
+1323	Sonora	F	45	2020-03-15	Confirmado			
+1324	Jalisco	M	67	2020-03-20	Confirmado			
+1325	Baja California	M	51	2020-03-25	Confirmado			
+1326	Ciudad de México	M	41	2020-03-26	Confirmado			
+1327	Sonora	F	28	2020-03-24	Confirmado			
+1328	Ciudad de México	F	77	2020-03-25	Confirmado			
+1329	Ciudad de México	M	23	2020-03-01	Confirmado			
+1330	Ciudad de México	M	62	2020-03-27	Confirmado			
+1331	Nuevo León	F	31	2020-03-17	Confirmado			
+1332	Jalisco	M	72	2020-03-23	Confirmado			
+1333	Michoacán	M	39	2020-04-01	Confirmado			
+1334	México	F	38	2020-03-22	Confirmado			
+1335	México	F	35	2020-03-13	Confirmado			
+1336	Queretaro	F	37	2020-04-03	Confirmado			
+1337	Ciudad de México	M	86	2020-03-15	Confirmado			
+1338	Ciudad de México	M	46	2020-03-23	Confirmado			
+1339	Ciudad de México	M	43	2020-03-14	Confirmado			
+1340	Michoacán	F	63	2020-03-15	Confirmado			
+1341	Ciudad de México	F	56	2020-03-15	Confirmado			
+1342	Sonora	M	60	2020-03-17	Confirmado			
+1343	Guanajuato	F	38	2020-03-20	Confirmado			
+1344	San Luis Potosí	F	18	2020-04-01	Confirmado			
+1345	Coahuila	F	33	2020-03-31	Confirmado			
+1346	Quintana Roo	M	27	2020-03-30	Confirmado			
+1347	México	F	58	2020-03-23	Confirmado			
+1348	Michoacán	F	49	2020-03-15	Confirmado			
+1349	Sinaloa	M	49	2020-03-26	Confirmado			
+1350	Baja California	F	21	2020-03-20	Confirmado			
+1351	Ciudad de México	F	53	2020-03-28	Confirmado			
+1352	Ciudad de México	F	29	2020-03-27	Confirmado			
+1353	Sinaloa	F	38	2020-03-23	Confirmado			
+1354	Ciudad de México	M	31	2020-03-25	Confirmado			
+1355	Ciudad de México	M	54	2020-03-31	Confirmado			
+1356	México	F	22	2020-03-17	Confirmado			
+1357	Ciudad de México	M	78	2020-03-30	Confirmado			
+1358	Ciudad de México	M	41	2020-03-24	Confirmado			
+1359	México	M	37	2020-03-23	Confirmado			
+1360	México	M	28	2020-03-13	Confirmado			
+1361	México	M	49	2020-03-20	Confirmado			
+1362	Tabasco	M	59	2020-03-21	Confirmado			
+1363	Ciudad de México	F	6	2020-03-14	Confirmado			
+1364	Baja California Sur	M	56	2020-04-03	Confirmado			
+1365	Michoacán	M	64	2020-04-01	Confirmado			
+1366	Oaxaca	F	35	2020-04-05	Confirmado			
+1367	Yucatán	F	42	2020-03-29	Confirmado			
+1368	Chihuahua	M	58	2020-04-03	Confirmado			
+1369	México	F	65	2020-04-01	Confirmado			
+1370	Durango	F	58	2020-03-28	Confirmado			
+1371	Ciudad de México	M	45	2020-03-13	Confirmado			
+1372	Baja California Sur	F	52	2020-03-24	Confirmado			
+1373	Baja California	M	27	2020-03-13	Confirmado			
+1374	Veracruz	M	68	2020-03-25	Confirmado			
+1375	México	F	43	2020-03-28	Confirmado			
+1376	Tabasco	M	44	2020-03-24	Confirmado			
+1377	Puebla	M	64	2020-03-31	Confirmado			
+1378	Baja California	F	56	2020-03-25	Confirmado			
+1379	Ciudad de México	F	48	2020-03-19	Confirmado			
+1380	Ciudad de México	M	70	2020-03-26	Confirmado			
+1381	Puebla	F	52	2020-03-27	Confirmado			
+1382	Tamaulipas	F	29	2020-03-30	Confirmado			
+1383	Sinaloa	F	48	2020-03-16	Confirmado			
+1384	Quintana Roo	F	40	2020-03-24	Confirmado			
+1385	Veracruz	M	49	2020-04-03	Confirmado			
+1386	Sonora	F	25	2020-03-17	Confirmado			
+1387	Queretaro	F	27	2020-03-28	Confirmado			
+1388	Yucatán	M	65	2020-03-27	Confirmado			
+1389	Ciudad de México	M	54	2020-04-01	Confirmado			
+1390	Quintana Roo	F	32	2020-03-29	Confirmado			
+1391	Campeche	F	65	2020-04-01	Confirmado			
+1392	Nuevo León	M	22	2020-03-14	Confirmado			
+1393	Aguascalientes	M	24	2020-03-24	Confirmado			
+1394	México	F	55	2020-03-29	Confirmado			
+1395	Tabasco	M	67	2020-03-28	Confirmado			
+1396	Tlaxcala	M	71	2020-04-02	Confirmado			
+1397	Ciudad de México	M	59	2020-03-30	Confirmado			
+1398	Guanajuato	F	59	2020-03-16	Confirmado			
+1399	Hidalgo	M	52	2020-03-23	Confirmado			
+1400	Nayarit	M	54	2020-03-21	Confirmado			
+1401	Tlaxcala	F	29	2020-04-04	Confirmado			
+1402	Guanajuato	F	57	2020-03-16	Confirmado			
+1403	México	M	27	2020-03-28	Confirmado			
+1404	Queretaro	M	59	2020-03-17	Confirmado			
+1405	Queretaro	F	67	2020-03-22	Confirmado			
+1406	Queretaro	M	61	2020-03-26	Confirmado			
+1407	Queretaro	F	62	2020-03-17	Confirmado			
+1408	Ciudad de México	F	40	2020-03-30	Confirmado			
+1409	Ciudad de México	M	56	2020-03-16	Confirmado			
+1410	Ciudad de México	M	27	2020-03-29	Confirmado			
+1411	Puebla	M	45	2020-03-31	Confirmado			
+1412	Ciudad de México	M	45	2020-03-11	Confirmado			
+1413	Queretaro	M	48	2020-03-26	Confirmado			
+1414	Tamaulipas	F	26	2020-03-31	Confirmado			
+1415	Baja California	M	56	2020-03-30	Confirmado			
+1416	Puebla	F	30	2020-03-28	Confirmado			
+1417	Ciudad de México	M	37	2020-03-15	Confirmado			
+1418	Ciudad de México	F	35	2020-03-26	Confirmado			
+1419	México	F	31	2020-03-30	Confirmado			
+1420	Coahuila	M	58	2020-04-03	Confirmado			
+1421	Ciudad de México	M	28	2020-03-18	Confirmado			
+1422	Ciudad de México	M	27	2020-03-11	Confirmado			
+1423	Ciudad de México	F	46	2020-03-20	Confirmado			
+1424	Morelos	M	0	2020-03-30	Confirmado			
+1425	Nuevo León	M	29	2020-03-14	Confirmado			
+1426	Tamaulipas	M	30	2020-03-27	Confirmado			
+1427	Ciudad de México	M	36	2020-03-27	Confirmado			
+1428	Puebla	F	34	2020-03-29	Confirmado			
+1429	Sinaloa	F	50	2020-03-30	Confirmado			
+1430	Hidalgo	F	58	2020-03-14	Confirmado			
+1431	Tamaulipas	M	76	2020-03-22	Confirmado			
+1432	Morelos	M	37	2020-03-14	Confirmado			
+1433	México	M	53	2020-03-15	Confirmado			
+1434	Ciudad de México	M	29	2020-03-25	Confirmado			
+1435	México	M	33	2020-03-26	Confirmado			
+1436	Ciudad de México	F	28	2020-03-15	Confirmado			
+1437	Ciudad de México	M	34	2020-03-24	Confirmado			
+1438	Baja California	M	53	2020-03-25	Confirmado			
+1439	México	F	36	2020-03-16	Confirmado			
+1440	Guanajuato	M	30	2020-03-16	Confirmado			
+1441	Ciudad de México	M	56	2020-03-26	Confirmado			
+1442	Michoacán	F	29	2020-03-22	Confirmado			
+1443	Coahuila	F	54	2020-03-26	Confirmado			
+1444	México	F	23	2020-03-31	Confirmado			
+1445	Ciudad de México	F	54	2020-04-02	Confirmado			
+1446	Ciudad de México	M	82	2020-04-04	Confirmado			
+1447	Ciudad de México	M	73	2020-03-14	Confirmado			
+1448	Queretaro	F	36	2020-03-25	Confirmado			
+1449	Queretaro	M	49	2020-03-30	Confirmado			
+1450	Ciudad de México	M	42	2020-03-09	Confirmado			
+1451	Ciudad de México	M	57	2020-03-24	Confirmado			
+1452	Ciudad de México	F	29	2020-03-26	Confirmado			
+1453	Coahuila	M	58	2020-03-27	Confirmado			
+1454	Veracruz	F	62	2020-03-29	Confirmado			
+1455	Ciudad de México	M	53	2020-03-19	Confirmado			
+1456	Puebla	M	24	2020-03-28	Confirmado			
+1457	Tabasco	F	38	2020-03-10	Confirmado			
+1458	Quintana Roo	M	49	2020-03-27	Confirmado			
+1459	México	M	60	2020-03-25	Confirmado			
+1460	Ciudad de México	F	43	2020-04-04	Confirmado			
+1461	Nuevo León	F	28	2020-03-18	Confirmado			
+1462	Ciudad de México	M	69	2020-03-27	Confirmado			
+1463	Tlaxcala	F	46	2020-03-29	Confirmado			
+1464	Coahuila	F	31	2020-03-13	Confirmado			
+1465	Ciudad de México	M	54	2020-03-15	Confirmado			
+1466	Ciudad de México	M	52	2020-04-01	Confirmado			
+1467	Puebla	F	25	2020-03-23	Confirmado			
+1468	Yucatán	M	34	2020-03-27	Confirmado			
+1469	Aguascalientes	F	47	2020-03-31	Confirmado			
+1470	Baja California	F	28	2020-03-18	Confirmado			
+1471	México	M	29	2020-03-23	Confirmado			
+1472	Quintana Roo	F	53	2020-04-04	Confirmado			
+1473	Ciudad de México	F	36	2020-03-16	Confirmado			
+1474	Ciudad de México	M	64	2020-03-20	Confirmado			
+1475	Jalisco	F	39	2020-03-15	Confirmado			
+1476	Coahuila	M	66	2020-03-29	Confirmado			
+1477	Quintana Roo	F	45	2020-03-27	Confirmado			
+1478	México	M	61	2020-03-13	Confirmado			
+1479	Yucatán	M	29	2020-03-19	Confirmado			
+1480	Baja California	F	46	2020-03-31	Confirmado			
+1481	Ciudad de México	F	77	2020-03-14	Confirmado			
+1482	Ciudad de México	M	33	2020-03-29	Confirmado			
+1483	Ciudad de México	M	58	2020-03-20	Confirmado			
+1484	Ciudad de México	M	73	2020-04-02	Confirmado			
+1485	Yucatán	M	54	2020-03-19	Confirmado			
+1486	Quintana Roo	M	45	2020-03-11	Confirmado			
+1487	Quintana Roo	F	37	2020-04-01	Confirmado			
+1488	Nuevo León	M	50	2020-03-23	Confirmado			
+1489	México	M	63	2020-03-23	Confirmado			
+1490	Ciudad de México	F	30	2020-03-27	Confirmado			
+1491	Puebla	M	52	2020-03-28	Confirmado			
+1492	Puebla	F	29	2020-03-29	Confirmado			
+1493	Ciudad de México	M	47	2020-03-27	Confirmado			
+1494	Puebla	M	41	2020-03-18	Confirmado			
+1495	Ciudad de México	M	48	2020-03-20	Confirmado			
+1496	Queretaro	M	38	2020-03-16	Confirmado			
+1497	Sinaloa	F	56	2020-03-23	Confirmado			
+1498	Guerrero	M	68	2020-03-31	Confirmado			
+1499	Baja California	M	39	2020-03-29	Confirmado			
+1500	México	M	35	2020-03-24	Confirmado			
+1501	Guanajuato	F	19	2020-03-10	Confirmado			
+1502	Ciudad de México	M	54	2020-03-09	Confirmado			
+1503	Quintana Roo	F	53	2020-03-24	Confirmado			
+1504	Ciudad de México	M	47	2020-03-26	Confirmado			
+1505	Puebla	F	28	2020-03-28	Confirmado			
+1506	Ciudad de México	F	34	2020-03-18	Confirmado			
+1507	Ciudad de México	M	46	2020-03-25	Confirmado			
+1508	Guanajuato	F	53	2020-03-17	Confirmado			
+1509	Jalisco	M	21	2020-03-21	Confirmado			
+1510	Sinaloa	M	49	2020-03-23	Confirmado			
+1511	Puebla	M	69	2020-03-22	Confirmado			
+1512	Jalisco	M	36	2020-03-21	Confirmado			
+1513	Baja California	M	57	2020-03-20	Confirmado			
+1514	Nuevo León	M	54	2020-03-09	Confirmado			
+1515	Baja California	M	71	2020-03-26	Confirmado			
+1516	Ciudad de México	M	43	2020-03-30	Confirmado			
+1517	Nuevo León	M	64	2020-03-18	Confirmado			
+1518	México	M	57	2020-04-02	Confirmado			
+1519	Ciudad de México	F	78	2020-03-13	Confirmado			
+1520	Nayarit	M	48	2020-03-27	Confirmado			
+1521	México	M	38	2020-04-04	Confirmado			
+1522	San Luis Potosí	M	23	2020-03-29	Confirmado			
+1523	Queretaro	F	46	2020-03-20	Confirmado			
+1524	Michoacán	M	59	2020-03-15	Confirmado			
+1525	Ciudad de México	M	0	2020-04-06	Confirmado			
+1526	Ciudad de México	M	18	2020-04-06	Confirmado			
+1527	Ciudad de México	M	24	2020-04-05	Confirmado			
+1528	Ciudad de México	M	5	2020-03-29	Confirmado			
+1529	Ciudad de México	M	77	2020-04-06	Confirmado			
+1530	Nuevo León	F	31	2020-03-18	Confirmado			
+1531	Nuevo León	M	27	2020-03-18	Confirmado			
+1532	Tamaulipas	M	34	2020-03-25	Confirmado			
+1533	Sinaloa	F	29	2020-03-23	Confirmado			
+1534	Ciudad de México	M	24	2020-03-04	Confirmado			
+1535	Sinaloa	F	55	2020-03-14	Confirmado			
+1536	Sinaloa	M	76	2020-03-31	Confirmado			
+1537	Yucatán	M	58	2020-03-20	Confirmado			
+1538	México	F	68	2020-04-01	Confirmado			
+1539	Ciudad de México	M	39	2020-03-28	Confirmado			
+1540	Ciudad de México	M	35	2020-04-07	Confirmado			
+1541	Ciudad de México	M	61	2020-03-24	Confirmado			
+1542	Quintana Roo	M	44	2020-03-23	Confirmado			
+1543	Quintana Roo	F	30	2020-03-26	Confirmado			
+1544	Tabasco	F	57	2020-03-28	Confirmado			
+1545	Puebla	F	35	2020-03-28	Confirmado			
+1546	Sinaloa	F	62	2020-03-31	Confirmado			
+1547	Morelos	F	50	2020-03-30	Confirmado			
+1548	Aguascalientes	M	54	2020-03-23	Confirmado			
+1549	Guanajuato	M	52	2020-03-20	Confirmado			
+1550	Ciudad de México	M	45	2020-03-20	Confirmado			
+1551	Ciudad de México	M	47	2020-03-25	Confirmado			
+1552	Guerrero	M	52	2020-04-01	Confirmado			
+1553	Guerrero	M	53	2020-03-21	Confirmado			
+1554	Ciudad de México	F	24	2020-03-10	Confirmado			
+1555	Tabasco	M	56	2020-03-28	Confirmado			
+1556	Tabasco	M	57	2020-03-24	Confirmado			
+1557	Quintana Roo	M	33	2020-03-28	Confirmado			
+1558	Tabasco	F	50	2020-03-31	Confirmado			
+1559	Puebla	M	70	2020-03-27	Confirmado			
+1560	Sinaloa	F	41	2020-03-29	Confirmado			
+1561	Michoacán	M	71	2020-04-06	Confirmado			
+1562	Queretaro	F	46	2020-03-13	Confirmado			
+1563	México	M	28	2020-03-15	Confirmado			
+1564	Ciudad de México	M	50	2020-03-25	Confirmado			
+1565	Tabasco	F	48	2020-03-28	Confirmado			
+1566	Puebla	F	31	2020-03-28	Confirmado			
+1567	Ciudad de México	M	35	2020-03-30	Confirmado			
+1568	Ciudad de México	M	59	2020-03-17	Confirmado			
+1569	Baja California	F	32	2020-03-28	Confirmado			
+1570	Jalisco	M	57	2020-03-30	Confirmado			
+1571	Ciudad de México	M	54	2020-03-25	Confirmado			
+1572	Quintana Roo	M	32	2020-03-30	Confirmado			
+1573	México	F	70	2020-03-26	Confirmado			
+1574	Puebla	F	33	2020-03-28	Confirmado			
+1575	Colima	F	35	2020-03-12	Confirmado			
+1576	Baja California	M	39	2020-03-27	Confirmado			
+1577	Queretaro	M	26	2020-03-08	Confirmado			
+1578	Ciudad de México	M	73	2020-03-19	Confirmado			
+1579	Ciudad de México	F	46	2020-03-24	Confirmado			
+1580	Ciudad de México	F	39	2020-04-04	Confirmado			
+1581	Oaxaca	F	46	2020-03-30	Confirmado			
+1582	Nayarit	F	67	2020-03-19	Confirmado			
+1583	Ciudad de México	M	51	2020-03-26	Confirmado			
+1584	Durango	M	26	2020-03-23	Confirmado			
+1585	Quintana Roo	M	18	2020-03-09	Confirmado			
+1586	México	M	25	2020-03-20	Confirmado			
+1587	Puebla	F	50	2020-03-28	Confirmado			
+1588	Ciudad de México	M	60	2020-03-21	Confirmado			
+1589	Tlaxcala	M	24	2020-03-30	Confirmado			
+1590	Tlaxcala	F	21	2020-03-28	Confirmado			
+1591	Ciudad de México	M	78	2020-03-30	Confirmado			
+1592	Ciudad de México	F	57	2020-04-05	Confirmado			
+1593	Tlaxcala	M	50	2020-03-25	Confirmado			
+1594	Puebla	M	32	2020-03-20	Confirmado			
+1595	México	M	82	2020-04-04	Confirmado			
+1596	Yucatán	F	22	2020-03-13	Confirmado			
+1597	Coahuila	M	54	2020-03-21	Confirmado			
+1598	Puebla	F	48	2020-04-06	Confirmado			
+1599	Coahuila	M	24	2020-03-21	Confirmado			
+1600	México	F	65	2020-03-21	Confirmado			
+1601	Tabasco	M	34	2020-03-14	Confirmado			
+1602	Quintana Roo	M	57	2020-03-29	Confirmado			
+1603	Ciudad de México	M	43	2020-03-14	Confirmado			
+1604	Puebla	M	28	2020-03-20	Confirmado			
+1605	Oaxaca	F	42	2020-03-23	Confirmado			
+1606	Nuevo León	F	67	2020-03-19	Confirmado			
+1607	México	M	25	2020-03-30	Confirmado			
+1608	México	M	37	2020-03-24	Confirmado			
+1609	Baja California Sur	M	40	2020-03-30	Confirmado			
+1610	Nuevo León	M	36	2020-03-09	Confirmado			
+1611	Ciudad de México	F	71	2020-03-07	Confirmado			
+1612	México	M	44	2020-03-14	Confirmado			
+1613	Quintana Roo	F	31	2020-03-14	Confirmado			
+1614	Hidalgo	F	56	2020-03-12	Confirmado			
+1615	Yucatán	M	46	2020-03-24	Confirmado			
+1616	Ciudad de México	M	29	2020-03-13	Confirmado			
+1617	Baja California	M	60	2020-03-26	Confirmado			
+1618	Coahuila	F	41	2020-03-21	Confirmado			
+1619	Ciudad de México	M	42	2020-03-17	Confirmado			
+1620	Ciudad de México	M	72	2020-03-09	Confirmado			
+1621	Ciudad de México	M	39	2020-03-11	Confirmado			
+1622	Quintana Roo	M	54	2020-03-30	Confirmado			
+1623	Veracruz	F	75	2020-03-18	Confirmado			
+1624	Puebla	M	52	2020-03-29	Confirmado			
+1625	Veracruz	M	25	2020-03-14	Confirmado			
+1626	Ciudad de México	F	29	2020-03-26	Confirmado			
+1627	Ciudad de México	F	56	2020-03-28	Confirmado			
+1628	Ciudad de México	M	33	2020-04-01	Confirmado			
+1629	Guanajuato	F	52	2020-04-03	Confirmado			
+1630	México	F	47	2020-03-25	Confirmado			
+1631	Ciudad de México	M	31	2020-03-20	Confirmado			
+1632	Ciudad de México	M	30	2020-03-18	Confirmado			
+1633	Tamaulipas	M	56	2020-03-14	Confirmado			
+1634	Nuevo León	M	30	2020-04-06	Confirmado			
+1635	Quintana Roo	F	27	2020-04-02	Confirmado			
+1636	Jalisco	M	20	2020-03-18	Confirmado			
+1637	Guanajuato	M	35	2020-03-16	Confirmado			
+1638	Ciudad de México	M	40	2020-03-19	Confirmado			
+1639	Ciudad de México	M	33	2020-03-21	Confirmado			
+1640	Baja California	M	25	2020-03-31	Confirmado			
+1641	Baja California	M	72	2020-03-09	Confirmado			
+1642	Ciudad de México	M	71	2020-03-13	Confirmado			
+1643	Jalisco	F	63	2020-03-09	Confirmado			
+1644	San Luis Potosí	M	22	2020-03-24	Confirmado			
+1645	Nuevo León	M	21	2020-03-15	Confirmado			
+1646	Ciudad de México	M	60	2020-03-26	Confirmado			
+1647	Ciudad de México	M	28	2020-03-14	Confirmado			
+1648	Tlaxcala	M	29	2020-03-24	Confirmado			
+1649	Ciudad de México	F	43	2020-03-23	Confirmado			
+1650	Ciudad de México	M	42	2020-03-23	Confirmado			
+1651	Jalisco	M	37	2020-03-15	Confirmado			
+1652	México	F	44	2020-03-28	Confirmado			
+1653	México	F	50	2020-04-01	Confirmado			
+1654	Ciudad de México	F	42	2020-03-11	Confirmado			
+1655	Ciudad de México	F	72	2020-03-26	Confirmado			
+1656	Ciudad de México	F	64	2020-03-09	Confirmado			
+1657	México	F	46	2020-03-21	Confirmado			
+1658	Chiapas	M	33	2020-04-01	Confirmado			
+1659	Puebla	M	44	2020-03-18	Confirmado			
+1660	Nayarit	F	26	2020-04-01	Confirmado			
+1661	Quintana Roo	M	36	2020-03-15	Confirmado			
+1662	Ciudad de México	F	48	2020-03-18	Confirmado			
+1663	Jalisco	M	56	2020-03-20	Confirmado			
+1664	Tabasco	M	52	2020-03-10	Confirmado			
+1665	Sinaloa	M	39	2020-04-02	Confirmado			
+1666	Campeche	F	60	2020-02-23	Confirmado			
+1667	Ciudad de México	M	41	2020-03-19	Confirmado			
+1668	Baja California	F	51	2020-03-27	Confirmado			
+1669	Sinaloa	M	48	2020-03-29	Confirmado			
+1670	Aguascalientes	M	48	2020-03-18	Confirmado			
+1671	México	M	43	2020-03-30	Confirmado			
+1672	Aguascalientes	F	62	2020-03-25	Confirmado			
+1673	Ciudad de México	M	26	2020-03-30	Confirmado			
+1674	Sonora	F	29	2020-03-24	Confirmado			
+1675	Ciudad de México	F	41	2020-03-12	Confirmado			
+1676	Ciudad de México	F	21	2020-03-08	Confirmado			
+1677	México	F	46	2020-03-26	Confirmado			
+1678	Ciudad de México	F	38	2020-03-29	Confirmado			
+1679	Chiapas	F	39	2020-03-20	Confirmado			
+1680	Veracruz	M	53	2020-03-20	Confirmado			
+1681	Yucatán	F	43	2020-03-23	Confirmado			
+1682	Durango	F	28	2020-03-23	Confirmado			
+1683	Durango	M	28	2020-03-23	Confirmado			
+1684	Quintana Roo	F	77	2020-03-29	Confirmado			
+1685	Quintana Roo	M	62	2020-04-02	Confirmado			
+1686	Tabasco	F	61	2020-03-24	Confirmado			
+1687	México	M	34	2020-04-01	Confirmado			
+1688	Nuevo León	M	53	2020-03-17	Confirmado			
+1689	Yucatán	F	38	2020-02-19	Confirmado			
+1690	Quintana Roo	F	49	2020-03-30	Confirmado			
+1691	Ciudad de México	F	47	2020-03-21	Confirmado			
+1692	Ciudad de México	F	23	2020-03-26	Confirmado			
+1693	Baja California	M	42	2020-03-31	Confirmado			
+1694	Ciudad de México	F	65	2020-03-28	Confirmado			
+1695	Ciudad de México	M	37	2020-03-24	Confirmado			
+1696	Quintana Roo	F	31	2020-03-27	Confirmado			
+1697	Baja California	F	26	2020-03-22	Confirmado			
+1698	Tamaulipas	M	30	2020-03-20	Confirmado			
+1699	Ciudad de México	M	40	2020-03-25	Confirmado			
+1700	Oaxaca	M	36	2020-03-28	Confirmado			
+1701	Tabasco	F	54	2020-03-21	Confirmado			
+1702	Chihuahua	M	50	2020-03-31	Confirmado			
+1703	Oaxaca	F	35	2020-03-20	Confirmado			
+1704	Coahuila	M	39	2020-03-23	Confirmado			
+1705	Chihuahua	F	53	2020-03-26	Confirmado			
+1706	Ciudad de México	M	50	2020-03-14	Confirmado			
+1707	Tabasco	F	7	2020-03-27	Confirmado			
+1708	Puebla	M	64	2020-04-01	Confirmado			
+1709	Jalisco	M	73	2020-03-12	Confirmado			
+1710	Ciudad de México	F	58	2020-04-03	Confirmado			
+1711	Puebla	M	52	2020-03-20	Confirmado			
+1712	Ciudad de México	F	33	2020-04-04	Confirmado			
+1713	Sinaloa	F	82	2020-03-22	Confirmado			
+1714	México	F	42	2020-04-05	Confirmado			
+1715	Coahuila	M	22	2020-04-02	Confirmado			
+1716	Durango	F	55	2020-03-29	Confirmado			
+1717	Quintana Roo	M	48	2020-03-23	Confirmado			
+1718	Sinaloa	F	69	2020-03-24	Confirmado			
+1719	Sinaloa	F	67	2020-03-24	Confirmado			
+1720	Yucatán	M	31	2020-03-30	Confirmado			
+1721	Ciudad de México	F	43	2020-04-02	Confirmado			
+1722	Tabasco	F	42	2020-03-23	Confirmado			
+1723	Ciudad de México	M	34	2020-04-03	Confirmado			
+1724	México	M	48	2020-04-02	Confirmado			
+1725	Hidalgo	F	26	2020-03-18	Confirmado			
+1726	Ciudad de México	M	57	2020-03-23	Confirmado			
+1727	Campeche	M	41	2020-03-20	Confirmado			
+1728	Nuevo León	F	49	2020-03-11	Confirmado			
+1729	Ciudad de México	M	29	2020-03-27	Confirmado			
+1730	Ciudad de México	F	51	2020-03-22	Confirmado			
+1731	México	F	37	2020-03-23	Confirmado			
+1732	Ciudad de México	M	67	2020-03-30	Confirmado			
+1733	Ciudad de México	M	36	2020-03-31	Confirmado			
+1734	Puebla	M	51	2020-03-22	Confirmado			
+1735	Ciudad de México	F	54	2020-03-29	Confirmado			
+1736	Ciudad de México	M	67	2020-03-21	Confirmado			
+1737	Veracruz	M	49	2020-03-30	Confirmado			
+1738	Yucatán	F	49	2020-03-30	Confirmado			
+1739	Quintana Roo	M	43	2020-03-30	Confirmado			
+1740	México	M	68	2020-03-13	Confirmado			
+1741	Ciudad de México	F	55	2020-03-26	Confirmado			
+1742	Ciudad de México	F	57	2020-03-21	Confirmado			
+1743	Ciudad de México	M	47	2020-03-29	Confirmado			
+1744	Hidalgo	M	40	2020-03-07	Confirmado			
+1745	México	F	32	2020-03-27	Confirmado			
+1746	Baja California	M	59	2020-03-30	Confirmado			
+1747	Ciudad de México	F	68	2020-03-10	Confirmado			
+1748	Ciudad de México	M	40	2020-03-14	Confirmado			
+1749	Baja California	F	47	2020-03-28	Confirmado			
+1750	México	M	26	2020-03-28	Confirmado			
+1751	Ciudad de México	F	30	2020-04-02	Confirmado			
+1752	Sinaloa	M	34	2020-03-28	Confirmado			
+1753	Puebla	M	41	2020-03-20	Confirmado			
+1754	México	M	50	2020-04-01	Confirmado			
+1755	Ciudad de México	M	46	2020-03-13	Confirmado			
+1756	México	M	43	2020-03-15	Confirmado			
+1757	Ciudad de México	F	59	2020-03-29	Confirmado			
+1758	México	M	22	2020-03-18	Confirmado			
+1759	Ciudad de México	F	52	2020-03-25	Confirmado			
+1760	Yucatán	M	67	2020-03-29	Confirmado			
+1761	Quintana Roo	M	33	2020-03-26	Confirmado			
+1762	Chihuahua	M	51	2020-03-18	Confirmado			
+1763	Oaxaca	M	43	2020-03-29	Confirmado			
+1764	Puebla	F	76	2020-03-17	Confirmado			
+1765	Baja California	M	35	2020-03-26	Confirmado			
+1766	Sonora	M	25	2020-03-17	Confirmado			
+1767	México	F	28	2020-03-27	Confirmado			
+1768	Ciudad de México	F	59	2020-03-27	Confirmado			
+1769	Nuevo León	F	53	2020-03-31	Confirmado			
+1770	Coahuila	M	51	2020-03-31	Confirmado			
+1771	Ciudad de México	F	50	2020-03-19	Confirmado			
+1772	Ciudad de México	M	47	2020-03-17	Confirmado			
+1773	Sinaloa	F	67	2020-03-21	Confirmado			
+1774	Puebla	F	32	2020-03-17	Confirmado			
+1775	Sinaloa	M	44	2020-03-22	Confirmado			
+1776	Nuevo León	M	47	2020-03-11	Confirmado			
+1777	Sinaloa	M	62	2020-03-27	Confirmado			
+1778	Ciudad de México	M	74	2020-03-23	Confirmado			
+1779	Ciudad de México	F	33	2020-03-10	Confirmado			
+1780	Ciudad de México	F	60	2020-03-13	Confirmado			
+1781	Jalisco	M	42	2020-03-12	Confirmado			
+1782	Coahuila	M	51	2020-03-29	Confirmado			
+1783	San Luis Potosí	F	24	2020-03-07	Confirmado			
+1784	Ciudad de México	M	76	2020-03-30	Confirmado			
+1785	Sinaloa	M	44	2020-04-02	Confirmado			
+1786	Ciudad de México	M	27	2020-03-02	Confirmado			
+1787	Ciudad de México	M	48	2020-03-14	Confirmado			
+1788	Nuevo León	M	68	2020-03-22	Confirmado			
+1789	Ciudad de México	F	29	2020-03-27	Confirmado			
+1790	Sonora	M	50	2020-03-26	Confirmado			
+1791	Jalisco	F	26	2020-03-31	Confirmado			
+1792	Tamaulipas	F	47	2020-04-03	Confirmado			
+1793	Coahuila	F	32	2020-03-30	Confirmado			
+1794	Ciudad de México	M	65	2020-03-30	Confirmado			
+1795	Ciudad de México	F	57	2020-03-28	Confirmado			
+1796	Sinaloa	M	45	2020-03-29	Confirmado			
+1797	Nuevo León	M	32	2020-03-15	Confirmado			
+1798	Ciudad de México	M	28	2020-03-15	Confirmado			
+1799	Quintana Roo	M	44	2020-03-26	Confirmado			
+1800	Baja California	M	48	2020-03-24	Confirmado			
+1801	Michoacán	F	75	2020-03-23	Confirmado			
+1802	Morelos	M	64	2020-04-02	Confirmado			
+1803	México	F	43	2020-03-26	Confirmado			
+1804	Nuevo León	F	30	2020-03-13	Confirmado			
+1805	Ciudad de México	F	10	2020-03-18	Confirmado			
+1806	San Luis Potosí	M	38	2020-03-19	Confirmado			
+1807	Jalisco	M	32	2020-03-25	Confirmado			
+1808	Baja California Sur	M	44	2020-04-01	Confirmado			
+1809	Puebla	F	68	2020-03-22	Confirmado			
+1810	México	F	44	2020-03-05	Confirmado			
+1811	Puebla	M	40	2020-03-30	Confirmado			
+1812	Aguascalientes	F	39	2020-03-26	Confirmado			
+1813	Puebla	F	53	2020-03-29	Confirmado			
+1814	Ciudad de México	M	38	2020-03-23	Confirmado			
+1815	Quintana Roo	M	43	2020-03-21	Confirmado			
+1816	Tabasco	F	66	2020-03-26	Confirmado			
+1817	Sinaloa	F	34	2020-04-05	Confirmado			
+1818	Ciudad de México	F	52	2020-03-25	Confirmado			
+1819	Jalisco	M	58	2020-03-28	Confirmado			
+1820	Ciudad de México	M	52	2020-03-29	Confirmado			
+1821	Coahuila	M	42	2020-03-19	Confirmado			
+1822	Jalisco	M	39	2020-03-21	Confirmado			
+1823	Baja California	M	25	2020-03-27	Confirmado			
+1824	Ciudad de México	M	31	2020-03-19	Confirmado			
+1825	Jalisco	M	49	2020-03-21	Confirmado			
+1826	Guerrero	F	39	2020-03-13	Confirmado			
+1827	Tabasco	M	57	2020-03-24	Confirmado			
+1828	México	F	25	2020-03-27	Confirmado			
+1829	Ciudad de México	F	43	2020-03-15	Confirmado			
+1830	Jalisco	M	39	2020-03-29	Confirmado			
+1831	Ciudad de México	M	46	2020-03-26	Confirmado			
+1832	Tamaulipas	F	34	2020-03-16	Confirmado			
+1833	Tabasco	F	28	2020-03-27	Confirmado			
+1834	Tabasco	M	28	2020-03-25	Confirmado			
+1835	Michoacán	F	67	2020-03-22	Confirmado			
+1836	Chiapas	M	43	2020-03-29	Confirmado			
+1837	Coahuila	M	55	2020-03-27	Confirmado			
+1838	Michoacán	M	53	2020-04-02	Confirmado			
+1839	Coahuila	M	68	2020-03-26	Confirmado			
+1840	Ciudad de México	F	55	2020-03-15	Confirmado			
+1841	Puebla	M	49	2020-03-16	Confirmado			
+1842	Chiapas	M	56	2020-03-27	Confirmado			
+1843	Coahuila	F	45	2020-03-22	Confirmado			
+1844	Ciudad de México	M	34	2020-03-14	Confirmado			
+1845	Morelos	M	52	2020-03-22	Confirmado			
+1846	Morelos	F	46	2020-03-22	Confirmado			
+1847	Baja California	F	32	2020-03-23	Confirmado			
+1848	Ciudad de México	F	42	2020-04-03	Confirmado			
+1849	Jalisco	M	38	2020-04-02	Confirmado			
+1850	Ciudad de México	M	64	2020-03-27	Confirmado			
+1851	Ciudad de México	M	36	2020-03-11	Confirmado			
+1852	Baja California Sur	F	48	2020-03-29	Confirmado			
+1853	Baja California Sur	M	38	2020-03-27	Confirmado			
+1854	México	F	38	2020-03-30	Confirmado			
+1855	Yucatán	F	43	2020-03-18	Confirmado			
+1856	Puebla	M	43	2020-03-28	Confirmado			
+1857	Tabasco	M	44	2020-03-28	Confirmado			
+1858	Baja California	F	35	2020-03-20	Confirmado			
+1859	Guanajuato	F	36	2020-03-14	Confirmado			
+1860	México	M	56	2020-03-07	Confirmado			
+1861	Ciudad de México	M	76	2020-03-18	Confirmado			
+1862	Ciudad de México	M	29	2020-03-16	Confirmado			
+1863	Baja California	M	35	2020-03-26	Confirmado			
+1864	Ciudad de México	M	38	2020-03-30	Confirmado			
+1865	Yucatán	M	36	2020-03-19	Confirmado			
+1866	Ciudad de México	M	29	2020-03-14	Confirmado			
+1867	Ciudad de México	M	31	2020-03-31	Confirmado			
+1868	Durango	M	73	2020-03-25	Confirmado			
+1869	Tabasco	F	48	2020-03-25	Confirmado			
+1870	Ciudad de México	M	35	2020-03-20	Confirmado			
+1871	Tabasco	M	49	2020-03-27	Confirmado			
+1872	Baja California	M	31	2020-03-16	Confirmado			
+1873	Hidalgo	M	43	2020-03-31	Confirmado			
+1874	Ciudad de México	F	36	2020-04-04	Confirmado			
+1875	Queretaro	M	35	2020-03-18	Confirmado			
+1876	Baja California	F	50	2020-03-15	Confirmado			
+1877	Zacatecas	M	58	2020-03-17	Confirmado			
+1878	México	F	48	2020-03-26	Confirmado			
+1879	Baja California	M	38	2020-03-24	Confirmado			
+1880	San Luis Potosí	M	33	2020-03-14	Confirmado			
+1881	Jalisco	F	20	2020-03-17	Confirmado			
+1882	México	M	70	2020-03-28	Confirmado			
+1883	Ciudad de México	M	75	2020-03-22	Confirmado			
+1884	Oaxaca	M	49	2020-04-03	Confirmado			
+1885	Queretaro	F	56	2020-03-10	Confirmado			
+1886	Queretaro	F	55	2020-03-10	Confirmado			
+1887	San Luis Potosí	M	46	2020-03-12	Confirmado			
+1888	Quintana Roo	M	45	2020-03-31	Confirmado			
+1889	Guerrero	M	43	2020-03-26	Confirmado			
+1890	Tamaulipas	F	43	2020-03-30	Confirmado			
+1891	Puebla	M	52	2020-03-13	Confirmado			
+1892	Baja California	F	27	2020-03-13	Confirmado			
+1893	Veracruz	M	43	2020-03-23	Confirmado			
+1894	Ciudad de México	F	42	2020-03-26	Confirmado			
+1895	Veracruz	F	7	2020-03-23	Confirmado			
+1896	Jalisco	M	50	2020-03-06	Confirmado			
+1897	Ciudad de México	M	38	2020-03-27	Confirmado			
+1898	Ciudad de México	F	23	2020-03-27	Confirmado			
+1899	Tabasco	F	19	2020-03-30	Confirmado			
+1900	Hidalgo	M	3	2020-03-27	Confirmado			
+1901	Tamaulipas	M	35	2020-04-05	Confirmado			
+1902	Ciudad de México	M	50	2020-03-22	Confirmado			
+1903	Ciudad de México	M	64	2020-03-24	Confirmado			
+1904	Nuevo León	M	30	2020-03-23	Confirmado			
+1905	Tabasco	M	48	2020-03-22	Confirmado			
+1906	Nuevo León	F	25	2020-03-17	Confirmado			
+1907	Nuevo León	M	62	2020-03-15	Confirmado			
+1908	Queretaro	M	52	2020-03-16	Confirmado			
+1909	México	F	83	2020-03-24	Confirmado			
+1910	Ciudad de México	F	83	2020-03-23	Confirmado			
+1911	Queretaro	M	69	2020-03-21	Confirmado			
+1912	México	F	25	2020-03-26	Confirmado			
+1913	México	F	29	2020-03-26	Confirmado			
+1914	San Luis Potosí	F	34	2020-03-22	Confirmado			
+1915	Veracruz	M	39	2020-03-17	Confirmado			
+1916	Tabasco	M	60	2020-03-25	Confirmado			
+1917	Ciudad de México	M	26	2020-04-01	Confirmado			
+1918	Ciudad de México	F	65	2020-03-18	Confirmado			
+1919	Puebla	F	76	2020-03-23	Confirmado			
+1920	Ciudad de México	F	50	2020-04-05	Confirmado			
+1921	Sinaloa	F	67	2020-03-23	Confirmado			
+1922	Campeche	M	68	2020-03-28	Confirmado			
+1923	Ciudad de México	M	38	2020-04-02	Confirmado			
+1924	Durango	F	57	2020-04-02	Confirmado			
+1925	Zacatecas	F	26	2020-04-03	Confirmado			
+1926	México	M	43	2020-03-16	Confirmado			
+1927	Ciudad de México	M	35	2020-03-11	Confirmado			
+1928	Ciudad de México	F	44	2020-03-29	Confirmado			
+1929	Jalisco	M	58	2020-03-17	Confirmado			
+1930	Coahuila	M	43	2020-03-18	Confirmado			
+1931	Tamaulipas	M	68	2020-03-28	Confirmado			
+1932	Baja California	F	45	2020-03-30	Confirmado			
+1933	Baja California	M	51	2020-03-27	Confirmado			
+1934	Baja California	M	49	2020-03-22	Confirmado			
+1935	Ciudad de México	M	46	2020-03-29	Confirmado			
+1936	Ciudad de México	F	63	2020-03-23	Confirmado			
+1937	Aguascalientes	F	25	2020-03-22	Confirmado			
+1938	Ciudad de México	M	84	2020-03-25	Confirmado			
+1939	México	M	51	2020-03-29	Confirmado			
+1940	Ciudad de México	F	59	2020-03-30	Confirmado			
+1941	México	M	51	2020-03-05	Confirmado			
+1942	Baja California	M	41	2020-03-26	Confirmado			
+1943	Chiapas	M	50	2020-04-01	Confirmado			
+1944	Puebla	M	40	2020-03-17	Confirmado			
+1945	Puebla	M	46	2020-03-26	Confirmado			
+1946	México	F	42	2020-03-19	Confirmado			
+1947	Chihuahua	M	54	2020-03-28	Confirmado			
+1948	Nuevo León	M	57	2020-03-23	Confirmado			
+1949	Tamaulipas	M	71	2020-03-24	Confirmado			
+1950	México	M	54	2020-03-27	Confirmado			
+1951	Ciudad de México	F	19	2020-03-13	Confirmado			
+1952	Ciudad de México	M	43	2020-03-13	Confirmado			
+1953	Ciudad de México	M	24	2020-03-30	Confirmado			
+1954	Puebla	F	24	2020-03-29	Confirmado			
+1955	Ciudad de México	M	46	2020-03-24	Confirmado			
+1956	Puebla	M	64	2020-03-21	Confirmado			
+1957	Ciudad de México	F	61	2020-03-30	Confirmado			
+1958	Baja California	M	51	2020-03-14	Confirmado			
+1959	Ciudad de México	M	72	2020-03-22	Confirmado			
+1960	Tamaulipas	F	26	2020-04-02	Confirmado			
+1961	Queretaro	M	46	2020-03-23	Confirmado			
+1962	Coahuila	F	40	2020-03-28	Confirmado			
+1963	Ciudad de México	F	59	2020-03-27	Confirmado			
+1964	México	F	72	2020-04-02	Confirmado			
+1965	Hidalgo	M	39	2020-03-23	Confirmado			
+1966	Chiapas	M	66	2020-04-06	Confirmado			
+1967	México	F	71	2020-03-26	Confirmado			
+1968	México	M	25	2020-04-03	Confirmado			
+1969	Ciudad de México	M	39	2020-04-02	Confirmado			
+1970	Ciudad de México	M	50	2020-03-15	Confirmado			
+1971	San Luis Potosí	F	28	2020-03-17	Confirmado			
+1972	Ciudad de México	M	67	2020-03-15	Confirmado			
+1973	San Luis Potosí	F	21	2020-03-09	Confirmado			
+1974	Coahuila	M	47	2020-03-21	Confirmado			
+1975	Baja California	F	48	2020-04-01	Confirmado			
+1976	Coahuila	F	77	2020-03-24	Confirmado			
+1977	Coahuila	F	47	2020-03-24	Confirmado			
+1978	Veracruz	M	47	2020-03-15	Confirmado			
+1979	Coahuila	F	50	2020-03-30	Confirmado			
+1980	Nuevo León	M	78	2020-03-13	Confirmado			
+1981	Aguascalientes	F	38	2020-03-25	Confirmado			
+1982	Aguascalientes	F	47	2020-03-12	Confirmado			
+1983	Aguascalientes	M	43	2020-03-22	Confirmado			
+1984	Yucatán	M	46	2020-03-13	Confirmado			
+1985	Aguascalientes	M	75	2020-03-26	Confirmado			
+1986	Nuevo León	M	38	2020-03-17	Confirmado			
+1987	Yucatán	F	59	2020-03-17	Confirmado			
+1988	Baja California	M	52	2020-03-18	Confirmado			
+1989	Guanajuato	M	56	2020-04-01	Confirmado			
+1990	Ciudad de México	F	36	2020-03-27	Confirmado			
+1991	Ciudad de México	F	36	2020-03-28	Confirmado			
+1992	Hidalgo	F	41	2020-03-19	Confirmado			
+1993	Puebla	M	67	2020-03-30	Confirmado			
+1994	Ciudad de México	F	39	2020-03-14	Confirmado			
+1995	Ciudad de México	F	45	2020-03-23	Confirmado			
+1996	Baja California Sur	F	45	2020-03-22	Confirmado			
+1997	Puebla	M	56	2020-03-16	Confirmado			
+1998	Tabasco	F	39	2020-03-25	Confirmado			
+1999	Michoacán	M	57	2020-03-18	Confirmado			
+2000	Quintana Roo	M	33	2020-03-27	Confirmado			
+2001	Ciudad de México	M	60	2020-03-31	Confirmado			
+2002	Coahuila	M	61	2020-03-28	Confirmado			
+2003	Oaxaca	F	36	2020-03-27	Confirmado			
+2004	Guanajuato	M	47	2020-03-22	Confirmado			
+2005	México	F	34	2020-03-25	Confirmado			
+2006	Puebla	M	49	2020-03-23	Confirmado			
+2007	Jalisco	M	31	2020-03-21	Confirmado			
+2008	Puebla	M	26	2020-03-31	Confirmado			
+2009	Ciudad de México	M	44	2020-03-20	Confirmado			
+2010	Ciudad de México	M	41	2020-03-17	Confirmado			
+2011	Ciudad de México	M	48	2020-03-27	Confirmado			
+2012	México	M	30	2020-03-31	Confirmado			
+2013	Ciudad de México	F	36	2020-03-31	Confirmado			
+2014	Guerrero	M	37	2020-03-21	Confirmado			
+2015	Puebla	M	31	2020-03-09	Confirmado			
+2016	México	M	43	2020-03-28	Confirmado			
+2017	Ciudad de México	M	68	2020-03-20	Confirmado			
+2018	Quintana Roo	M	65	2020-03-29	Confirmado			
+2019	Baja California	F	60	2020-03-20	Confirmado			
+2020	Coahuila	F	44	2020-04-02	Confirmado			
+2021	Ciudad de México	M	41	2020-03-29	Confirmado			
+2022	Coahuila	M	34	2020-03-29	Confirmado			
+2023	México	F	62	2020-03-22	Confirmado			
+2024	Ciudad de México	F	34	2020-03-27	Confirmado			
+2025	México	F	25	2020-03-30	Confirmado			
+2026	Quintana Roo	F	0	2020-03-30	Confirmado			
+2027	Ciudad de México	M	23	2020-03-31	Confirmado			
+2028	Ciudad de México	M	42	2020-03-16	Confirmado			
+2029	Ciudad de México	M	57	2020-03-11	Confirmado			
+2030	Sinaloa	M	73	2020-03-30	Confirmado			
+2031	Sinaloa	F	76	2020-03-23	Confirmado			
+2032	Sinaloa	F	47	2020-04-01	Confirmado			
+2033	Ciudad de México	F	46	2020-04-01	Confirmado			
+2034	Baja California	F	29	2020-03-29	Confirmado			
+2035	Nayarit	F	45	2020-03-31	Confirmado			
+2036	Ciudad de México	F	49	2020-03-30	Confirmado			
+2037	Ciudad de México	M	55	2020-03-27	Confirmado			
+2038	Chihuahua	M	31	2020-03-23	Confirmado			
+2039	Sonora	F	44	2020-03-23	Confirmado			
+2040	Guerrero	F	75	2020-03-08	Confirmado			
+2041	Baja California	M	25	2020-03-29	Confirmado			
+2042	Baja California Sur	F	39	2020-03-28	Confirmado			
+2043	Sonora	M	72	2020-03-25	Confirmado			
+2044	Puebla	M	72	2020-03-29	Confirmado			
+2045	Ciudad de México	M	72	2020-03-21	Confirmado			
+2046	Jalisco	M	16	2020-03-22	Confirmado			
+2047	Baja California Sur	M	49	2020-03-16	Confirmado			
+2048	México	M	40	2020-03-27	Confirmado			
+2049	Sinaloa	F	31	2020-03-27	Confirmado			
+2050	Ciudad de México	M	38	2020-03-10	Confirmado			
+2051	Yucatán	M	46	2020-03-13	Confirmado			
+2052	San Luis Potosí	F	60	2020-03-30	Confirmado			
+2053	México	M	54	2020-03-28	Confirmado			
+2054	México	F	66	2020-03-16	Confirmado			
+2055	Ciudad de México	M	53	2020-03-29	Confirmado			
+2056	Baja California	M	31	2020-03-24	Confirmado			
+2057	México	M	53	2020-03-30	Confirmado			
+2058	Ciudad de México	F	83	2020-03-30	Confirmado			
+2059	Nuevo León	M	56	2020-03-27	Confirmado			
+2060	México	F	72	2020-03-23	Confirmado			
+2061	Ciudad de México	M	26	2020-03-31	Confirmado			
+2062	Puebla	M	90	2020-03-29	Confirmado			
+2063	México	M	34	2020-03-30	Confirmado			
+2064	Ciudad de México	F	30	2020-03-25	Confirmado			
+2065	Veracruz	M	32	2020-03-16	Confirmado			
+2066	Baja California	F	59	2020-03-19	Confirmado			
+2067	Ciudad de México	F	34	2020-03-24	Confirmado			
+2068	Coahuila	M	51	2020-03-22	Confirmado			
+2069	Ciudad de México	M	23	2020-03-28	Confirmado			
+2070	Ciudad de México	F	26	2020-04-06	Confirmado			
+2071	Morelos	F	33	2020-03-28	Confirmado			
+2072	Oaxaca	F	17	2020-03-23	Confirmado			
+2073	Baja California	M	31	2020-03-27	Confirmado			
+2074	Coahuila	F	10	2020-03-28	Confirmado			
+2075	Ciudad de México	M	46	2020-03-26	Confirmado			
+2076	Ciudad de México	F	44	2020-03-31	Confirmado			
+2077	Coahuila	M	11	2020-03-24	Confirmado			
+2078	Coahuila	F	64	2020-03-30	Confirmado			
+2079	Ciudad de México	M	29	2020-03-31	Confirmado			
+2080	Ciudad de México	F	68	2020-04-01	Confirmado			
+2081	Ciudad de México	M	66	2020-03-29	Confirmado			
+2082	Quintana Roo	M	30	2020-03-23	Confirmado			
+2083	Ciudad de México	F	32	2020-03-11	Confirmado			
+2084	Baja California	M	34	2020-03-27	Confirmado			
+2085	Veracruz	F	69	2020-04-04	Confirmado			
+2086	Queretaro	F	29	2020-03-10	Confirmado			
+2087	Michoacán	M	50	2020-03-15	Confirmado			
+2088	Chiapas	M	23	2020-03-24	Confirmado			
+2089	Ciudad de México	M	43	2020-03-20	Confirmado			
+2090	Ciudad de México	M	46	2020-03-28	Confirmado			
+2091	Ciudad de México	M	43	2020-03-29	Confirmado			
+2092	Ciudad de México	M	70	2020-03-24	Confirmado			
+2093	Quintana Roo	F	44	2020-03-21	Confirmado			
+2094	Coahuila	M	40	2020-03-26	Confirmado			
+2095	Jalisco	F	61	2020-03-29	Confirmado			
+2096	Nuevo León	F	34	2020-04-05	Confirmado			
+2097	Baja California Sur	M	33	2020-03-31	Confirmado			
+2098	Tabasco	M	56	2020-03-28	Confirmado			
+2099	Guanajuato	F	33	2020-03-16	Confirmado			
+2100	Tabasco	F	22	2020-04-03	Confirmado			
+2101	Baja California Sur	M	43	2020-03-30	Confirmado			
+2102	Baja California	F	52	2020-03-26	Confirmado			
+2103	Baja California	F	58	2020-03-22	Confirmado			
+2104	Baja California	F	57	2020-03-23	Confirmado			
+2105	Guanajuato	M	21	2020-03-26	Confirmado			
+2106	Puebla	M	25	2020-03-20	Confirmado			
+2107	Ciudad de México	F	31	2020-03-18	Confirmado			
+2108	Ciudad de México	F	30	2020-03-17	Confirmado			
+2109	Puebla	F	42	2020-03-29	Confirmado			
+2110	Quintana Roo	M	17	2020-03-13	Confirmado			
+2111	Quintana Roo	F	13	2020-03-15	Confirmado			
+2112	Ciudad de México	F	28	2020-03-26	Confirmado			
+2113	Quintana Roo	M	46	2020-03-15	Confirmado			
+2114	Ciudad de México	F	83	2020-03-23	Confirmado			
+2115	Ciudad de México	F	89	2020-03-20	Confirmado			
+2116	Puebla	F	42	2020-03-25	Confirmado			
+2117	Ciudad de México	M	36	2020-03-11	Confirmado			
+2118	Ciudad de México	F	57	2020-04-01	Confirmado			
+2119	Chiapas	M	59	2020-03-30	Confirmado			
+2120	Queretaro	M	33	2020-04-01	Confirmado			
+2121	México	F	30	2020-03-27	Confirmado			
+2122	Hidalgo	M	47	2020-03-26	Confirmado			
+2123	México	F	26	2020-03-23	Confirmado			
+2124	Tabasco	M	32	2020-03-28	Confirmado			
+2125	Veracruz	F	65	2020-03-26	Confirmado			
+2126	Ciudad de México	F	36	2020-03-25	Confirmado			
+2127	Ciudad de México	M	42	2020-02-17	Confirmado			
+2128	Quintana Roo	M	40	2020-03-23	Confirmado			
+2129	Queretaro	M	79	2020-04-02	Confirmado			
+2130	Baja California Sur	M	37	2020-03-30	Confirmado			
+2131	Hidalgo	F	26	2020-03-24	Confirmado			
+2132	Ciudad de México	M	30	2020-03-16	Confirmado			
+2133	Ciudad de México	F	30	2020-03-16	Confirmado			
+2134	Ciudad de México	F	44	2020-03-31	Confirmado			
+2135	Puebla	F	40	2020-03-31	Confirmado			
+2136	Tabasco	F	62	2020-03-25	Confirmado			
+2137	Puebla	F	36	2020-03-21	Confirmado			
+2138	Tamaulipas	F	62	2020-03-26	Confirmado			
+2139	México	F	65	2020-03-16	Confirmado			
+2140	Chiapas	M	48	2020-03-14	Confirmado			
+2141	Durango	F	39	2020-03-09	Confirmado			
+2142	Puebla	F	28	2020-03-09	Confirmado			
+2143	Tamaulipas	M	52	2020-03-30	Confirmado			
+2144	Quintana Roo	M	53	2020-03-25	Confirmado			
+2145	Chiapas	M	42	2020-03-21	Confirmado			
+2146	Ciudad de México	F	58	2020-03-20	Confirmado			
+2147	Chiapas	F	45	2020-03-22	Confirmado			
+2148	Ciudad de México	M	44	2020-03-14	Confirmado			
+2149	Jalisco	F	25	2020-03-14	Confirmado			
+2150	Guanajuato	F	54	2020-03-16	Confirmado			
+2151	México	F	61	2020-03-30	Confirmado			
+2152	Ciudad de México	F	60	2020-03-28	Confirmado			
+2153	Coahuila	F	44	2020-03-27	Confirmado			
+2154	Ciudad de México	M	76	2020-03-15	Confirmado			
+2155	Ciudad de México	M	38	2020-03-15	Confirmado			
+2156	Ciudad de México	M	35	2020-03-27	Confirmado			
+2157	Puebla	F	29	2020-03-15	Confirmado			
+2158	Sinaloa	F	41	2020-03-25	Confirmado			
+2159	Nuevo León	M	34	2020-03-31	Confirmado			
+2160	Baja California	M	43	2020-03-26	Confirmado			
+2161	Queretaro	M	47	2020-03-26	Confirmado			
+2162	Coahuila	F	48	2020-03-28	Confirmado			
+2163	Baja California	F	48	2020-03-30	Confirmado			
+2164	Ciudad de México	F	41	2020-03-21	Confirmado			
+2165	Guanajuato	M	30	2020-03-16	Confirmado			
+2166	San Luis Potosí	F	25	2020-03-21	Confirmado			
+2167	Tabasco	M	50	2020-03-25	Confirmado			
+2168	San Luis Potosí	F	38	2020-03-28	Confirmado			
+2169	México	M	47	2020-03-30	Confirmado			
+2170	Ciudad de México	F	48	2020-03-13	Confirmado			
+2171	Coahuila	F	47	2020-03-27	Confirmado			
+2172	San Luis Potosí	F	38	2020-03-25	Confirmado			
+2173	Baja California	M	43	2020-04-01	Confirmado			
+2174	Guanajuato	M	24	2020-03-22	Confirmado			
+2175	Tabasco	F	21	2020-03-18	Confirmado			
+2176	Michoacán	F	66	2020-03-29	Confirmado			
+2177	Quintana Roo	M	39	2020-03-28	Confirmado			
+2178	Aguascalientes	M	25	2020-03-20	Confirmado			
+2179	Jalisco	F	77	2020-03-27	Confirmado			
+2180	Ciudad de México	M	49	2020-03-13	Confirmado			
+2181	Ciudad de México	F	50	2020-03-01	Confirmado			
+2182	Ciudad de México	F	80	2020-03-25	Confirmado			
+2183	San Luis Potosí	F	48	2020-03-26	Confirmado			
+2184	Guanajuato	M	65	2020-04-01	Confirmado			
+2185	Chiapas	M	65	2020-03-23	Confirmado			
+2186	Chiapas	M	37	2020-03-23	Confirmado			
+2187	Ciudad de México	F	33	2020-03-17	Confirmado			
+2188	México	F	55	2020-03-23	Confirmado			
+2189	Morelos	M	57	2020-04-03	Confirmado			
+2190	Chiapas	F	84	2020-04-04	Confirmado			
+2191	México	M	40	2020-03-31	Confirmado			
+2192	Guerrero	M	71	2020-03-20	Confirmado			
+2193	Morelos	M	71	2020-03-30	Confirmado			
+2194	Guanajuato	F	48	2020-03-16	Confirmado			
+2195	Puebla	F	46	2020-03-30	Confirmado			
+2196	Jalisco	M	50	2020-03-21	Confirmado			
+2197	Jalisco	F	52	2020-03-18	Confirmado			
+2198	Puebla	M	34	2020-03-13	Confirmado			
+2199	Queretaro	F	44	2020-03-11	Confirmado			
+2200	Ciudad de México	M	33	2020-03-19	Confirmado			
+2201	Tlaxcala	M	0	2020-04-02	Confirmado			
+2202	Tlaxcala	F	37	2020-04-03	Confirmado			
+2203	México	F	31	2020-03-27	Confirmado			
+2204	México	F	34	2020-03-21	Confirmado			
+2205	Sonora	M	70	2020-04-03	Confirmado			
+2206	México	F	29	2020-03-26	Confirmado			
+2207	México	F	42	2020-03-29	Confirmado			
+2208	Ciudad de México	M	57	2020-03-29	Confirmado			
+2209	México	F	52	2020-04-03	Confirmado			
+2210	México	F	57	2020-04-03	Confirmado			
+2211	Baja California Sur	M	49	2020-03-22	Confirmado			
+2212	Jalisco	M	28	2020-03-13	Confirmado			
+2213	Ciudad de México	M	26	2020-03-31	Confirmado			
+2214	México	F	62	2020-03-31	Confirmado			
+2215	Queretaro	M	29	2020-03-18	Confirmado			
+2216	Baja California	M	45	2020-03-22	Confirmado			
+2217	Tabasco	F	26	2020-03-26	Confirmado			
+2218	Ciudad de México	M	31	2020-03-16	Confirmado			
+2219	Aguascalientes	F	42	2020-03-17	Confirmado			
+2220	Baja California Sur	M	40	2020-03-27	Confirmado			
+2221	Ciudad de México	F	83	2020-03-31	Confirmado			
+2222	Chihuahua	M	11	2020-04-02	Confirmado			
+2223	Coahuila	F	62	2020-03-21	Confirmado			
+2224	Ciudad de México	M	65	2020-03-20	Confirmado			
+2225	Baja California	F	59	2020-03-30	Confirmado			
+2226	Ciudad de México	M	42	2020-03-27	Confirmado			
+2227	Queretaro	M	21	2020-03-22	Confirmado			
+2228	Sonora	F	31	2020-03-16	Confirmado			
+2229	Baja California Sur	F	55	2020-04-04	Confirmado			
+2230	Veracruz	M	23	2020-03-20	Confirmado			
+2231	Sinaloa	M	34	2020-03-30	Confirmado			
+2232	México	M	25	2020-03-23	Confirmado			
+2233	Puebla	F	47	2020-04-02	Confirmado			
+2234	Baja California Sur	M	30	2020-03-31	Confirmado			
+2235	Jalisco	M	59	2020-03-20	Confirmado			
+2236	Ciudad de México	F	21	2020-03-14	Confirmado			
+2237	Guanajuato	F	26	2020-03-26	Confirmado			
+2238	Ciudad de México	F	30	2020-03-17	Confirmado			
+2239	Baja California Sur	F	36	2020-03-16	Confirmado			
+2240	Baja California Sur	M	41	2020-03-21	Confirmado			
+2241	Tabasco	F	40	2020-03-19	Confirmado			
+2242	Ciudad de México	F	43	2020-03-22	Confirmado			
+2243	Guerrero	F	52	2020-04-04	Confirmado			
+2244	México	M	41	2020-03-09	Confirmado			
+2245	Ciudad de México	M	50	2020-03-31	Confirmado			
+2246	Ciudad de México	M	19	2020-03-30	Confirmado			
+2247	Ciudad de México	M	55	2020-03-19	Confirmado			
+2248	Quintana Roo	M	75	2020-03-15	Confirmado			
+2249	Sinaloa	M	50	2020-03-26	Confirmado			
+2250	Quintana Roo	M	38	2020-03-27	Confirmado			
+2251	Guerrero	M	63	2020-03-20	Confirmado			
+2252	México	M	33	2020-03-31	Confirmado			
+2253	Baja California	F	42	2020-04-01	Confirmado			
+2254	Baja California Sur	M	37	2020-03-31	Confirmado			
+2255	Baja California	M	48	2020-03-31	Confirmado			
+2256	Ciudad de México	F	40	2020-03-18	Confirmado			
+2257	Aguascalientes	M	27	2020-03-16	Confirmado			
+2258	Ciudad de México	F	39	2020-03-23	Confirmado			
+2259	México	F	28	2020-03-27	Confirmado			
+2260	Hidalgo	M	54	2020-03-31	Confirmado			
+2261	Hidalgo	M	57	2020-03-27	Confirmado			
+2262	Hidalgo	F	59	2020-03-27	Confirmado			
+2263	Hidalgo	F	51	2020-03-30	Confirmado			
+2264	México	F	47	2020-03-30	Confirmado			
+2265	México	M	49	2020-03-28	Confirmado			
+2266	Quintana Roo	F	29	2020-03-21	Confirmado			
+2267	Sinaloa	F	26	2020-03-15	Confirmado			
+2268	México	M	47	2020-03-30	Confirmado			
+2269	México	F	32	2020-03-27	Confirmado			
+2270	Tabasco	M	37	2020-03-20	Confirmado			
+2271	Quintana Roo	M	27	2020-03-31	Confirmado			
+2272	México	M	42	2020-03-30	Confirmado			
+2273	Puebla	M	54	2020-03-23	Confirmado			
+2274	Guanajuato	M	68	2020-03-04	Confirmado			
+2275	Jalisco	M	78	2020-03-13	Confirmado			
+2276	Guanajuato	M	71	2020-04-06	Confirmado			
+2277	Baja California Sur	F	23	2020-03-28	Confirmado			
+2278	Jalisco	F	30	2020-03-21	Confirmado			
+2279	Guanajuato	M	30	2020-04-03	Confirmado			
+2280	Quintana Roo	M	21	2020-03-13	Confirmado			
+2281	Ciudad de México	M	49	2020-03-20	Confirmado			
+2282	San Luis Potosí	M	58	2020-04-03	Confirmado			
+2283	México	M	56	2020-03-23	Confirmado			
+2284	Ciudad de México	M	32	2020-04-04	Confirmado			
+2285	México	F	44	2020-03-27	Confirmado			
+2286	Baja California Sur	F	25	2020-03-28	Confirmado			
+2287	Morelos	M	47	2020-03-23	Confirmado			
+2288	Ciudad de México	F	56	2020-03-16	Confirmado			
+2289	Ciudad de México	M	32	2020-03-20	Confirmado			
+2290	Ciudad de México	M	89	2020-03-20	Confirmado			
+2291	Oaxaca	F	53	2020-03-27	Confirmado			
+2292	Puebla	F	64	2020-03-27	Confirmado			
+2293	Puebla	M	55	2020-03-26	Confirmado			
+2294	Puebla	M	50	2020-03-27	Confirmado			
+2295	Puebla	M	53	2020-03-27	Confirmado			
+2296	Veracruz	F	59	2020-03-27	Confirmado			
+2297	Campeche	M	42	2020-03-30	Confirmado			
+2298	Puebla	F	31	2020-03-29	Confirmado			
+2299	Puebla	M	25	2020-03-28	Confirmado			
+2300	Chihuahua	M	64	2020-04-03	Confirmado			
+2301	Aguascalientes	F	41	2020-03-18	Confirmado			
+2302	Hidalgo	F	42	2020-03-25	Confirmado			
+2303	Aguascalientes	F	5	2020-03-25	Confirmado			
+2304	Ciudad de México	M	33	2020-03-18	Confirmado			
+2305	Quintana Roo	M	36	2020-03-28	Confirmado			
+2306	Michoacán	M	36	2020-03-27	Confirmado			
+2307	Michoacán	M	25	2020-04-05	Confirmado			
+2308	Ciudad de México	F	80	2020-03-18	Confirmado			
+2309	Nuevo León	M	25	2020-04-03	Confirmado			
+2310	Veracruz	M	36	2020-03-21	Confirmado			
+2311	Ciudad de México	M	33	2020-03-16	Confirmado			
+2312	Baja California Sur	M	55	2020-03-25	Confirmado			
+2313	Sinaloa	F	34	2020-03-21	Confirmado			
+2314	Ciudad de México	M	59	2020-03-12	Confirmado			
+2315	México	M	46	2020-03-11	Confirmado			
+2316	Ciudad de México	M	70	2020-03-25	Confirmado			
+2317	Ciudad de México	M	56	2020-03-20	Confirmado			
+2318	Queretaro	F	48	2020-03-17	Confirmado			
+2319	México	F	71	2020-03-30	Confirmado			
+2320	Baja California Sur	F	40	2020-03-23	Confirmado			
+2321	Sinaloa	M	28	2020-03-23	Confirmado			
+2322	San Luis Potosí	M	52	2020-03-31	Confirmado			
+2323	México	F	24	2020-03-29	Confirmado			
+2324	México	F	60	2020-03-25	Confirmado			
+2325	Aguascalientes	M	41	2020-03-23	Confirmado			
+2326	Aguascalientes	M	19	2020-03-19	Confirmado			
+2327	Sonora	F	58	2020-04-01	Confirmado			
+2328	Coahuila	F	34	2020-03-29	Confirmado			
+2329	Quintana Roo	F	30	2020-03-27	Confirmado			
+2330	Veracruz	M	36	2020-03-27	Confirmado			
+2331	México	F	23	2020-03-16	Confirmado			
+2332	México	F	68	2020-03-28	Confirmado			
+2333	México	M	25	2020-03-26	Confirmado			
+2334	Sinaloa	M	43	2020-04-02	Confirmado			
+2335	Yucatán	M	44	2020-03-28	Confirmado			
+2336	Coahuila	M	44	2020-03-27	Confirmado			
+2337	Ciudad de México	M	27	2020-03-22	Confirmado			
+2338	Ciudad de México	F	55	2020-03-23	Confirmado			
+2339	Yucatán	F	31	2020-03-19	Confirmado			
+2340	Ciudad de México	M	94	2020-03-26	Confirmado			
+2341	Sinaloa	M	55	2020-03-27	Confirmado			
+2342	Campeche	M	47	2020-03-23	Confirmado			
+2343	Guanajuato	M	20	2020-03-20	Confirmado			
+2344	Sinaloa	F	41	2020-03-24	Confirmado			
+2345	Sinaloa	F	23	2020-03-24	Confirmado			
+2346	México	M	0	2020-04-01	Confirmado			
+2347	Ciudad de México	F	51	2020-04-03	Confirmado			
+2348	México	M	32	2020-03-13	Confirmado			
+2349	Jalisco	M	49	2020-03-12	Confirmado			
+2350	Ciudad de México	F	29	2020-03-28	Confirmado			
+2351	Baja California	F	31	2020-03-28	Confirmado			
+2352	México	F	63	2020-03-28	Confirmado			
+2353	Ciudad de México	F	43	2020-03-16	Confirmado			
+2354	Baja California	F	50	2020-03-26	Confirmado			
+2355	Hidalgo	M	61	2020-03-16	Confirmado			
+2356	Tabasco	M	62	2020-03-28	Confirmado			
+2357	Yucatán	F	20	2020-03-10	Confirmado			
+2358	Yucatán	F	18	2020-03-10	Confirmado			
+2359	Jalisco	M	20	2020-03-17	Confirmado			
+2360	Jalisco	M	58	2020-03-17	Confirmado			
+2361	Baja California	M	44	2020-03-31	Confirmado			
+2362	Nuevo León	M	62	2020-03-25	Confirmado			
+2363	Quintana Roo	F	19	2020-03-11	Confirmado			
+2364	Puebla	M	42	2020-04-02	Confirmado			
+2365	Nayarit	M	53	2020-03-24	Confirmado			
+2366	Guerrero	M	58	2020-03-25	Confirmado			
+2367	Nuevo León	F	22	2020-04-02	Confirmado			
+2368	Sinaloa	M	65	2020-03-31	Confirmado			
+2369	Jalisco	M	30	2020-03-08	Confirmado			
+2370	Puebla	F	69	2020-03-22	Confirmado			
+2371	Morelos	M	12	2020-04-06	Confirmado			
+2372	Ciudad de México	F	54	2020-03-27	Confirmado			
+2373	Ciudad de México	F	32	2020-03-03	Confirmado			
+2374	Ciudad de México	M	38	2020-03-18	Confirmado			
+2375	Oaxaca	M	45	2020-03-26	Confirmado			
+2376	Quintana Roo	M	46	2020-03-20	Confirmado			
+2377	Quintana Roo	M	46	2020-03-20	Confirmado			
+2378	Ciudad de México	F	49	2020-03-30	Confirmado			
+2379	México	F	27	2020-04-02	Confirmado			
+2380	Baja California	M	39	2020-03-28	Confirmado			
+2381	Ciudad de México	M	70	2020-04-01	Confirmado			
+2382	Ciudad de México	F	66	2020-03-21	Confirmado			
+2383	Michoacán	F	63	2020-03-20	Confirmado			
+2384	Ciudad de México	M	56	2020-04-03	Confirmado			
+2385	Aguascalientes	M	45	2020-03-17	Confirmado			
+2386	Jalisco	F	35	2020-03-16	Confirmado			
+2387	Tlaxcala	M	59	2020-03-24	Confirmado			
+2388	Ciudad de México	M	42	2020-03-07	Confirmado			
+2389	Baja California	M	29	2020-03-18	Confirmado			
+2390	Morelos	F	55	2020-03-17	Confirmado			
+2391	Sinaloa	F	69	2020-03-27	Confirmado			
+2392	Puebla	M	48	2020-03-21	Confirmado			
+2393	México	M	44	2020-04-01	Confirmado			
+2394	Tabasco	M	34	2020-03-27	Confirmado			
+2395	México	F	46	2020-03-23	Confirmado			
+2396	Coahuila	F	49	2020-03-25	Confirmado			
+2397	Nuevo León	M	58	2020-03-04	Confirmado			
+2398	Morelos	F	58	2020-03-20	Confirmado			
+2399	Ciudad de México	M	29	2020-03-28	Confirmado			
+2400	México	F	24	2020-03-31	Confirmado			
+2401	Ciudad de México	F	66	2020-03-16	Confirmado			
+2402	Ciudad de México	F	41	2020-03-31	Confirmado			
+2403	Yucatán	F	41	2020-03-14	Confirmado			
+2404	Sinaloa	M	41	2020-03-19	Confirmado			
+2405	Sinaloa	M	23	2020-03-19	Confirmado			
+2406	Ciudad de México	M	5	2020-04-06	Confirmado			
+2407	Ciudad de México	M	1	2020-04-05	Confirmado			
+2408	Puebla	F	25	2020-03-29	Confirmado			
+2409	Baja California	M	30	2020-03-23	Confirmado			
+2410	Baja California	M	46	2020-03-24	Confirmado			
+2411	Yucatán	F	68	2020-03-31	Confirmado			
+2412	Sinaloa	M	65	2020-03-27	Confirmado			
+2413	Baja California	F	32	2020-03-28	Confirmado			
+2414	Ciudad de México	F	16	2020-04-01	Confirmado			
+2415	Ciudad de México	F	0	2020-04-03	Confirmado			
+2416	Morelos	F	62	2020-03-23	Confirmado			
+2417	México	F	73	2020-03-26	Confirmado			
+2418	Aguascalientes	M	15	2020-03-27	Confirmado			
+2419	Aguascalientes	M	9	2020-03-27	Confirmado			
+2420	Ciudad de México	M	49	2020-03-21	Confirmado			
+2421	Baja California	F	46	2020-03-29	Confirmado			
+2422	México	F	33	2020-03-21	Confirmado			
+2423	Ciudad de México	M	37	2020-03-26	Confirmado			
+2424	Ciudad de México	M	33	2020-03-15	Confirmado			
+2425	Chiapas	M	44	2020-03-28	Confirmado			
+2426	Baja California	M	26	2020-03-23	Confirmado			
+2427	Ciudad de México	M	57	2020-03-26	Confirmado			
+2428	Tabasco	M	36	2020-03-30	Confirmado			
+2429	Ciudad de México	M	35	2020-03-26	Confirmado			
+2430	Ciudad de México	F	31	2020-03-30	Confirmado			
+2431	Baja California	F	45	2020-03-28	Confirmado			
+2432	Veracruz	M	52	2020-03-18	Confirmado			
+2433	Ciudad de México	M	42	2020-03-26	Confirmado			
+2434	México	M	45	2020-02-19	Confirmado			
+2435	Ciudad de México	M	56	2020-03-31	Confirmado			
+2436	Tabasco	M	47	2020-03-16	Confirmado			
+2437	Puebla	F	32	2020-03-10	Confirmado			
+2438	México	M	34	2020-03-27	Confirmado			
+2439	Oaxaca	F	35	2020-03-12	Confirmado			
+2440	México	F	33	2020-03-31	Confirmado			
+2441	México	F	27	2020-03-18	Confirmado			
+2442	Quintana Roo	M	68	2020-03-21	Confirmado			
+2443	Ciudad de México	M	27	2020-03-27	Confirmado			
+2444	Michoacán	M	45	2020-03-25	Confirmado			
+2445	Ciudad de México	F	43	2020-03-31	Confirmado			
+2446	Sonora	M	73	2020-03-11	Confirmado			
+2447	Ciudad de México	M	46	2020-03-25	Confirmado			
+2448	Baja California Sur	F	24	2020-03-31	Confirmado			
+2449	Baja California	M	33	2020-03-30	Confirmado			
+2450	Nuevo León	M	58	2020-03-15	Confirmado			
+2451	Coahuila	M	43	2020-03-20	Confirmado			
+2452	México	M	26	2020-03-27	Confirmado			
+2453	Ciudad de México	F	46	2020-03-26	Confirmado			
+2454	Quintana Roo	M	82	2020-03-21	Confirmado			
+2455	Tabasco	M	47	2020-03-23	Confirmado			
+2456	Oaxaca	M	62	2020-03-10	Confirmado			
+2457	México	M	35	2020-03-29	Confirmado			
+2458	México	F	58	2020-03-30	Confirmado			
+2459	Tamaulipas	M	65	2020-03-25	Confirmado			
+2460	Tabasco	M	39	2020-03-26	Confirmado			
+2461	Ciudad de México	M	33	2020-03-21	Confirmado			
+2462	Tamaulipas	M	29	2020-03-30	Confirmado			
+2463	Quintana Roo	F	20	2020-03-13	Confirmado			
+2464	Ciudad de México	M	56	2020-04-01	Confirmado			
+2465	Baja California	M	51	2020-03-19	Confirmado			
+2466	México	F	38	2020-03-31	Confirmado			
+2467	Baja California	M	36	2020-03-31	Confirmado			
+2468	México	F	63	2020-03-13	Confirmado			
+2469	Hidalgo	M	72	2020-03-16	Confirmado			
+2470	Ciudad de México	F	52	2020-03-31	Confirmado			
+2471	Baja California	M	28	2020-03-16	Confirmado			
+2472	Puebla	M	77	2020-03-27	Confirmado			
+2473	Puebla	M	28	2020-03-23	Confirmado			
+2474	Yucatán	F	36	2020-03-29	Confirmado			
+2475	Nuevo León	M	36	2020-03-29	Confirmado			
+2476	Quintana Roo	M	39	2020-03-29	Confirmado			
+2477	México	F	84	2020-04-03	Confirmado			
+2478	Tlaxcala	M	53	2020-04-01	Confirmado			
+2479	Ciudad de México	F	46	2020-03-29	Confirmado			
+2480	Ciudad de México	F	51	2020-03-25	Confirmado			
+2481	Ciudad de México	M	66	2020-03-28	Confirmado			
+2482	Aguascalientes	F	66	2020-03-23	Confirmado			
+2483	Ciudad de México	M	47	2020-04-03	Confirmado			
+2484	Baja California	F	30	2020-03-31	Confirmado			
+2485	Tabasco	F	61	2020-03-21	Confirmado			
+2486	México	M	72	2020-02-21	Confirmado			
+2487	Ciudad de México	F	28	2020-03-25	Confirmado			
+2488	Chiapas	M	68	2020-03-28	Confirmado			
+2489	Nuevo León	F	47	2020-03-28	Confirmado			
+2490	Yucatán	M	35	2020-03-16	Confirmado			
+2491	Ciudad de México	M	20	2020-03-14	Confirmado			
+2492	Guerrero	M	60	2020-03-31	Confirmado			
+2493	Baja California Sur	M	41	2020-03-26	Confirmado			
+2494	Quintana Roo	F	72	2020-03-01	Confirmado			
+2495	Hidalgo	M	35	2020-03-29	Confirmado			
+2496	Sonora	M	31	2020-03-18	Confirmado			
+2497	Ciudad de México	M	69	2020-03-28	Confirmado			
+2498	Jalisco	F	20	2020-03-16	Confirmado			
+2499	Sinaloa	M	61	2020-03-21	Confirmado			
+2500	Quintana Roo	F	27	2020-03-29	Confirmado			
+2501	México	M	58	2020-04-01	Confirmado			
+2502	Baja California	M	32	2020-03-27	Confirmado			
+2503	Baja California	F	60	2020-03-23	Confirmado			
+2504	Tamaulipas	M	1	2020-04-05	Confirmado			
+2505	Baja California	M	18	2020-03-27	Confirmado			
+2506	Guanajuato	M	25	2020-03-15	Confirmado			
+2507	Ciudad de México	M	32	2020-03-14	Confirmado			
+2508	Tabasco	M	59	2020-03-29	Confirmado			
+2509	Ciudad de México	F	11	2020-03-13	Confirmado			
+2510	Quintana Roo	M	35	2020-04-03	Confirmado			
+2511	Ciudad de México	F	35	2020-03-19	Confirmado			
+2512	Yucatán	M	36	2020-04-01	Confirmado			
+2513	Sonora	F	22	2020-03-23	Confirmado			
+2514	Sinaloa	M	63	2020-03-29	Confirmado			
+2515	Ciudad de México	F	65	2020-03-19	Confirmado			
+2516	México	F	44	2020-03-23	Confirmado			
+2517	Sinaloa	M	41	2020-02-22	Confirmado			
+2518	Jalisco	F	41	2020-04-03	Confirmado			
+2519	Baja California	F	29	2020-03-25	Confirmado			
+2520	Baja California	M	28	2020-03-30	Confirmado			
+2521	Baja California	F	69	2020-03-17	Confirmado			
+2522	Yucatán	M	34	2020-03-30	Confirmado			
+2523	Jalisco	M	54	2020-03-13	Confirmado			
+2524	Coahuila	F	20	2020-02-27	Confirmado			
+2525	Baja California	M	38	2020-03-28	Confirmado			
+2526	Sinaloa	M	43	2020-03-22	Confirmado			
+2527	Baja California	M	27	2020-03-15	Confirmado			
+2528	México	F	95	2020-03-24	Confirmado			
+2529	Tabasco	F	72	2020-03-17	Confirmado			
+2530	Baja California	M	38	2020-03-21	Confirmado			
+2531	Chiapas	M	29	2020-03-31	Confirmado			
+2532	Nuevo León	M	58	2020-03-13	Confirmado			
+2533	Nuevo León	F	22	2020-03-20	Confirmado			
+2534	Ciudad de México	F	35	2020-03-30	Confirmado			
+2535	Guerrero	M	60	2020-03-19	Confirmado			
+2536	Jalisco	F	45	2020-03-25	Confirmado			
+2537	Nuevo León	M	35	2020-03-17	Confirmado			
+2538	Tlaxcala	F	42	2020-04-04	Confirmado			
+2539	Baja California	M	34	2020-03-23	Confirmado			
+2540	Sinaloa	F	66	2020-03-30	Confirmado			
+2541	Tabasco	F	53	2020-03-28	Confirmado			
+2542	Quintana Roo	M	29	2020-03-25	Confirmado			
+2543	Ciudad de México	F	38	2020-04-01	Confirmado			
+2544	Coahuila	F	42	2020-03-26	Confirmado			
+2545	Ciudad de México	M	44	2020-03-24	Confirmado			
+2546	Ciudad de México	M	49	2020-03-29	Confirmado			
+2547	Puebla	M	29	2020-03-22	Confirmado			
+2548	Jalisco	M	31	2020-03-18	Confirmado			
+2549	México	M	32	2020-03-03	Confirmado			
+2550	Coahuila	F	39	2020-03-26	Confirmado			
+2551	Puebla	M	38	2020-03-16	Confirmado			
+2552	Coahuila	M	29	2020-03-28	Confirmado			
+2553	Coahuila	F	49	2020-03-29	Confirmado			
+2554	Ciudad de México	M	60	2020-03-26	Confirmado			
+2555	México	M	41	2020-03-17	Confirmado			
+2556	Coahuila	M	31	2020-03-26	Confirmado			
+2557	Ciudad de México	M	51	2020-04-03	Confirmado			
+2558	Jalisco	M	22	2020-03-12	Confirmado			
+2559	Jalisco	F	20	2020-03-20	Confirmado			
+2560	Ciudad de México	F	22	2020-03-30	Confirmado			
+2561	Ciudad de México	M	50	2020-03-26	Confirmado			
+2562	Oaxaca	F	63	2020-03-20	Confirmado			
+2563	México	F	56	2020-04-04	Confirmado			
+2564	Jalisco	M	80	2020-03-14	Confirmado			
+2565	Ciudad de México	F	54	2020-03-10	Confirmado			
+2566	Zacatecas	M	39	2020-03-16	Confirmado			
+2567	México	M	47	2020-03-22	Confirmado			
+2568	Hidalgo	M	71	2020-03-20	Confirmado			
+2569	Jalisco	M	30	2020-03-27	Confirmado			
+2570	Ciudad de México	M	60	2020-03-22	Confirmado			
+2571	Baja California	F	67	2020-03-20	Confirmado			
+2572	Hidalgo	M	42	2020-03-18	Confirmado			
+2573	Baja California	F	33	2020-03-25	Confirmado			
+2574	Ciudad de México	M	37	2020-03-19	Confirmado			
+2575	Ciudad de México	F	34	2020-03-25	Confirmado			
+2576	México	M	59	2020-03-27	Confirmado			
+2577	Ciudad de México	F	40	2020-03-31	Confirmado			
+2578	Chihuahua	M	56	2020-03-31	Confirmado			
+2579	México	M	71	2020-03-25	Confirmado			
+2580	Quintana Roo	M	39	2020-03-28	Confirmado			
+2581	Yucatán	F	27	2020-03-21	Confirmado			
+2582	Sonora	F	47	2020-03-22	Confirmado			
+2583	Puebla	F	30	2020-03-23	Confirmado			
+2584	Ciudad de México	M	53	2020-03-21	Confirmado			
+2585	Coahuila	M	51	2020-03-25	Confirmado			
+2586	Campeche	M	50	2020-03-27	Confirmado			
+2587	México	F	29	2020-03-28	Confirmado			
+2588	Ciudad de México	M	25	2020-03-31	Confirmado			
+2589	Puebla	M	57	2020-04-01	Confirmado			
+2590	México	M	67	2020-03-20	Confirmado			
+2591	Jalisco	M	64	2020-03-27	Confirmado			
+2592	Tamaulipas	F	44	2020-04-04	Confirmado			
+2593	México	M	31	2020-03-26	Confirmado			
+2594	Ciudad de México	M	20	2020-03-30	Confirmado			
+2595	Sonora	M	69	2020-03-23	Confirmado			
+2596	Puebla	M	32	2020-03-13	Confirmado			
+2597	Puebla	M	69	2020-03-23	Confirmado			
+2598	Jalisco	M	71	2020-03-30	Confirmado			
+2599	Coahuila	M	27	2020-03-25	Confirmado			
+2600	Tamaulipas	M	57	2020-03-26	Confirmado			
+2601	Jalisco	F	38	2020-03-20	Confirmado			
+2602	Baja California	F	26	2020-03-20	Confirmado			
+2603	Coahuila	M	44	2020-03-31	Confirmado			
+2604	Baja California Sur	M	36	2020-03-28	Confirmado			
+2605	Ciudad de México	M	84	2020-03-30	Confirmado			
+2606	Tabasco	F	32	2020-03-16	Confirmado			
+2607	San Luis Potosí	M	44	2020-03-22	Confirmado			
+2608	Sinaloa	F	50	2020-03-31	Confirmado			
+2609	Ciudad de México	M	44	2020-03-08	Confirmado			
+2610	Sinaloa	M	82	2020-04-01	Confirmado			
+2611	Jalisco	M	24	2020-03-17	Confirmado			
+2612	Baja California	M	60	2020-03-27	Confirmado			
+2613	México	M	70	2020-03-25	Confirmado			
+2614	Queretaro	F	56	2020-03-25	Confirmado			
+2615	México	M	42	2020-03-28	Confirmado			
+2616	Ciudad de México	M	57	2020-03-21	Confirmado			
+2617	Ciudad de México	M	35	2020-03-10	Confirmado			
+2618	Tabasco	M	48	2020-03-21	Confirmado			
+2619	Ciudad de México	M	62	2020-03-22	Confirmado			
+2620	Baja California	F	54	2020-03-27	Confirmado			
+2621	Sonora	F	54	2020-03-26	Confirmado			
+2622	Baja California	F	57	2020-03-27	Confirmado			
+2623	Sinaloa	M	68	2020-03-29	Confirmado			
+2624	Quintana Roo	M	43	2020-03-14	Confirmado			
+2625	Ciudad de México	M	43	2020-03-14	Confirmado			
+2626	Ciudad de México	M	65	2020-03-31	Confirmado			
+2627	Zacatecas	M	30	2020-03-21	Confirmado			
+2628	Quintana Roo	M	53	2020-03-22	Confirmado			
+2629	México	M	42	2020-03-24	Confirmado			
+2630	Coahuila	M	46	2020-03-21	Confirmado			
+2631	Ciudad de México	M	47	2020-03-26	Confirmado			
+2632	Ciudad de México	F	65	2020-03-23	Confirmado			
+2633	Ciudad de México	M	73	2020-03-26	Confirmado			
+2634	Ciudad de México	M	41	2020-03-25	Confirmado			
+2635	Nuevo León	M	20	2020-03-07	Confirmado			
+2636	México	M	78	2020-03-22	Confirmado			
+2637	Ciudad de México	M	52	2020-04-02	Confirmado			
+2638	Ciudad de México	M	17	2020-04-02	Confirmado			
+2639	Ciudad de México	F	60	2020-03-09	Confirmado			
+2640	Ciudad de México	M	60	2020-03-15	Confirmado			
+2641	Tabasco	F	59	2020-04-01	Confirmado			
+2642	Baja California Sur	M	40	2020-03-25	Confirmado			
+2643	Ciudad de México	F	82	2020-03-28	Confirmado			
+2644	México	M	41	2020-03-30	Confirmado			
+2645	Ciudad de México	M	66	2020-03-19	Confirmado			
+2646	Yucatán	M	52	2020-03-14	Confirmado			
+2647	Sinaloa	F	37	2020-03-26	Confirmado			
+2648	Yucatán	F	58	2020-03-07	Confirmado			
+2649	México	F	50	2020-04-03	Confirmado			
+2650	México	M	69	2020-03-27	Confirmado			
+2651	Ciudad de México	F	37	2020-04-01	Confirmado			
+2652	Ciudad de México	M	44	2020-03-24	Confirmado			
+2653	Guanajuato	F	28	2020-03-14	Confirmado			
+2654	Ciudad de México	M	48	2020-03-14	Confirmado			
+2655	México	M	42	2020-03-23	Confirmado			
+2656	Ciudad de México	M	30	2020-03-27	Confirmado			
+2657	Tlaxcala	F	20	2020-03-16	Confirmado			
+2658	Baja California	F	56	2020-03-30	Confirmado			
+2659	Guanajuato	M	22	2020-03-21	Confirmado			
+2660	Coahuila	M	39	2020-03-21	Confirmado			
+2661	Jalisco	M	71	2020-03-30	Confirmado			
+2662	Ciudad de México	F	69	2020-03-20	Confirmado			
+2663	Quintana Roo	F	33	2020-03-20	Confirmado			
+2664	Tabasco	F	48	2020-03-26	Confirmado			
+2665	Tabasco	M	53	2020-04-04	Confirmado			
+2666	Yucatán	M	71	2020-03-21	Confirmado			
+2667	Yucatán	F	65	2020-03-23	Confirmado			
+2668	Coahuila	M	49	2020-03-28	Confirmado			
+2669	Puebla	F	31	2020-03-29	Confirmado			
+2670	Baja California Sur	F	51	2020-03-27	Confirmado			
+2671	Chihuahua	F	43	2020-03-29	Confirmado			
+2672	México	F	45	2020-03-26	Confirmado			
+2673	México	M	50	2020-04-01	Confirmado			
+2674	Ciudad de México	F	26	2020-03-16	Confirmado			
+2675	Coahuila	M	64	2020-03-17	Confirmado			
+2676	Puebla	M	49	2020-03-28	Confirmado			
+2677	Sinaloa	F	45	2020-03-26	Confirmado			
+2678	Guerrero	F	41	2020-03-28	Confirmado			
+2679	México	M	41	2020-03-30	Confirmado			
+2680	Puebla	M	33	2020-03-11	Confirmado			
+2681	Queretaro	F	68	2020-03-20	Confirmado			
+2682	Tamaulipas	M	52	2020-03-30	Confirmado			
+2683	Puebla	M	65	2020-03-08	Confirmado			
+2684	Colima	M	49	2020-03-28	Confirmado			
+2685	Ciudad de México	M	47	2020-04-01	Confirmado			
+2686	México	M	49	2020-03-25	Confirmado			
+2687	Ciudad de México	F	51	2020-03-23	Confirmado			
+2688	Ciudad de México	F	43	2020-03-21	Confirmado			
+2689	Morelos	F	64	2020-04-02	Confirmado			
+2690	Ciudad de México	F	67	2020-04-01	Confirmado			
+2691	Guanajuato	M	55	2020-04-01	Confirmado			
+2692	Puebla	F	39	2020-03-18	Confirmado			
+2693	Baja California	F	59	2020-03-30	Confirmado			
+2694	México	F	24	2020-03-09	Confirmado			
+2695	México	M	62	2020-03-08	Confirmado			
+2696	Yucatán	F	67	2020-03-31	Confirmado			
+2697	México	M	52	2020-03-23	Confirmado			
+2698	Yucatán	M	73	2020-03-19	Confirmado			
+2699	Jalisco	M	30	2020-03-17	Confirmado			
+2700	Baja California Sur	F	37	2020-03-26	Confirmado			
+2701	Baja California	F	45	2020-03-24	Confirmado			
+2702	Chihuahua	M	28	2020-03-29	Confirmado			
+2703	Sonora	M	68	2020-03-26	Confirmado			
+2704	Coahuila	F	42	2020-03-18	Confirmado			
+2705	Baja California	F	26	2020-03-23	Confirmado			
+2706	Coahuila	M	76	2020-03-20	Confirmado			
+2707	Baja California	M	40	2020-03-28	Confirmado			
+2708	Sinaloa	F	36	2020-04-02	Confirmado			
+2709	Veracruz	M	28	2020-03-17	Confirmado			
+2710	Yucatán	M	40	2020-03-14	Confirmado			
+2711	Puebla	M	41	2020-03-31	Confirmado			
+2712	Baja California	M	39	2020-03-24	Confirmado			
+2713	Guanajuato	F	86	2020-04-01	Confirmado			
+2714	Quintana Roo	M	65	2020-03-18	Confirmado			
+2715	Ciudad de México	M	23	2020-03-16	Confirmado			
+2716	Zacatecas	M	54	2020-03-22	Confirmado			
+2717	Ciudad de México	M	61	2020-04-04	Confirmado			
+2718	México	M	56	2020-03-23	Confirmado			
+2719	Baja California	F	54	2020-03-26	Confirmado			
+2720	San Luis Potosí	M	39	2020-03-16	Confirmado			
+2721	Tabasco	F	26	2020-03-16	Confirmado			
+2722	Puebla	F	46	2020-03-21	Confirmado			
+2723	Michoacán	F	57	2020-03-15	Confirmado			
+2724	Ciudad de México	M	36	2020-03-12	Confirmado			
+2725	Ciudad de México	M	50	2020-03-22	Confirmado			
+2726	Ciudad de México	F	32	2020-03-19	Confirmado			
+2727	Coahuila	M	18	2020-03-29	Confirmado			
+2728	Nuevo León	F	23	2020-03-19	Confirmado			
+2729	San Luis Potosí	M	59	2020-03-21	Confirmado			
+2730	Sinaloa	M	28	2020-03-28	Confirmado			
+2731	Sinaloa	M	63	2020-03-26	Confirmado			
+2732	Ciudad de México	M	65	2020-03-27	Confirmado			
+2733	Queretaro	F	37	2020-03-25	Confirmado			
+2734	Morelos	F	68	2020-04-05	Confirmado			
+2735	Puebla	F	63	2020-03-30	Confirmado			
+2736	México	M	44	2020-03-24	Confirmado			
+2737	Ciudad de México	M	68	2020-04-01	Confirmado			
+2738	México	M	62	2020-03-20	Confirmado			
+2739	Coahuila	M	49	2020-03-29	Confirmado			
+2740	Tamaulipas	M	32	2020-03-27	Confirmado			
+2741	Ciudad de México	M	4	2020-03-12	Confirmado			
+2742	Sinaloa	M	77	2020-04-02	Confirmado			
+2743	Ciudad de México	M	30	2020-04-03	Confirmado			
+2744	Puebla	F	46	2020-04-03	Confirmado			
+2745	Baja California	F	75	2020-03-18	Confirmado			
+2746	Ciudad de México	M	36	2020-03-15	Confirmado			
+2747	Ciudad de México	M	72	2020-03-04	Confirmado			
+2748	Ciudad de México	M	43	2020-03-13	Confirmado			
+2749	Aguascalientes	M	71	2020-03-15	Confirmado			
+2750	Ciudad de México	F	69	2020-03-12	Confirmado			
+2751	México	M	41	2020-03-29	Confirmado			
+2752	Chihuahua	M	46	2020-04-01	Confirmado			
+2753	Aguascalientes	F	33	2020-03-23	Confirmado			
+2754	México	F	33	2020-03-15	Confirmado			
+2755	Nayarit	M	71	2020-03-28	Confirmado			
+2756	Baja California	M	71	2020-03-19	Confirmado			
+2757	Ciudad de México	M	55	2020-03-23	Confirmado			
+2758	Ciudad de México	F	79	2020-03-23	Confirmado			
+2759	Nuevo León	M	32	2020-04-01	Confirmado			
+2760	Ciudad de México	F	60	2020-03-20	Confirmado			
+2761	Ciudad de México	M	65	2020-03-17	Confirmado			
+2762	Ciudad de México	M	50	2020-03-19	Confirmado			
+2763	Michoacán	F	77	2020-03-28	Confirmado			
+2764	Veracruz	F	60	2020-03-20	Confirmado			
+2765	Yucatán	M	43	2020-03-27	Confirmado			
+2766	Ciudad de México	M	41	2020-03-27	Confirmado			
+2767	Nayarit	F	49	2020-03-17	Confirmado			
+2768	Sinaloa	M	29	2020-03-29	Confirmado			
+2769	Quintana Roo	M	26	2020-04-01	Confirmado			
+2770	Oaxaca	M	55	2020-03-23	Confirmado			
+2771	Aguascalientes	F	56	2020-03-28	Confirmado			
+2772	Quintana Roo	M	23	2020-04-01	Confirmado			
+2773	Veracruz	M	47	2020-04-03	Confirmado			
+2774	Sinaloa	F	81	2020-03-26	Confirmado			
+2775	Nuevo León	F	28	2020-04-01	Confirmado			
+2776	Puebla	F	50	2020-03-23	Confirmado			
+2777	Puebla	F	40	2020-03-21	Confirmado			
+2778	Ciudad de México	M	60	2020-03-13	Confirmado			
+2779	Ciudad de México	M	52	2020-03-13	Confirmado			
+2780	Ciudad de México	M	48	2020-03-12	Confirmado			
+2781	Ciudad de México	M	56	2020-03-24	Confirmado			
+2782	Puebla	M	25	2020-03-16	Confirmado			
+2783	Queretaro	M	72	2020-04-05	Confirmado			
+2784	Ciudad de México	F	48	2020-02-28	Confirmado			
+2785	Baja California	M	55	2020-03-24	Confirmado			
+2786	Ciudad de México	M	29	2020-04-01	Confirmado			
+2787	Ciudad de México	F	59	2020-03-25	Confirmado			
+2788	Oaxaca	F	22	2020-03-31	Confirmado			
+2789	Baja California	M	39	2020-03-26	Confirmado			
+2790	Ciudad de México	F	29	2020-03-16	Confirmado			
+2791	México	M	28	2020-03-23	Confirmado			
+2792	Baja California	F	41	2020-03-20	Confirmado			
+2793	Jalisco	F	27	2020-03-21	Confirmado			
+2794	Ciudad de México	F	38	2020-04-04	Confirmado			
+2795	Tabasco	F	70	2020-03-29	Confirmado			
+2796	Ciudad de México	F	32	2020-03-23	Confirmado			
+2797	Chihuahua	F	29	2020-03-31	Confirmado			
+2798	Veracruz	F	33	2020-03-16	Confirmado			
+2799	Chihuahua	M	35	2020-03-24	Confirmado			
+2800	Michoacán	M	33	2020-04-04	Confirmado			
+2801	Veracruz	M	54	2020-03-26	Confirmado			
+2802	Ciudad de México	M	65	2020-03-10	Confirmado			
+2803	Yucatán	M	37	2020-03-09	Confirmado			
+2804	Ciudad de México	F	19	2020-03-26	Confirmado			
+2805	Nuevo León	M	58	2020-03-25	Confirmado			
+2806	Ciudad de México	F	27	2020-04-03	Confirmado			
+2807	Coahuila	M	44	2020-03-16	Confirmado			
+2808	México	M	34	2020-03-23	Confirmado			
+2809	Baja California	M	57	2020-03-14	Confirmado			
+2810	Ciudad de México	M	37	2020-03-26	Confirmado			
+2811	Guanajuato	F	29	2020-03-20	Confirmado			
+2812	Ciudad de México	F	62	2020-03-28	Confirmado			
+2813	Aguascalientes	M	24	2020-03-25	Confirmado			
+2814	Aguascalientes	M	26	2020-03-14	Confirmado			
+2815	Baja California	F	55	2020-04-01	Confirmado			
+2816	Puebla	F	30	2020-03-25	Confirmado			
+2817	Ciudad de México	M	25	2020-03-18	Confirmado			
+2818	México	M	70	2020-03-22	Confirmado			
+2819	Chiapas	M	25	2020-03-28	Confirmado			
+2820	Coahuila	M	43	2020-03-24	Confirmado			
+2821	Jalisco	F	51	2020-03-01	Confirmado			
+2822	Jalisco	F	25	2020-03-17	Confirmado			
+2823	México	M	19	2020-03-31	Confirmado			
+2824	Guerrero	F	35	2020-04-01	Confirmado			
+2825	Ciudad de México	M	60	2020-03-22	Confirmado			
+2826	México	M	55	2020-03-27	Confirmado			
+2827	México	M	57	2020-03-16	Confirmado			
+2828	Baja California	M	52	2020-03-27	Confirmado			
+2829	Ciudad de México	M	42	2020-03-10	Confirmado			
+2830	Ciudad de México	F	68	2020-03-21	Confirmado			
+2831	Ciudad de México	M	69	2020-03-18	Confirmado			
+2832	Coahuila	M	54	2020-03-30	Confirmado			
+2833	Coahuila	F	54	2020-03-30	Confirmado			
+2834	Ciudad de México	M	31	2020-03-29	Confirmado			
+2835	Ciudad de México	M	50	2020-03-14	Confirmado			
+2836	México	M	40	2020-03-27	Confirmado			
+2837	México	M	70	2020-03-27	Confirmado			
+2838	San Luis Potosí	F	27	2020-03-25	Confirmado			
+2839	Nayarit	F	48	2020-03-27	Confirmado			
+2840	Ciudad de México	M	49	2020-03-15	Confirmado			
+2841	Jalisco	M	55	2020-03-12	Confirmado			
+2842	Jalisco	M	28	2020-03-16	Confirmado			
+2843	Quintana Roo	M	46	2020-03-26	Confirmado			
+2844	Ciudad de México	F	61	2020-03-20	Confirmado			
+2845	México	M	30	2020-03-22	Confirmado			
+2846	Tabasco	F	60	2020-03-28	Confirmado			
+2847	Jalisco	M	73	2020-03-27	Confirmado			
+2848	Ciudad de México	F	48	2020-03-29	Confirmado			
+2849	Baja California	F	41	2020-03-29	Confirmado			
+2850	Puebla	M	47	2020-03-25	Confirmado			
+2851	Coahuila	M	35	2020-03-28	Confirmado			
+2852	Sonora	F	51	2020-03-20	Confirmado			
+2853	Ciudad de México	M	31	2020-03-29	Confirmado			
+2854	Ciudad de México	M	81	2020-03-23	Confirmado			
+2855	Jalisco	M	41	2020-03-20	Confirmado			
+2856	Yucatán	M	26	2020-03-11	Confirmado			
+2857	Puebla	M	33	2020-03-27	Confirmado			
+2858	Sonora	M	88	2020-04-01	Confirmado			
+2859	Guanajuato	M	22	2020-04-02	Confirmado			
+2860	Guanajuato	F	60	2020-03-24	Confirmado			
+2861	México	M	59	2020-03-24	Confirmado			
+2862	Ciudad de México	M	71	2020-03-09	Confirmado			
+2863	Aguascalientes	F	59	2020-03-27	Confirmado			
+2864	Quintana Roo	M	40	2020-03-28	Confirmado			
+2865	Ciudad de México	F	54	2020-03-15	Confirmado			
+2866	Quintana Roo	M	45	2020-03-26	Confirmado			
+2867	Quintana Roo	M	46	2020-03-19	Confirmado			
+2868	Ciudad de México	F	30	2020-03-16	Confirmado			
+2869	Quintana Roo	F	23	2020-03-16	Confirmado			
+2870	Puebla	F	31	2020-03-16	Confirmado			
+2871	Guanajuato	M	40	2020-03-12	Confirmado			
+2872	Baja California	F	33	2020-03-18	Confirmado			
+2873	Ciudad de México	M	60	2020-03-26	Confirmado			
+2874	Quintana Roo	M	52	2020-03-12	Confirmado			
+2875	Ciudad de México	F	28	2020-03-26	Confirmado			
+2876	Jalisco	F	50	2020-03-17	Confirmado			
+2877	México	M	48	2020-03-30	Confirmado			
+2878	México	M	39	2020-03-28	Confirmado			
+2879	México	M	25	2020-03-16	Confirmado			
+2880	Quintana Roo	M	69	2020-03-25	Confirmado			
+2881	Puebla	M	26	2020-03-10	Confirmado			
+2882	Nuevo León	M	39	2020-03-14	Confirmado			
+2883	Campeche	M	54	2020-03-25	Confirmado			
+2884	Ciudad de México	M	27	2020-03-16	Confirmado			
+2885	Baja California	M	46	2020-03-21	Confirmado			
+2886	Tabasco	F	36	2020-03-29	Confirmado			
+2887	Baja California	F	51	2020-03-18	Confirmado			
+2888	México	M	32	2020-03-13	Confirmado			
+2889	Coahuila	M	45	2020-03-25	Confirmado			
+2890	Puebla	F	44	2020-03-29	Confirmado			
+2891	Baja California	F	48	2020-03-25	Confirmado			
+2892	Sinaloa	M	60	2020-03-25	Confirmado			
+2893	Ciudad de México	M	49	2020-04-02	Confirmado			
+2894	México	F	63	2020-03-19	Confirmado			
+2895	Puebla	M	46	2020-03-30	Confirmado			
+2896	Sinaloa	M	54	2020-03-26	Confirmado			
+2897	Quintana Roo	M	42	2020-03-28	Confirmado			
+2898	Ciudad de México	F	57	2020-03-13	Confirmado			
+2899	Nuevo León	M	31	2020-03-15	Confirmado			
+2900	Zacatecas	M	48	2020-04-02	Confirmado			
+2901	Sonora	M	79	2020-03-31	Confirmado			
+2902	Baja California	F	53	2020-03-20	Confirmado			
+2903	Ciudad de México	M	52	2020-04-02	Confirmado			
+2904	Coahuila	F	38	2020-03-29	Confirmado			
+2905	Jalisco	M	20	2020-03-14	Confirmado			
+2906	Ciudad de México	M	78	2020-03-20	Confirmado			
+2907	México	M	49	2020-03-22	Confirmado			
+2908	Ciudad de México	M	39	2020-03-10	Confirmado			
+2909	Nuevo León	F	59	2020-03-21	Confirmado			
+2910	Guerrero	M	63	2020-03-18	Confirmado			
+2911	Ciudad de México	M	45	2020-03-31	Confirmado			
+2912	Ciudad de México	F	45	2020-03-26	Confirmado			
+2913	Quintana Roo	F	39	2020-03-29	Confirmado			
+2914	México	M	55	2020-04-01	Confirmado			
+2915	Baja California	M	39	2020-03-29	Confirmado			
+2916	Tabasco	M	68	2020-03-19	Confirmado			
+2917	Tabasco	M	32	2020-03-17	Confirmado			
+2918	Tabasco	F	29	2020-03-19	Confirmado			
+2919	Baja California	M	57	2020-04-01	Confirmado			
+2920	Ciudad de México	F	51	2020-03-20	Confirmado			
+2921	Ciudad de México	M	76	2020-03-10	Confirmado			
+2922	Sonora	F	66	2020-03-22	Confirmado			
+2923	Ciudad de México	M	34	2020-03-12	Confirmado			
+2924	Baja California	M	51	2020-03-24	Confirmado			
+2925	Veracruz	F	24	2020-03-22	Confirmado			
+2926	Puebla	M	45	2020-03-21	Confirmado			
+2927	Sinaloa	F	67	2020-04-01	Confirmado			
+2928	Ciudad de México	F	41	2020-04-03	Confirmado			
+2929	Ciudad de México	M	38	2020-03-16	Confirmado			
+2930	Guanajuato	M	16	2020-03-26	Confirmado			
+2931	Guanajuato	M	17	2020-03-24	Confirmado			
+2932	Puebla	F	19	2020-04-01	Confirmado			
+2933	Jalisco	M	73	2020-03-20	Confirmado			
+2934	Queretaro	F	64	2020-04-01	Confirmado			
+2935	Hidalgo	M	79	2020-03-29	Confirmado			
+2936	Hidalgo	F	48	2020-04-01	Confirmado			
+2937	Ciudad de México	F	89	2020-03-30	Confirmado			
+2938	Tabasco	F	51	2020-03-31	Confirmado			
+2939	Nayarit	F	80	2020-03-24	Confirmado			
+2940	Michoacán	F	63	2020-03-31	Confirmado			
+2941	Ciudad de México	F	59	2020-04-02	Confirmado			
+2942	México	F	51	2020-03-30	Confirmado			
+2943	Tlaxcala	F	43	2020-03-28	Confirmado			
+2944	Sinaloa	M	27	2020-03-20	Confirmado			
+2945	Aguascalientes	F	10	2020-03-30	Confirmado			
+2946	Ciudad de México	M	26	2020-03-19	Confirmado			
+2947	Aguascalientes	M	44	2020-03-23	Confirmado			
+2948	Morelos	M	28	2020-04-01	Confirmado			
+2949	Yucatán	M	48	2020-03-29	Confirmado			
+2950	Ciudad de México	M	32	2020-03-26	Confirmado			
+2951	Quintana Roo	M	45	2020-03-20	Confirmado			
+2952	Nuevo León	M	43	2020-03-13	Confirmado			
+2953	Ciudad de México	F	24	2020-04-03	Confirmado			
+2954	Ciudad de México	M	53	2020-03-26	Confirmado			
+2955	Hidalgo	F	49	2020-03-31	Confirmado			
+2956	México	F	39	2020-04-01	Confirmado			
+2957	Jalisco	F	46	2020-03-24	Confirmado			
+2958	Sinaloa	M	84	2020-03-31	Confirmado			
+2959	Jalisco	M	45	2020-03-11	Confirmado			
+2960	Puebla	M	31	2020-03-05	Confirmado			
+2961	Aguascalientes	F	7	2020-03-28	Confirmado			
+2962	Baja California	M	41	2020-03-26	Confirmado			
+2963	Ciudad de México	F	42	2020-03-26	Confirmado			
+2964	Quintana Roo	M	54	2020-03-18	Confirmado			
+2965	Coahuila	M	26	2020-03-26	Confirmado			
+2966	Aguascalientes	F	7	2020-03-24	Confirmado			
+2967	Baja California	M	67	2020-03-28	Confirmado			
+2968	Ciudad de México	F	34	2020-04-02	Confirmado			
+2969	Ciudad de México	M	45	2020-03-30	Confirmado			
+2970	Ciudad de México	M	46	2020-03-17	Confirmado			
+2971	Ciudad de México	F	39	2020-03-25	Confirmado			
+2972	Quintana Roo	F	31	2020-03-18	Confirmado			
+2973	México	F	58	2020-03-23	Confirmado			
+2974	Sinaloa	F	26	2020-03-20	Confirmado			
+2975	Guanajuato	F	76	2020-03-25	Confirmado			
+2976	Veracruz	M	35	2020-03-31	Confirmado			
+2977	Veracruz	M	43	2020-03-31	Confirmado			
+2978	Tabasco	M	48	2020-03-22	Confirmado			
+2979	Chiapas	M	46	2020-03-13	Confirmado			
+2980	Quintana Roo	F	48	2020-03-28	Confirmado			
+2981	Guanajuato	M	38	2020-03-27	Confirmado			
+2982	Ciudad de México	F	73	2020-03-16	Confirmado			
+2983	Baja California	M	30	2020-03-20	Confirmado			
+2984	México	F	88	2020-03-15	Confirmado			
+2985	Ciudad de México	M	41	2020-03-19	Confirmado			
+2986	Guerrero	F	44	2020-03-21	Confirmado			
+2987	Baja California	F	46	2020-03-30	Confirmado			
+2988	Ciudad de México	M	35	2020-03-14	Confirmado			
+2989	Guanajuato	F	21	2020-03-15	Confirmado			
+2990	Puebla	M	47	2020-03-20	Confirmado			
+2991	Sinaloa	M	43	2020-03-25	Confirmado			
+2992	México	F	34	2020-03-10	Confirmado			
+2993	Morelos	F	54	2020-03-29	Confirmado			
+2994	Tlaxcala	M	39	2020-03-16	Confirmado			
+2995	Ciudad de México	M	19	2020-03-26	Confirmado			
+2996	Jalisco	M	42	2020-03-27	Confirmado			
+2997	Ciudad de México	M	53	2020-03-29	Confirmado			
+2998	Campeche	M	19	2020-03-18	Confirmado			
+2999	Puebla	M	85	2020-03-29	Confirmado			
+3000	México	M	37	2020-03-26	Confirmado			
+3001	México	F	57	2020-03-22	Confirmado			
+3002	Puebla	F	50	2020-03-14	Confirmado			
+3003	Jalisco	F	47	2020-03-29	Confirmado			
+3004	Ciudad de México	M	22	2020-03-31	Confirmado			
+3005	Yucatán	F	61	2020-03-10	Confirmado			
+3006	Puebla	F	25	2020-03-28	Confirmado			
+3007	Ciudad de México	F	36	2020-03-09	Confirmado			
+3008	Ciudad de México	F	55	2020-03-25	Confirmado			
+3009	Baja California	F	50	2020-03-23	Confirmado			
+3010	México	M	29	2020-03-29	Confirmado			
+3011	México	M	67	2020-03-21	Confirmado			
+3012	Quintana Roo	M	49	2020-04-04	Confirmado			
+3013	México	M	53	2020-03-28	Confirmado			
+3014	Guerrero	F	38	2020-03-31	Confirmado			
+3015	Ciudad de México	M	36	2020-03-22	Confirmado			
+3016	Ciudad de México	M	37	2020-03-27	Confirmado			
+3017	Hidalgo	M	39	2020-03-30	Confirmado			
+3018	Ciudad de México	M	43	2020-03-21	Confirmado			
+3019	Ciudad de México	M	64	2020-03-31	Confirmado			
+3020	Ciudad de México	F	56	2020-03-26	Confirmado			
+3021	Baja California	M	55	2020-03-25	Confirmado			
+3022	Ciudad de México	M	50	2020-03-20	Confirmado			
+3023	Nuevo León	F	75	2020-03-09	Confirmado			
+3024	Nuevo León	F	81	2020-03-09	Confirmado			
+3025	Ciudad de México	M	50	2020-03-22	Confirmado			
+3026	México	F	57	2020-03-19	Confirmado			
+3027	Ciudad de México	F	48	2020-03-21	Confirmado			
+3028	Ciudad de México	M	25	2020-03-30	Confirmado			
+3029	Chiapas	M	45	2020-03-20	Confirmado			
+3030	Ciudad de México	F	68	2020-03-23	Confirmado			
+3031	Quintana Roo	M	19	2020-03-21	Confirmado			
+3032	Guanajuato	F	56	2020-03-27	Confirmado			
+3033	Nuevo León	M	43	2020-03-16	Confirmado			
+3034	Queretaro	M	35	2020-03-15	Confirmado			
+3035	Baja California	F	39	2020-03-27	Confirmado			
+3036	Ciudad de México	M	37	2020-03-14	Confirmado			
+3037	Baja California	M	57	2020-03-20	Confirmado			
+3038	Ciudad de México	F	77	2020-03-15	Confirmado			
+3039	Sonora	M	68	2020-04-05	Confirmado			
+3040	Tabasco	F	58	2020-03-18	Confirmado			
+3041	Yucatán	M	31	2020-03-17	Confirmado			
+3042	Baja California	F	62	2020-03-22	Confirmado			
+3043	Baja California	F	62	2020-03-25	Confirmado			
+3044	Ciudad de México	F	48	2020-03-31	Confirmado			
+3045	Ciudad de México	M	53	2020-04-04	Confirmado			
+3046	Yucatán	M	31	2020-03-18	Confirmado			
+3047	Guerrero	F	37	2020-03-17	Confirmado			
+3048	Yucatán	F	31	2020-03-18	Confirmado			
+3049	Ciudad de México	F	35	2020-03-28	Confirmado			
+3050	Michoacán	M	63	2020-03-24	Confirmado			
+3051	Michoacán	F	49	2020-04-07	Confirmado			
+3052	Ciudad de México	M	0	2020-04-01	Confirmado			
+3053	México	M	65	2020-03-28	Confirmado			
+3054	Chiapas	M	1	2020-03-25	Confirmado			
+3055	Ciudad de México	F	61	2020-03-16	Confirmado			
+3056	Tamaulipas	M	78	2020-03-31	Confirmado			
+3057	Ciudad de México	M	49	2020-03-15	Confirmado			
+3058	Yucatán	M	37	2020-03-23	Confirmado			
+3059	México	M	28	2020-04-04	Confirmado			
+3060	Puebla	F	32	2020-03-08	Confirmado			
+3061	México	M	60	2020-04-04	Confirmado			
+3062	Ciudad de México	M	30	2020-03-16	Confirmado			
+3063	Sonora	F	58	2020-03-17	Confirmado			
+3064	Baja California	M	19	2020-03-20	Confirmado			
+3065	Baja California	M	21	2020-03-20	Confirmado			
+3066	Ciudad de México	M	66	2020-03-12	Confirmado			
+3067	Puebla	M	54	2020-03-29	Confirmado			
+3068	México	M	28	2020-03-27	Confirmado			
+3069	Baja California	M	51	2020-03-18	Confirmado			
+3070	Ciudad de México	F	34	2020-03-19	Confirmado			
+3071	Ciudad de México	F	34	2020-03-20	Confirmado			
+3072	Ciudad de México	M	31	2020-03-31	Confirmado			
+3073	México	M	41	2020-03-27	Confirmado			
+3074	Sonora	F	57	2020-03-19	Confirmado			
+3075	Coahuila	F	57	2020-03-24	Confirmado			
+3076	Ciudad de México	F	65	2020-03-09	Confirmado			
+3077	Nuevo León	M	33	2020-03-15	Confirmado			
+3078	Quintana Roo	F	22	2020-03-18	Confirmado			
+3079	Sinaloa	M	54	2020-03-28	Confirmado			
+3080	Sinaloa	F	33	2020-03-31	Confirmado			
+3081	Sinaloa	M	35	2020-03-24	Confirmado			
+3082	Yucatán	F	73	2020-03-21	Confirmado			
+3083	Ciudad de México	F	23	2020-03-24	Confirmado			
+3084	Tlaxcala	M	38	2020-03-23	Confirmado			
+3085	Sinaloa	F	25	2020-03-25	Confirmado			
+3086	Baja California Sur	M	40	2020-03-22	Confirmado			
+3087	Quintana Roo	M	46	2020-03-27	Confirmado			
+3088	Ciudad de México	M	46	2020-03-27	Confirmado			
+3089	México	M	18	2020-03-07	Confirmado			
+3090	Tamaulipas	F	33	2020-04-01	Confirmado			
+3091	Chiapas	M	38	2020-03-31	Confirmado			
+3092	Ciudad de México	F	28	2020-04-05	Confirmado			
+3093	Baja California	M	53	2020-03-24	Confirmado			
+3094	Puebla	F	24	2020-03-20	Confirmado			
+3095	Ciudad de México	M	42	2020-03-12	Confirmado			
+3096	Yucatán	M	52	2020-03-27	Confirmado			
+3097	Michoacán	M	46	2020-03-25	Confirmado			
+3098	México	M	73	2020-03-16	Confirmado			
+3099	México	M	27	2020-03-25	Confirmado			
+3100	Ciudad de México	M	77	2020-03-21	Confirmado			
+3101	Morelos	F	35	2020-03-16	Confirmado			
+3102	Hidalgo	M	80	2020-03-29	Confirmado			
+3103	Yucatán	F	40	2020-03-15	Confirmado			
+3104	México	M	30	2020-03-26	Confirmado			
+3105	México	M	26	2020-03-25	Confirmado			
+3106	Sinaloa	F	66	2020-03-29	Confirmado			
+3107	Baja California Sur	M	48	2020-04-01	Confirmado			
+3108	Morelos	M	49	2020-03-26	Confirmado			
+3109	Ciudad de México	M	47	2020-03-16	Confirmado			
+3110	Zacatecas	M	40	2020-03-19	Confirmado			
+3111	Baja California	M	26	2020-03-29	Confirmado			
+3112	Sinaloa	M	54	2020-03-24	Confirmado			
+3113	San Luis Potosí	M	21	2020-03-19	Confirmado			
+3114	México	F	62	2020-03-26	Confirmado			
+3115	Nuevo León	F	58	2020-03-19	Confirmado			
+3116	Ciudad de México	M	45	2020-04-02	Confirmado			
+3117	Quintana Roo	F	68	2020-03-28	Confirmado			
+3118	México	F	27	2020-03-27	Confirmado			
+3119	Ciudad de México	M	29	2020-03-31	Confirmado			
+3120	Nuevo León	M	71	2020-04-07	Confirmado			
+3121	Nuevo León	M	35	2020-03-18	Confirmado			
+3122	Sinaloa	M	56	2020-03-17	Confirmado			
+3123	Sonora	M	27	2020-04-01	Confirmado			
+3124	Ciudad de México	M	37	2020-03-23	Confirmado			
+3125	Baja California Sur	F	29	2020-03-23	Confirmado			
+3126	Hidalgo	M	30	2020-03-23	Confirmado			
+3127	Ciudad de México	F	61	2020-03-13	Confirmado			
+3128	Ciudad de México	F	21	2020-04-06	Confirmado			
+3129	Ciudad de México	M	31	2020-03-29	Confirmado			
+3130	Ciudad de México	M	53	2020-03-22	Confirmado			
+3131	Ciudad de México	M	36	2020-03-25	Confirmado			
+3132	Baja California Sur	M	55	2020-03-25	Confirmado			
+3133	México	M	46	2020-03-13	Confirmado			
+3134	Guerrero	M	33	2020-03-12	Confirmado			
+3135	Ciudad de México	M	36	2020-03-08	Confirmado			
+3136	Puebla	F	50	2020-03-28	Confirmado			
+3137	Puebla	M	32	2020-03-09	Confirmado			
+3138	Veracruz	M	49	2020-03-20	Confirmado			
+3139	Ciudad de México	M	65	2020-03-09	Confirmado			
+3140	Michoacán	M	31	2020-03-22	Confirmado			
+3141	Michoacán	M	72	2020-03-17	Confirmado			
+3142	Ciudad de México	M	33	2020-03-22	Confirmado			
+3143	Quintana Roo	M	63	2020-04-01	Confirmado			
+3144	México	M	47	2020-03-20	Confirmado			
+3145	Ciudad de México	M	42	2020-03-06	Confirmado			
+3146	Puebla	M	28	2020-03-16	Confirmado			
+3147	Ciudad de México	M	52	2020-03-28	Confirmado			
+3148	México	F	52	2020-03-18	Confirmado			
+3149	Tlaxcala	F	25	2020-03-28	Confirmado			
+3150	Baja California Sur	F	46	2020-03-26	Confirmado			
+3151	Nuevo León	M	38	2020-03-24	Confirmado			
+3152	Ciudad de México	F	55	2020-03-28	Confirmado			
+3153	Chihuahua	F	63	2020-03-31	Confirmado			
+3154	Ciudad de México	F	45	2020-03-26	Confirmado			
+3155	Ciudad de México	F	26	2020-03-25	Confirmado			
+3156	Puebla	F	25	2020-03-18	Confirmado			
+3157	Nuevo León	F	27	2020-03-12	Confirmado			
+3158	Ciudad de México	F	67	2020-03-30	Confirmado			
+3159	Chiapas	M	41	2020-03-23	Confirmado			
+3160	Puebla	M	31	2020-03-26	Confirmado			
+3161	Ciudad de México	M	44	2020-03-11	Confirmado			
+3162	Aguascalientes	F	51	2020-03-23	Confirmado			
+3163	Ciudad de México	M	29	2020-03-10	Confirmado			
+3164	Nuevo León	M	23	2020-03-14	Confirmado			
+3165	Coahuila	M	37	2020-03-22	Confirmado			
+3166	Coahuila	M	34	2020-03-22	Confirmado			
+3167	Ciudad de México	M	33	2020-03-11	Confirmado			
+3168	Queretaro	F	66	2020-03-10	Confirmado			
+3169	Chihuahua	F	19	2020-03-15	Confirmado			
+3170	San Luis Potosí	M	35	2020-03-18	Confirmado			
+3171	México	F	44	2020-03-30	Confirmado			
+3172	Quintana Roo	M	46	2020-03-27	Confirmado			
+3173	Nuevo León	M	32	2020-04-02	Confirmado			
+3174	Sinaloa	M	40	2020-04-03	Confirmado			
+3175	Guerrero	M	56	2020-03-23	Confirmado			
+3176	Baja California	F	78	2020-03-18	Confirmado			
+3177	México	M	43	2020-04-02	Confirmado			
+3178	Aguascalientes	M	79	2020-03-26	Confirmado			
+3179	Ciudad de México	F	35	2020-04-03	Confirmado			
+3180	Chihuahua	F	51	2020-03-28	Confirmado			
+3181	México	M	22	2020-03-24	Confirmado			
+3182	Nuevo León	M	34	2020-03-09	Confirmado			
+3183	Puebla	M	34	2020-03-31	Confirmado			
+3184	Michoacán	M	57	2020-03-15	Confirmado			
+3185	Tabasco	M	46	2020-03-31	Confirmado			
+3186	Baja California Sur	M	74	2020-03-24	Confirmado			
+3187	Jalisco	M	47	2020-03-18	Confirmado			
+3188	Ciudad de México	M	66	2020-03-12	Confirmado			
+3189	Quintana Roo	M	31	2020-03-30	Confirmado			
+3190	México	M	52	2020-04-02	Confirmado			
+3191	Baja California	M	30	2020-03-19	Confirmado			
+3192	Ciudad de México	M	52	2020-03-18	Confirmado			
+3193	México	M	43	2020-03-24	Confirmado			
+3194	Ciudad de México	M	57	2020-03-20	Confirmado			
+3195	Ciudad de México	F	28	2020-03-30	Confirmado			
+3196	Puebla	M	37	2020-03-30	Confirmado			
+3197	Queretaro	M	39	2020-03-14	Confirmado			
+3198	Puebla	M	33	2020-03-26	Confirmado			
+3199	Ciudad de México	M	47	2020-03-29	Confirmado			
+3200	Coahuila	M	44	2020-03-28	Confirmado			
+3201	Ciudad de México	M	50	2020-03-27	Confirmado			
+3202	México	F	67	2020-03-18	Confirmado			
+3203	Guanajuato	F	43	2020-03-22	Confirmado			
+3204	Ciudad de México	F	57	2020-03-28	Confirmado			
+3205	San Luis Potosí	F	42	2020-03-27	Confirmado			
+3206	Quintana Roo	M	68	2020-03-31	Confirmado			
+3207	Guanajuato	M	63	2020-03-27	Confirmado			
+3208	Yucatán	M	67	2020-03-29	Confirmado			
+3209	Quintana Roo	M	31	2020-04-01	Confirmado			
+3210	Ciudad de México	M	50	2020-04-01	Confirmado			
+3211	Quintana Roo	M	71	2020-03-31	Confirmado			
+3212	México	M	61	2020-03-09	Confirmado			
+3213	Ciudad de México	M	60	2020-03-09	Confirmado			
+3214	Yucatán	M	37	2020-03-28	Confirmado			
+3215	Ciudad de México	M	53	2020-03-09	Confirmado			
+3216	Ciudad de México	F	33	2020-03-23	Confirmado			
+3217	Yucatán	M	50	2020-04-01	Confirmado			
+3218	Baja California	F	62	2020-03-27	Confirmado			
+3219	Ciudad de México	F	46	2020-03-27	Confirmado			
+3220	Nuevo León	F	40	2020-04-05	Confirmado			
+3221	Puebla	F	25	2020-03-28	Confirmado			
+3222	Baja California	F	61	2020-03-28	Confirmado			
+3223	Ciudad de México	F	49	2020-03-13	Confirmado			
+3224	Sinaloa	M	35	2020-03-12	Confirmado			
+3225	Guanajuato	F	22	2020-03-17	Confirmado			
+3226	Veracruz	M	60	2020-03-25	Confirmado			
+3227	México	F	59	2020-03-24	Confirmado			
+3228	Michoacán	M	33	2020-03-17	Confirmado			
+3229	Puebla	M	78	2020-03-21	Confirmado			
+3230	Yucatán	F	39	2020-04-01	Confirmado			
+3231	México	F	52	2020-03-19	Confirmado			
+3232	Coahuila	M	30	2020-03-17	Confirmado			
+3233	Ciudad de México	F	57	2020-04-02	Confirmado			
+3234	Sinaloa	M	50	2020-03-23	Confirmado			
+3235	Sonora	F	83	2020-03-26	Confirmado			
+3236	Sinaloa	M	53	2020-03-30	Confirmado			
+3237	Zacatecas	F	53	2020-03-09	Confirmado			
+3238	Sinaloa	F	24	2020-03-30	Confirmado			
+3239	México	M	25	2020-03-28	Confirmado			
+3240	Tabasco	F	50	2020-03-31	Confirmado			
+3241	Quintana Roo	M	59	2020-03-28	Confirmado			
+3242	Sonora	F	71	2020-03-28	Confirmado			
+3243	Sonora	F	47	2020-04-01	Confirmado			
+3244	Baja California Sur	M	31	2020-03-28	Confirmado			
+3245	Sinaloa	F	53	2020-03-20	Confirmado			
+3246	Puebla	F	44	2020-03-24	Confirmado			
+3247	Sonora	M	36	2020-04-01	Confirmado			
+3248	México	F	71	2020-04-01	Confirmado			
+3249	Jalisco	M	20	2020-03-16	Confirmado			
+3250	Baja California	F	49	2020-03-16	Confirmado			
+3251	Ciudad de México	M	40	2020-03-22	Confirmado			
+3252	México	F	77	2020-03-20	Confirmado			
+3253	Hidalgo	F	25	2020-03-13	Confirmado			
+3254	Ciudad de México	F	40	2020-04-01	Confirmado			
+3255	Guanajuato	F	52	2020-03-12	Confirmado			
+3256	Puebla	F	25	2020-03-16	Confirmado			
+3257	Quintana Roo	M	31	2020-04-06	Confirmado			
+3258	Puebla	M	65	2020-04-01	Confirmado			
+3259	Colima	F	38	2020-03-28	Confirmado			
+3260	Yucatán	F	66	2020-03-12	Confirmado			
+3261	Tlaxcala	F	39	2020-03-29	Confirmado			
+3262	México	F	69	2020-03-17	Confirmado			
+3263	Ciudad de México	M	32	2020-03-16	Confirmado			
+3264	Morelos	M	38	2020-03-19	Confirmado			
+3265	Durango	M	72	2020-03-19	Confirmado			
+3266	Michoacán	F	26	2020-03-18	Confirmado			
+3267	Nuevo León	M	30	2020-04-03	Confirmado			
+3268	Michoacán	M	65	2020-03-18	Confirmado			
+3269	Ciudad de México	F	45	2020-03-22	Confirmado			
+3270	Ciudad de México	M	40	2020-04-01	Confirmado			
+3271	Quintana Roo	M	35	2020-03-25	Confirmado			
+3272	Ciudad de México	M	33	2020-03-15	Confirmado			
+3273	Durango	M	59	2020-03-06	Confirmado			
+3274	Baja California	F	29	2020-03-27	Confirmado			
+3275	Tabasco	M	23	2020-03-19	Confirmado			
+3276	Puebla	M	73	2020-03-16	Confirmado			
+3277	Ciudad de México	M	20	2020-04-06	Confirmado			
+3278	México	M	29	2020-03-26	Confirmado			
+3279	Puebla	F	30	2020-03-28	Confirmado			
+3280	Nuevo León	M	43	2020-03-19	Confirmado			
+3281	Tabasco	M	60	2020-03-19	Confirmado			
+3282	Hidalgo	M	34	2020-03-30	Confirmado			
+3283	Ciudad de México	M	69	2020-03-19	Confirmado			
+3284	Ciudad de México	F	69	2020-03-19	Confirmado			
+3285	Ciudad de México	F	35	2020-04-03	Confirmado			
+3286	Sinaloa	M	52	2020-03-01	Confirmado			
+3287	Ciudad de México	M	42	2020-03-16	Confirmado			
+3288	Sinaloa	M	76	2020-03-23	Confirmado			
+3289	Puebla	M	42	2020-03-22	Confirmado			
+3290	Baja California	F	85	2020-03-30	Confirmado			
+3291	Ciudad de México	F	62	2020-03-15	Confirmado			
+3292	Coahuila	M	25	2020-03-20	Confirmado			
+3293	Ciudad de México	M	62	2020-03-19	Confirmado			
+3294	Tamaulipas	F	43	2020-04-03	Confirmado			
+3295	Aguascalientes	M	53	2020-03-22	Confirmado			
+3296	Ciudad de México	F	34	2020-03-22	Confirmado			
+3297	Oaxaca	F	33	2020-03-28	Confirmado			
+3298	Jalisco	M	22	2020-03-31	Confirmado			
+3299	Oaxaca	F	22	2020-03-19	Confirmado			
+3300	Baja California Sur	F	27	2020-03-23	Confirmado			
+3301	México	F	48	2020-03-05	Confirmado			
+3302	Nuevo León	M	67	2020-03-21	Confirmado			
+3303	Guanajuato	M	66	2020-03-14	Confirmado			
+3304	Ciudad de México	M	76	2020-03-31	Confirmado			
+3305	Ciudad de México	F	55	2020-04-02	Confirmado			
+3306	Ciudad de México	M	50	2020-03-24	Confirmado			
+3307	Guerrero	M	28	2020-03-24	Confirmado			
+3308	Baja California Sur	M	39	2020-03-28	Confirmado			
+3309	Puebla	F	22	2020-03-23	Confirmado			
+3310	Puebla	F	54	2020-03-29	Confirmado			
+3311	Baja California Sur	M	33	2020-03-29	Confirmado			
+3312	Ciudad de México	M	38	2020-04-04	Confirmado			
+3313	Ciudad de México	M	26	2020-03-31	Confirmado			
+3314	México	M	55	2020-03-30	Confirmado			
+3315	México	F	60	2020-04-01	Confirmado			
+3316	Tabasco	F	29	2020-03-29	Confirmado			
+3317	Tabasco	M	31	2020-03-13	Confirmado			
+3318	Baja California	F	42	2020-03-28	Confirmado			
+3319	Ciudad de México	M	45	2020-03-14	Confirmado			
+3320	México	M	64	2020-03-29	Confirmado			
+3321	Baja California	F	46	2020-03-28	Confirmado			
+3322	Aguascalientes	M	51	2020-03-16	Confirmado			
+3323	Aguascalientes	F	59	2020-03-23	Confirmado			
+3324	Sinaloa	M	33	2020-03-29	Confirmado			
+3325	Baja California	F	42	2020-03-30	Confirmado			
+3326	Baja California	F	37	2020-03-21	Confirmado			
+3327	Jalisco	F	38	2020-03-11	Confirmado			
+3328	Baja California	F	56	2020-03-26	Confirmado			
+3329	México	F	34	2020-03-12	Confirmado			
+3330	Ciudad de México	M	33	2020-03-26	Confirmado			
+3331	México	M	28	2020-03-24	Confirmado			
+3332	Ciudad de México	F	44	2020-03-10	Confirmado			
+3333	Ciudad de México	M	53	2020-03-26	Confirmado			
+3334	Quintana Roo	F	51	2020-03-08	Confirmado			
+3335	México	M	57	2020-03-24	Confirmado			
+3336	Morelos	F	79	2020-04-03	Confirmado			
+3337	Queretaro	M	30	2020-03-16	Confirmado			
+3338	Ciudad de México	F	57	2020-03-04	Confirmado			
+3339	Ciudad de México	F	26	2020-04-05	Confirmado			
+3340	Ciudad de México	M	21	2020-03-30	Confirmado			
+3341	Ciudad de México	M	57	2020-03-28	Confirmado			
+3342	Ciudad de México	M	53	2020-03-28	Confirmado			
+3343	Yucatán	M	38	2020-03-20	Confirmado			
+3344	Baja California	F	66	2020-04-01	Confirmado			
+3345	Yucatán	F	10	2020-03-26	Confirmado			
+3346	Ciudad de México	F	61	2020-04-03	Confirmado			
+3347	Coahuila	M	35	2020-03-22	Confirmado			
+3348	Coahuila	F	37	2020-03-28	Confirmado			
+3349	Nuevo León	M	42	2020-03-10	Confirmado			
+3350	Coahuila	F	35	2020-03-27	Confirmado			
+3351	Jalisco	M	25	2020-03-27	Confirmado			
+3352	Ciudad de México	M	48	2020-03-14	Confirmado			
+3353	Jalisco	M	49	2020-03-29	Confirmado			
+3354	Jalisco	F	13	2020-03-22	Confirmado			
+3355	Jalisco	F	19	2020-03-22	Confirmado			
+3356	Oaxaca	F	39	2020-04-06	Confirmado			
+3357	Michoacán	M	22	2020-04-01	Confirmado			
+3358	Michoacán	M	64	2020-04-05	Confirmado			
+3359	México	F	55	2020-03-14	Confirmado			
+3360	Michoacán	F	50	2020-03-15	Confirmado			
+3361	Aguascalientes	F	50	2020-03-24	Confirmado			
+3362	Jalisco	M	38	2020-03-20	Confirmado			
+3363	Yucatán	F	28	2020-03-30	Confirmado			
+3364	Ciudad de México	M	31	2020-03-13	Confirmado			
+3365	Yucatán	F	52	2020-04-02	Confirmado			
+3366	Nuevo León	M	29	2020-03-14	Confirmado			
+3367	Ciudad de México	M	61	2020-04-01	Confirmado			
+3368	Veracruz	M	40	2020-03-12	Confirmado			
+3369	Jalisco	F	76	2020-03-08	Confirmado			
+3370	Jalisco	M	64	2020-03-14	Confirmado			
+3371	Aguascalientes	M	39	2020-03-18	Confirmado			
+3372	Nuevo León	M	42	2020-03-09	Confirmado			
+3373	México	F	56	2020-03-09	Confirmado			
+3374	Ciudad de México	M	43	2020-03-11	Confirmado			
+3375	Nuevo León	M	22	2020-03-15	Confirmado			
+3376	Tamaulipas	M	56	2020-03-13	Confirmado			
+3377	Tlaxcala	M	37	2020-03-30	Confirmado			
+3378	Ciudad de México	F	72	2020-03-27	Confirmado			
+3379	Yucatán	F	32	2020-03-08	Confirmado			
+3380	México	F	28	2020-03-22	Confirmado			
+3381	Sonora	M	57	2020-03-27	Confirmado			
+3382	Sonora	F	18	2020-03-28	Confirmado			
+3383	Ciudad de México	F	29	2020-03-24	Confirmado			
+3384	Ciudad de México	F	34	2020-03-19	Confirmado			
+3385	México	M	26	2020-03-16	Confirmado			
+3386	Nuevo León	F	48	2020-03-26	Confirmado			
+3387	México	M	46	2020-03-18	Confirmado			
+3388	Ciudad de México	F	56	2020-04-04	Confirmado			
+3389	Michoacán	M	2	2020-03-27	Confirmado			
+3390	Sinaloa	F	35	2020-03-27	Confirmado			
+3391	Puebla	M	25	2020-03-14	Confirmado			
+3392	Puebla	M	57	2020-03-14	Confirmado			
+3393	Aguascalientes	F	44	2020-03-23	Confirmado			
+3394	San Luis Potosí	F	33	2020-03-18	Confirmado			
+3395	Ciudad de México	M	24	2020-02-29	Confirmado			
+3396	Coahuila	F	43	2020-03-27	Confirmado			
+3397	Guanajuato	M	69	2020-03-30	Confirmado			
+3398	Quintana Roo	F	67	2020-03-23	Confirmado			
+3399	Guanajuato	F	38	2020-04-03	Confirmado			
+3400	Sonora	M	22	2020-03-24	Confirmado			
+3401	Michoacán	M	37	2020-03-09	Confirmado			
+3402	Oaxaca	F	57	2020-03-24	Confirmado			
+3403	Ciudad de México	F	31	2020-03-12	Confirmado			
+3404	Ciudad de México	M	51	2020-03-13	Confirmado			
+3405	Ciudad de México	M	44	2020-03-29	Confirmado			
+3406	Ciudad de México	M	11	2020-02-17	Confirmado			
+3407	Jalisco	M	33	2020-03-13	Confirmado			
+3408	Tlaxcala	M	53	2020-03-28	Confirmado			
+3409	Ciudad de México	F	49	2020-03-28	Confirmado			
+3410	Yucatán	F	50	2020-04-04	Confirmado			
+3411	Quintana Roo	M	26	2020-03-27	Confirmado			
+3412	Ciudad de México	F	47	2020-03-25	Confirmado			
+3413	San Luis Potosí	M	39	2020-03-18	Confirmado			
+3414	Ciudad de México	M	52	2020-03-26	Confirmado			
+3415	Guanajuato	M	68	2020-04-01	Confirmado			
+3416	México	M	51	2020-03-24	Confirmado			
+3417	Ciudad de México	M	37	2020-03-31	Confirmado			
+3418	Tlaxcala	M	45	2020-04-02	Confirmado			
+3419	Ciudad de México	F	76	2020-03-26	Confirmado			
+3420	Ciudad de México	F	31	2020-03-07	Confirmado			
+3421	Tabasco	F	50	2020-03-28	Confirmado			
+3422	Guerrero	F	32	2020-03-27	Confirmado			
+3423	Puebla	M	50	2020-04-02	Confirmado			
+3424	Yucatán	F	55	2020-03-11	Confirmado			
+3425	Chiapas	F	19	2020-02-25	Confirmado			
+3426	Tabasco	F	70	2020-03-27	Confirmado			
+3427	Ciudad de México	M	48	2020-03-06	Confirmado			
+3428	Baja California	M	37	2020-03-22	Confirmado			
+3429	Guanajuato	F	42	2020-03-18	Confirmado			
+3430	Ciudad de México	F	38	2020-03-26	Confirmado			
+3431	Baja California	M	54	2020-03-23	Confirmado			
+3432	Tamaulipas	M	57	2020-03-14	Confirmado			
+3433	Aguascalientes	F	58	2020-03-25	Confirmado			
+3434	Ciudad de México	F	37	2020-04-01	Confirmado			
+3435	México	M	61	2020-03-14	Confirmado			
+3436	México	F	28	2020-03-26	Confirmado			
+3437	Ciudad de México	F	62	2020-03-18	Confirmado			
+3438	Campeche	F	32	2020-03-31	Confirmado			
+3439	Puebla	F	66	2020-03-15	Confirmado			
+3440	Jalisco	F	35	2020-03-21	Confirmado			
+3441	Jalisco	M	78	2020-03-20	Confirmado			
