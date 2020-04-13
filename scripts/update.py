@@ -126,6 +126,8 @@ def parse_pdf(file, save_name=False, casos_nuevos=False, exception=False):
     #header = ['num_caso', 'estado', 'sexo', 'edad', 'fecha_inicio_sintomas', 'id_rt-pcr', 'procedencia', 'fecha_llegada_mx']
     # a partir de 2020-04-07
     header = ['num_caso', 'estado', 'sexo', 'edad', 'fecha_inicio_sintomas', 'id_rt-pcr', 'procedencia']
+    # a partir de 2020-04-08
+    header = ['num_caso', 'estado', 'sexo', 'edad', 'fecha_inicio_sintomas', 'id_rt-pcr']
     
     if exception:
         if 'pages' in exception.keys():
@@ -164,7 +166,11 @@ def parse_pdf(file, save_name=False, casos_nuevos=False, exception=False):
     df = pd.concat(tables_list)
     
     # renombrar columnas
-    df.columns = header
+    try:
+        df.columns = header
+    except:
+        print('Found problem with header. Returning parsed df. Step 1.')
+        return df
     
     # actualizar index
     df.set_index('num_caso', inplace=True, verify_integrity=verify_integrity)
@@ -172,15 +178,26 @@ def parse_pdf(file, save_name=False, casos_nuevos=False, exception=False):
 
     # convertir a datetime format
     try:
-        df['fecha_inicio_sintomas'] = pd.to_datetime(df['fecha_inicio_sintomas'], format='%d/%m/%Y')
+        df['fecha_inicio_sintomas'] = pd.to_datetime(df['fecha_inicio_sintomas'], format='%d/%m/%Y', errors='coerce')
     except:
-        pass
+        print('Found problem with date parsing. Returning parsed df. Step 2')
+        return df
+    
     #df['fecha_llegada_mx'] = pd.to_datetime(df['fecha_llegada_mx'], format='%d/%m/%Y')
 
     # limpiar nombres de estados
     df['estado'] = df['estado'].str.title()
     df['estado'] = df['estado'].str.replace('Ciudad De México', 'Ciudad de México')
     df['estado'] = df['estado'].str.replace('"Estados \nUnidos"', 'Estados Unidos')
+    
+    # limpiar sexo
+    df['sexo'] = df['sexo'].str.replace('FEMENINO', 'F')
+    df['sexo'] = df['sexo'].str.replace('MASCULINO', 'M')
+    
+    # agregar columnas legacy
+    df['procedencia'] = [''] * len(df)
+    df['fecha_llegada_mx'] = [''] * len(df)
+    df['casos_nuevos'] = [''] * len(df)
 
     # CASOS NUEVOS
 
