@@ -27,3 +27,4 @@ If you find any error in my data or bug in my code, I would really appreciate kn
 
 ## Sources
 - [Secretaría de Salud: Coronavirus (COVID-19)-Documentos](https://www.gob.mx/salud/documentos/coronavirus-covid-19-comunicado-tecnico-diario-238449)
+- [Directorio de fuentes de datos, repositorios y visualizaciones sobre COVID-19 en México](https://github.com/eduardofv/directorio_covid19_mx)
