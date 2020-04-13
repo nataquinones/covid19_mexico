@@ -1,7 +1,7 @@
 title: COVID19 - MÉXICO
 description: Procesamiento de los datos oficiales de COVID-19 en México
 show_downloads: true
-google_analytics:
+google_analytics: UA-163566194-1
 theme: jekyll-theme-cayman
 github:
   is_project_page: true
