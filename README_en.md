@@ -8,12 +8,9 @@
 The Mexican Ministry of Health (*Secretaría de Salud*) publishes the COVID-19 data as [pfd](/datos/ssalud_pdf/) files. This repo aims to automate the parsing of these documents into [tsv tables](/datos/tablas_originales) to improve data access.
 
 ## Data
-
-> Updated: 2020-04-05
-
 The most recent data file from the Secretaría de Salud can be found here:
-- [Table in `pdf`](/datos/ssalud_pdf/Tabla_casos_positivos_COVID-19_resultado_InDRE_2020.04.05.pdf)
-- [Table in `.tsv`](/datos/tablas_positivos/20200405_positivos.tsv)
+- [Table in `pdf`](/datos/ssalud_pdf/Tabla_casos_positivos_COVID-19_resultado_InDRE_2020.04.07.pdf)
+- [Table in `.tsv`](/datos/tablas_positivos/20200407_positivos.tsv)
 
 >For translation of the headers, see [here](https://github.com/nataquinones/covid19_mexico/blob/master/README_en.md#documentation).
 

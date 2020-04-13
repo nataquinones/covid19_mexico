@@ -9,8 +9,8 @@ La Secretaría de Salud publica la información sobre casos de COVID-19 en Méxi
 
 ## Datos
 El archivo más reciente de la Secretaría de Salud se encuentra aquí:
-- [Tabla en `pdf`](/datos/ssalud_pdf/Tabla_casos_positivos_COVID-19_resultado_InDRE_2020.04.05.pdf)
-- [Tabla en `tsv`](/datos/tablas_positivos/20200405_positivos.tsv)
+- [Tabla en `pdf`](/datos/ssalud_pdf/Tabla_casos_positivos_COVID-19_resultado_InDRE_2020.04.07.pdf)
+- [Tabla en `tsv`](/datos/tablas_positivos/20200407_positivos.tsv)
 
 ## Documentación
 Todos el procesamiento de datos se encuentra en [`ipynb_notebooks/`](https://github.com/nataquinones/covid19_mexico/tree/master/ipynb_notebooks).
